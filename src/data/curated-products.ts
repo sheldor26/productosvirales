@@ -7542,11 +7542,28 @@ No es para vos si entrenás en serio y esperás que te cuente bien las calorías
     },
   },
   {
+    // Swap de vendedor, 2026-11-07: la publicación original (/p/MLA58202122)
+    // da 404 ("Parece que esta página no existe", verificado en vivo,
+    // chequeo diario de productos >$200.000 pedido por Juan). Nueva
+    // publicación del MISMO talle (10) y MISMO modelo exacto (verificado
+    // spec "Talle: 10" en la ficha), vendida por la Tienda Oficial de
+    // Amazfit: MLAU3057849931. Precio prácticamente idéntico ($332.098 vs
+    // $332.099). El `id` del catálogo NO cambia (mismo criterio que el
+    // resto de swaps de esta tabla, ver docs/productos-sin-stock.md), así
+    // que ningún link interno ni token de precio/review de guides.ts
+    // necesita tocarse.
+    // Pendiente de revisión editorial: el `reviewCount` baja de 30 a 9 (es
+    // una publicación más nueva de la tienda oficial) — la prosa de pros/
+    // cons/articleBody que cita el volumen de reseñas no se tocó en este
+    // swap, mismo patrón que los demás swaps de esta tabla. Ojo además:
+    // la nueva publicación mostraba "Últimas 3 unidades" al verificar, así
+    // que puede volver a quedarse sin stock pronto.
+    // permalink viejo: "https://www.mercadolibre.com.ar/p/MLA58202122"
     id: "MLA58202122",
     title: "Anillo Inteligente Amazfit Helio Ring Titanio Talle 10",
     canonicalName: "Amazfit Helio Ring",
     brand: "Amazfit",
-    price: 332099,
+    price: 332098,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_620611-MLA108915566170_032026-O.webp",
     images: [
@@ -7557,19 +7574,19 @@ No es para vos si entrenás en serio y esperás que te cuente bien las calorías
     ],
     category: "Tech",
     categorySlug: "tech",
-    permalink: "https://www.mercadolibre.com.ar/p/MLA58202122",
-    affiliateUrl: "https://meli.la/2R4oGZA",
+    permalink: "https://www.mercadolibre.com.ar/anillo-inteligente-amazfit-helio-ring-ultraligero-375g-fit/up/MLAU3057849931",
+    affiliateUrl: "https://meli.la/285myYw",
     condition: "new",
     freeShipping: false,
-    rating: 4.8,
-    reviewCount: 30,
-    reviewsSampledAt: "2026-08-24",
+    rating: 4.7,
+    reviewCount: 9,
+    reviewsSampledAt: "2026-11-07",
     soldQuantity: 50,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
-    priceUpdated: "2026-09-07",
-    priceLastChecked: "2026-09-28",
-    priceVerifiedAt: "2026-08-24",
+    priceUpdated: "2026-11-07",
+    priceLastChecked: "2026-11-07",
+    priceVerifiedAt: "2026-11-07",
     priceStatus: "fresh",
     seoTitle: "Amazfit Helio Ring: sin suscripción, pero solo 3 talles",
     metaDescription: "Amazfit Helio Ring a {{precio:MLA58202122}}: titanio, 10 ATM y sin suscripción. Solo existe en talles 8, 10 y 12, y la batería real que reporta un comprador.",
@@ -78575,6 +78592,17 @@ Comprá el Forerunner 965 si ya corrés en serio y querés pantalla AMOLED, NFC,
     },
   },
   {
+    // Sin stock, 2026-11-07: "Este producto no está disponible por el
+    // momento", verificado en vivo (chequeo diario de productos >$200.000
+    // pedido por Juan). Búsqueda de "garmin fenix 7 pro zafiro 47mm" en ML
+    // no encontró ningún vendedor Nuevo con el modelo exacto (solo usado,
+    // reacondicionado o importación desde USA) — no aplica swap simple.
+    // Candidato a reemplazo (NO aplicado todavía, requiere ficha nueva
+    // completa): Garmin Fenix 7x Pro Sapphire Solar Fog - Gray - Ember
+    // Orange, iTech Store (tienda oficial, +500 ventas), MLAU4213424860,
+    // $2.389.990 — casi el doble del precio original ($1.257.999), así que
+    // reemplazarlo rompe la escalera de precios de la guía reloj-garmin,
+    // no es un swap directo. Ver docs/productos-sin-stock.md.
     id: "MLA26825857",
     title: "Reloj Gps Garmin Fenix 7 Pro Zafiro 47mm Color de la caja Negro Color del Bisel Negro Diseño de la Correa Quickfit",
     canonicalName: "Garmin Fenix 7 Pro Zafiro 47mm",
@@ -78594,7 +78622,7 @@ Comprá el Forerunner 965 si ya corrés en serio y querés pantalla AMOLED, NFC,
     reviewCount: 58,
     soldQuantity: 3,
     pastelColor: "var(--pastel-purple)",
-    visibility: "normal",
+    visibility: "deprioritized",
     specs: [
       { label: "Marca", value: "Garmin" },
       { label: "Modelo", value: "Fenix 7 Pro Zafiro 47mm" },
@@ -78614,8 +78642,9 @@ Comprá el Forerunner 965 si ya corrés en serio y querés pantalla AMOLED, NFC,
     ],
     relatedProducts: ["MLA44250809", "MLA61667894", "MLA1992866306"],
     priceUpdated: "2026-11-04",
-    priceLastChecked: "2026-11-04",
-    priceStatus: "fresh",
+    priceLastChecked: "2026-11-07",
+    priceVerifiedAt: "2026-11-07",
+    priceStatus: "out_of_stock",
     reviewsSampledAt: "2026-07-27",
     description: "Garmin Fenix 7 Pro Zafiro 47mm: tope de gama multideporte de esta guía, con bisel de titanio, carga solar y hasta 22 días de batería en modo smartwatch. Stock ajustado al momento de verificar.",
     seoTitle: "Garmin Fenix 7 Pro: tope de gama multideporte",
@@ -92864,11 +92893,28 @@ Lo de la altura coincide con lo que dicen los compradores del Andes sin kit: 57 
     ],
   },
   {
+    // Swap de vendedor, 2026-11-07: la publicación original (MLAU3412042507)
+    // se quedó sin stock ("Este producto no está disponible por el momento",
+    // verificado en vivo, chequeo diario de productos >$200.000 pedido por
+    // Juan). Nueva publicación del MISMO modelo exacto (Qutral Patagónica
+    // 9000, horno Sí, grill Sí, verificado spec por spec), vendida
+    // directamente por QUTRAL CALEFACTORES - FABRICA (MercadoLíder,
+    // +1000 ventas) en vez de un revendedor: MLA2076270816. Más barata
+    // ($724.240 vs $912.888) y con mucha más base de reseñas (147 vs 56).
+    // El `id` del catálogo NO cambia (mismo criterio que el resto de swaps
+    // de esta tabla, ver docs/productos-sin-stock.md), así que ningún link
+    // interno ni token de precio/review de guides.ts necesita tocarse.
+    // Pendiente de revisión editorial (no se tocó en este swap): la prosa
+    // de abajo (verdict, cons, articleBody, faq) sigue calculada sobre el
+    // precio y el reviewCount viejos ($98/caloría, "solo 56 opiniones, sin
+    // evidencia acumulada") — ya no son exactos con el precio/reviewCount
+    // nuevos, mismo patrón que los demás swaps de esta tabla.
+    // permalink viejo: "https://www.mercadolibre.com.ar/estufa-qutral-patagonica-9000-con-horno--kit-pared-enlozado/up/MLAU3412042507"
     id: "MLAU3412042507",
     title: "Qutral Patagónica 9000 con Horno y Grill + Kit Pared Enlozado — Estufa a Leña",
     canonicalName: "Qutral Patagónica 9000 con horno",
-    price: 912888,
-    originalPrice: 984000,
+    price: 724240,
+    originalPrice: 823000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_700273-MLA92207117501_092025-O.webp",
     images: [
@@ -92877,12 +92923,12 @@ Lo de la altura coincide con lo que dicen los compradores del Andes sin kit: 57 
     ],
     category: "Calefacción",
     categorySlug: "hogar",
-    permalink: "https://www.mercadolibre.com.ar/estufa-qutral-patagonica-9000-con-horno--kit-pared-enlozado/up/MLAU3412042507",
-    affiliateUrl: "https://meli.la/1DoHy6z",
+    permalink: "https://www.mercadolibre.com.ar/estufa-a-lena-patagonica-9000-con-horno-doble-combustion-eg/p/MLA2076270816",
+    affiliateUrl: "https://meli.la/2Nd7kaV",
     freeShipping: true,
     condition: "new",
-    rating: 4.9,
-    reviewCount: 56,
+    rating: 4.7,
+    reviewCount: 147,
     soldQuantity: 100,
     pastelColor: "var(--pastel-amber)",
     specs: [
@@ -92902,8 +92948,8 @@ Lo de la altura coincide con lo que dicen los compradores del Andes sin kit: 57 
       { label: "Peso", value: "52 kg, sin contar el kit" },
     ],
     relatedProducts: ["MLA35507302", "MLAU3410543565", "MLA34121091", "MLAU162285980"],
-    priceUpdated: "2026-09-14", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    priceUpdated: "2026-11-07", priceLastChecked: "2026-11-07", priceVerifiedAt: "2026-11-07",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-07",
     description: "La única de la comparativa con horno y grill a la vez, y la más alta con 96 cm. Trae el kit de salida incluido. La contra es la cuenta: 9.000 kcal/h por $879.553 la dejan última en precio por caloría.",
     seoTitle: "Qutral Patagónica 9000 con horno y grill: qué pagás",
     metaDescription: "Estufa a leña Qutral Patagónica 9000 con horno, grill y kit de pared a $879.553. La única con grill de la comparativa, y también la que más cuesta por caloría.",
@@ -111772,11 +111818,34 @@ No es para vos si buscás más seguridad mecánica al mejor precio: la Kallay 40
   // ("Apple A16 Bionic"), error desmentido en pros/specs/FAQ.
   // ─────────────────────────────────────────────────────────
   {
+    // Swap de vendedor, 2026-11-07: la publicación original del revendedor
+    // camredtecnology (/up/MLAU5324238070) da 404 ("Parece que esta página
+    // no existe", verificado en vivo, chequeo diario de productos >$200.000
+    // pedido por Juan). GRAN NOTICIA encontrada al buscar reemplazo: Apple
+    // ahora SÍ tiene distribuidor oficial en Argentina para la línea 18
+    // ("Apple Tienda Oficial", "Distribuidor Autorizado") — hasta el
+    // 2026-10-25 (fecha de publicación de esta guía) no existía esa figura.
+    // Nueva publicación: MLA1077872085, misma config (256GB, A20 Pro),
+    // 4.9★/más de 552 reseñas (contra 0 de la publicación de revendedor, tan nueva
+    // que no tenía opiniones propias). Precio similar ($3.649.999 vs
+    // $3.699.000).
+    // El `id` del catálogo NO cambia (mismo criterio que el resto de swaps
+    // de esta tabla, ver docs/productos-sin-stock.md), así que ningún link
+    // interno ni token de precio de guides.ts necesita tocarse.
+    // PENDIENTE DE REVISIÓN EDITORIAL GRANDE (no se tocó en este swap): el
+    // `verdict`/`pros`/`description` de abajo siguen narrando "recién
+    // llegó de la mano de revendedores, sin distribuidor oficial" — ESO YA
+    // NO ES CIERTO y debería reescribirse contando la distribución oficial
+    // nueva, en las 4 fichas de este cluster (Pro 256GB/512GB, Pro Max
+    // 256GB/512GB) y en la guía `iphone-18`. Se corrigió solo el
+    // `metaDescription` (la claim más visible/indexable) para no dejar un
+    // dato falso de cara a Google.
+    // permalink viejo: "https://www.mercadolibre.com.ar/apple-iphone-1-8-pro-256gb-sellados-con-garantia/up/MLAU5324238070"
     id: "MLAU5324238070",
     title: "Apple iPhone 18 Pro 256GB",
     canonicalName: "iPhone 18 Pro",
     brand: "Apple",
-    price: 3699000,
+    price: 3649999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_631647-MLA116920350112_092026-F.webp",
     images: [
@@ -111784,17 +111853,20 @@ No es para vos si buscás más seguridad mecánica al mejor precio: la Kallay 40
     ],
     category: "Tech",
     categorySlug: "tech",
-    permalink: "https://www.mercadolibre.com.ar/apple-iphone-1-8-pro-256gb-sellados-con-garantia/up/MLAU5324238070",
-    affiliateUrl: "https://meli.la/2st2FWE",
+    permalink: "https://www.mercadolibre.com.ar/apple-iphone-18-pro-256-gb-negro-distribuidor-autorizado/p/MLA1077872085",
+    affiliateUrl: "https://meli.la/2FvRD8y",
     condition: "new",
     freeShipping: true,
-    soldQuantity: 1,
-    priceUpdated: "2026-10-25",
-    priceLastChecked: "2026-10-25",
+    rating: 4.9,
+    reviewCount: 552,
+    soldQuantity: 25,
+    priceUpdated: "2026-11-07",
+    priceLastChecked: "2026-11-07",
+    priceVerifiedAt: "2026-11-07",
     priceStatus: "fresh",
     visibility: "normal",
     seoTitle: "iPhone 18 Pro en Argentina: precio, specs reales y stock",
-    metaDescription: "iPhone 18 Pro 256GB a {{precio:MLAU5324238070}} en MercadoLibre. Todavía sin distribuidor oficial de Apple en el país: lo que hay que saber antes de comprarlo.",
+    metaDescription: "iPhone 18 Pro 256GB a {{precio:MLAU5324238070}} en MercadoLibre, vendido por el distribuidor oficial de Apple en Argentina. Specs reales y lo que hay que saber antes de comprarlo.",
     description: "iPhone 18 Pro, 256GB, chip A20 Pro. Comprado hoy en Argentina a través de un revendedor, no de un distribuidor oficial de Apple: la línea 18 recién llegó al país.",
     specs: [
       { label: "Marca", value: "Apple" },
@@ -111867,11 +111939,19 @@ Esta publicación la vende camredtecnology, una tienda con 4.9 estrellas y más 
     },
   },
   {
+    // Swap de vendedor, 2026-11-07: igual caso que MLAU5324238070 (ver
+    // comentario completo ahí) — revendedor original 404, reemplazado por
+    // la publicación oficial de Apple en Argentina: MLA1077855627,
+    // 4.9★/más de 864 reseñas. Precio similar ($4.699.999 vs $4.599.000).
+    // `id` sin cambios. PENDIENTE: verdict/pros/description siguen
+    // narrando "sin distribuidor oficial" — ver nota completa en
+    // MLAU5324238070. Solo se corrigió el metaDescription acá.
+    // permalink viejo: "https://www.mercadolibre.com.ar/apple-iphone-1-8-pro-max-512gb-sellados-con-garantia/up/MLAU5285018599"
     id: "MLAU5285018599",
     title: "Apple iPhone 18 Pro Max 512GB",
     canonicalName: "iPhone 18 Pro Max",
     brand: "Apple",
-    price: 4599000,
+    price: 4699999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_826159-MLA116782566326_092026-F.webp",
     images: [
@@ -111879,19 +111959,20 @@ Esta publicación la vende camredtecnology, una tienda con 4.9 estrellas y más 
     ],
     category: "Tech",
     categorySlug: "tech",
-    permalink: "https://www.mercadolibre.com.ar/apple-iphone-1-8-pro-max-512gb-sellados-con-garantia/up/MLAU5285018599",
-    affiliateUrl: "https://meli.la/2b9rVXL",
+    permalink: "https://www.mercadolibre.com.ar/apple-iphone-18-pro-max-512-gb-glaciar-distribuidor-autorizado/p/MLA1077855627",
+    affiliateUrl: "https://meli.la/346Dxyj",
     condition: "new",
     freeShipping: true,
-    rating: 5.0,
-    reviewCount: 2,
-    soldQuantity: 3,
-    priceUpdated: "2026-10-25",
-    priceLastChecked: "2026-10-25",
+    rating: 4.9,
+    reviewCount: 864,
+    soldQuantity: 5,
+    priceUpdated: "2026-11-07",
+    priceLastChecked: "2026-11-07",
+    priceVerifiedAt: "2026-11-07",
     priceStatus: "fresh",
     visibility: "normal",
     seoTitle: "iPhone 18 Pro Max en Argentina: precio, specs reales y stock",
-    metaDescription: "iPhone 18 Pro Max 512GB a {{precio:MLAU5285018599}} en MercadoLibre, {{rating:MLAU5285018599}}★ en {{reviews:MLAU5285018599}} calificaciones. Todavía sin distribuidor oficial de Apple en el país.",
+    metaDescription: "iPhone 18 Pro Max 512GB a {{precio:MLAU5285018599}} en MercadoLibre, {{rating:MLAU5285018599}}★ en {{reviews:MLAU5285018599}} calificaciones, vendido por el distribuidor oficial de Apple en Argentina.",
     description: "iPhone 18 Pro Max, 512GB, chip A20 Pro. {{rating:MLAU5285018599}} estrellas en {{reviews:MLAU5285018599}} calificaciones. Comprado hoy en Argentina a través de un revendedor, no de un distribuidor oficial de Apple.",
     specs: [
       { label: "Marca", value: "Apple" },
@@ -111989,11 +112070,19 @@ La vende la misma tienda que el Pro de esta comparativa, camredtecnology (4.9 es
   // publicaciones) por no cumplir la misma barra de confianza.
   // ─────────────────────────────────────────────────────────
   {
+    // Swap de vendedor, 2026-11-07: igual caso que MLAU5324238070 (ver
+    // comentario completo ahí) — revendedor original 404, reemplazado por
+    // la publicación oficial de Apple en Argentina: MLA1077872061,
+    // 4.9★/más de 552 reseñas. Precio similar ($4.249.999 vs $4.199.999).
+    // `id` sin cambios. PENDIENTE: description sigue narrando "sin
+    // distribuidor oficial" — ver nota completa en MLAU5324238070. Solo
+    // se corrigió el metaDescription acá.
+    // permalink viejo: "https://www.mercadolibre.com.ar/apple-iphone-1-8-pro-512gb-sellado-con-garantia/up/MLAU5284864525"
     id: "MLAU5284864525",
     title: "Apple iPhone 18 Pro 512GB",
     canonicalName: "iPhone 18 Pro 512GB",
     brand: "Apple",
-    price: 4199999,
+    price: 4249999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_955099-MLA118334866933_092026-F.webp",
     images: [
@@ -112001,19 +112090,20 @@ La vende la misma tienda que el Pro de esta comparativa, camredtecnology (4.9 es
     ],
     category: "Tech",
     categorySlug: "tech",
-    permalink: "https://www.mercadolibre.com.ar/apple-iphone-1-8-pro-512gb-sellado-con-garantia/up/MLAU5284864525",
-    affiliateUrl: "https://meli.la/16yPxZp",
+    permalink: "https://www.mercadolibre.com.ar/apple-iphone-18-pro-512-gb-color-plata-distribuidor-autorizado/p/MLA1077872061",
+    affiliateUrl: "https://meli.la/2JPg3ci",
     condition: "new",
     freeShipping: true,
-    rating: 5.0,
-    reviewCount: 1,
-    soldQuantity: 3,
-    priceUpdated: "2026-10-25",
-    priceLastChecked: "2026-10-25",
+    rating: 4.9,
+    reviewCount: 552,
+    soldQuantity: 5,
+    priceUpdated: "2026-11-07",
+    priceLastChecked: "2026-11-07",
+    priceVerifiedAt: "2026-11-07",
     priceStatus: "fresh",
     visibility: "normal",
     seoTitle: "iPhone 18 Pro 512GB en Argentina: precio y specs reales",
-    metaDescription: "iPhone 18 Pro 512GB a {{precio:MLAU5284864525}} en MercadoLibre, {{rating:MLAU5284864525}}★. La versión de mayor capacidad del Pro, con vendedor verificado.",
+    metaDescription: "iPhone 18 Pro 512GB a {{precio:MLAU5284864525}} en MercadoLibre, {{rating:MLAU5284864525}}★, vendido por el distribuidor oficial de Apple en Argentina.",
     description: "iPhone 18 Pro, 512GB, chip A20 Pro. Calificaciones reales, con un promedio de {{rating:MLAU5284864525}} estrellas. Comprado hoy en Argentina a través de un revendedor, no de un distribuidor oficial de Apple.",
     specs: [
       { label: "Marca", value: "Apple" },
@@ -112096,11 +112186,25 @@ Frente al [iPhone 18 Pro 256GB](/producto/apple-iphone-18-pro-256gb-mlau53242380
     },
   },
   {
+    // Swap de vendedor, 2026-11-07: igual caso que MLAU5324238070 (ver
+    // comentario completo ahí) — revendedor original (tecnoimex) 404,
+    // reemplazado por la publicación oficial de Apple en Argentina:
+    // MLA1077855502, 4.9★/más de 864 reseñas. Precio MÁS BARATO que antes
+    // ($3.999.999 vs $4.789.000) y ahora con precio NORMAL frente al
+    // 512GB (antes esta de 256GB costaba más que la de 512GB, una rareza
+    // de revendedores documentada en metaDescription/guía; con el
+    // distribuidor oficial esa rareza desapareció, 256GB < 512GB como se
+    // espera). `id` sin cambios.
+    // PENDIENTE DE REVISIÓN EDITORIAL GRANDE: la guía `iphone-18` (y la
+    // description de abajo) todavía dan por hecho que no hay distribuidor
+    // oficial y que el 256GB cuesta más que el 512GB — las dos cosas ya NO
+    // son ciertas, ver nota completa en MLAU5324238070.
+    // permalink viejo: "https://www.mercadolibre.com.ar/apple-iphone-1-8-pro-max-256gb-12gb-ram/up/MLAU5585094174"
     id: "MLAU5585094174",
     title: "Apple iPhone 18 Pro Max 256GB",
     canonicalName: "iPhone 18 Pro Max 256GB",
     brand: "Apple",
-    price: 4789000,
+    price: 3999999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_835792-MLA119686016987_102026-F.webp",
     images: [
@@ -112108,17 +112212,21 @@ Frente al [iPhone 18 Pro 256GB](/producto/apple-iphone-18-pro-256gb-mlau53242380
     ],
     category: "Tech",
     categorySlug: "tech",
-    permalink: "https://www.mercadolibre.com.ar/apple-iphone-1-8-pro-max-256gb-12gb-ram/up/MLAU5585094174",
-    affiliateUrl: "https://meli.la/2RJQmi9",
+    permalink: "https://www.mercadolibre.com.ar/apple-iphone-18-pro-max-256-gb-negro-distribuidor-autorizado/p/MLA1077855502",
+    affiliateUrl: "https://meli.la/16WTxaZ",
     condition: "new",
     freeShipping: true,
-    priceUpdated: "2026-10-25",
-    priceLastChecked: "2026-10-25",
+    rating: 4.9,
+    reviewCount: 864,
+    soldQuantity: 25,
+    priceUpdated: "2026-11-07",
+    priceLastChecked: "2026-11-07",
+    priceVerifiedAt: "2026-11-07",
     priceStatus: "fresh",
     visibility: "normal",
     seoTitle: "iPhone 18 Pro Max 256GB en Argentina: precio y specs reales",
-    metaDescription: "iPhone 18 Pro Max 256GB a {{precio:MLAU5585094174}} en MercadoLibre. Ojo: hoy cuesta más que la versión de 512GB de otro vendedor, te lo contamos de frente.",
-    description: "iPhone 18 Pro Max, 256GB, chip A20 Pro. Comprado hoy en Argentina a través de un revendedor, no de un distribuidor oficial de Apple.",
+    metaDescription: "iPhone 18 Pro Max 256GB a {{precio:MLAU5585094174}} en MercadoLibre, vendido por el distribuidor oficial de Apple en Argentina.",
+    description: "iPhone 18 Pro Max, 256GB, chip A20 Pro, vendido por el distribuidor oficial de Apple en Argentina.",
     specs: [
       { label: "Marca", value: "Apple" },
       { label: "Modelo", value: "iPhone 18 Pro Max" },

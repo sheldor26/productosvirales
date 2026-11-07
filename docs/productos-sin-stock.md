@@ -106,6 +106,51 @@ descartó explícitamente reautorizarla. Si alguna vez esos scripts empiezan a a
 nota se actualiza — hasta entonces, verificación puntual es siempre Chrome logueado
 (`mcp__claude-in-chrome`, no el navegador sandbox, que ML bloquea).
 
+### Chequeo diario de productos caros (>$200.000), pedido por Juan el 2026-11-07
+
+Juan pidió chequear **todos los días** el stock de los productos más caros del catálogo
+(precio > $200.000 en `curated-products.ts`, visibility `normal`: 319 productos al armar esto).
+Explícitamente pidió que sea **con su Chrome real**, no con Bright Data ni con la API oficial.
+Mecánica (la misma de arriba, aplicada al universo completo de >$200k en vez de solo a lo más
+clickeado):
+
+1. `node scripts/list-productos-caros.cjs` arma la lista filtrada (`price > 200000 && visibility
+   === "normal"`) y la imprime lista para pegar: `window.__productos` (mismo origen, `/p/MLA...`
+   o `/up/MLAU...` según el `permalink` real, nunca por el prefijo del id) y `window.__articulos`
+   (los de `articulo.mercadolibre.com.ar`, otro subdominio, van aparte — no cubiertos todavía por
+   el loop del paso 2).
+2. Desde una pestaña de mercadolibre.com.ar ya logueada (Chrome de Juan), pegar ese bloque y
+   lanzar el loop de `fetch` **sin `await` en el nivel superior** (guardar
+   en `window.__RES` y consultar después con otra llamada — un solo `evaluate` largo puede colgar
+   la pestaña 45s). Concurrencia de ~12 anduvo bien: 308 productos en ~30s, 0 errores, sin
+   reCAPTCHA.
+3. Clasificar cada resultado: `status 404` (página eliminada), `noDisp` con "Elige otra variante"
+   (redirigido a otro producto, no necesariamente sin stock) o sin esa frase (sin stock real),
+   `sin precio` (revisar a mano, puede ser preventa agotada — ver GTA VI abajo).
+4. Para cada caso confirmado, seguir la REGLA del 2026-10-31 de arriba: swap de vendedor primero,
+   deprioritize + reemplazo recién si no hay nada del mismo modelo.
+
+**Primera corrida (2026-11-07, 308 de 319 — faltaron 11 del tipo `articulo.mercadolibre.com.ar`,
+otro subdominio, no cubiertos por este método todavía):** 26 con alguna señal, de los cuales:
+- **3 confirmados sin stock real** (ver tabla de swaps/seguimiento arriba): Qutral Patagónica 9000
+  (swap), Amazfit Helio Ring (swap), Garmin Fenix 7 Pro (sin swap posible, deprioritized).
+- **5 confirmados 404**, los 4 iPhone 18 Pro/Pro Max (swap a distribuidor oficial de Apple, ver
+  tabla arriba) + Amazfit Helio Ring (ya contado arriba).
+- **18 redirigidos a "otra variante"**: no se revisaron specs uno por uno en esta corrida por
+  tiempo — quedan pendientes para la próxima pasada. IDs: MLA62879003, MLA46518777, MLA18258523,
+  MLA40731408, MLA35330493, MLA56215513, MLA44945188, MLA68738252, MLA46258064, MLA38827156,
+  MLA53272904, MLA75635667, MLA50200098, MLA36014732, MLA60693763, MLA57256006, MLA66213768,
+  MLA75732137.
+- **1 caso especial, sin acción**: Grand Theft Auto VI caja física (MLA74108173) — no es "sin
+  stock", es una **preventa agotada** ("Producto agotado... lanzamiento 12/11"). Se espera que
+  reponga stock solo cuando salga el juego; no aplica swap (nada más vende el mismo juego antes
+  del lanzamiento). Sin cambios al catálogo.
+
+**Cadencia real:** este chequeo necesita el Chrome real de Juan conectado a una sesión activa de
+Claude Code — no puede correr desapercibido en segundo plano como el workflow de Bright Data.
+Juan pidió que se corra **al arrancar cada sesión** de trabajo en este repo, no como cron
+desatendido.
+
 **Cuándo agregar una fila nueva:** cada vez que se marque un producto `deprioritized` por falta
 de stock real (no por rechazo del programa de afiliados, no por otra razón — esas van a
 `docs/productos-backlog.md` con su propia nota). Completar todas las columnas, incluida "guías
@@ -131,6 +176,9 @@ X), para no tener que releer el diff de guides.ts para recordar el estado.
 
 | Bicicleta Eléctrica Plegable Rango (Worker Plus) | MLA65095687 (item MLA2824707868) | swap desde 2026-10-31, 4.9★ +50 vendidos, $1.350.000 | Original MLA47150419 | "no está disponible. Elige otra variante", verificado en vivo. **Swap con reserva**: el nuevo listing no dice literalmente "Worker Plus" en el título (dice "Con Acelerador Aut50km Negro", color distinto), mismo rubro/marca (Rango, plegable, acelerador, 50km declarados) pero no se confirmó que sea el sub-modelo exacto que los `specs` de la ficha declaran ("Modelo: Worker Plus"). Pendiente verificar specs 1:1. | 2026-10-31 (recién hecho) |
 | Smartwatch Samsung Galaxy Watch7 44mm (color verde/zafiro) | MLA37897247 (item en starcomputacion) | swap desde 2026-11-02, starcomputacion, +1000 ventas, 4.9★/11.795, $529.999 | Original MLA38058572 (color verde) | "no está disponible. Elige otra variante", verificado en vivo. **Swap con reserva, de color**: se probaron 2 alternativas que SÍ mantenían el verde (MLA38058538 de GAVINNOO — 0 ventas, última unidad; y MLA58118648 "Verde Oscuro" de NATALIASOLEDADATENCIO — bisel DLC, posible sub-modelo distinto) pero ninguna de las dos generó link en el linkbuilder ("Este producto no cumple con los requisitos del Programa de afiliados"). Se optó por esta ficha **plateada** (sí genera link, stock real, vendedor establecido) porque fue la única opción viable con afiliación activa. Título, fotos y `pastelColor` de la ficha ya se actualizaron a plateado para no mostrar fotos verdes de un producto que llega plateado; el resto de specs/descripción no mencionaba color y sigue siendo preciso. `rating`/`reviewCount` (4.9★/11.795) son prácticamente los mismos que ya tenía (11.833) — reseñas compartidas a nivel de catálogo, sin drift real. Pendiente: revertir a verde si esa variante vuelve a stock con un vendedor afiliado. | 2026-11-02 (recién hecho) |
+| Estufa a Leña Qutral Patagónica 9000 con horno | MLAU3412042507 (item MLA2076270816) | swap desde 2026-11-07, QUTRAL CALEFACTORES - FABRICA (MercadoLíder, +1000 ventas), 4.7★/147, $724.240 | Original MLAU3412042507 (mismo id, otra publicación) | "no está disponible por el momento", verificado en vivo (chequeo diario de productos >$200.000, fetch en lote desde el Chrome de Juan, ver `scratch/` de la sesión). Spec por spec: horno Sí, grill Sí, mismo modelo exacto, vendido directo por el fabricante. Más barata que la original ($724.240 vs $912.888) y con mucha más base de reseñas (147 vs 56). Pendiente de revisión editorial: la prosa de la ficha (verdict/cons/articleBody/faq) sigue calculada sobre el precio y reviewCount viejos ($98/caloría, "solo 56 opiniones, sin evidencia acumulada") — ya no son exactos. | 2026-11-07 (recién hecho) |
+| Anillo Inteligente Amazfit Helio Ring Titanio Talle 10 | MLA58202122 (item MLAU3057849931) | swap desde 2026-11-07, Tienda Oficial Amazfit, 4.7★/9, $332.098 | Original MLA58202122 (mismo id, otra publicación, daba 404) | "Parece que esta página no existe", verificado en vivo. Mismo talle (10) y modelo exacto confirmado en la ficha nueva. Precio casi idéntico ($332.098 vs $332.099). Ojo: la nueva publicación mostraba "Últimas 3 unidades" al verificar. `reviewCount` baja de 30 a 9 (publicación más nueva) — pendiente de revisión editorial en la prosa que cita el volumen de reseñas. | 2026-11-07 (recién hecho) |
+| iPhone 18 Pro 256GB / 512GB / Pro Max 256GB / 512GB (4 SKUs) | MLAU5324238070, MLAU5284864525, MLAU5285018599, MLAU5585094174 (mismos ids, otras publicaciones) | swap desde 2026-11-07, **distribuidor oficial de Apple en Argentina** (Apple Tienda Oficial), 4.9★/552-864 reseñas cada uno | Originales: revendedores camredtecnology/tecnoimex, los 4 daban 404 | Los 4 daban "Parece que esta página no existe" (chequeo diario >$200.000). **Hallazgo grande al buscar reemplazo**: Apple ahora tiene distribuidor oficial en ML Argentina para la línea 18 (no existía hasta ahora) — se encontraron los 4 SKUs exactos del lado oficial, con cientos de reseñas reales cada uno (vs. 0-2 de los revendedores). Se hizo el swap de los 4 + se corrigieron los claims más visibles de la guía `iphone-18` (directAnswer, callout, standfirst, intro, warning de precio, trust-block, tabla de vendedores, 2 FAQ) que decían "sin distribuidor oficial" / "revendedores" — **PENDIENTE: una pasada editorial completa de la guía** (quedan menciones sueltas de "camredtecnology"/"tecnoimex" en prosa de fichas individuales que no se tocaron, cubiertas por un disclaimer en el trust-block). También se resolvió solo: el Pro Max 256GB ya NO cuesta más que el de 512GB (la "rareza de revendedores" que la guía documentaba desapareció con el distribuidor oficial). | 2026-11-07 (recién hecho) |
 
 **Pendientes del chequeo del 2026-10-31 (todavía sin resolver, no son swaps limpios):**
 
@@ -192,6 +240,7 @@ Las 3 fichas nuevas siguen el proceso completo de `docs/fichas.md`: ficha técni
 | Bicicleta Fija Spinning LEVELFIT Levspi200 | MLA62445462 | 2026-11-06 | "Este producto no está disponible. Elige otra variante." en ML. Búsqueda del modelo exacto (Levspi200) no encontró ningún vendedor: la línea LEVELFIT actual pasó a Levmag200/Levspi300/Levspi400, modelos distintos, sin sucesor declarado. Verificado en vivo (Chrome logueado, parte del pedido de Juan de profundizar el silo fitness: "mejorarlo, profundizarlo, dar más variedad"). | `bicicleta-fija` (guía pilar, silo fitness): **reemplazada** en el puesto "la que más peso soporta" por la Bicicleta Fija Spinning Energy Fit (`MLA21651867`, ficha nueva, 300 kg soportados contra los 150 kg de la reemplazada, +5mil vendidos — la más vendida de toda la categoría spinning del sitio, 4.7★/1097 calificaciones). Como la nueva no comparte el defecto de asiento bajo de la LEVELFIT, el callout de advertencia de la guía se reescribió por completo (ahora avisa que la app LFIT viene en chino de entrada). directAnswer, quickPicks, tabla, ranking (H3 2), "cómo elegir", lista de precios, veredicto y 3 FAQ actualizados. Ficha vieja marcada `visibility: deprioritized`, `priceStatus: out_of_stock`, se conserva íntegra. `relatedProducts` de NICTOM/Body Skull/Alpina actualizados al nuevo ID. | 2026-11-06 (recién marcado) |
 | Mancuerna Hexagonal High Performance 10 kg | MLA43766711 | 2026-11-06 | "Este producto no está disponible. Elige otra variante." en ML. Búsqueda de "High Performance" mancuerna hexagonal no encontró ningún vendedor con el modelo exacto. Verificado en vivo. | `mancuernas` (guía pilar, silo fitness): **reemplazada** en el puesto "la mejor calificada, por unidad" por la Mancuerna Hexagonal G-Fitness 10 kg (`MLA26893967`, ficha nueva, 5.0★/273 calificaciones — nota perfecta, la más alta de las 4 de la guía, +1000 vendidos, tienda oficial). Mismo formato de venta (por unidad, no por par), así que el ángulo editorial de la guía ("ojo con por unidad vs por par") se mantuvo intacto, solo cambiaron marca y números. directAnswer, quickPicks, callout, tabla, ranking (H3 3), "cómo elegir", lista de precios, veredicto y 3 FAQ actualizados. Ficha vieja marcada `visibility: deprioritized`, `priceStatus: out_of_stock`, se conserva íntegra. `relatedProducts` de DeporAr/BS Fit/Fitnesas actualizados al nuevo ID. | 2026-11-06 (recién marcado) |
 | Pesa Rusa Vera 16kg PVC | MLAU264994773 | 2026-11-06 | "Este producto no está disponible. Elige otra variante." en ML. Búsqueda de Vera 16kg confirmó que la marca solo tiene kits de 6kg/8kg activos hoy, no el 16kg standalone. Verificado en vivo. | `pesa-rusa` (guía pilar, silo fitness): **reemplazada** en el puesto de peso intermedio por la Kettlebell FM-Todo Pesas 16kg (`MLA44439259`, ficha nueva, 5.0★/17 calificaciones, hierro fundido). Cambio de eje importante: la Vera reemplazada era PVC, la FM-Todo es hierro fundido — eso convierte la guía de "dos PVC + una fundición" a "una PVC + dos fundición", así que se reescribió el callout de materiales, el párrafo de "material y formato" y la tabla comparativa, no solo el nombre. Se renombró el pick de "marca reconocida" a "la intermedia" (FM-Todo no tiene el mismo perfil de marca oficial que Vera). directAnswer, quickPicks, callout, tabla, ranking (H3 3), "cuál elegir", veredicto y 1 FAQ actualizados. Ficha vieja marcada `visibility: deprioritized`, se conserva íntegra. `relatedProducts` de Sport Maniac/G-Fitness/Alpina actualizados al nuevo ID. | 2026-11-06 (recién marcado) |
+| Reloj GPS Garmin Fenix 7 Pro Zafiro 47mm | MLA26825857 | 2026-11-07 | "Este producto no está disponible por el momento" en ML, verificado en vivo (chequeo diario de productos >$200.000). Búsqueda de "garmin fenix 7 pro zafiro 47mm" en ML: solo usado, reacondicionado o importación desde USA — ningún vendedor Nuevo con el modelo exacto. No aplica swap simple. | `reloj-garmin` (guía pilar, silo tech): **NO reemplazada todavía** (requiere ficha nueva completa, no un swap). Se actualizó el warning existente, el product-card, 2 párrafos y 1 FAQ para avisar honestamente que está sin stock, dejando la ficha como referencia (sin tocar directAnswer/standfirst/tabla/precios/verdict, que todavía la dan por comprable — pendiente). Candidato de reemplazo encontrado pero NO aplicado: Garmin Fenix 7X Pro Sapphire Solar (iTech Store, tienda oficial, MLAU4213424860, $2.389.990) — casi el doble del precio original ($1.257.999), rompe la escalera de precios de la guía, necesita evaluarse como reemplazo de rol en vez de swap directo. | 2026-11-07 (recién marcado) |
 
 ## Fichas standalone deprioritized por otras razones (no son "sin stock", no siguen esta rutina)
 

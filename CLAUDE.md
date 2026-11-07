@@ -45,6 +45,10 @@ node scripts/check-price-guard.cjs           # verifica la proteccion de precios
 
 No existe `npm test`: la verificación es `npm run build` (tipos) + revisar en `npm run dev`.
 
+## Al arrancar una sesión
+
+- **Chequeo diario de stock de productos caros (>$200.000), pedido por Juan el 2026-11-07.** Correrlo proactivamente con el Chrome real de Juan (no Bright Data, no la API oficial — está bloqueada 401) apenas arranca la sesión, una vez por sesión/día. Mecánica completa, resultados de la primera corrida y REGLA de swap-primero en `docs/productos-sin-stock.md` (sección "Chequeo diario de productos caros").
+
 ## Cómo trabajar en este repo
 
 - Cambios chicos: editar el archivo y `npm run lint && npm run build` antes de cerrar.
