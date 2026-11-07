@@ -151,6 +151,14 @@ Claude Code — no puede correr desapercibido en segundo plano como el workflow 
 Juan pidió que se corra **al arrancar cada sesión** de trabajo en este repo, no como cron
 desatendido.
 
+**Aviso (decidido 2026-11-07, "un link sin stock = no comisión"):** Juan evaluó sumar una
+alarma automática de fondo con Bright Data (corre sola, sin sesión abierta) pero **la descartó**:
+prefiere mantener todo el chequeo Chrome-only, aunque eso signifique que solo se entera cuando
+hay una sesión abierta. A cambio, pidió que el aviso sea **inmediato y prominente dentro del
+chat**, no un canal aparte (ni WhatsApp ni Telegram) y no algo que se mencione recién al cierre
+de la sesión. Regla operativa: si el chequeo encuentra algo sin stock o 404, se lo cuento a Juan
+**de entrada**, como lo primero del mensaje, antes de seguir con cualquier otra cosa.
+
 **Cuándo agregar una fila nueva:** cada vez que se marque un producto `deprioritized` por falta
 de stock real (no por rechazo del programa de afiliados, no por otra razón — esas van a
 `docs/productos-backlog.md` con su propia nota). Completar todas las columnas, incluida "guías

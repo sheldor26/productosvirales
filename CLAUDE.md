@@ -47,7 +47,7 @@ No existe `npm test`: la verificación es `npm run build` (tipos) + revisar en `
 
 ## Al arrancar una sesión
 
-- **Chequeo diario de stock de productos caros (>$200.000), pedido por Juan el 2026-11-07.** Correrlo proactivamente con el Chrome real de Juan (no Bright Data, no la API oficial — está bloqueada 401) apenas arranca la sesión, una vez por sesión/día. Mecánica completa, resultados de la primera corrida y REGLA de swap-primero en `docs/productos-sin-stock.md` (sección "Chequeo diario de productos caros").
+- **Chequeo diario de stock de productos caros (>$200.000), pedido por Juan el 2026-11-07.** Correrlo proactivamente con el Chrome real de Juan (no Bright Data, no la API oficial — está bloqueada 401) apenas arranca la sesión, una vez por sesión/día. **Si encuentra algo sin stock o 404, avisarle a Juan de entrada, como lo primero del mensaje — no esperar al final de la sesión ni mezclarlo con otro tema.** Mecánica completa, resultados de la primera corrida y REGLA de swap-primero en `docs/productos-sin-stock.md` (sección "Chequeo diario de productos caros").
 
 ## Cómo trabajar en este repo
 
