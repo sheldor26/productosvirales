@@ -136,11 +136,20 @@ otro subdominio, no cubiertos por este método todavía):** 26 con alguna señal
   (swap), Amazfit Helio Ring (swap), Garmin Fenix 7 Pro (sin swap posible, deprioritized).
 - **5 confirmados 404**, los 4 iPhone 18 Pro/Pro Max (swap a distribuidor oficial de Apple, ver
   tabla arriba) + Amazfit Helio Ring (ya contado arriba).
-- **18 redirigidos a "otra variante"**: no se revisaron specs uno por uno en esta corrida por
-  tiempo — quedan pendientes para la próxima pasada. IDs: MLA62879003, MLA46518777, MLA18258523,
-  MLA40731408, MLA35330493, MLA56215513, MLA44945188, MLA68738252, MLA46258064, MLA38827156,
-  MLA53272904, MLA75635667, MLA50200098, MLA36014732, MLA60693763, MLA57256006, MLA66213768,
-  MLA75732137.
+- **18 redirigidos a "otra variante" — revisados el 2026-11-07, los 18 OK, sin acción.**
+  Se comparó el `og:title` de la página catálogo contra el `canonicalName` guardado para cada
+  uno: los 18 títulos coinciden con el producto esperado (marca, modelo y hasta color/talle),
+  sin drift a un modelo distinto. La causa real del mensaje "elige otra variante" acá no es que
+  el catálogo se haya fusionado con otro producto: es que la página pide elegir color/tamaño
+  antes de mostrar precio (`"price":{"state":"HIDDEN"}` en el HTML hasta que se elige variante),
+  así que el regex del chequeo masivo no encontraba un precio y lo marcaba como sospechoso. Las
+  18 fichas siguen vendiendo el mismo producto. Verificado en vivo además uno a mano (Litera
+  Beepaw Rock-e, MLA68738252): color Blanco, +100 vendidos, 4.7★/83, con stock real — el precio
+  subió de $539.999 a $589.000 (+9%, suba real, no error), queda para el próximo chequeo
+  automático de precios (lun/mié/vie) actualizarlo. IDs verificados: MLA62879003, MLA46518777,
+  MLA18258523, MLA40731408, MLA35330493, MLA56215513, MLA44945188, MLA68738252, MLA46258064,
+  MLA38827156, MLA53272904, MLA75635667, MLA50200098, MLA36014732, MLA60693763, MLA57256006,
+  MLA66213768, MLA75732137.
 - **1 caso especial, sin acción**: Grand Theft Auto VI caja física (MLA74108173) — no es "sin
   stock", es una **preventa agotada** ("Producto agotado... lanzamiento 12/11"). Se espera que
   reponga stock solo cuando salga el juego; no aplica swap (nada más vende el mismo juego antes
