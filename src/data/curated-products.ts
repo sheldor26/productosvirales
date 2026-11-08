@@ -9464,8 +9464,8 @@ A $629.999 con 4.8 estrellas en {{reviews:MLA43960787}} calificaciones, es la pu
     title: "Monitor Gamer Gigabyte GS34WQC 34 Curvo UWQHD",
     canonicalName: "Monitor Gigabyte GS34WQC 34 Ultrawide Curvo",
     brand: "Gigabyte",
-    price: 891972,
-    originalPrice: 1099999,
+    price: 799999,
+    originalPrice: 999999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_699006-MLA99442569860_112025-F.jpg",
     images: [
@@ -9474,8 +9474,22 @@ A $629.999 con 4.8 estrellas en {{reviews:MLA43960787}} calificaciones, es la pu
     ],
     category: "Gaming",
     categorySlug: "gaming",
-    permalink: "https://www.mercadolibre.com.ar/p/MLA28853185",
-    affiliateUrl: "https://meli.la/2VotvC2",
+    // Swap de vendedor CON RESERVA, 2026-11-08: la publicación original
+    // (MLA28853185, GS34WQC) quedó sin stock ("Este producto no está disponible
+    // por el momento", verificado en vivo en el chequeo diario de productos
+    // >$200.000). Reemplazo: Gigabyte GS34WQCA (MLA57658338), nuevo, Tienda
+    // oficial ARMYTECH (+10 mil ventas), 4.9★ con 8 opiniones, 12 meses de
+    // garantía, $799.999. Mismas specs que declara la ficha: 34" VA UWQHD
+    // 3440x1440, 120 Hz, 1 ms GTG/MPRT, curvatura 1500R, altura ajustable.
+    // RESERVA: el sufijo "A" es otro submodelo (no es el GS34WQC exacto) y no se
+    // confirmó en la ficha nueva el overclock a 135 Hz, HDR ni FreeSync Premium.
+    // Las reseñas (rating/reviewCount/pros/cons) siguen siendo las de la
+    // publicación vieja: deuda editorial pendiente. Si la original vuelve a
+    // stock, volver a ella. Ver docs/productos-sin-stock.md.
+    // permalink viejo: "https://www.mercadolibre.com.ar/p/MLA28853185"
+    // affiliateUrl viejo: "https://meli.la/2VotvC2"
+    permalink: "https://www.mercadolibre.com.ar/p/MLA57658338",
+    affiliateUrl: "https://meli.la/1po7w8y",
     condition: "new",
     freeShipping: true,
     rating: 4.9,
@@ -9582,9 +9596,9 @@ A $919.599 con 4.9 estrellas en {{reviews:MLA28853185}} calificaciones, es el ul
       brand: { "@type": "Brand", name: "Gigabyte" },
       offers: {
         "@type": "Offer",
-        url: "https://meli.la/2VotvC2",
+        url: "https://meli.la/1po7w8y",
         priceCurrency: "ARS",
-        price: 919599,
+        price: 799999,
         availability: "https://schema.org/InStock",
         itemCondition: "https://schema.org/NewCondition",
         seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
@@ -9596,8 +9610,9 @@ A $919.599 con 4.9 estrellas en {{reviews:MLA28853185}} calificaciones, es el ul
       },
     },
     relatedProducts: ["MLA43960787", "MLA43960827"],
-    priceUpdated: "2026-08-31",
-    priceLastChecked: "2026-09-28",
+    priceUpdated: "2026-11-08",
+    priceLastChecked: "2026-11-08",
+    priceVerifiedAt: "2026-11-08",
     priceStatus: "fresh",
     description: "Monitor Gigabyte GS34WQC de 34 pulgadas ultrawide curvo: 3440x1440 a 120 Hz (135 con overclock), 1 ms MPRT, FreeSync Premium y pie con altura regulable. La alternativa de marca gamer especializada al Xiaomi, con la mejor valoración de los ultrawide (4.9 en más de 120 opiniones).",
   },
@@ -33054,9 +33069,22 @@ El paso natural arriba del HY300: más brillo declarado, hasta 150 pulgadas y la
     ogTitle: "Gadnic HY-500 Pro — el único que declara lúmenes ANSI",
     ogDescription: "200 ANSI declarados, enfoque automático, rotación 270° y marca local con garantía. El análisis honesto: resolución nativa 720p y Netflix con vueltas.",
     price: 210499,
+    // Sin stock, 2026-11-08: "Este producto no está disponible. Elige otra
+    // variante." sin selector de variantes, sin precio y sin botón de compra
+    // (verificado en vivo, chequeo diario de productos >$200.000; el 6/11 todavía
+    // tenía precio $210.499). Búsqueda del modelo exacto (Gadnic HY-500 Pro,
+    // PROJ097W) en ML: solo 2 publicaciones y las dos son USADAS de particulares
+    // (MLAU4419931687, $195.000, vendedora con 3 ventas y sin garantía;
+    // MLAU5428553045, $190.000) — no sirven como swap de un producto nuevo.
+    // Si vuelve a haber una publicación Nueva con stock, hacer el swap y volver
+    // a visibility "normal". La guía proyector-portatil todavía lo trata como
+    // comprable en el texto: pendiente de revisión editorial.
+    // Ver docs/productos-sin-stock.md.
     priceUpdated: "2026-11-06",
-    priceLastChecked: "2026-11-06",
-    priceStatus: "fresh",
+    priceLastChecked: "2026-11-08",
+    priceStatus: "out_of_stock",
+    priceVerifiedAt: "2026-11-08",
+    visibility: "deprioritized",
     originalPrice: undefined,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_664448-MLA101666539436_122025-F.webp',

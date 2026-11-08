@@ -3471,7 +3471,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: `8. Gigabyte GS34WQC 34" — el ultrawide de marca gamer` },
       { type: "product-card", productMlaId: "MLA28853185", label: "Ultrawide de marca gamer", labelColor: "purple", ranking: 8, description: `34 pulgadas panorámico curvo 1500R, 3440x1440 a 120 Hz (135 con overclock), 1 ms MPRT y altura regulable. 4.9 estrellas, el mejor valorado de los grandes.` },
-      { type: "p", content: `La alternativa al Xiaomi es el Gigabyte GS34WQC, de una marca especializada en hardware gamer: mismo formato 34" 3440x1440 curvo 1500R, a **120 Hz nativos (135 con overclock)**, 1 ms MPRT, FreeSync Premium, compatible HDR y pie con altura regulable. Es el mejor valorado de los ultrawide (4.9 en más de 120 opiniones), desde unos $920.000.` },
+      { type: "p", content: `La alternativa al Xiaomi es el Gigabyte GS34WQC, de una marca especializada en hardware gamer: mismo formato 34" 3440x1440 curvo 1500R, a **120 Hz nativos**, 1 ms MPRT y pie con altura regulable. Es la versión GS34WQCA, que reemplazó a la GS34WQC original cuando esta se quedó sin stock; las 4.9 estrellas vienen de la publicación anterior (la nueva tiene pocas opiniones todavía). Sale desde unos {{precio:MLA28853185:k}}.` },
       { type: "p", content: `Contra el Xiaomi pierde en Hz (120-135 contra 180) y cuesta bastante más, así que en la comparación directa el Xiaomi da más por menos. Al Gigabyte lo elegís por la marca especializada y su reputación de calidad de panel. Mismo aviso: los Hz máximos, solo por DisplayPort (los HDMI topean en 100).` },
 
       { type: "h2", title: `Tabla comparativa: Hz, panel, resolución y precio`, id: "tabla-comparativa" },
@@ -3483,7 +3483,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         [`[Samsung CRG5 curvo](https://meli.la/21rUoNn)`, `{{precio:MLA43961816}}`, `144`, `VA 24" FHD curvo`, `El gaming más validado`],
         [`[Samsung G5 27" QHD](https://meli.la/11Frg3T)`, `{{precio:MLA43960827}}`, `165`, `VA 27" QHD curvo`, `El salto de nitidez`],
         [`[Xiaomi G34WQi 34"](https://meli.la/1MQkxTt)`, `{{precio:MLA43960787}}`, `180`, `VA 34" UWQHD curvo`, `Ultrawide al mejor precio`],
-        [`[Gigabyte GS34WQC 34"](https://meli.la/2VotvC2)`, `{{precio:MLA28853185}}`, `120-135`, `VA 34" UWQHD curvo`, `Ultrawide de marca gamer`],
+        [`[Gigabyte GS34WQC 34"](https://meli.la/1po7w8y)`, `{{precio:MLA28853185}}`, `120`, `VA 34" UWQHD curvo`, `Ultrawide de marca gamer`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu monitor gamer`, id: "como-elegir" },
@@ -3498,7 +3498,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "list", items: [
         `**$142.000 a $225.000:** la gama accesible que rinde. El [Noblex 22" 100 Hz](https://meli.la/2AMGgvB) (el más barato), el [Philips 24"](https://meli.la/2LPpSwK) (uso mixto) y el [Noblex 27" IPS](https://meli.la/17HaY3a) (pantalla grande).`,
         `**$244.000 a $370.000:** el gaming de verdad. El [Samsung Odyssey G3 180 Hz](https://meli.la/2NmTqzr) (la mejor compra) y el [CRG5 curvo 144 Hz](https://meli.la/21rUoNn) (el más validado).`,
-        `**$554.000 o más:** el nivel premium. El [G5 27" QHD 165 Hz](https://meli.la/11Frg3T), y los ultrawide de 34: [Xiaomi 180 Hz](https://meli.la/1MQkxTt) y [Gigabyte](https://meli.la/2VotvC2).`,
+        `**$554.000 o más:** el nivel premium. El [G5 27" QHD 165 Hz](https://meli.la/11Frg3T), y los ultrawide de 34: [Xiaomi 180 Hz](https://meli.la/1MQkxTt) y [Gigabyte](https://meli.la/1po7w8y).`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál monitor gamer comprar`, id: "veredicto" },
@@ -3508,7 +3508,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Cuál es el mejor monitor gamer en Argentina?`, answer: `Por relación specs-precio, el [Samsung Odyssey G3](https://meli.la/2NmTqzr): 24 pulgadas a 180 Hz con altura regulable, desde unos $244.000. El más validado por ventas es el [Samsung CRG5 curvo 144 Hz](https://meli.la/21rUoNn) (más de 1.500 calificaciones). Para pantalla grande económica, el [Noblex 27 IPS de 100 Hz](https://meli.la/17HaY3a); y en ultrawide, el [Xiaomi G34WQi](https://meli.la/1MQkxTt).` },
       { question: `¿Cuántos Hz necesita un monitor para gaming?`, answer: `Depende de qué juegues: 100 Hz ya se siente muy fluido para juego general, y 144 a 180 Hz es el estándar para jugar en serio o competitivo. El salto grande es venir de 60 Hz: ahí cualquier monitor de 100 o más cambia la experiencia. Ojo con un detalle: varios monitores vienen configurados en 60 Hz de fábrica y hay que activar los Hz máximos en el menú y en Windows.` },
       { question: `¿Qué es mejor para gaming, panel VA o IPS?`, answer: `Los dos sirven, con fuertes distintos. El VA tiene mejor contraste (negros más profundos) y domina la gama gamer accesible: ideal para jugar y mirar contenido. El IPS muestra mejor los colores y los ángulos de visión: preferido para trabajo creativo y uso mixto. De esta guía, el único IPS es el [Noblex 27](https://meli.la/17HaY3a); el resto es VA, que para puro gaming está perfecto.` },
-      { question: `¿Por qué mi monitor no llega a los Hz que promete?`, answer: `Casi siempre es el cable o la configuración. Varios modelos dan sus Hz máximos solo por DisplayPort: el [Xiaomi de 34](https://meli.la/1MQkxTt) hace 180 Hz por DP pero topea en 100 por HDMI, y al [Gigabyte](https://meli.la/2VotvC2) le pasa igual. Además, muchos vienen de fábrica en 60 Hz: hay que subirlos desde el menú del monitor y elegir la frecuencia en la configuración de pantalla de Windows.` },
+      { question: `¿Por qué mi monitor no llega a los Hz que promete?`, answer: `Casi siempre es el cable o la configuración. Varios modelos dan sus Hz máximos solo por DisplayPort: el [Xiaomi de 34](https://meli.la/1MQkxTt) hace 180 Hz por DP pero topea en 100 por HDMI, y al [Gigabyte](https://meli.la/1po7w8y) le pasa igual. Además, muchos vienen de fábrica en 60 Hz: hay que subirlos desde el menú del monitor y elegir la frecuencia en la configuración de pantalla de Windows.` },
       { question: `¿Sirve un monitor de 75 Hz para jugar?`, answer: `Para juego casual, sí: un 75 Hz como el [Philips 24](https://meli.la/2LPpSwK) (el más vendido del país) va bien si el monitor es principalmente para trabajar o estudiar y jugás de vez en cuando. Para jugar en serio queda corto: por poco más, el [Noblex 22 de 100 Hz](https://meli.la/2AMGgvB) o el [Odyssey G3 de 180](https://meli.la/2NmTqzr) dan una fluidez muy superior.` },
       { question: `¿Vale la pena un monitor ultrawide para gaming?`, answer: `Si tu placa de video puede mover 3440x1440, es de los saltos que más cambian la experiencia: el formato 21:9 envuelve el campo visual, en simuladores y juegos inmersivos es imbatible, y para trabajar reemplaza dos monitores. El [Xiaomi G34WQi](https://meli.la/1MQkxTt) es el de mejor precio con 180 Hz. La contra: exige más de la PC, y algunos juegos competitivos no aprovechan el formato completo.` },
     ],
