@@ -19635,29 +19635,24 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "p", content: `La [Atma con láser y mapeo](https://meli.la/14txuhx) es la opción si querés trapeado de verdad pero con la tranquilidad de una marca con service y repuestos en el país. Tiene depósitos separados —450 ml para el polvo y 250 ml de agua— lo que significa que el agua se dosifica sobre el paño en vez de venir de un trapo pre-mojado. Navega con láser y arma mapa, así que no anda perdido.` },
       { type: "p", content: `El gran punto a favor de Atma es el **respaldo argentino**: garantía oficial, service técnico local y repuestos (cepillos, filtros) que se consiguen sin tener que importar. En robots esto pesa más de lo que parece, porque el día que necesitás un cepillo nuevo no querés depender de un vendedor que desapareció. La app WiFi es básica pero cumple.` },
   
-      { type: "h3", title: `4. Gadnic 5 Modos — trapeo con depósito de agua, económico` },
-      { type: "product-card", productMlaId: "MLA45951645", label: "Trapeo accesible", labelColor: "blue", ranking: 4, description: `Cinco modos de limpieza, depósito de agua para trapear, app WiFi y sensores anti-colisión y anticaída. Una entrada decente al trapeado con control desde el celular.` },
-      { type: "p", content: `El [Gadnic 5 Modos](https://meli.la/2kRauwY) es de los más baratos que igual trae **depósito de agua** (no solo paño de inercia), lo cual ya lo pone por encima de muchos "2 en 1" de entrada. Tiene cinco modos de limpieza, app WiFi para manejarlo y sensores anti-colisión y anticaída, así que no se cae por la escalera ni se traba contra los muebles.` },
-      { type: "p", content: `Lo que no tiene es mapeo láser: navega de forma más simple, así que en casas grandes o con muchos ambientes puede dejar alguna zona sin cubrir o repetir. Para un monoambiente o un dos ambientes ordenado, anda muy bien y es difícil pedirle más por lo que sale.` },
-  
-      { type: "h3", title: `5. Atma ATAR21C1DH — 3 en 1 nacional para departamento chico` },
-      { type: "product-card", productMlaId: "MLA18642318", label: "Mejor económico nacional", labelColor: "green", ranking: 5, description: `3 en 1: aspira, barre y trapea simultáneo con tanque de 450 ml. Fabricación nacional, sensor antichoque y garantía argentina. El básico honesto que cumple en pisos chicos.` },
+      { type: "h3", title: `4. Atma ATAR21C1DH — 3 en 1 nacional para departamento chico` },
+      { type: "product-card", productMlaId: "MLA18642318", label: "Mejor económico nacional", labelColor: "green", ranking: 4, description: `3 en 1: aspira, barre y trapea simultáneo con tanque de 450 ml. Fabricación nacional, sensor antichoque y garantía argentina. El básico honesto que cumple en pisos chicos.` },
       { type: "p", content: `El [Atma ATAR21C1DH](https://meli.la/1TWykcE) es el básico que recomendamos sin culpa para un departamento chico. Hace las tres cosas a la vez —aspira, barre y trapea— con un tanque de 450 ml que dosifica el agua mientras avanza, sensor antichoque para no golpear los muebles, y todo con garantía nacional Atma.` },
       { type: "p", content: `No tiene mapeo ni app: lo prendés y anda. Para algunos eso es una contra, para otros es una ventaja (cero configuración, cero depender de WiFi). En un monoambiente o un dos ambientes de pisos duros, hace el trabajo todos los días sin drama. No le pidas que entienda una casa de tres dormitorios, no es para eso.` },
       { type: "callout", calloutVariant: "note", content: `Sobre garantía e importación: muchos robots baratísimos que ves en marketplace son importación gris, sin service ni repuestos en el país. Atma y Gadnic se consiguen con respaldo local, lo que significa que conseguís cepillos, filtros y batería de recambio sin tener que importarlos vos. Es el dato que más diferencia un robot que dura tres años de uno que tirás al año.` },
   
-      { type: "h3", title: `6. Fika Nexos — el mejor para casa con mascotas` },
-      { type: "product-card", productMlaId: "MLA63784269", label: "Mejor para mascotas", labelColor: "amber", ranking: 6, description: `Navegación giroscópica ordenada (no random) optimizada para levantar pelos de mascota, con app Fika WiFi. Rating 4.6 con 2.324 calificaciones, uno de los más probados de la lista.` },
+      { type: "h3", title: `5. Fika Nexos — el mejor para casa con mascotas` },
+      { type: "product-card", productMlaId: "MLA63784269", label: "Mejor para mascotas", labelColor: "amber", ranking: 5, description: `Navegación giroscópica ordenada (no random) optimizada para levantar pelos de mascota, con app Fika WiFi. Rating 4.6 con 2.324 calificaciones, uno de los más probados de la lista.` },
       { type: "p", content: `Si tenés perro o gato, el [Fika Nexos](https://meli.la/2P2DXaC) está pensado para vos. Su fuerte es la navegación giroscópica: en vez de andar a lo loco rebotando, sigue un patrón ordenado, lo que importa mucho cuando hay pelos repartidos por toda la casa. Está optimizado específicamente para levantar pelo de mascota, que es lo que tapa los cepillos de los robots comunes.` },
       { type: "p", content: `Tiene **rating 4.6 con 2.324 calificaciones**, de los más respaldados del catálogo por volumen real de compradores. Trapea con paño y se maneja con la app Fika. La salvedad honesta: el trapeado del Nexos es más de mantenimiento (paño húmedo) que de fregado profundo, así que si tu prioridad #1 es el trapeado y no los pelos, mirá el Gadnic AC800. Si tu problema diario son los pelos, este es el indicado.` },
   
-      { type: "h3", title: `7. Atma ATAR21C1PI Anti-choque — el más barato de Atma` },
-      { type: "product-card", productMlaId: "MLA20033508", label: "Básico anti-choque", labelColor: "purple", ranking: 7, description: `El más económico de la línea Atma, con motor de 4 kPa que levanta pelos de mascota y sensor antichoque. Garantía nacional. Un entry honesto para quien quiere lo mínimo que funcione.` },
+      { type: "h3", title: `6. Atma ATAR21C1PI Anti-choque — el más barato de Atma` },
+      { type: "product-card", productMlaId: "MLA20033508", label: "Básico anti-choque", labelColor: "purple", ranking: 6, description: `El más económico de la línea Atma, con motor de 4 kPa que levanta pelos de mascota y sensor antichoque. Garantía nacional. Un entry honesto para quien quiere lo mínimo que funcione.` },
       { type: "p", content: `El [Atma ATAR21C1PI](https://meli.la/2BGRKbq) es el más barato de Atma y un buen punto de entrada si tu presupuesto es ajustado pero querés marca con respaldo local. Tiene motor de 4 kPa —suficiente para levantar pelos de mascota en pisos duros— y sensor antichoque para no maltratar los muebles.` },
       { type: "p", content: `Es honesto en lo que es: un robot básico, sin mapeo ni app, que aspira el día a día. El trapeado acá es lo más básico de la lista, así que entra en este ranking más por ser una entrada confiable con garantía argentina que por ser un fregador serio. Si lo tuyo es aspirar a diario y el trapeado es un extra ocasional, cumple.` },
   
-      { type: "h3", title: `8. Fika SENSE — el más barato que igual trapea` },
-      { type: "product-card", productMlaId: "MLA54522658", label: "El más económico", labelColor: "amber", ranking: 8, description: `La entrada absoluta del catálogo: antichoque, app WiFi y trapeado de paño. Para quien quiere probar un robot por primera vez sin arriesgar mucha plata.` },
+      { type: "h3", title: `7. Fika SENSE — el más barato que igual trapea` },
+      { type: "product-card", productMlaId: "MLA54522658", label: "El más económico", labelColor: "amber", ranking: 7, description: `La entrada absoluta del catálogo: antichoque, app WiFi y trapeado de paño. Para quien quiere probar un robot por primera vez sin arriesgar mucha plata.` },
       { type: "p", content: `El [Fika SENSE](https://meli.la/2L3rk3G) es el más económico de toda la lista y la puerta de entrada perfecta para quien nunca tuvo un robot y no quiere arriesgar mucho. Tiene sensor antichoque, app WiFi para manejarlo desde el celular y trapeado de paño húmedo.` },
       { type: "p", content: `No esperes mapeo ni fregado profundo: es un robot de inercia que aspira el día a día y pasa un paño para mantener. Pero a su precio, y de una marca que ya tiene volumen de ventas en Argentina, es una apuesta de bajo riesgo. Si después de un año querés algo mejor, ya vas a saber exactamente qué pedirle.` },
   
@@ -19666,7 +19661,6 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         [`[Gadnic 5000 Pa LIDAR](https://meli.la/2UjN3FV)`, `{{precio:MLA62126950}}`, `Tanque + base autolimpiante`, `LIDAR`, `Tuya`, `Trapeado serio, casa entera`],
         [`[Gadnic AspiRob](https://meli.la/2mPhJwy)`, `{{precio:MLA36838658}}`, `Tanque, sin base`, `Mapeo`, `Sí`, `Mejor precio-calidad`],
         [`[Atma láser/mapeo](https://meli.la/14txuhx)`, `{{precio:MLA53579189}}`, `Tanque 250 ml separado`, `Láser + mapeo`, `WiFi`, `Marca nacional con service`],
-        [`[Gadnic 5 Modos](https://meli.la/2kRauwY)`, `{{precio:MLA45951645}}`, `Depósito de agua`, `Simple`, `WiFi`, `Trapeo accesible, depto chico`],
         [`[Atma ATAR21C1DH](https://meli.la/1TWykcE)`, `{{precio:MLA18642318}}`, `Tanque 450 ml`, `Random`, `No`, `Económico nacional, monoambiente`],
         [`[Fika Nexos](https://meli.la/2P2DXaC)`, `{{precio:MLA63784269}}`, `Paño (mantenimiento)`, `Giroscópica`, `Fika`, `Casa con mascotas`],
         [`[Atma ATAR21C1PI](https://meli.la/2BGRKbq)`, `{{precio:MLA20033508}}`, `Paño básico`, `Random`, `No`, `Entry con garantía AR`],
@@ -19678,7 +19672,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         `**Querés que el piso quede impecable, no solo "pasado":** [Gadnic 5000 Pa LIDAR](https://meli.la/2UjN3FV). El tanque con dosificación y el LIDAR son lo que separa un trapeado de verdad de un paseo de paño.`,
         `**Buscás el mejor equilibrio precio-trapeado:** [Gadnic AspiRob](https://meli.la/2mPhJwy). Trapea bien, mapea, y cuesta una fracción de un premium.`,
         `**Te importa la garantía y el service local por sobre todo:** [Atma láser/mapeo](https://meli.la/14txuhx) o el [Atma ATAR21C1DH](https://meli.la/1TWykcE) si el presupuesto es más justo.`,
-        `**Departamento chico o monoambiente:** [Atma ATAR21C1DH](https://meli.la/1TWykcE) o [Gadnic 5 Modos](https://meli.la/2kRauwY). En pisos chicos no necesitás mapeo láser.`,
+        `**Departamento chico o monoambiente:** [Atma ATAR21C1DH](https://meli.la/1TWykcE). En pisos chicos no necesitás mapeo láser.`,
         `**Casa con mascotas que sueltan pelo:** [Fika Nexos](https://meli.la/2P2DXaC). La navegación ordenada y el diseño anti-pelos hacen la diferencia.`,
         `**Primer robot, presupuesto ajustado:** [Fika SENSE](https://meli.la/2L3rk3G). Bajo riesgo para probar si el robot te cambia la vida (spoiler: sí).`,
       ] },
@@ -19719,7 +19713,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     category: "aspiradoras-robot",
     title: `Robot aspiradora precio en Argentina [2026]: cuánto sale y qué te da cada rango`,
     seoTitle: `Robot aspiradora precio Argentina 2026: guía por rango`,
-    metaDescription: `Cuánto sale un robot aspiradora en Argentina en 2026: desde la Fika SENSE a {{precio:MLA54522658}} hasta la Xiaomi X20 Max a {{precio:MLA44235159}}. Tabla de 18 modelos.`,
+    metaDescription: `Cuánto sale un robot aspiradora en Argentina en 2026: desde la Fika SENSE a {{precio:MLA54522658}} hasta la Xiaomi X20 Max a {{precio:MLA44235159}}. Tabla de 17 modelos.`,
     ogTitle: `¿Cuánto sale un robot aspiradora en serio? La tabla completa 2026`,
     ogDescription: `De {{precio:MLA54522658:k}} a {{precio:MLA44718960:k}}: te mostramos qué hace cada robot en cada rango y dónde está el punto justo entre lo barato que decepciona y lo caro que no necesitás.`,
     h1: `Robot aspiradora: precios en Argentina y qué te da cada rango [2026]`,
@@ -19727,11 +19721,11 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     updatedDate: "2026-06-06",
     sitemapLastmod: "2026-08-25",
     hasDisclosure: true,
-    standfirst: `Comparamos 18 robots aspiradora que se consiguen hoy en MercadoLibre Argentina, de {{precio:MLA54522658:k}} a {{precio:MLA44718960:k}}. La pregunta no es "cuál es el mejor", es "qué estoy comprando exactamente con cada peso".`,
+    standfirst: `Comparamos 17 robots aspiradora que se consiguen hoy en MercadoLibre Argentina, de {{precio:MLA54522658:k}} a {{precio:MLA44718960:k}}. La pregunta no es "cuál es el mejor", es "qué estoy comprando exactamente con cada peso".`,
     intro: [
       `La búsqueda más honesta del tema es la más simple: **"robot aspiradora precio"**. Antes de elegir marca o features, casi todo el mundo quiere saber una sola cosa: cuánto sale esto y si lo barato sirve. La respuesta corta es que en Argentina hay robots desde **$130.979** y otros que se van a más de **$3.000.000**. Esa diferencia de más de veinte veces no es marketing: es navegación, succión, autonomía y, sobre todo, si el robot piensa por dónde va o choca contra todo.`,
       `Lo difícil no es encontrar el más caro ni el más barato, es entender el medio. Entre un robot de $130.000 que anda chocando al azar y uno de $600.000 que mapea tu casa con láser hay seis o siete escalones de precio, y cada uno te da algo concreto. Acá los separamos en tres rangos —entrada, medio y premium— y te decimos qué ganás exactamente al subir de uno al otro.`,
-      `No vendemos el más caro porque sí. Para un monoambiente, un robot de $170.000 puede dejarte la casa impecable todos los días y el de $1.000.000 sería plata tirada. Para una casa de tres ambientes con dos perros, lo barato te va a frustrar en una semana. Acá va la versión larga, con la tabla de los 18 modelos al final.`,
+      `No vendemos el más caro porque sí. Para un monoambiente, un robot de $170.000 puede dejarte la casa impecable todos los días y el de $1.000.000 sería plata tirada. Para una casa de tres ambientes con dos perros, lo barato te va a frustrar en una semana. Acá va la versión larga, con la tabla de los 17 modelos al final.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_600741-MLA99995673079_112025-F.jpg", alt: `Robot aspiradora Xiaomi X20 Max, referencia del tramo de precio premium en Argentina 2026`, imageSize: "hero" },
@@ -19744,7 +19738,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         `**Regla rápida:** abajo de $250K comprás un ayudante; entre $300K y $520K comprás un robot que entiende tu casa; arriba de $950K comprás respaldo de marca grande y autonomía total.`,
       ] },
   
-      { type: "trust-block", trustVariant: "methodology", content: `Cómo armamos los precios: tomamos los 18 robots aspiradora que se consiguen hoy en MercadoLibre Argentina (junio 2026) y los ordenamos por precio real publicado, no por precio de lista ni por promesa. Para cada rango miramos lo mismo: si tiene mapeo, qué tipo de navegación usa, cuánta succión declara, la autonomía y —clave en Argentina— si la marca tiene distribución oficial con service y repuestos locales. Los precios se mueven; verificá siempre el número actual en el link antes de comprar.` },
+      { type: "trust-block", trustVariant: "methodology", content: `Cómo armamos los precios: tomamos los 17 robots aspiradora que se consiguen hoy en MercadoLibre Argentina (junio 2026) y los ordenamos por precio real publicado, no por precio de lista ni por promesa. Para cada rango miramos lo mismo: si tiene mapeo, qué tipo de navegación usa, cuánta succión declara, la autonomía y —clave en Argentina— si la marca tiene distribución oficial con service y repuestos locales. Los precios se mueven; verificá siempre el número actual en el link antes de comprar.` },
   
       { type: "h2", id: "entrada", title: `Rango entrada: $120.000 a $250.000` },
       { type: "p", content: `Este es el rango donde la mayoría entra al mundo robot, y donde más fácil es decepcionarse si esperás de más. Por **$130.000 a $250.000** comprás un robot honesto para una función honesta: pasar todos los días por el piso y mantener el polvo a raya. Lo que casi ninguno hace en este rango es **mapear**: no arman un plano de tu casa, así que limpian por barrido (chocan, giran, siguen) o con navegación giroscópica básica que al menos los hace ir más ordenados.` },
@@ -19763,7 +19757,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "h3", title: `El mejor valor del medio: Gadnic AC800 con LIDAR` },
       { type: "product-card", productMlaId: "MLA62126950", label: "Mejor valor del rango medio", labelColor: "green", ranking: 1, description: `A {{precio:MLA62126950}} es lo más cerca de un premium sin pagar premium. Trae navegación LIDAR (láser), base autolimpiante con bolsa de 3.2L para olvidarte de vaciar por semanas, 140 minutos de autonomía y app Tuya. Tiene rating 4.8 con más de 1.000 vendidas. Es el robot que en 2023 costaba el doble.` },
       { type: "p", content: `La [Gadnic AC800](https://meli.la/2UjN3FV) es la mejor demostración de por qué conviene esperar a juntar para el rango medio-alto: por {{precio:MLA62126950}} te llevás láser, mapeo fino y autovaciado, un combo que define a los premium. La contra honesta es la de marca económica: Gadnic no tiene la red de service de Xiaomi o Samsung, así que ante una falla dependés más del vendedor. Si querés todo el detalle de la marca, lo desglosamos en la [guía de robots Gadnic](/guias/robot-aspiradora-gadnic).` },
-      { type: "p", content: `Si tu presupuesto es más ajustado dentro del medio, hay un escalón claro. La [Gadnic 5 Modos](https://meli.la/2kRauwY) a {{precio:MLA45951645}} y la [Gadnic 3 Modos](https://meli.la/2WGATBu) a {{precio:MLA42045783}} son la entrada al medio sin láser. Subiendo, la [Xiaomi S40c](https://meli.la/16WtjsG) a {{precio:MLA61420449}} te mete en el ecosistema Mi Home con mapeo y rating {{rating:MLA61420449}} —la puerta de entrada a la marca con mejor app del mercado, que repasamos en la [guía de robots Xiaomi](/guias/robot-aspiradora-xiaomi)—. La [Gadnic AspiRob](https://meli.la/2mPhJwy) a {{precio:MLA36838658}} suma trapeado con mapeo (rating 4.8). Y si buscás aspirado y trapeado a la vez con respaldo de marca grande, la [Samsung POWERbot E](https://meli.la/2UEp3uq) a {{precio:MLA18917302}} lo hace simultáneo con su motor Digital Inverter y SmartThings.` },
+      { type: "p", content: `Si tu presupuesto es más ajustado dentro del medio, hay un escalón claro. La [Gadnic 3 Modos](https://meli.la/2WGATBu) a {{precio:MLA42045783}} es la entrada al medio sin láser. Subiendo, la [Xiaomi S40c](https://meli.la/16WtjsG) a {{precio:MLA61420449}} te mete en el ecosistema Mi Home con mapeo y rating {{rating:MLA61420449}} —la puerta de entrada a la marca con mejor app del mercado, que repasamos en la [guía de robots Xiaomi](/guias/robot-aspiradora-xiaomi)—. La [Gadnic AspiRob](https://meli.la/2mPhJwy) a {{precio:MLA36838658}} suma trapeado con mapeo (rating 4.8). Y si buscás aspirado y trapeado a la vez con respaldo de marca grande, la [Samsung POWERbot E](https://meli.la/2UEp3uq) a {{precio:MLA18917302}} lo hace simultáneo con su motor Digital Inverter y SmartThings.` },
       { type: "p", content: `Dos opciones más para tener en cuenta en este rango: la [Atma láser/mapeo](https://meli.la/14txuhx) a {{precio:MLA53579189}} combina láser y mapeo con doble tarea (450 ml de polvo + 250 ml de agua) y marca nacional con service, y la [Xiaomi S20](https://meli.la/18CB1Wa) a {{precio:MLA44714806}} agrega comando de voz y aspirado de alfombras al ecosistema Xiaomi.` },
       { type: "pull-quote", content: `Pasé de uno que chocaba contra todo a este que mapea la casa y la diferencia es de otro planeta. Lo programo desde el laburo y cuando llego está todo hecho.`, attribution: `— Comprador en Argentina, 2025` },
   
@@ -19776,7 +19770,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "p", content: `La [Xiaomi S40 Pro](https://meli.la/117oW5y) es el premium más barato del catálogo: por {{precio:MLA66281403}} te da 15.000 Pa de succión y brazos extensibles que ningún robot del rango medio iguala. No es "casi un gama media" —sale bastante más que el Gadnic AC800—, pero es lo más accesible una vez que cruzás al premium real. Si necesitás todavía más respaldo y autonomía, la [Xiaomi X20 Pro](https://meli.la/2ViGUz3) a {{precio:MLA44240016}} sube a batería de 3 horas y sensores de obstáculos, pensada para casas donde el robot tiene que durar una limpieza completa sin volver a la base.` },
       { type: "callout", calloutVariant: "tip", calloutTitle: "Garantía oficial vs. importación gris", content: `En premium el respaldo de marca pesa más que en cualquier otro rango, porque estás poniendo mucha plata. Comprando un Xiaomi o Samsung con distribución oficial tenés service técnico en Argentina, repuestos (cepillos, filtros, baterías) y app/firmware en español. La importación gris suele ser más barata, pero si falla la batería o necesitás un cepillo, te quedás a pie. A más precio, más conviene asegurar el respaldo local.` },
   
-      { type: "h2", id: "tabla", title: `Tabla de precios: los 18 robots, de menor a mayor` },
+      { type: "h2", id: "tabla", title: `Tabla de precios: los 17 robots, de menor a mayor` },
       { type: "p", content: `Todos los modelos que se consiguen hoy en MercadoLibre Argentina, ordenados por precio. "Mapeo" indica el tipo de navegación: **láser/LIDAR** es la mejor; **mapeo** estándar arma plano sin láser; **giroscópico** va ordenado pero sin plano; **barrido** es navegación al azar.` },
       { type: "table",
         headers: [`Modelo`, `Precio`, `Mapeo`, `Para quién`],
@@ -19787,7 +19781,6 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
           [`[Kärcher RCV 1](https://meli.la/12hGhQB)`, `{{precio:MLA42103831}}`, `Barrido`, `Marca conocida; barre+aspira+trapo`],
           [`[Atma ATAR21C1PI](https://meli.la/2BGRKbq)`, `{{precio:MLA20033508}}`, `Barrido`, `El Atma más barato; pelos de mascota`],
           [`[Atma ATAR21C1DH](https://meli.la/1TWykcE)`, `{{precio:MLA18642318}}`, `Barrido`, `Nacional; aspira+trapea a la vez`],
-          [`[Gadnic 5 Modos](https://meli.la/2kRauwY)`, `{{precio:MLA45951645}}`, `Barrido`, `Trapeo y app por poco`],
           [`[Gadnic 3 Modos](https://meli.la/2WGATBu)`, `{{precio:MLA42045783}}`, `Barrido`, `Entrada al medio sin app ni láser`],
           [`[Xiaomi S40c](https://meli.la/16WtjsG)`, `{{precio:MLA61420449}}`, `Mapeo`, `Entrada al ecosistema Xiaomi`],
           [`[Gadnic AspiRob](https://meli.la/2mPhJwy)`, `{{precio:MLA36838658}}`, `Mapeo`, `Trapeado + mapeo; rating 4.8`],
@@ -21056,8 +21049,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         { type: "h3", title: `Navegación y mapeo` },
         { type: "p", content: `Acá las dos marcas pelean parejo, y eso es noticia. El [Gadnic AC800](https://meli.la/2UjN3FV) trae LiDAR real —un láser giratorio que arma el plano de tu casa y limpia ordenado por filas— por {{precio:MLA62126950}}. Del lado de Xiaomi, el LiDAR más accesible es el [Xiaomi S40c](https://meli.la/16WtjsG), a {{precio:MLA61420449}}. O sea: la puerta de entrada al mapeo láser es más barata en Xiaomi, pero el Gadnic suma autovaciado que el S40c no tiene.` },
         { type: "product-card", productMlaId: "MLA61420449", label: "LiDAR más barato", labelColor: "green", description: `El láser más accesible de Xiaomi: mapea tu casa y limpia ordenado, con app Mi Home en español, por menos de {{precio:MLA61420449:k}}. Trae mopa de mantenimiento, batería justa y mide unos 10 cm de alto.` },
-        { type: "p", content: `Ojo con un detalle que el marketing de Gadnic mezcla a propósito: el [Gadnic 5 Modos](https://meli.la/2kRauwY) usa palabras como "3D" o "Vision", pero navega por **giroscopio**, no guarda el mapa de tu casa y limpia por patrones, no por plano. Está bien para un ambiente chico, pero no lo compres esperando lo que hace un LiDAR. Si querés mapeo de verdad, en Gadnic mirá el AC800 o el [AspiRob](https://meli.la/2mPhJwy); en Xiaomi, cualquiera de los tres tiene LiDAR. Lo desarrollamos en la [guía de robot aspiradora con mapeo láser](/guias/robot-aspiradora-con-mapeo-laser).` },
-  
+
         { type: "h3", title: `App y control` },
         { type: "p", content: `Acá Xiaomi gana sin discusión, y es lo que más pesa en el día a día. La app **Mi Home** está en español, traducida y mantenida, y es la misma que ya usás si tenés una balanza, una lámpara o una cámara Xiaomi. Programás horarios, marcás zonas prohibidas y mirás el mapa sin pelearte con el celular.` },
         { type: "p", content: `Gadnic usa **Tuya**, una app genérica que funciona pero que no fue hecha para sus robots: el manual viene flojo, algunas traducciones son raras y la experiencia es más cruda. Funciona, conectás el robot y lo controlás, pero no esperes la prolijidad de Mi Home. Si sos de los que se frustran con apps mal traducidas, este punto solo ya inclina la balanza para el lado de Xiaomi. Si la app te da lo mismo con tal de ahorrar, no es un problema.` },
@@ -21080,21 +21072,20 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
   
         { type: "h2", title: `Tabla comparativa lado a lado`, id: "tabla-comparativa" },
         { type: "table", headers: [`Criterio`, `Gadnic`, `Xiaomi`], rows: [
-          [`Navegación`, `LiDAR en AC800 y AspiRob; giroscópica en el 5 Modos`, `LiDAR en toda la línea (S40c, S20, S40 Pro)`],
+          [`Navegación`, `LiDAR en AC800 y AspiRob`, `LiDAR en toda la línea (S40c, S20, S40 Pro)`],
           [`App y control`, `Tuya (genérica, manual flojo, en español)`, `Mi Home (propia, prolija, en español)`],
           [`Autovaciado`, `Sí, en el AC800 (bolsa 3.2L)`, `No en S40c, S20 ni S40 Pro`],
           [`Succión tope`, `5.000 Pa (AC800)`, `15.000 Pa (S40 Pro)`],
           [`Enchufe`, `Estándar argentino`, `Extranjero, suele necesitar adaptador`],
           [`Service`, `Vía vendedor + garantía MercadoLibre`, `Marca con distribución creciente + garantía ML`],
-          [`Respaldo de reseñas`, `Hasta 1.293 opiniones (5 Modos)`, `Hasta 3.820 opiniones (S20)`],
-          [`Desde`, `{{precio:MLA45951645}} (5 Modos)`, `{{precio:MLA61420449}} (S40c)`],
+          [`Respaldo de reseñas`, `Hasta 1.243 opiniones (AspiRob)`, `Hasta 3.820 opiniones (S20)`],
+          [`Desde`, `{{precio:MLA36838658}} (AspiRob)`, `{{precio:MLA61420449}} (S40c)`],
         ] },
         { type: "p", content: `Una lectura rápida: Gadnic gana en función por peso (LiDAR + autovaciado barato) y en el detalle del enchufe; Xiaomi gana en app, en potencia tope y en cantidad de reseñas. Para ver dónde cae cada modelo en el panorama de precios completo del rubro, mirá la [guía de precios de robot aspiradora en Argentina](/guias/robot-aspiradora-precio-argentina).` },
   
         { type: "h2", title: `Cuándo conviene cada una`, id: "cuando-conviene" },
         { type: "list", items: [
           `**Elegí Gadnic si...** querés la mayor cantidad de tecnología por la menor plata, te interesa el autovaciado sin pagar premium, no te molesta una app genérica como Tuya y preferís un enchufe que entra directo en el toma. El [AC800](https://meli.la/2UjN3FV) es el ejemplo más claro de esa lógica.`,
-          `**Elegí Gadnic si...** tu presupuesto es ajustado y un ambiente chico te alcanza: el [5 Modos](https://meli.la/2kRauwY) a {{precio:MLA45951645}} es la entrada más barata, aceptando que navega por giroscopio y no guarda mapa.`,
           `**Elegí Xiaomi si...** la app y la facilidad de uso te importan de verdad: Mi Home en español es la experiencia más prolija del rango. El [S40c](https://meli.la/16WtjsG) es la puerta de entrada más accesible al LiDAR de la marca.`,
           `**Elegí Xiaomi si...** querés el respaldo del modelo más probado: el [S20](https://meli.la/18CB1Wa) con sus 3.820 reseñas es lo más testeado que vas a encontrar, aceptando el enchufe extranjero.`,
           `**Elegí Xiaomi si...** tenés alfombras o mascotas y la potencia manda: el [S40 Pro](https://meli.la/117oW5y) con 15.000 Pa y brazo extensible es el más fuerte de las dos marcas.`,
@@ -21103,7 +21094,6 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         { type: "h2", title: `Precios reales`, id: "precios" },
         { type: "p", content: `Estos son los precios verificados de los modelos clave de cada marca en junio de 2026, ordenados de menor a mayor. Los robots se mueven mucho según ofertas y tipo de cambio, así que tomalos como referencia del escalón en el que juega cada uno.` },
         { type: "list", items: [
-          `[Gadnic 5 Modos](https://meli.la/2kRauwY) — **{{precio:MLA45951645}}** · entrada Gadnic, navegación giroscópica, sin mapa guardado.`,
           `[Xiaomi S40c](https://meli.la/16WtjsG) — **{{precio:MLA61420449}}** · el LiDAR más accesible de Xiaomi, app Mi Home en español.`,
           `[Gadnic AspiRob](https://meli.la/2mPhJwy) — **{{precio:MLA36838658}}** · mapeo + trapeado con detección de obstáculos, sin autovaciado.`,
           `[Xiaomi S20](https://meli.la/18CB1Wa) — **{{precio:MLA44714806}}** · el LiDAR más vendido y reseñado, enchufe extranjero.`,
@@ -21116,7 +21106,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         { type: "list", items: [
           `[Robot aspiradora: guía completa](/guias/robot-aspiradora) — el panorama de todo el rubro, con todas las marcas comparadas.`,
           `[Robot aspiradora Xiaomi](/guias/robot-aspiradora-xiaomi) — toda la línea de la marca, del S40c al S40 Pro.`,
-          `[Robot aspiradora Gadnic](/guias/robot-aspiradora-gadnic) — del 5 Modos económico al AC800 con LiDAR.`,
+          `[Robot aspiradora Gadnic](/guias/robot-aspiradora-gadnic) — del 3 Modos económico al AC800 con LiDAR.`,
           `[Robot aspiradora con mapeo láser](/guias/robot-aspiradora-con-mapeo-laser) — por qué el LiDAR cambia tanto la limpieza.`,
           `[Robot aspiradora: precios en Argentina](/guias/robot-aspiradora-precio-argentina) — qué pagás en cada escalón de precio.`,
         ] },
@@ -21126,10 +21116,10 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       faq: [
         { question: `¿Es mejor Gadnic o Xiaomi para robot aspiradora?`, answer: `Ninguna es "mejor" en abstracto: depende de qué priorices. Gadnic te da más tecnología por menos plata (LiDAR y autovaciado baratos, como en el [AC800](https://meli.la/2UjN3FV)) pero con app genérica y sin service de multinacional. Xiaomi te da la app Mi Home en español, más reseñas y respaldo de marca, pero suele venir con enchufe extranjero y arranca un poco más caro en mapeo con el [S40c](https://meli.la/16WtjsG).` },
         { question: `¿La app de Gadnic es buena comparada con la de Xiaomi?`, answer: `No, y es la mayor diferencia entre las dos. Gadnic usa la app genérica Tuya, que funciona pero trae manual flojo y traducciones raras. Xiaomi usa Mi Home, una app propia, prolija y bien traducida al español, la misma que controla el resto de sus aparatos. Si la experiencia de uso te importa, Xiaomi gana este punto claro.` },
-        { question: `¿El robot Gadnic tiene mapeo láser real?`, answer: `Depende del modelo. El [Gadnic AC800](https://meli.la/2UjN3FV) y el [AspiRob](https://meli.la/2mPhJwy) sí tienen mapeo, el AC800 con LiDAR. Pero ojo con el [5 Modos](https://meli.la/2kRauwY): aunque el marketing diga "3D" o "Vision", navega por giroscopio y no guarda el mapa de tu casa. Si querés LiDAR de verdad en Gadnic, andá al AC800.` },
+        { question: `¿El robot Gadnic tiene mapeo láser real?`, answer: `Depende del modelo. El [Gadnic AC800](https://meli.la/2UjN3FV) y el [AspiRob](https://meli.la/2mPhJwy) sí tienen mapeo, el AC800 con LiDAR. Si querés LiDAR de verdad en Gadnic, andá a cualquiera de los dos.` },
         { question: `¿Por qué los Xiaomi vienen con enchufe extranjero?`, answer: `Porque muchos llegan a Argentina con la ficha del mercado de origen y no siempre se cambia antes de la venta. No es un problema grave: con un adaptador o cambiando la ficha lo resolvés. Pero conviene saberlo antes de comprar para no encontrarte con la sorpresa al abrir la caja. Gadnic suele venir con enchufe estándar argentino.` },
         { question: `¿Cuál conviene si tengo mascotas que sueltan pelo?`, answer: `Para mascotas manda la succión y el cepillo. El [Xiaomi S40 Pro](https://meli.la/117oW5y) con 15.000 Pa es el más potente de las dos marcas. Ojo con el [Xiaomi S20](https://meli.la/18CB1Wa): su cepillo no tiene sistema anti-enredo, así que con pelo largo se enrosca y hay que limpiarlo seguido. Del lado Gadnic, el [AC800](https://meli.la/2UjN3FV) con 5.000 Pa y autovaciado también rinde bien.` },
-        { question: `¿Cuál es más barata, Gadnic o Xiaomi?`, answer: `La entrada más barata es Gadnic con el [5 Modos](https://meli.la/2kRauwY) a {{precio:MLA45951645}}, pero navega por giroscopio sin guardar mapa. Si querés mapeo láser barato, el [Xiaomi S40c](https://meli.la/16WtjsG) a {{precio:MLA61420449}} es la opción más accesible con app en español. Y el [Gadnic AC800](https://meli.la/2UjN3FV) a {{precio:MLA62126950}} es el que más función te da por peso, sumando autovaciado.` },
+        { question: `¿Cuál es más barata, Gadnic o Xiaomi?`, answer: `Entre los modelos de esta comparación, la entrada más barata es Gadnic con el [AspiRob](https://meli.la/2mPhJwy) a {{precio:MLA36838658}}, que además ya trae mapeo láser. El [Xiaomi S40c](https://meli.la/16WtjsG) a {{precio:MLA61420449}} es la opción más accesible de Xiaomi, con app en español. Y el [Gadnic AC800](https://meli.la/2UjN3FV) a {{precio:MLA62126950}} es el que más función te da por peso, sumando autovaciado.` },
         { question: `¿Tienen garantía y service en Argentina?`, answer: `Las dos las comprás por MercadoLibre, así que tu primera protección es la garantía de la plataforma y la reputación del vendedor. Xiaomi tiene además distribución de marca creciente en el país; Gadnic depende más del vendedor ante una falla. En cualquier caso, fijate que el vendedor tenga buena reputación y muchas ventas: ese dato te cubre más que el logo.` },
         { question: `¿Vale la pena pagar el autovaciado del Gadnic AC800?`, answer: `Si te molesta vaciar el depósito a mano cada par de días, sí. La base del [AC800](https://meli.la/2UjN3FV) aspira sola el polvo del robot a una bolsa de 3.2 litros, así que no la tocás por semanas. Es una función que en Xiaomi no aparece en el S40c, S20 ni S40 Pro, y que en otras marcas se paga mucho más caro. Por unos {{preciodif:MLA62126950:MLA44714806}} más que el S20, es un salto de comodidad real.` },
       ],
