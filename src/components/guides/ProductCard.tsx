@@ -122,7 +122,7 @@ export function ProductCard({ section }: ProductCardProps) {
   if (variant === "compact") {
     return (
       <aside
-        className="not-prose my-4 overflow-hidden rounded-[6px] border bg-[var(--bg-primary)] transition-all duration-200 hover:shadow-lg hover:scale-[1.02]"
+        className="not-prose max-w-[720px] my-4 overflow-hidden rounded-[6px] border bg-[var(--bg-primary)] transition-all duration-200 hover:shadow-lg hover:scale-[1.02]"
         style={{ borderColor: isWinner ? palette.fg : "var(--border)", borderWidth: isWinner ? "2px" : "1px" }}
         aria-label={product.title}
       >
@@ -244,7 +244,7 @@ export function ProductCard({ section }: ProductCardProps) {
 
   return (
     <aside
-      className="not-prose my-8 overflow-hidden rounded-[6px] border bg-[var(--bg-primary)] transition-all duration-200 hover:shadow-lg hover:scale-[1.02]"
+      className="not-prose max-w-[720px] my-8 overflow-hidden rounded-[6px] border bg-[var(--bg-primary)] transition-all duration-200 hover:shadow-lg hover:scale-[1.02]"
       style={{ borderColor: isWinner ? palette.fg : "var(--border)", borderWidth: isWinner ? "2px" : "1px" }}
       aria-label={product.title}
     >

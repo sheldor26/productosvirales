@@ -46,7 +46,7 @@ export function QuickPicks({ picks }: QuickPicksProps) {
   return (
     <section
       aria-label="Nuestras elecciones"
-      className="not-prose my-10 rounded-[8px] border p-5 md:p-6"
+      className="not-prose max-w-[720px] my-10 rounded-[8px] border p-5 md:p-6"
       style={{
         borderColor: "var(--border)",
         backgroundColor: "var(--bg-secondary)",

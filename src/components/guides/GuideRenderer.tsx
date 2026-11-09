@@ -185,7 +185,7 @@ function SectionRenderer({
     case "card":
       if (!section.card) return null;
       return (
-        <div className="my-6 p-5 md:p-6 rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)]">
+        <div className="max-w-[720px] my-6 p-5 md:p-6 rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)]">
           <h3
             className="text-lg md:text-xl font-bold text-[var(--text-primary)] mb-3"
             style={{ fontFamily: "var(--font-display)" }}
@@ -222,7 +222,7 @@ function SectionRenderer({
 
     case "verdict":
       return (
-        <div className="my-5 p-4 rounded-[var(--radius-card)] border-l-4 border-[var(--color-trending-up)] bg-[var(--color-trending-up)]/10">
+        <div className="max-w-[720px] my-5 p-4 rounded-[var(--radius-card)] border-l-4 border-[var(--color-trending-up)] bg-[var(--color-trending-up)]/10">
           <p className="text-[15px] leading-relaxed text-[var(--text-primary)] font-medium">
             {section.content ? parseInlineLinks(section.content) : null}
           </p>
@@ -231,7 +231,7 @@ function SectionRenderer({
 
     case "warning":
       return (
-        <div className="my-5 p-4 rounded-[var(--radius-card)] border-l-4 border-amber-500 bg-amber-500/10">
+        <div className="max-w-[720px] my-5 p-4 rounded-[var(--radius-card)] border-l-4 border-amber-500 bg-amber-500/10">
           <p className="text-[15px] leading-relaxed text-[var(--text-primary)]">
             {section.content ? parseInlineLinks(section.content) : null}
           </p>
@@ -241,7 +241,7 @@ function SectionRenderer({
     case "list":
       return (
         <div
-          className={section.boxed ? "my-6 rounded-[16px] p-4 md:p-5 border border-[var(--border)]" : "my-6"}
+          className={section.boxed ? "max-w-[720px] my-6 rounded-[16px] p-4 md:p-5 border border-[var(--border)]" : "my-6"}
           style={section.boxed ? { backgroundColor: "var(--bg-secondary)" } : undefined}
         >
           {title && (
@@ -265,7 +265,7 @@ function SectionRenderer({
 
     case "bad":
       return (
-        <div className="my-5 p-4 rounded-[var(--radius-card)] border-l-4 border-[var(--color-discount)] bg-[var(--color-discount)]/10">
+        <div className="max-w-[720px] my-5 p-4 rounded-[var(--radius-card)] border-l-4 border-[var(--color-discount)] bg-[var(--color-discount)]/10">
           {title && (
             <p className="text-[15px] font-bold text-[var(--text-primary)] mb-2">
               {title}
@@ -360,7 +360,7 @@ function SectionRenderer({
       const calloutTitle = title || defaultTitle;
       return (
         <aside
-          className="not-prose my-10 rounded-[8px] border-l-[3px] p-5 md:p-6"
+          className="not-prose max-w-[720px] my-10 rounded-[8px] border-l-[3px] p-5 md:p-6"
           style={{
             borderLeftColor: "var(--editorial-accent)",
             backgroundColor: "var(--bg-secondary)",
@@ -390,7 +390,7 @@ function SectionRenderer({
     case "pull-quote":
       return (
         <blockquote
-          className="not-prose my-10 md:my-12 py-6 md:py-8 px-2 md:px-4 border-t border-b relative"
+          className="not-prose max-w-[720px] my-10 md:my-12 py-6 md:py-8 px-2 md:px-4 border-t border-b relative"
           style={{ borderColor: "var(--border)" }}
         >
           <span
@@ -449,7 +449,7 @@ function SectionRenderer({
         : "";
       return (
         <aside
-          className="not-prose my-6 rounded-[6px] p-4 md:p-5 border-l-[3px]"
+          className="not-prose max-w-[720px] my-6 rounded-[6px] p-4 md:p-5 border-l-[3px]"
           style={{ backgroundColor: p.bg, borderLeftColor: p.border }}
         >
           <p
@@ -470,7 +470,7 @@ function SectionRenderer({
       if (items.length === 0) return null;
       const cols = items.length === 2 ? "grid-cols-2" : items.length === 3 ? "grid-cols-2 md:grid-cols-3" : "grid-cols-2 md:grid-cols-4";
       return (
-        <div className={`my-6 grid ${cols} gap-3`}>
+        <div className={`max-w-[720px] my-6 grid ${cols} gap-3`}>
           {items.map((it, i) => (
             <figure key={i} className="text-center">
               <div className="relative aspect-square rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-secondary)]">
@@ -560,7 +560,7 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
   const isExactMin = !!priceHistory && priceHistory.current <= priceHistory.min;
   return (
     <div
-      className="not-prose my-6 flex flex-wrap items-center gap-4 rounded-[var(--radius-card)] border p-4"
+      className="not-prose max-w-[720px] my-6 flex flex-wrap items-center gap-4 rounded-[var(--radius-card)] border p-4"
       style={{ borderColor: "var(--border)", backgroundColor: "var(--bg-secondary)" }}
     >
       {product.image && (
@@ -793,7 +793,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
               un CTA de bajo compromiso rinde mejor metido en el contenido, cerca
               del inicio, que esperando a que el lector llegue al final. */}
           <aside
-            className="not-prose mb-8 p-4 rounded-[var(--radius-card)] border-l-[3px] bg-[var(--bg-secondary)]"
+            className="not-prose max-w-[720px] mb-8 p-4 rounded-[var(--radius-card)] border-l-[3px] bg-[var(--bg-secondary)]"
             style={{ borderLeftColor: "var(--editorial-accent)" }}
           >
             <p className="text-sm text-[var(--text-secondary)] m-0">
@@ -826,7 +826,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
           {/* Seguir en ML, temprano en el cuerpo — mismo criterio que el aside
               de Telegram/WhatsApp de arriba: un CTA de bajo compromiso rinde
               mejor metido en el contenido que solo al final. */}
-          <div className="not-prose mb-8">
+          <div className="not-prose max-w-[720px] mb-8">
             <SeguirMlCard copy="default" />
           </div>
 
@@ -845,7 +845,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
                   <VerdictCta productMlaId={topPickId} />
                 )}
                 {section.type === "verdict" && (
-                  <div className="not-prose mb-8">
+                  <div className="not-prose max-w-[720px] mb-8">
                     <SeguirMlCard copy="verdict" />
                   </div>
                 )}
@@ -856,7 +856,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
       {/* Enlazado interno: va ANTES del FAQ. Con 39% de profundidad de scroll
           promedio, todo lo que vive después del FAQ no lo ve casi nadie. */}
       {guide.internalLinks && guide.internalLinks.length > 0 && (
-        <aside className="mt-10 p-5 rounded-[6px] bg-[var(--bg-secondary)] border border-[var(--border)]">
+        <aside className="max-w-[720px] mt-10 p-5 rounded-[6px] bg-[var(--bg-secondary)] border border-[var(--border)]">
           <p className="font-semibold text-[var(--text-primary)] mb-3">
             {guide.internalLinksTitle || "Guías relacionadas"}
           </p>
