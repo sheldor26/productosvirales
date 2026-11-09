@@ -7,6 +7,12 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-11-09
+
+- 🟢 VOLVIO EL STOCK — **MLA54267098** Proyector Portátil Gadnic FHD ATV 9000 Lúmenes Screen Mirroring 200 ANSI Enfoque Automático Rotación 270
+  - ML: https://www.mercadolibre.com.ar/proyector-portatil-gadnic-fhd-atv-9000-lumenes-screen-mirroring-200-ansi-enfoque-automatico-rotacion-270/p/MLA54267098
+  - Sitio: https://productosvirales.com.ar/producto/MLA54267098
+
 ## 2026-11-04
 
 - 🟢 VOLVIO EL STOCK — **MLA26853638** Velador Gadnic NI70 — Luz de Noche LED 7 Colores Recargable 24hs
