@@ -19427,16 +19427,16 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ogTitle: `Robot aspiradora 2026: la guía honesta para no comprar mal`,
     ogDescription: `Cuál robot aspiradora conviene de verdad en Argentina, sin chamuyo: lo que cambia entre un LIDAR oficial y un modelo de entrada, y dónde poner la plata.`,
     h1: `Robot aspiradora en Argentina: guía completa y mejores modelos [2026]`,
-    directAnswer: `Para la mayoría conviene el **Gadnic AC800 LiDAR** (alrededor de {{precio:MLA62126950:k}}): mapeo láser y base autolimpiante a precio de gama media. Si querés marca premium con service oficial, la Samsung; para alfombras y mascotas, la de 15.000 Pa de succión; y la más accesible es la nacional que aspira y trapea por menos de {{precio:MLA18642318:k}}.`,
+    directAnswer: `Para la mayoría conviene el **Gadnic AC800 LiDAR** (alrededor de {{precio:MLA62126950:k}}): mapeo láser y base autolimpiante a precio de gama media. Si querés LIDAR y autovaciado con el respaldo de una tienda oficial, el TP-Link Tapo RV30 Max Plus; si priorizás marca premium con service oficial, la Samsung; para alfombras y mascotas, la de 15.000 Pa de succión; y la más accesible es la nacional que aspira y trapea por menos de {{precio:MLA18642318:k}}.`,
     publishedDate: "2026-06-06",
-    updatedDate: "2026-06-06",
-    sitemapLastmod: "2026-08-25",
+    updatedDate: "2026-11-09",
+    sitemapLastmod: "2026-11-09",
     hasDisclosure: true,
     standfirst: `Todo lo que necesitás saber para elegir una robot aspiradora en Argentina sin gastar de más: ranking, tabla comparativa, qué mirar antes de pagar y cuál conviene según tu casa.`,
     intro: [
       `La **robot aspiradora** dejó de ser un capricho de tecnófilo para volverse el electrodoméstico que más cambia la rutina de limpieza de una casa. En los últimos dos años pasó algo importante en Argentina: funciones que antes eran exclusivas de modelos de US$1.000 —como el **mapeo láser (LIDAR)** y la **base de autovaciado**— bajaron a la gama media. Hoy un equipo de entre $450.000 y $600.000 hace cosas que en 2023 costaban el triple.`,
       `Pero el mercado argentino tiene una trampa: conviven modelos con **garantía oficial y service técnico local** (Xiaomi, Samsung) con importaciones grises que se cuelgan, no tienen repuestos y traen la app en chino. Elegir mal no es perder plata una vez, es quedarte con un aparato que junta polvo en el placard a los tres meses.`,
-      `Esta guía es el punto de partida del tema. Comparamos 18 modelos reales que se consiguen hoy en MercadoLibre Argentina, armamos un ranking honesto y te decimos en qué casos conviene cada uno. Si querés ir directo al grano, acá va la versión corta.`,
+      `Esta guía es el punto de partida del tema. Comparamos 7 modelos reales que se consiguen hoy en MercadoLibre Argentina, armamos un ranking honesto y te decimos en qué casos conviene cada uno. Si querés ir directo al grano, acá va la versión corta.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_711355-MLA100039491353_122025-F.jpg", alt: `Robot aspiradora Samsung Jetbot con estación de limpieza en una sala argentina`, imageSize: "hero" },
@@ -19444,6 +19444,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "h2", title: `Resumen rápido: cuál comprar según tu caso`, id: "resumen-rapido" },
       { type: "list", items: [
         `**Mejor elección general:** [Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV) — LIDAR + base autolimpiante a un precio de gama media, con +1.000 vendidas y 4.8 estrellas.`,
+        `**LIDAR y autovaciado con tienda oficial:** [TP-Link Tapo RV30 Max Plus](https://meli.la/1WYYPbZ) — navegación dual LIDAR + IMU y base de autovaciado de 3L, vendido por la tienda oficial de TP-Link.`,
         `**Mejor premium con garantía oficial:** [Samsung Jetbot LIDAR](https://meli.la/15C617u) — marca con service en Argentina, SmartThings y estación de limpieza.`,
         `**Mejor succión bruta:** [Xiaomi Robot Vacuum S40 Pro](https://meli.la/117oW5y) — 15.000 Pa y brazos extensibles para zócalos y esquinas.`,
         `**Mejor entrada al ecosistema Xiaomi:** [Xiaomi Robot Vacuum S40c](https://meli.la/16WtjsG) — mapeo y app Mi Home en español por menos de {{precio:MLA61420449:k}}.`,
@@ -19451,7 +19452,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         `**Más accesible nacional:** [Atma ATAR21C1DH](https://meli.la/1TWykcE) — marca argentina, 3 en 1 aspira y trapea simultáneo, por menos de {{precio:MLA18642318:k}}.`,
       ] },
   
-      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos 18 robots aspiradora que se venden hoy en MercadoLibre Argentina y los ordenamos por relación precio-prestaciones, no por marketing. Priorizamos cuatro cosas que cambian la experiencia real: tipo de navegación (LIDAR/láser vs giroscópica vs aleatoria), potencia de succión en Pascales (Pa), si trapea de verdad o solo arrastra un trapo húmedo, y —clave en Argentina— si hay garantía oficial y repuestos locales (cepillos, filtros, baterías). Cuando un producto tiene calificaciones públicas en MercadoLibre, las citamos tal cual; no inventamos números.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos 7 robots aspiradora que se venden hoy en MercadoLibre Argentina y los ordenamos por relación precio-prestaciones, no por marketing. Priorizamos cuatro cosas que cambian la experiencia real: tipo de navegación (LIDAR/láser vs giroscópica vs aleatoria), potencia de succión en Pascales (Pa), si trapea de verdad o solo arrastra un trapo húmedo, y —clave en Argentina— si hay garantía oficial y repuestos locales (cepillos, filtros, baterías). Cuando un producto tiene calificaciones públicas en MercadoLibre, las citamos tal cual; no inventamos números.` },
   
       { type: "h2", title: `Qué es y cómo funciona una robot aspiradora`, id: "que-es" },
       { type: "p", content: `Una robot aspiradora es un disco de entre 7 y 10 cm de alto que se mueve solo por el piso, aspira polvo, pelos y migas, y vuelve a su base a cargarse. Los modelos actuales suman trapeado (un paño húmedo que arrastra debajo), mapeo de la casa y control desde el celular. La diferencia de precio entre un equipo de $120.000 y uno de $1.000.000 está casi toda en **cómo navega** y en **cuánto se ocupa solo** de su propio mantenimiento.` },
@@ -19466,34 +19467,40 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "pull-quote", content: `Lo programé para que limpie a la mañana cuando no estoy y vuelvo con la casa impecable. La base que se vacía sola es lo mejor, no la toco hace tres semanas.`, attribution: `— Comprador en Argentina, 2025` },
       { type: "p", content: `¿La letra chica honesta? Gadnic no tiene la red de service de una multinacional, así que ante una falla dependés del vendedor y de la garantía de MercadoLibre. Para la mayoría de los hogares eso no es un problema, pero si querés un respaldo de marca grande, mirá el #2. Profundizamos en la línea en la [guía de robot aspiradora Gadnic](/guias/robot-aspiradora-gadnic).` },
   
-      { type: "h3", title: `2. Samsung Jetbot LIDAR — mejor premium con garantía oficial` },
-      { type: "product-card", productMlaId: "MLA26504431", label: "Premium oficial", labelColor: "blue", ranking: 2, description: `LIDAR, app SmartThings en español y estación de limpieza, con el respaldo de service técnico Samsung en Argentina. La opción de marca grande para quien prioriza soporte oficial y tiene presupuesto premium.` },
+      { type: "h3", title: `2. TP-Link Tapo RV30 Max Plus — LIDAR y autovaciado con tienda oficial` },
+      { type: "product-card", productMlaId: "MLA51988922", label: "LIDAR y autovaciado", labelColor: "blue", ranking: 2, description: `Navegación dual LIDAR + IMU, base de autovaciado con bolsa de 3 litros y 5.300 Pa de succión. Vendido por la tienda oficial de TP-Link en MercadoLibre, con 4.8 estrellas y más de 200 calificaciones.` },
+      { type: "p", content: `El [TP-Link Tapo RV30 Max Plus](https://meli.la/1WYYPbZ) suma, a precio de gama media, dos cosas que hasta hace poco eran casi exclusivas de equipos bastante más caros: **LIDAR real** (mapea con un láser giratorio, no a los choques) y **base de autovaciado**, con una bolsa de 3 litros que, según el fabricante, aguanta hasta 2 meses sin tocarla. A diferencia del Gadnic de arriba, viene con el respaldo de una **tienda oficial de marca** (TP-Link, a través de AWARE SOLUTIONS, MercadoLíder Platinum con más de 10 mil ventas), un paso intermedio entre comprarle a un vendedor sin marca y el service completo de una multinacional como Samsung.` },
+      { type: "p", content: `La contra real, confirmada por una review de varias semanas de uso real: el sensor LIDAR en la parte de arriba le suma unos 2-3 cm de altura respecto a un robot sin mapeo, así que en huecos muy bajos (debajo de sillones chicos) puede quedarse en el borde sin entrar del todo. Y el trapeado, como en casi todos los de esta lista, sirve para mantenimiento diario, no para sacar manchas secas o muy pegadas al piso.` },
+
+      { type: "h3", title: `3. Samsung Jetbot LIDAR — mejor premium con garantía oficial` },
+      { type: "product-card", productMlaId: "MLA26504431", label: "Premium oficial", labelColor: "blue", ranking: 3, description: `LIDAR, app SmartThings en español y estación de limpieza, con el respaldo de service técnico Samsung en Argentina. La opción de marca grande para quien prioriza soporte oficial y tiene presupuesto premium.` },
       { type: "p", content: `Si tu prioridad es **comprar tranquilo**, el [Samsung Jetbot](https://meli.la/15C617u) es la respuesta. Trae LIDAR, se integra al ecosistema **SmartThings** (la misma app que maneja tu Smart TV o heladera Samsung) y tiene estación de limpieza. Pero lo que de verdad pagás acá es el respaldo: Samsung tiene **distribución y service oficial en Argentina**, repuestos disponibles y firmware en español que se actualiza. Es lo que separa una compra de marca de una importación gris.` },
       { type: "p", content: `Acá viene la salvedad: hoy ronda los {{precio:MLA26504431:k}}, en la franja más alta del ranking. Lo justificás solo si querés el respaldo de una multinacional y la plata no es el límite. Ojo con un detalle: Xiaomi también tiene distribución oficial en Argentina y arranca por una fracción de ese precio, así que "marca grande con service" no obliga a gastar tanto. Si te interesa entender por qué el LIDAR cambia tanto la limpieza, lo desarrollamos en la guía de [robot aspiradora con mapeo láser](/guias/robot-aspiradora-con-mapeo-laser).` },
   
-      { type: "h3", title: `3. Xiaomi Robot Vacuum S40 Pro — mejor succión` },
-      { type: "product-card", productMlaId: "MLA66281403", label: "Más potencia", labelColor: "purple", ranking: 3, description: `15.000 Pa de succión y brazos extensibles que llegan a zócalos y esquinas. Mapeo, WiFi y app Mi Home en español. La bestia para casas con alfombras y mascotas.` },
+      { type: "h3", title: `4. Xiaomi Robot Vacuum S40 Pro — mejor succión` },
+      { type: "product-card", productMlaId: "MLA66281403", label: "Más potencia", labelColor: "purple", ranking: 4, description: `15.000 Pa de succión y brazos extensibles que llegan a zócalos y esquinas. Mapeo, WiFi y app Mi Home en español. La bestia para casas con alfombras y mascotas.` },
       { type: "p", content: `Cuando hablamos de **15.000 Pa** de succión, hablamos de una potencia que de verdad arranca el polvo incrustado de una alfombra, no que lo empuja. El [Xiaomi S40 Pro](https://meli.la/117oW5y) suma **brazos extensibles** que se estiran para barrer zócalos y rincones que un robot redondo normalmente no alcanza. Trae mapeo, WiFi y la app **Mi Home** en español, con el ecosistema Xiaomi y su distribución cada vez más sólida en Argentina detrás.` },
       { type: "p", content: `Es la mejor opción si tenés alfombras gruesas, mascotas que sueltan mucho pelo o pisos con mucho detalle de zócalos. Si te tira Xiaomi pero querés gastar menos, abajo está el S40c. Comparamos toda la línea en la [guía de robot aspiradora Xiaomi](/guias/robot-aspiradora-xiaomi).` },
   
-      { type: "h3", title: `4. Xiaomi Robot Vacuum S40c — mejor entrada a Xiaomi` },
-      { type: "product-card", productMlaId: "MLA61420449", label: "Mejor entrada", labelColor: "green", ranking: 4, description: `Mapeo, WiFi y app Mi Home en español por menos de {{precio:MLA61420449:k}}. La puerta más barata al ecosistema Xiaomi, con {{rating:MLA61420449}} estrellas. Sin base de autovaciado, pero cumple.` },
+      { type: "h3", title: `5. Xiaomi Robot Vacuum S40c — mejor entrada a Xiaomi` },
+      { type: "product-card", productMlaId: "MLA61420449", label: "Mejor entrada", labelColor: "green", ranking: 5, description: `Mapeo, WiFi y app Mi Home en español por menos de {{precio:MLA61420449:k}}. La puerta más barata al ecosistema Xiaomi, con {{rating:MLA61420449}} estrellas. Sin base de autovaciado, pero cumple.` },
       { type: "p", content: `El [Xiaomi S40c](https://meli.la/16WtjsG) es la forma más accesible de entrar al ecosistema Xiaomi con mapeo real. Por menos de {{precio:MLA61420449:k}} tenés navegación inteligente, WiFi y la app **Mi Home** en español —la misma que ya usás si tenés una balanza o una lámpara Xiaomi—. Con **{{rating:MLA61420449}} estrellas**, es de los más elegidos en su rango de precio.` },
       { type: "p", content: `No trae base de autovaciado (vaciás el depósito a mano cada par de días) y la succión es menor que la del S40 Pro, pero para un departamento o una casa de pisos lisos cumple sobrado. Es el clásico "primer robot" sin arrepentimientos.` },
   
-      { type: "h3", title: `5. Gadnic AspiRob — mejor trapeado` },
-      { type: "product-card", productMlaId: "MLA36838658", label: "Mejor para trapear", labelColor: "amber", ranking: 5, description: `Aspirado y trapeado con mapeo y detección de obstáculos, por menos de {{precio:MLA36838658:k}}. Con 4.8 estrellas, es la opción para quien quiere los pisos no solo sin polvo, sino repasados.` },
+      { type: "h3", title: `6. Gadnic AspiRob — mejor trapeado` },
+      { type: "product-card", productMlaId: "MLA36838658", label: "Mejor para trapear", labelColor: "amber", ranking: 6, description: `Aspirado y trapeado con mapeo y detección de obstáculos, por menos de {{precio:MLA36838658:k}}. Con 4.8 estrellas, es la opción para quien quiere los pisos no solo sin polvo, sino repasados.` },
       { type: "p", content: `Si en tu casa el problema no es tanto el polvo sino el **piso pegajoso** (cocina, zonas de paso, mascotas), el [Gadnic AspiRob](https://meli.la/2mPhJwy) prioriza el trapeado sin resignar mapeo ni detección de obstáculos. Tiene **4.8 estrellas** y un precio de gama media-baja que lo hace muy fácil de justificar.` },
       { type: "p", content: `Ojo con la expectativa: ningún robot reemplaza un baldeo a fondo, pero para mantener los pisos repasados día a día rinde muy bien. Si el trapeado es tu prioridad absoluta, armamos un ranking dedicado en [mejores robot aspiradora trapeadora](/guias/mejores-robot-aspiradora-trapeadora).` },
   
-      { type: "h3", title: `6. Atma ATAR21C1DH — más accesible nacional` },
-      { type: "product-card", productMlaId: "MLA18642318", label: "Mejor precio nacional", labelColor: "green", ranking: 6, description: `Marca argentina, 3 en 1 que aspira y trapea simultáneo, tanque de 450 ml y sistema antichoque, por menos de {{precio:MLA18642318:k}}. Para empezar sin gastar mucho.` },
+      { type: "h3", title: `7. Atma ATAR21C1DH — más accesible nacional` },
+      { type: "product-card", productMlaId: "MLA18642318", label: "Mejor precio nacional", labelColor: "green", ranking: 7, description: `Marca argentina, 3 en 1 que aspira y trapea simultáneo, tanque de 450 ml y sistema antichoque, por menos de {{precio:MLA18642318:k}}. Para empezar sin gastar mucho.` },
       { type: "p", content: `El [Atma ATAR21C1DH](https://meli.la/1TWykcE) es la entrada más sensata si tu presupuesto es ajustado y querés una **marca argentina** con respaldo conocido. Es un 3 en 1 que aspira y trapea al mismo tiempo, tiene tanque de 450 ml y sistema antichoque. Por menos de {{precio:MLA18642318:k}}, es difícil pedirle más.` },
       { type: "p", content: `No esperes mapeo ni app: este modelo navega por sensores y patrones, no arma un plano de tu casa. Pero para un ambiente o un departamento chico va sobrado, y el hecho de ser nacional simplifica la garantía. Es nuestro "no falla" para quien recién arranca.` },
   
       { type: "h2", title: `Tabla comparativa de los mejores modelos`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio aprox.`, `Navegación`, `Succión / extras`, `Para quién`], rows: [
         [`[Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV)`, `{{precio:MLA62126950}}`, `LIDAR`, `5.000 Pa · base autolimpiante`, `La mejor para casi todos`],
+        [`[TP-Link Tapo RV30 Max Plus](https://meli.la/1WYYPbZ)`, `{{precio:MLA51988922}}`, `LIDAR + IMU`, `5.300 Pa · base de autovaciado 3L`, `LIDAR y autovaciado, tienda oficial`],
         [`[Samsung Jetbot LIDAR](https://meli.la/15C617u)`, `{{precio:MLA26504431}}`, `LIDAR`, `Estación de limpieza · SmartThings`, `Quien quiere garantía oficial`],
         [`[Xiaomi S40 Pro](https://meli.la/117oW5y)`, `{{precio:MLA66281403}}`, `Mapeo`, `15.000 Pa · brazos extensibles`, `Alfombras y mascotas`],
         [`[Xiaomi S40c](https://meli.la/16WtjsG)`, `{{precio:MLA61420449}}`, `Mapeo`, `App Mi Home · WiFi`, `Primer robot con mapeo`],
@@ -19519,6 +19526,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "list", items: [
         `**Departamento chico o un ambiente:** el [Atma ATAR21C1DH](https://meli.la/1TWykcE) va sobrado y es el más accesible. Si querés mapeo, el [Xiaomi S40c](https://meli.la/16WtjsG).`,
         `**Casa grande con varios ambientes:** necesitás mapeo sí o sí para que limpie ordenado y no se pierda. El [Gadnic AC800](https://meli.la/2UjN3FV) es el punto dulce.`,
+        `**Querés LIDAR y autovaciado con respaldo de tienda oficial:** el [TP-Link Tapo RV30 Max Plus](https://meli.la/1WYYPbZ), a cambio de unos centímetros más de altura por el sensor.`,
         `**Mascotas que sueltan mucho pelo:** priorizá succión. El [Xiaomi S40 Pro](https://meli.la/117oW5y) con sus 15.000 Pa es el indicado.`,
         `**Pisos que se ensucian rápido (cocina, paso):** el [Gadnic AspiRob](https://meli.la/2mPhJwy) prioriza el trapeado.`,
         `**Querés comprar tranquilo con marca grande:** el [Samsung Jetbot](https://meli.la/15C617u), con service oficial en Argentina.`,
@@ -19532,6 +19540,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         `[Xiaomi S40c](https://meli.la/16WtjsG) — **{{precio:MLA61420449}}** · el mapeo más barato con app en español.`,
         `[Gadnic AspiRob](https://meli.la/2mPhJwy) — **{{precio:MLA36838658}}** · mapeo + trapeado equilibrado.`,
         `[Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV) — **{{precio:MLA62126950}}** · LIDAR y base autolimpiante a precio de gama media.`,
+        `[TP-Link Tapo RV30 Max Plus](https://meli.la/1WYYPbZ) — **{{precio:MLA51988922}}** · LIDAR + IMU y base de autovaciado, tienda oficial.`,
         `[Xiaomi S40 Pro](https://meli.la/117oW5y) — **{{precio:MLA66281403}}** · 15.000 Pa, el de más succión.`,
         `[Samsung Jetbot LIDAR](https://meli.la/15C617u) — **{{precio:MLA26504431}}** · premium con garantía oficial Samsung.`,
       ] },
@@ -19547,7 +19556,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         `[Cómo funciona una robot aspiradora](/guias/como-funciona-robot-aspiradora) — la mecánica, paso a paso, sin vueltas.`,
       ] },
 
-      { type: "verdict", content: `Para la mayoría, el [Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV) es la compra más inteligente del momento: LIDAR y base autolimpiante a un precio que hace dos años era impensado, con más de 1.000 vendidas que lo respaldan. Si querés marca grande con service oficial sin gastar de más, el [Xiaomi S40 Pro](https://meli.la/117oW5y) tiene la mayor succión del catálogo y distribución oficial; el [Samsung Jetbot LIDAR](https://meli.la/15C617u) es el premium de marca por excelencia, pero hoy es el más caro por lejos. Y si querés arrancar gastando poco, el [Atma ATAR21C1DH](https://meli.la/1TWykcE) nacional cumple sin pretensiones. Sea cual sea, priorizá garantía y repuestos locales por encima de un número de succión llamativo.` },
+      { type: "verdict", content: `Para la mayoría, el [Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV) es la compra más inteligente del momento: LIDAR y base autolimpiante a un precio que hace dos años era impensado, con más de 1.000 vendidas que lo respaldan. Si querés esa misma combinación con el respaldo de una tienda oficial de marca, el [TP-Link Tapo RV30 Max Plus](https://meli.la/1WYYPbZ) es la alternativa, a cambio de unos centímetros más de altura por el sensor. Si querés marca grande con service oficial sin gastar de más, el [Xiaomi S40 Pro](https://meli.la/117oW5y) tiene la mayor succión del catálogo y distribución oficial; el [Samsung Jetbot LIDAR](https://meli.la/15C617u) es el premium de marca por excelencia, pero hoy es el más caro por lejos. Y si querés arrancar gastando poco, el [Atma ATAR21C1DH](https://meli.la/1TWykcE) nacional cumple sin pretensiones. Sea cual sea, priorizá garantía y repuestos locales por encima de un número de succión llamativo.` },
     ],
     faq: [
       { question: `¿Vale la pena comprar una robot aspiradora en 2026?`, answer: `Sí, más que nunca. En los últimos dos años el mapeo LIDAR y la base de autovaciado bajaron de la gama premium a la gama media, así que por $450.000-$600.000 conseguís un equipo que en 2023 costaba el triple. Para mantenimiento diario de pisos —polvo, pelos, migas— rinde muchísimo. Lo que no reemplaza es una limpieza a fondo ocasional.` },
@@ -19571,6 +19580,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinksTitle: "Guías relacionadas",
     quickPicks: [
       { productMlaId: "MLA62126950", label: "Mejor en general", labelColor: "green", tagline: "LIDAR + base autolimpiante a precio de gama media" },
+      { productMlaId: "MLA51988922", label: "LIDAR y autovaciado", labelColor: "blue", tagline: "TP-Link con tienda oficial, base de autovaciado de 3L" },
       { productMlaId: "MLA26504431", label: "Premium oficial", labelColor: "blue", tagline: "Samsung con service en Argentina" },
       { productMlaId: "MLA66281403", label: "Más potencia", labelColor: "purple", tagline: "15.000 Pa para alfombras y mascotas" },
       { productMlaId: "MLA18642318", label: "Más accesible", labelColor: "green", tagline: "Marca nacional, aspira y trapea, bajo {{precio:MLA18642318:k}}" },

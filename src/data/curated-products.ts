@@ -31171,7 +31171,7 @@ Robot Gadnic AC800, base autolimpiante con bolsa de 3,2 L, cepillos laterales (c
     verdict: 'El premium de Gadnic y el LiDAR + base autolimpiante más accesible del catálogo: mapea de verdad, se vacía solo y aspira muy bien el pelo de mascota, todo a un precio muy por debajo de las importadas premium y con service local. La fricción está en la app Tuya y el WiFi (solo 2,4 GHz, manual flojo): pasada esa curva inicial, es una de las mejores relaciones precio/calidad del catálogo para quien quiere automatización total sin gastar fortunas.',
     bestOccasion: ['Máxima automatización a precio de marca local', 'Hogares con mascotas y casas medianas/grandes', 'Quien quiere LiDAR + autovaciado sin pagar importado'],
     notRecommendedFor: ['Quien no quiera lidiar con la app Tuya / WiFi 2,4 GHz', 'Limpieza profunda (el trapeado es de mantenimiento)', 'Muebles muy bajos (mide 9,7 cm)'],
-    relatedProducts: ['MLA36838658', 'MLA44240016', 'MLA26504431'],
+    relatedProducts: ['MLA36838658', 'MLA51988922', 'MLA26504431'],
     description: 'Cod. : ROB0518X Aspiradora Trapeadora Robot Gadnic AC800 Con Base Carga Mapeo Inteligente    ACERCA DE ÉSTE PRODUCTO:  Limpieza Inteligente Con Mapeo Laser: La aspiradora robot Gadnic AC800 incorpora tecnologia LIDAR 360 que permite mapeo preciso del entorno. Organiza recorridos eficientes evitando ',
   },
   {
@@ -49625,7 +49625,153 @@ Robot Jet Bot+, estación de autovaciado y carga, cepillo, filtro y depósito de
         worstRating: '1',
       },
     },
-    relatedProducts: ['MLA18917302', 'MLA66281403', 'MLA42103831'],
+    relatedProducts: ['MLA51988922', 'MLA66281403', 'MLA42103831'],
+  },
+  {
+    id: 'MLA51988922',
+    title: 'Robot Aspirador Tapo Rv30 Max Plus TP-Link Ultra 5300pa, color negro, 220 V',
+    canonicalName: 'TP-Link Tapo RV30 Max Plus',
+    reviewsSampledAt: '2026-11-09',
+    price: 436049,
+    originalPrice: 632218,
+    priceUpdated: "2026-11-09",
+    priceLastChecked: "2026-11-09",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_923143-MLA99480440474_112025-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_923143-MLA99480440474_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_869330-MLA92000037485_092025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_734655-MLA92450705975_092025-O.webp',
+    ],
+    category: 'Electrodomésticos y Aires Ac.',
+    categorySlug: 'hogar',
+    permalink: 'https://www.mercadolibre.com.ar/robot-aspirador-tapo-rv30-max-plus-tp-link-ultra-5300pa-color-negro-220-v/p/MLA51988922',
+    affiliateUrl: 'https://meli.la/1WYYPbZ',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 224,
+    brand: 'TP-Link',
+    line: 'Tapo RV30 Max Plus',
+    color: 'Negro',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'El Tapo RV30 Max Plus es el robot aspirador y trapeador de TP-Link con navegación dual LiDAR + IMU, base de autovaciado con bolsa de 3 litros y 5300 Pa de succión en 5 niveles. Vendido por la tienda oficial de TP-Link en MercadoLibre, con 4.8★ y más de 200 calificaciones.',
+    seoTitle: 'TP-Link Tapo RV30 Max Plus: LiDAR, autovaciado y 5300 Pa',
+    metaDescription: 'Robot aspirador TP-Link Tapo RV30 Max Plus: navegación dual LiDAR + IMU, base de autovaciado de 3L y 5300 Pa. 4.8★ con {{reviews:MLA51988922}} opiniones. Análisis honesto.',
+    ogTitle: 'TP-Link Tapo RV30 Max Plus: LiDAR y autovaciado sin pagar de más',
+    ogDescription: '4.8★. Mapeo dual LiDAR + IMU, base de autovaciado de 3L, 5300 Pa de succión y control por app y voz. La contra real: el sensor le suma altura.',
+    h1: 'Robot aspirador TP-Link Tapo RV30 Max Plus: LiDAR y autovaciado, análisis honesto',
+    pros: [
+      '4.8⭐ con 224 calificaciones, vendido por la tienda oficial de TP-Link (MercadoLíder Platinum, +10 mil ventas)',
+      'Navegación dual LiDAR + IMU: mapea en minutos y funciona igual con la luz apagada, a diferencia de los robots que navegan con cámara',
+      'Base de autovaciado con bolsa sellada de 3 litros: según el fabricante, hasta 2 meses sin tener que vaciarla a mano',
+      '5300 Pa de succión en 5 niveles, con aumento automático al detectar alfombra',
+      'Evita mojar las zonas de alfombra en modo fregado; apto para pelo de mascota',
+      'Según una review en video de uso prolongado, es más chico y liviano que varios robots de gama alta: pasa mejor entre sillas y muebles',
+      'App Tapo con perfiles compartidos entre varios usuarios, control por voz (Alexa, Google Assistant) y mapas de hasta 4 pisos',
+    ],
+    cons: [
+      'El robot mide 100 mm de alto y necesita 10,2 cm de espacio libre para pasar, 17 mm más que su hermano ultrafino (Tapo RV20 Max Plus, 83 mm), así que en huecos muy bajos puede quedarse en el borde',
+      'El fregado sirve para mantenimiento diario, no para sacar manchas secas o muy pegadas al piso',
+      'No siempre detecta objetos chicos y finos sueltos en el piso (cables, por ejemplo): conviene despejarlos antes de cada limpieza',
+    ],
+    verdict: 'El robot con mejor relación entre tecnología y precio de este grupo: tiene lo que hasta hace poco era exclusivo de equipos bastante más caros (LiDAR real, base de autovaciado) a un precio de gama media, con el respaldo de una tienda oficial de marca. Si no te importa que sea 17 mm más alto que su hermano ultrafino por el sensor, es difícil pedirle más por esta plata.',
+    articleBody: `## Cómo funciona: navegación dual LiDAR + IMU
+
+El Tapo RV30 Max Plus tiene un sensor LiDAR montado en la parte superior (el "gorrito" que lo distingue de otros robots más chatos) que escanea el entorno con un campo de visión de 360° y arma un mapa de la casa en minutos. A diferencia de los robots que navegan con una cámara tipo "mirilla", el LiDAR no depende de luz ambiente: mapea igual de bien con la luz apagada, algo que confirma una review independiente de varias semanas de uso.
+
+El sensor IMU (giroscopio e inclinómetro) complementa al LiDAR detectando si el robot está inclinado, si una rueda perdió contacto con el piso, o si se acerca a un desnivel, y frena o retrocede en milisegundos para evitar caídas.
+
+Sobre ese mapa, la tecnología **Tapo IQ+ Smart Cleaning** planifica rutas, evita obstáculos bajos (pantuflas, juguetes chicos) y permite limpieza enfocada en zonas puntuales, como debajo de la mesa después de comer. El fabricante declara más de 97% de tasa de recolección de polvo gracias a su tecnología DeepVac, aunque esa comparación específica contra "otros" robots es un dato propio del fabricante, no verificado de forma independiente.
+
+## Base de autovaciado: la función que cambia el día a día
+
+Al terminar la limpieza, el robot vuelve solo a su base, que aspira el contenido de su depósito de 300 mL hacia una bolsa sellada de 3 litros. Según el fabricante, esa bolsa aguanta hasta 2 meses antes de que haga falta cambiarla, así que en la práctica dejás de vaciar el robot después de cada pasada.
+
+## Succión de 5300 Pa y cómo se comporta en alfombra
+
+Con 5300 Pa de succión repartidos en 5 niveles seleccionables desde la app, el robot recoge bien polvo, pelo de mascota y residuos chicos de distinto tipo, según confirma tanto la ficha técnica como una review real de varias semanas de uso. Al detectar alfombra, sube la succión automáticamente para compensar; en modo fregado hace lo opuesto y evita directamente las zonas de alfombra, para no mojarlas.
+
+## Fregado: para mantenimiento, no para manchas difíciles
+
+El accesorio de mopa se humedece desde un depósito de 300 mL de agua, con 3 niveles de caudal ajustables, y hace un repaso húmedo después de aspirar. Es bueno para el mantenimiento diario del piso, pero una review de uso real es clara en esto: las manchas más secas o pegadas al piso cuestan más de sacar que con un trapeado a mano. No reemplaza una limpieza profunda ocasional.
+
+## La contra real: unos centímetros más de altura
+
+Tener el sensor LiDAR montado arriba, en vez de integrado al cuerpo, tiene un costo físico: el robot mide 100 mm de alto y necesita 10,2 cm de espacio libre para pasar, según la ficha técnica oficial. El **Tapo RV20 Max Plus**, de la misma línea, resuelve esto distinto: tiene el mismo tipo de navegación por láser (su propia versión, llamada LiDAR MagSlim™, integrada sin torre) en un cuerpo ultrafino de apenas 83 mm, 17 mm menos que el RV30. En huecos muy bajos (debajo de sillones o muebles con poco espacio), el RV30 puede quedarse en el borde sin poder entrar del todo, mientras que el RV20 sí pasa. Si tu prioridad es que entre en todos los rincones bajos de tu casa, el RV20 Max Plus es la alternativa a evaluar dentro de la misma línea Tapo.
+
+## App, control por voz y mapas de varios pisos
+
+La app Tapo deja programar horarios, marcar zonas prohibidas y paredes virtuales, y compartir el manejo del robot entre varios usuarios con sus propias cuentas. Se integra con Amazon Alexa y Google Assistant para arrancar, frenar o mandarlo a una zona con la voz. Si vivís en una casa de varios pisos, guarda hasta 4 mapas (3+1) directamente en el robot, sin depender de la nube.
+
+## Dónde se ubica en esta guía
+
+Frente al [Gadnic 5000 Pa LIDAR](/producto/aspiradora-robot-gadnic-5000-pa-lidar-360-base-autolimpiante-bolsa-3-2-litros-14-mla62126950) de esta guía, el Tapo suma el respaldo de una tienda oficial de marca, algo que el Gadnic no tiene. Frente al [Samsung Jet Bot+](/producto/aspiradora-robot-samsung-jetbot-lidar-mapping-dig-inverter-mla26504431), que también mapea y se vacía solo, el Tapo cuesta una fracción del precio, a cambio de un ecosistema de marca menos premium. Es la opción de esta guía para quien quiere LiDAR real y autovaciado sin pagar precio de gama alta.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'TP-Link / Tapo RV30 Max Plus' },
+      { label: 'Tipo', value: 'Robot aspirador y trapeador con LiDAR + base de autovaciado' },
+      { label: 'Succión', value: '5300 Pa (5,3 kPa) · 5 niveles' },
+      { label: 'Potencia', value: '45 W' },
+      { label: 'Navegación', value: 'Dual LiDAR + IMU, 360°, mapeo en unos 15 minutos' },
+      { label: 'Funciones inteligentes', value: 'Tapo IQ+ Smart Cleaning, Mesh Grid, bloqueo de mapa, zonas/horarios personalizados, paredes virtuales' },
+      { label: 'Base de autovaciado', value: 'Sí · bolsa sellada de 3 L · hasta 2 meses según el fabricante' },
+      { label: 'Depósito de polvo (robot)', value: '300 mL' },
+      { label: 'Depósito de agua (fregado)', value: '300 mL' },
+      { label: 'Filtración', value: 'Filtros HEPA' },
+      { label: 'WiFi / App', value: 'Sí · app Tapo, perfiles compartidos' },
+      { label: 'Control por voz', value: 'Alexa, Google Assistant' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí (sube succión y evita mojar en fregado) / Sí' },
+      { label: 'Batería', value: '2,6 Ah · hasta 2,5 h de autonomía' },
+      { label: 'Carga', value: '4 h · retorno y reanudación automática' },
+      { label: 'Capacidad de ascenso', value: 'Hasta 22 mm (umbrales y desniveles)' },
+      { label: 'Mapas', value: 'Hasta 4 pisos (3+1), guardados en el robot' },
+      { label: 'Color / Voltaje', value: 'Negro / 220 V' },
+    ],
+    faq: [
+      { question: '¿El TP-Link Tapo RV30 Max Plus se vacía solo?', answer: 'Sí. Al terminar vuelve a su base, que aspira el contenido del robot hacia una bolsa sellada de 3 litros. Según el fabricante aguanta hasta 2 meses, así que dejás de vaciarlo después de cada limpieza.' },
+      { question: '¿Tiene mapeo LiDAR de verdad?', answer: 'Sí, navegación dual LiDAR + IMU con 360° de visión. A diferencia de los robots que navegan con cámara, funciona igual con la luz apagada, confirmado por una review independiente de varias semanas de uso.' },
+      { question: '¿Sirve para alfombras?', answer: 'Sí. Sube la succión automáticamente al detectar alfombra, y en modo fregado hace lo contrario: evita esas zonas para no mojarlas.' },
+      { question: '¿Es más grande que otros robots Tapo?', answer: 'Sí: mide 100 mm de alto y necesita 10,2 cm de espacio para pasar, 17 mm más que el Tapo RV20 Max Plus (83 mm), que también tiene navegación láser (su propia versión, LiDAR MagSlim™) pero integrada en un cuerpo ultrafino, sin torre. Si necesitás que entre en huecos muy bajos, el RV20 es la alternativa dentro de la misma línea.' },
+      { question: '¿Qué tan bien frega?', answer: 'Sirve para mantenimiento diario del piso, pero una review real de uso prolongado aclara que las manchas secas o muy pegadas cuestan más de sacar. No reemplaza una limpieza profunda a mano.' },
+      { question: '¿Se controla por voz?', answer: 'Sí, se integra con Amazon Alexa y Google Assistant para iniciar, frenar o mandarlo a limpiar una zona puntual con la voz, además del control por app.' },
+      { question: '¿Cuánto dura la batería?', answer: 'Hasta 2,5 horas de autonomía. Si se queda sin batería a mitad de la limpieza, vuelve solo a cargar y retoma exactamente donde la dejó.' },
+      { question: '¿Hay que sacar los cables del piso antes de limpiar?', answer: 'Conviene hacerlo. El robot evita bien obstáculos de cierto volumen, pero objetos chicos y finos sueltos en el piso, como cables, no siempre los esquiva.' },
+    ],
+    customerReviews: [
+      { rating: 5, date: '2025-12-09', country: 'Argentina', text: 'Tenía algunas dudas por ser el primero que compro. Vivo en un depto de 4 ambientes en un piso 8, la suciedad es polvo y pelusas, no tengo mascotas ni hay niños. Estoy súper conforme, mantiene perfecto tanto piso de madera como cerámica. Lo que más me preocupaba era el nivel de ruido y no molesta para nada.', useful: 17 },
+      { rating: 5, date: '2026-01-09', country: 'Argentina', text: 'Es excelente. Es la tercera aspiradora robot que tengo. Se nota la diferencia de calidad contra las baratas chinas. Identifica muy bien los obstáculos, pasa sin problemas alfombras con altura (tengo alfombras de goma de mis hijos y las aspira sin problemas). El mapeo de la casa es excelente y la integración con Alexa es muy fácil. Altamente recomendado.', useful: 8 },
+      { rating: 5, date: '2025-12-09', country: 'Brasil', text: 'Parece limpiar bien, para el primer uso fue excelente, olvidé las puertas y algunos obstáculos, pero será muy útil en el día a día.', useful: 7 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Robot Aspirador TP-Link Tapo RV30 Max Plus',
+      description: 'Robot aspirador y trapeador TP-Link Tapo RV30 Max Plus con navegación dual LiDAR + IMU, base de autovaciado con bolsa de 3 litros, succión de 5300 Pa en 5 niveles, app Tapo y control por voz (Alexa, Google Assistant).',
+      brand: { '@type': 'Brand', name: 'TP-Link' },
+      model: 'Tapo RV30 Max Plus',
+      sku: 'MLA51988922',
+      category: 'Aspiradoras robot',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_923143-MLA99480440474_112025-O.webp',
+      url: 'https://productosvirales.com.ar/producto/robot-aspirador-tapo-rv30-max-plus-tp-link-ultra-5300pa-color-negro-220-v-mla51988922',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '436049',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1WYYPbZ',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '224',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    relatedProducts: ['MLA26504431', 'MLA62126950', 'MLA66281403'],
   },
   {
     id: 'MLA18917302',
