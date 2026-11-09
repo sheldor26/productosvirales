@@ -64,8 +64,15 @@ export function RichComparisonTable({ section }: { section: GuideSection }) {
                       </div>
                     ) : null;
                     const nameEl = (
-                      <span className="font-semibold text-[var(--text-primary)] leading-snug">
-                        {name}
+                      <span className="block">
+                        <span className="font-semibold text-[var(--text-primary)] leading-snug">
+                          {name}
+                        </span>
+                        {product?.soldQuantity ? (
+                          <span className="block text-[12px] text-[var(--text-muted)]">
+                            +{product.soldQuantity.toLocaleString("es-AR")} vendidos
+                          </span>
+                        ) : null}
                       </span>
                     );
                     return (

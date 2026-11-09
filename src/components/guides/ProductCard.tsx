@@ -304,6 +304,9 @@ export function ProductCard({ section }: ProductCardProps) {
               {product.reviewCount ? (
                 <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
               ) : null}
+              {product.soldQuantity ? (
+                <span>· +{product.soldQuantity.toLocaleString("es-AR")} vendidos</span>
+              ) : null}
             </Link>
           )}
 
