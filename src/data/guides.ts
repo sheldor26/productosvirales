@@ -38485,7 +38485,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         [`[Singer Facilita Pro 4423](/producto/maquina-de-coser-recta-singer-facilita-pro-4423-portable-color-gris-mla15141564)`, `{{precio:MLA15141564}}`, `23`, `Automático`, `Telas pesadas, 1100 p/min`],
         [`[Lumina Flora Rosa](/producto/maquina-de-coser-lumina-flora-rosa-trabajos-pesados-con-24-disenos-de-puntada-mla42690946)`, `{{precio:MLA42690946}}`, `24`, `Automático`, `Trabajos pesados, motor 100W`],
         [`[Lumina Luxor Computarizada](/producto/maquina-de-coser-lumina-luxor-computarizada-146-disenos-blanco-mla15236898)`, `{{precio:MLA15236898}}`, `146`, `Automático`, `La más completa`],
-      ] },
+      ], rowProductIds: ["MLA25929190", "MLA19461778", "MLA17426050", "MLA15147894", "MLAU213050048", "MLA18448448", "MLA15141564", "MLA42690946", "MLA15236898"] },
 
       { type: "h2", title: `Cómo elegir tu máquina de coser`, id: "como-elegir" },
       { type: "h3", title: `1. Pensá en la frecuencia de uso, no solo en el precio` },

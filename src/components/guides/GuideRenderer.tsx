@@ -10,6 +10,7 @@ import { ArticleFooter } from "./ArticleFooter";
 import { ReadingProgressBar } from "./ReadingProgressBar";
 import { TableOfContents } from "./TableOfContents";
 import { ProductCard } from "./ProductCard";
+import { RichComparisonTable } from "./RichComparisonTable";
 import { QuickPicks } from "./QuickPicks";
 import { StickyBuyBar } from "./StickyBuyBar";
 import { RelatedGuides } from "./RelatedGuides";
@@ -114,12 +115,15 @@ function SectionRenderer({
 
     case "p":
       return (
-        <p className="text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)] mb-6 text-pretty">
+        <p className="max-w-[720px] text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)] mb-6 text-pretty">
           {section.content ? parseInlineLinks(section.content) : null}
         </p>
       );
 
     case "table":
+      if (section.rowProductIds) {
+        return <RichComparisonTable section={section} />;
+      }
       return (
         <div
           className="guide-comparison-table my-6 overflow-x-auto rounded-[var(--radius-card)] border border-[var(--border)]"
@@ -245,7 +249,7 @@ function SectionRenderer({
               {title}
             </p>
           )}
-          <ul className="space-y-3 pl-1">
+          <ul className="max-w-[720px] space-y-3 pl-1">
             {(section.items as string[])?.map((item, i) => (
               <li
                 key={i}
@@ -295,7 +299,7 @@ function SectionRenderer({
                 src={src}
                 alt={altText}
                 fill
-                sizes="(max-width: 768px) 100vw, 720px"
+                sizes="(max-width: 768px) 100vw, 900px"
                 preload
                 className="object-contain"
               />
@@ -559,6 +563,23 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
       className="not-prose my-6 flex flex-wrap items-center gap-4 rounded-[var(--radius-card)] border p-4"
       style={{ borderColor: "var(--border)", backgroundColor: "var(--bg-secondary)" }}
     >
+      {product.image && (
+        <Link
+          href={productHref(product)}
+          prefetch={false}
+          data-cta-location="above-fold-imagen"
+          className="relative shrink-0 w-20 h-20 rounded-[var(--radius-card)] overflow-hidden border bg-[var(--bg-primary)]"
+          style={{ borderColor: "var(--border)" }}
+        >
+          <Image
+            src={product.image}
+            alt={product.title}
+            fill
+            sizes="80px"
+            className="object-contain p-1"
+          />
+        </Link>
+      )}
       <div className="flex-1 min-w-[180px]">
         <p className="text-[12px] font-semibold text-[var(--text-secondary)]">
           Nuestra recomendación
@@ -715,7 +736,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
   return (
     <div className="editorial-article">
       <ReadingProgressBar />
-      <div className="max-w-[1000px] mx-auto px-4 md:px-6 py-6 md:py-10 lg:grid lg:grid-cols-[200px_minmax(0,720px)] lg:gap-12">
+      <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-6 md:py-10 lg:grid lg:grid-cols-[200px_minmax(0,900px)] lg:gap-12">
         <TableOfContents items={tocItems} />
         <article className="min-w-0">
           <ArticleHeader guide={guide} />
@@ -731,7 +752,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
               Es el bloque que AI Overviews y los LLMs extraen para citarnos. */}
           {guide.directAnswer && (
             <aside
-              className="not-prose mb-8 p-5 rounded-[var(--radius-card)] border-l-[3px] bg-[var(--bg-secondary)]"
+              className="not-prose max-w-[720px] mb-8 p-5 rounded-[var(--radius-card)] border-l-[3px] bg-[var(--bg-secondary)]"
               style={{ borderLeftColor: "var(--editorial-accent)" }}
             >
               <p
@@ -750,7 +771,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
           {introRest.map((p, i) => (
             <p
               key={i}
-              className="text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)] mb-6"
+              className="max-w-[720px] text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)] mb-6"
             >
               {parseInlineLinks(p)}
             </p>

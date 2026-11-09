@@ -97,7 +97,7 @@ export function QuickPicks({ picks }: QuickPicksProps) {
                 <img
                   src={p.product.image}
                   alt={p.product.title}
-                  className="w-full h-[92px] object-contain rounded-[9px] p-1"
+                  className="w-full h-[160px] object-contain rounded-[9px] p-1"
                   style={{ backgroundColor: "var(--bg-secondary)" }}
                   loading="lazy"
                 />

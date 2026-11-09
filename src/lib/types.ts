@@ -242,6 +242,11 @@ export interface GuideSection {
   boxed?: boolean;
   headers?: string[];
   rows?: string[][];
+  /** `table` only, opcional. ID de producto (MLA) por fila, mismo orden que
+   * `rows`, para mostrar foto + link a la ficha en la primera celda. `null`
+   * en una posición = esa fila no muestra imagen. Ausente del todo = tabla
+   * de texto plano, sin cambios respecto al comportamiento actual. */
+  rowProductIds?: (string | null)[];
   card?: {
     heading: string;
     paragraphs: string[];

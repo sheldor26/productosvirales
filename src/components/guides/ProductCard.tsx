@@ -267,14 +267,14 @@ export function ProductCard({ section }: ProductCardProps) {
           href={productHref(product)}
           prefetch={false}
           aria-label={`Ver ficha de ${product.title}`}
-          className="shrink-0 md:w-[200px] aspect-square md:aspect-auto md:h-auto flex items-center justify-center p-3 md:p-5"
+          className="shrink-0 md:w-[300px] aspect-square md:aspect-auto md:h-auto flex items-center justify-center p-3 md:p-6"
           style={{ backgroundColor: "var(--bg-secondary)" }}
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={product.image}
             alt={product.title}
-            className="w-full h-full object-contain md:max-h-[180px]"
+            className="w-full h-full object-contain md:max-h-[270px]"
             loading="lazy"
           />
         </Link>
