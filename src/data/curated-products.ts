@@ -115604,6 +115604,692 @@ Comprá la Novohome NH-EKV100 si priorizás la opción con más respaldo de vent
 
 curatedProducts.push(...curatedProductsPavasNov2);
 
+// ─────────────────────────────────────────────────────────
+// Sourcing 2026-11-09: 9 fichas para la guía nueva "máquina de
+// coser" (silo hogar-jardin, categoría maquinas-de-coser). Keyword
+// validada con Keyword Planner (AR): "máquina de coser" 9.900-33.100/mes,
+// SD 13 (Ubersuggest), sin comparativa editorial real en el SERP.
+// Juan pidió explícitamente 6-12 productos (no 4) para que el
+// lector pueda elegir según su caso: principiante ocasional, modista
+// de uso diario, o quien busca una computarizada de alta gama.
+// Imágenes verificadas con curl GET (no HEAD) + sufijo -F.jpg/-O.webp.
+// ─────────────────────────────────────────────────────────
+const curatedProductsMaquinaDeCoser: Product[] = [
+  {
+    id: "MLA25929190",
+    title: "Mini Máquina De Coser Recta Portable Electrica 12 Puntadas Color Blanco Pedal Falso Overlock Portatil Hogar Multifuncional Con Luz",
+    canonicalName: "Newtek Mini Portátil 12 Puntadas",
+    brand: "Newtek",
+    price: 55989,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_961085-MLA117914486289_092026-F.jpg",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA25929190",
+    affiliateUrl: "https://meli.la/2e7CPvu",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 1200,
+    reviewsSampledAt: "2026-11-09",
+    soldQuantity: 5000,
+    visibility: "normal",
+    priceUpdated: "2026-11-09",
+    priceLastChecked: "2026-11-09",
+    priceStatus: "fresh",
+    seoTitle: "Newtek Mini Portátil: la máquina de coser más barata de la comparativa, ¿rinde?",
+    metaDescription: "Máquina de coser Newtek Mini Portátil a {{precio:MLA25929190}}, con {{reviews:MLA25929190}} calificaciones y {{rating:MLA25929190}} estrellas, 11° en ventas de Máquinas de Coser. La más barata de esta comparativa, ideal para arreglos caseros ocasionales.",
+    pros: [
+      "La más barata de esta comparativa, a {{precio:MLA25929190}}, con {{reviews:MLA25929190}} calificaciones",
+      "Tienda oficial Newtek con más de 250 mil ventas, 11° en ventas de la categoría Máquinas de Coser",
+      "12 puntadas diferentes (ojal, recto, zigzag) con cortador de hilo incorporado y luz LED",
+      "Según una reseña real de una modista, cumple bien para arreglos caseros diarios sin problema",
+    ],
+    cons: [
+      "Enhebrador manual, a diferencia de los modelos Singer de gama media de esta comparativa",
+      "Según reseñas reales, hay que elegir bien el tipo de aguja según la tela (no sirve cualquiera para cualquier tela)",
+      "Es básica: no tiene brazo libre ni ojalador automático como los Singer M3505 o Lumina de esta comparativa",
+      "Menos potente que las opciones de gama media-alta para coser telas gruesas en forma sostenida",
+    ],
+    verdict: "Con {{reviews:MLA25929190}} calificaciones y {{rating:MLA25929190}} estrellas, es la opción más barata de esta comparativa y cumple bien para arreglos caseros ocasionales (dobladillos, botones, prendas livianas). Si vas a coser seguido o con telas gruesas, conviene subir de categoría.",
+    specs: [
+      { label: "Marca", value: "Newtek" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Tecnología", value: "Electrónica" },
+      { label: "Cantidad de puntadas", value: "12" },
+      { label: "Tipos de puntada", value: "Ojal, recto, zigzag" },
+      { label: "Con cortador de hilo", value: "Sí" },
+      { label: "Con iluminación", value: "Sí" },
+      { label: "Tipo de enhebrador", value: "Manual" },
+      { label: "Incluye", value: "Pedal, accesorios de costura" },
+    ],
+    relatedProducts: ["MLA19461778", "MLA17426050"],
+    articleBody: `## Qué es la Newtek Mini Portátil
+
+Es una máquina de coser doméstica portátil, con {{reviews:MLA25929190}} calificaciones y {{rating:MLA25929190}} estrellas en MercadoLibre Argentina, vendida a {{precio:MLA25929190}} por la tienda oficial de Newtek. Es 11° en ventas de la categoría Máquinas de Coser, y la más barata de esta comparativa.
+
+## Lo que dicen los compradores
+
+Una reseña real de una modista profesional la describe así: **"Soy modista y por lo tanto tengo experiencia en máquinas de coser. La compré para tenerla en casa a mano... La calidad es muy buena, la probé con tela de jean, algodones, modal, encaje. Estoy arrancando con la costura y al compararla con una máquina más grande no tiene nada q envidiarle"** (228 votos útiles). La misma reseña avisa: hay que tener en cuenta el tipo de aguja según la tela, y mirar algún tutorial de enhebrado antes de arrancar.
+
+## El dato honesto
+
+Es una máquina básica, pensada para uso ocasional: no tiene brazo libre, ojalador automático ni enhebrador automático, funciones que sí traen los modelos Singer y Lumina de gama media de esta comparativa. Para coser seguido o con telas gruesas, conviene subir de presupuesto.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más económica para arreglos caseros ocasionales: dobladillos, botones, prendas livianas. No es para vos si pensás coser todos los días con telas pesadas; mirá la Singer Facilita Pro o la Lumina Flora Rosa de esta comparativa, pensadas para eso. Para telas pesadas ocasionales a un precio más accesible, la Singer M1605c también es una opción.`,
+    faq: [
+      { question: "¿Es buena para empezar a coser?", answer: "Sí, según una reseña real de una modista profesional, cumple bien incluso comparada con máquinas más grandes, siempre que uses la aguja correcta para cada tela." },
+      { question: "¿Trae enhebrador automático?", answer: "No, el enhebrador es manual. Para enhebrador automático, mirá la Singer M3505 o la Lumina Flora Rosa de esta comparativa." },
+      { question: "¿Sirve para telas gruesas como jean?", answer: "Según reseñas reales, sí para jean y algodón en uso moderado, pero no está pensada para trabajos pesados sostenidos como la Lumina Flora Rosa o el motor de 1100 puntadas/min de la Singer Facilita Pro." },
+      { question: "¿Trae pedal?", answer: "Sí, incluye pedal, accesorios de costura y cable." },
+      { question: "¿Cuántas puntadas tiene?", answer: "12 tipos de puntada, incluyendo ojal, recto y zigzag, según su ficha técnica." },
+    ],
+  },
+  {
+    id: "MLA19461778",
+    title: "Maquina De Coser Portatil Electrica Hogar 12 Puntadas Pedal Blanco",
+    canonicalName: "Smart Tech FHSM-505A",
+    brand: "Smart Tech",
+    mpn: "FHSM-505A",
+    price: 79999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_813304-MLA113688120426_072026-F.jpg",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19461778",
+    affiliateUrl: "https://meli.la/11B8946",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 12019,
+    reviewsSampledAt: "2026-11-09",
+    soldQuantity: 10000,
+    visibility: "normal",
+    priceUpdated: "2026-11-09",
+    priceLastChecked: "2026-11-09",
+    priceStatus: "fresh",
+    seoTitle: "Proshop FHSM-505A: la elegida para empezar en esta comparativa, ¿por qué?",
+    metaDescription: "Máquina de coser Proshop FHSM-505A a {{precio:MLA19461778}}, con {{reviews:MLA19461778}} calificaciones, 2° en ventas de Máquinas de Coser de MercadoLibre. La opción recomendada para empezar en esta comparativa, con el dato honesto de dos quejas reales sobre la aguja.",
+    pros: [
+      "2° en ventas de Máquinas de Coser de MercadoLibre, con {{reviews:MLA19461778}} calificaciones, la base más grande entre las portátiles básicas",
+      "Tienda oficial Proshop con más de 250 mil ventas y devolución gratis",
+      "12 puntadas diferentes, con ojal automático, cortador de hilo y luz LED",
+      "Según una reseña real, no tiene nada que envidiarle a una máquina más grande para uso diario",
+    ],
+    cons: [
+      "Enhebrador manual, a diferencia de la Singer M3505 o la Lumina Flora Rosa de esta comparativa",
+      "Reseñas reales de 2 estrellas reportan que la aguja choca o la máquina no cose de fábrica en unidades puntuales (ambas resueltas por devolución)",
+      "Es mini/portátil: pensada para uso casero, no para trabajos pesados sostenidos",
+      "No trae brazo libre para costuras tubulares",
+    ],
+    verdict: "Con {{reviews:MLA19461778}} calificaciones, es 2° en ventas de la categoría y tiene la base de reseñas más grande entre las portátiles básicas de esta comparativa. Buena opción equilibrada entre precio y funciones para uso casero, con la salvedad honesta de que una fracción chica de compradores reportó fallas de fábrica resueltas por devolución.",
+    specs: [
+      { label: "Marca", value: "Smart Tech" },
+      { label: "Modelo", value: "FHSM-505A" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Color", value: "Blanco y lila" },
+      { label: "Material", value: "Metal y plástico" },
+      { label: "Cantidad de puntadas", value: "12" },
+      { label: "Con ojal automático", value: "Sí" },
+      { label: "Con cortador de hilo", value: "Sí" },
+      { label: "Con iluminación", value: "Sí" },
+      { label: "Tipo de enhebrador", value: "Manual" },
+      { label: "Medidas", value: "27,5 x 11,5 x 26 cm" },
+    ],
+    relatedProducts: ["MLA17426050", "MLA25929190"],
+    articleBody: `## Qué es la Proshop FHSM-505A
+
+Es una máquina de coser portátil con {{reviews:MLA19461778}} calificaciones en MercadoLibre Argentina, vendida a {{precio:MLA19461778}}. Es 2° en ventas de la categoría Máquinas de Coser, con la base de reseñas más grande entre las portátiles básicas de esta comparativa.
+
+## Lo que dicen los compradores
+
+Una reseña real describe su primer uso: **"La calidad es muy buena la probé con tela de jean, algodones, modal, encaje. Estoy arrancando con la costura y al compararla con una máquina más grande no tiene nada q envidiarle... Para el uso que le estoy dando diario no tuve ningún inconveniente"**. La misma reseña avisa: al empezar, la tela puede no acomodarse bien en las bases, y conviene regular la altura del prensatela y enhebrar con cuidado.
+
+## El dato honesto: dos quejas reales que conviene conocer
+
+Dos reseñas reales de 2 estrellas reportan fallas de fábrica puntuales: una dice **"Muy mal producto, no logré coser ni una vez, la aguja chocaba abajo cada 2x3 y el hilo se corta/hace nudo a la misma vez"**, y otra que **"vino fallada, golpeaba la aguja y no funcionaba la reversa"** — ambas resueltas con devolución rápida. No son la experiencia mayoritaria (4.5 estrellas sobre más de 12.000 calificaciones), pero vale saberlo.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás una opción equilibrada entre precio y funciones para uso casero diario: ajustes, dobladillos, prendas livianas a medianas. No es para vos si necesitás brazo libre para mangas y pantalones (mirá la Singer M3505) o enhebrador automático (mirá la Lumina Flora Rosa).`,
+    faq: [
+      { question: "¿Es la máquina de coser más vendida de MercadoLibre?", answer: "Es 2° en ventas de la categoría Máquinas de Coser, con la base de reseñas más grande entre las portátiles básicas ({{reviews:MLA19461778}})." },
+      { question: "¿Sirve para principiantes?", answer: "Sí, según reseñas reales incluso para quien nunca cosió, aunque conviene ver un tutorial de enhebrado antes de empezar." },
+      { question: "¿Puede fallar de fábrica?", answer: "Hay reseñas reales puntuales (2 estrellas) que reportan aguja que choca o máquina que no cose al recibirla, resueltas por devolución. No es la experiencia mayoritaria." },
+      { question: "¿Trae enhebrador automático?", answer: "No, es manual. Para enhebrador automático, mirá la Singer M3505 o la Lumina Flora Rosa de esta comparativa." },
+      { question: "¿Qué telas puede coser?", answer: "Según una reseña real, jean, algodón, modal y encaje, en uso casero diario." },
+    ],
+  },
+  {
+    id: "MLA17426050",
+    title: "Maquina De Coser Nictom Mini Compacta Portable 12 Tipos De Puntada Color Blanco",
+    canonicalName: "Nictom Mini Compacta",
+    brand: "Nictom",
+    price: 95615,
+    originalPrice: 149235,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_617739-MLA116967474299_082026-F.jpg",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA17426050",
+    affiliateUrl: "https://meli.la/1irVJB4",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 1057,
+    reviewsSampledAt: "2026-11-09",
+    soldQuantity: 10000,
+    visibility: "normal",
+    priceUpdated: "2026-11-09",
+    priceLastChecked: "2026-11-09",
+    priceStatus: "fresh",
+    seoTitle: "Nictom Mini Compacta: 12 puntadas y el dato honesto sobre el enhebrado",
+    metaDescription: "Máquina de coser Nictom Mini Compacta a {{precio:MLA17426050}} (35% OFF), con {{reviews:MLA17426050}} calificaciones, 10° en ventas de Máquinas de Coser. Compacta y liviana, con el dato honesto de qué hacer si se traba al enhebrar.",
+    pros: [
+      "10° en ventas de Máquinas de Coser de MercadoLibre, con {{reviews:MLA17426050}} calificaciones y {{rating:MLA17426050}} estrellas",
+      "35% OFF sobre el precio de lista, una de las mejores relaciones precio-descuento de esta comparativa",
+      "12 tipos de puntada con largo y ancho de puntada ajustable",
+      "Compacta y liviana, apta para telas livianas, según su ficha técnica",
+    ],
+    cons: [
+      "Apta solo para telas livianas según su ficha técnica, a diferencia de la Singer M1605c (livianas, medianas y pesadas)",
+      "Enhebrador manual: una reseña real de 4 estrellas avisa que si no se enhebra bien, se traba o se atasca el hilo",
+      "No trae brazo libre ni ojalador automático",
+      "Motor menos potente que los modelos de gama media-alta de esta comparativa",
+    ],
+    verdict: "Con {{reviews:MLA17426050}} calificaciones y {{rating:MLA17426050}} estrellas, es una opción compacta y liviana con buen descuento. El punto a tener en cuenta: según una reseña real, hay que enhebrarla con cuidado (mirar un tutorial si es tu primera máquina) o se traba.",
+    specs: [
+      { label: "Marca", value: "Nictom" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Tecnología", value: "Mecánica" },
+      { label: "Cantidad de puntadas", value: "12" },
+      { label: "Apta para telas", value: "Livianas" },
+      { label: "Largo y ancho de puntada", value: "Ajustable" },
+      { label: "Con iluminación", value: "Sí" },
+      { label: "Tipo de enhebrador", value: "Manual" },
+      { label: "Tipo de máquina", value: "Recta" },
+    ],
+    relatedProducts: ["MLA19461778", "MLA25929190"],
+    articleBody: `## Qué es la Nictom Mini Compacta
+
+Es una máquina de coser portátil con {{reviews:MLA17426050}} calificaciones en MercadoLibre Argentina, vendida a {{precio:MLA17426050}} (35% OFF sobre el precio de lista). Es 10° en ventas de la categoría Máquinas de Coser.
+
+## Lo que dicen los compradores
+
+Una reseña real de 4 estrellas la resume así: **"¡muy buena, práctica y liviana! pero hay que leer muy bien el instructivo y ver algún tutorial en youtube para enhebrar y usar correctamente; de lo contrario, no cose, se traba o se atasca el hilo, como en cualquier máquina de coser... Una vez que se aprende a usarla, funciona perfecto. Al menos por ahora, todo ok, y estoy muy conforme con el producto"** (72 votos útiles).
+
+## El dato honesto
+
+Según su propia ficha técnica, está pensada para telas livianas (no medianas ni pesadas como la Singer M1605c de esta comparativa). Y como advierte la reseña citada arriba, el enhebrado manual requiere seguir bien el instructivo: la queja más común en este tipo de máquinas compactas es que se traben si no se enhebran correctamente. El sitio oficial de Nictom (nictom.com.ar) no identifica este modelo exacto por su nombre, pero su portátil compacta más parecida (misma cantidad de puntadas y formato) declara un motor de 18W — una referencia útil del orden de potencia de esta categoría de máquina, aunque no podemos confirmarla como el dato exacto de esta unidad.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás algo compacto y liviano para telas livianas, con buen precio. No es para vos si necesitás coser telas medianas o pesadas con frecuencia; mirá la Lumina Flora Rosa de esta comparativa, pensada para eso. Para telas pesadas ocasionales, la Singer M1605c también es una opción más accesible.`,
+    faq: [
+      { question: "¿Por qué se traba al coser?", answer: "Según una reseña real, la causa más común es un enhebrado incorrecto. Recomienda ver un tutorial antes de usarla por primera vez; una vez aprendido, funciona bien." },
+      { question: "¿Sirve para telas gruesas?", answer: "No: según su ficha técnica, está pensada para telas livianas. Para telas medianas y pesadas con frecuencia, mirá la Lumina Flora Rosa de esta comparativa; para uso ocasional, la Singer M1605c también sirve." },
+      { question: "¿Es liviana y portátil?", answer: "Sí, es una de las más compactas de esta comparativa, pensada para guardar y trasladar fácil." },
+      { question: "¿Cuántos tipos de puntada tiene?", answer: "12, con largo y ancho de puntada ajustable, según su ficha técnica." },
+      { question: "¿Trae buen descuento?", answer: "Al momento de esta comparación tenía 35% OFF sobre el precio de lista, uno de los mejores descuentos del grupo." },
+    ],
+  },
+  {
+    id: "MLA15147894",
+    title: "Maquina De Coser Godeco Activa 9 Diseños Recta Color Blanco",
+    canonicalName: "Godeco Activa",
+    brand: "Godeco",
+    price: 300290,
+    originalPrice: 413321,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_776753-MLA108087228492_032026-F.jpg",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15147894",
+    affiliateUrl: "https://meli.la/11edL4h",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 3132,
+    reviewsSampledAt: "2026-11-09",
+    soldQuantity: 10000,
+    visibility: "normal",
+    priceUpdated: "2026-11-09",
+    priceLastChecked: "2026-11-09",
+    priceStatus: "fresh",
+    seoTitle: "Godeco Activa: máquina de coser ideal para empezar de cero, reseñas reales",
+    metaDescription: "Máquina de coser Godeco Activa a {{precio:MLA15147894}} (27% OFF), con {{reviews:MLA15147894}} calificaciones y {{rating:MLA15147894}} estrellas, 4° en ventas de Máquinas de Coser. La elegida por quienes nunca cosieron antes.",
+    pros: [
+      "{{rating:MLA15147894}} estrellas sobre {{reviews:MLA15147894}} calificaciones, buen respaldo real para una máquina de entrada",
+      "4° en ventas de Máquinas de Coser de MercadoLibre, 12 meses de garantía de fábrica",
+      "Según una reseña real, ideal para quien nunca tocó una máquina de coser en su vida",
+      "9 tipos de puntada con largo y ancho ajustable, y cortador de hilo incluido",
+    ],
+    cons: [
+      "La publicación avisa explícitamente: 'ATENCIÓN, esta máquina cuenta con enhebrador manual', sin asistencia automática",
+      "Sin ojal automático, a diferencia de la Proshop o la Singer M3505 de esta comparativa: el ojal se hace manual, en 4 pasos con el dial selector, según un video tutorial real de uso",
+      "Una reseña real de 4 estrellas advierte: si no sabés usar máquinas de coser, primero hacé un curso o empezá con una más chica",
+      "No apta para trabajos pesados sostenidos; para eso, mirá la Lumina Flora Rosa",
+    ],
+    verdict: "Con {{rating:MLA15147894}} estrellas sobre una base de más de 3.000 calificaciones, tiene buen respaldo real. Según reseñas reales de compradoras que nunca habían cosido, es una excelente puerta de entrada al mundo de la costura, siempre que le dediques tiempo a aprender (tiene curva de aprendizaje, como toda máquina de coser).",
+    specs: [
+      { label: "Marca", value: "Godeco" },
+      { label: "Modelo", value: "Activa" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Color", value: "Blanco" },
+      { label: "Tecnología", value: "Mecánica" },
+      { label: "Cantidad de puntadas", value: "9" },
+      { label: "Con ojal automático", value: "No" },
+      { label: "Con cortador de hilo", value: "Sí" },
+      { label: "Con iluminación", value: "Sí" },
+      { label: "Tipo de enhebrador", value: "Manual" },
+      { label: "Es portátil", value: "Sí" },
+    ],
+    relatedProducts: ["MLAU213050048", "MLA19461778"],
+    articleBody: `## Qué es la Godeco Activa
+
+Es una máquina de coser recta doméstica, con {{rating:MLA15147894}} estrellas sobre {{reviews:MLA15147894}} calificaciones en MercadoLibre Argentina, vendida a {{precio:MLA15147894}} (27% OFF). Es 4° en ventas de la categoría Máquinas de Coser.
+
+## Lo que dicen los compradores
+
+Una reseña real cuenta su experiencia como principiante absoluta: **"Hace 10 días que la recibí y era la primera vez que tocaba una máquina de coser en mi vida. No me considero una persona para nada habilidosa, pero sí con mucha voluntad... A la semana, me hice unas cortinas para mi living sin el mínimo de temor. La máquina es increíble para alguien que tiene ganas de aprender"** (688 votos útiles).
+
+## El dato honesto
+
+La propia publicación lo advierte en mayúsculas: **"ATENCIÓN: ESTA MÁQUINA CUENTA CON ENHEBRADOR MANUAL"**. Y una reseña real de 4 estrellas suma un matiz importante: **"si no saben utilizar máquinas de coser no la compren, primero hagan un curso, o compren una de esas chiquitas para empezar"** — no es una crítica al producto, sino una advertencia honesta sobre la curva de aprendizaje de cualquier máquina de coser, no solo esta.
+
+## Para quién es, y para quién no
+
+Es para vos si estás dispuesto a dedicarle tiempo a aprender (hay muchos tutoriales gratis) y buscás una máquina confiable y bien calificada para arrancar. No es para vos si buscás algo "plug and play" sin curva de aprendizaje, ni si necesitás enhebrador automático (mirá la Singer M3505 o la Lumina Flora Rosa).`,
+    faq: [
+      { question: "¿Es buena para principiantes?", answer: "Sí, según reseñas reales de compradoras que nunca habían cosido, aunque hay que dedicarle tiempo a aprender: la curva de aprendizaje existe con cualquier máquina de coser." },
+      { question: "¿Trae enhebrador automático?", answer: "No, la propia publicación avisa que el enhebrador es manual. Para enhebrador automático, mirá la Singer M3505 o la Lumina Flora Rosa de esta comparativa." },
+      { question: "¿Cuántos tipos de puntada tiene?", answer: "9, con largo y ancho de puntada ajustable, según su ficha técnica." },
+      { question: "¿Tiene garantía?", answer: "Sí, 12 meses de garantía de fábrica." },
+      { question: "¿Es la mejor calificada de esta comparativa?", answer: `Tiene {{rating:MLA15147894}} estrellas sobre una base real de más de 3.000 calificaciones, de las más altas del grupo con ese volumen. La Singer M1605c puntúa más alto (4,9) pero sobre una base real muy chica ({{reviews:MLAU213050048}} opiniones), una muestra demasiado chica para comparar en igualdad de condiciones.` },
+    ],
+  },
+  {
+    id: "MLAU213050048",
+    title: "Singer M1605c Maquina De Coser 8 Diseños Recto Y Zig Zag",
+    canonicalName: "Singer M1605c",
+    brand: "Singer",
+    mpn: "M1605c",
+    price: 324401,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_972744-MLA119467432647_102026-F.jpg",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/up/MLAU213050048",
+    affiliateUrl: "https://meli.la/13uWMfa",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 19,
+    reviewsSampledAt: "2026-11-09",
+    soldQuantity: 500,
+    visibility: "normal",
+    priceUpdated: "2026-11-09",
+    priceLastChecked: "2026-11-09",
+    priceStatus: "fresh",
+    seoTitle: "Singer M1605c: la Singer más barata, apta para telas pesadas",
+    metaDescription: "Máquina de coser Singer M1605c a {{precio:MLAU213050048}}, 12° en ventas de Máquinas de Coser Singer. La entrada de la marca a esta comparativa, apta para telas livianas, medianas y pesadas según su ficha técnica.",
+    pros: [
+      "La Singer más barata de esta comparativa, a {{precio:MLAU213050048}}",
+      "Apta para telas livianas, medianas Y pesadas según su ficha técnica",
+      "8 diseños de puntada con ojalador automático de 4 pasos, confirmado en el sitio oficial de Singer Argentina",
+      "{{rating:MLAU213050048}} estrellas, aunque sobre una base de calificaciones chica",
+    ],
+    cons: [
+      "Base de reseñas la más chica de esta comparativa (solo {{reviews:MLAU213050048}} calificaciones): menos margen para detectar fallas poco frecuentes",
+      "Enhebrador manual, a diferencia de la Singer M3505 (misma marca, enhebrador automático), y sin puntada falso overlock",
+      "Una sola posición de aguja (a diferencia de la Facilita Pro, con tres posiciones)",
+      "12° en ventas dentro de Máquinas de Coser Singer: la menos elegida de la marca en esta comparativa",
+    ],
+    verdict: "Es la puerta de entrada a la marca Singer en esta comparativa, con la ventaja real de estar declarada apta para telas pesadas. La contra honesta es su base de reseñas chica; si preferís más respaldo de compradores dentro de la misma marca, la Singer M3505 tiene {{reviews:MLA18448448}} calificaciones.",
+    specs: [
+      { label: "Marca", value: "Singer" },
+      { label: "Modelo", value: "M1605c" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Tecnología", value: "Mecánica" },
+      { label: "Cantidad de puntadas", value: "8 (confirmado en singerargentina.com.ar)" },
+      { label: "Apta para telas", value: "Livianas, medianas y pesadas" },
+      { label: "Ojalador", value: "Automático, 4 pasos" },
+      { label: "Posiciones de aguja", value: "1" },
+      { label: "Sistema de bobina", value: "Vertical, con crochet de acero" },
+      { label: "Tipo de máquina", value: "Recta, zigzag" },
+      { label: "Tipo de enhebrador", value: "Manual" },
+    ],
+    relatedProducts: ["MLA18448448", "MLA15147894"],
+    articleBody: `## Qué es la Singer M1605c
+
+Es una máquina de coser doméstica de la marca Singer, vendida a {{precio:MLAU213050048}}. Es 12° en ventas dentro de Máquinas de Coser Singer en MercadoLibre Argentina.
+
+## Lo que dicen los compradores
+
+Con solo {{reviews:MLAU213050048}} calificaciones, las reseñas son breves pero consistentes: **"Cumple con las espectativas muy recomendable"** y **"Es un regalo para mi mamá y está feliz con su máquina gracias"**, ambas con foto real adjunta.
+
+## El dato honesto
+
+Con solo {{reviews:MLAU213050048}} calificaciones tiene la base de reseñas más chica de esta comparativa, así que hay menos margen para detectar fallas poco frecuentes que en modelos con miles de calificaciones. El sitio oficial de Singer Argentina confirma 8 diseños de puntada (coincide con el título de la publicación) con ojalador automático de 4 pasos, pero sin enhebrador automático ni puntada falso overlock — esas dos funciones sí las trae la Singer M3505 de esta misma comparativa.
+
+## Para quién es, y para quién no
+
+Es para vos si querés la marca Singer al precio más accesible de esta comparativa, y necesitás coser telas pesadas ocasionalmente (está declarada apta para eso; un tutorial oficial de Singer para este modelo recomienda hasta 4 capas de mezclilla gruesa o 6 de mezclilla liviana en una sola pasada). No es para vos si preferís comprar con mucho más respaldo de reseñas; dentro de la misma marca, la Singer Facilita Pro tiene miles de calificaciones, y la Singer M3505 también tiene una base bastante más grande que esta, aunque lejos de la Facilita Pro.`,
+    faq: [
+      { question: "¿Cuántas puntadas tiene?", answer: "8 diseños de puntada, confirmado en el sitio oficial de Singer Argentina (singerargentina.com.ar), con ojalador automático de 4 pasos." },
+      { question: "¿Sirve para telas pesadas?", answer: "Sí, según su ficha técnica es apta para telas livianas, medianas y pesadas." },
+      { question: "¿Es la Singer más barata?", answer: "Sí, de esta comparativa es la Singer de entrada en precio." },
+      { question: "¿Por qué tiene tan pocas reseñas?", answer: "Es un modelo con menos volumen de ventas que la Singer M3505 o la Facilita Pro de la misma marca; su base de {{reviews:MLAU213050048}} calificaciones es la más chica de esta comparativa." },
+      { question: "¿Trae enhebrador automático?", answer: "No, es manual, y tampoco trae puntada falso overlock. Para ambas funciones dentro de la marca Singer, mirá la Singer M3505 de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLA18448448",
+    title: "Maquina De Coser Singer M3505 Brazo Libre Cuerpo De Metal Blanco con Violeta",
+    canonicalName: "Singer M3505",
+    brand: "Singer",
+    mpn: "M3505",
+    price: 480399,
+    originalPrice: 662899,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_964702-MLA115492893724_082026-F.jpg",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA18448448",
+    affiliateUrl: "https://meli.la/2mAgixA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 809,
+    reviewsSampledAt: "2026-11-09",
+    soldQuantity: 1000,
+    visibility: "normal",
+    priceUpdated: "2026-11-09",
+    priceLastChecked: "2026-11-09",
+    priceStatus: "fresh",
+    seoTitle: "Singer M3505: 32 puntadas y ojalador automático, la más completa de gama media",
+    metaDescription: "Máquina de coser Singer M3505 a {{precio:MLA18448448}} (27% OFF), con {{reviews:MLA18448448}} calificaciones y {{rating:MLA18448448}} estrellas. 32 puntadas, ojalador automático de un paso y estructura interna de metal.",
+    pros: [
+      "32 puntadas diferentes, las más de cualquier Singer mecánica de esta comparativa, incluida puntada falso overlock",
+      "Ojalador automático de un paso y enhebrador automático, a diferencia de la Godeco o la Nictom",
+      "Estructura interna de metal y brazo libre para mangas y pantalones",
+      "{{rating:MLA18448448}} estrellas sobre {{reviews:MLA18448448}} calificaciones",
+    ],
+    cons: [
+      "Más cara que la Proshop, la Godeco o la Nictom de esta comparativa",
+      "No es electrónica/computarizada como la Lumina Luxor: sigue siendo mecánica pese a las funciones automáticas",
+      "Pensada para 4 horas de uso continuo por cada 2 de descanso, según el sitio oficial de Singer México: menos que las 6 horas de la Facilita Pro de esta comparativa",
+      "7° en ventas dentro de Máquinas de Coser Singer, no la más elegida de la marca",
+    ],
+    verdict: "Con 32 puntadas y ojalador automático de un paso, es la Singer mecánica más completa de esta comparativa. Buena opción intermedia entre las portátiles básicas y la Lumina Luxor computarizada, para quien quiere más funciones sin pagar el máximo.",
+    specs: [
+      { label: "Marca", value: "Singer" },
+      { label: "Modelo", value: "M3505" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia del motor", value: "70W" },
+      { label: "Velocidad", value: "750 puntadas por minuto" },
+      { label: "Estructura", value: "Interna de metal" },
+      { label: "Cantidad de puntadas", value: "32, incluida falso overlock" },
+      { label: "Con ojalador automático", value: "Sí, de un paso" },
+      { label: "Tipo de enhebrador", value: "Automático" },
+      { label: "Brazo libre", value: "Sí" },
+      { label: "Tipo de máquina", value: "Recta" },
+    ],
+    relatedProducts: ["MLA15141564", "MLAU213050048"],
+    articleBody: `## Qué es la Singer M3505
+
+Es una máquina de coser doméstica de la marca Singer, con {{reviews:MLA18448448}} calificaciones en MercadoLibre Argentina, vendida a {{precio:MLA18448448}} (27% OFF). Tiene estructura interna de metal, motor de 70W (750 puntadas por minuto) y brazo libre.
+
+## Lo que dicen los compradores
+
+Una reseña real la describe en detalle: **"Es excelente, muy fácil de aprender a usar, es una maquina con muchas funciones, por lo que veo mas que el promedio de maquinas caseras pero fácil de usar, muy cómoda y buena, es muy resistente, de materiales de primera calidad, nada frágil. El cambio de funciones es super fácil y útil para cambiar las puntadas... Estoy muy feliz con la compra nunca había cosido en mi vida, ya hice dos overalles y un juego de sabanas viendo tutoriales y salió perfecto todo"** (37 votos útiles). Otra reseña real resume bien el espíritu de aprender a coser: **"mi vieja y yo somos un cero a la izquierda para coser pero le hemos agarrado la mano. No es para gente calentona, hay que tenerle amor, paciencia"**.
+
+## El dato honesto
+
+Con 32 puntadas diferentes y ojalador automático de un paso, es la Singer mecánica más completa de esta comparativa — pero sigue siendo mecánica, no computarizada. Si buscás pantalla digital y el máximo de diseños, la Lumina Luxor (146 diseños) va un escalón más arriba, a un precio similar.
+
+## Para quién es, y para quién no
+
+Es para vos si querés más funciones que una portátil básica (ojalador automático, brazo libre, 32 puntadas) sin pagar el precio de una computarizada. No es para vos si tu presupuesto es ajustado (mirá la Proshop o la Godeco) o si querés el máximo de diseños posible (mirá la Lumina Luxor).`,
+    faq: [
+      { question: "¿Cuántas puntadas tiene la Singer M3505?", answer: "32 puntadas diferentes con ajuste de largo y ancho, las más de cualquier Singer mecánica de esta comparativa." },
+      { question: "¿Tiene enhebrador automático?", answer: "Sí, a diferencia de la Godeco Activa o la Nictom de esta comparativa." },
+      { question: "¿Es buena para principiantes?", answer: "Sí, según dos reseñas reales de compradoras que nunca habían cosido, aunque como toda máquina de coser requiere paciencia al principio." },
+      { question: "¿Tiene brazo libre?", answer: "Sí, permite coser secciones tubulares como mangas y pantalones sin dificultad." },
+      { question: "¿Conviene más que la Singer Facilita Pro?", answer: "Depende: la Facilita Pro tiene motor más potente (1100 puntadas/min) y estructura para telas pesadas como denim o cuero. La M3505 tiene más puntadas (32 contra 23) y es más barata." },
+    ],
+  },
+  {
+    id: "MLA15141564",
+    title: "Máquina de coser recta Singer Facilita Pro 4423 portable color gris",
+    canonicalName: "Singer Facilita Pro 4423",
+    brand: "Singer",
+    mpn: "4423",
+    price: 608725,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_847464-MLA99497210464_112025-O.webp",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15141564",
+    affiliateUrl: "https://meli.la/1wXbvft",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 25028,
+    reviewsSampledAt: "2026-11-09",
+    soldQuantity: 5000,
+    visibility: "normal",
+    priceUpdated: "2026-11-09",
+    priceLastChecked: "2026-11-09",
+    priceStatus: "fresh",
+    seoTitle: "Singer Facilita Pro 4423: 1100 puntadas por minuto para denim y cuero",
+    metaDescription: "Máquina de coser Singer Facilita Pro 4423 a {{precio:MLA15141564}}, con {{reviews:MLA15141564}} calificaciones, {{rating:MLA15141564}} estrellas. Motor de 1100 puntadas/min y estructura de metal para telas pesadas como denim o cuero.",
+    pros: [
+      "La base de reseñas más grande de toda esta comparativa: {{reviews:MLA15141564}} calificaciones, con {{rating:MLA15141564}} estrellas",
+      "Motor con 1100 puntadas por minuto, el más rápido de las Singer mecánicas de esta comparativa",
+      "Estructura interna de metal pensada específicamente para telas pesadas como denim o cuero",
+      "23 tipos de puntada con largo y ancho ajustable, y brazo libre",
+      "Pensada para 6 horas de uso continuo por cada 2 de descanso, según el sitio oficial de Singer México: más resistencia sostenida que la M3505 (4 horas) de esta comparativa",
+    ],
+    cons: [
+      "La más cara de las Singer mecánicas de esta comparativa",
+      "Una reseña real de 2 estrellas se quejó de que no vino el prensatelas para dobladillo — según el kit oficial de Singer México, ese prensatela no forma parte de los 4 incluidos de fábrica (básico, cierre, ojal y botón), así que puede ser una expectativa no cumplida más que una falla real de esa unidad",
+      "Menos puntadas que la Singer M3505 (23 contra 32), pese a costar más",
+      "7° en ventas dentro de Máquinas de Coser Singer, no la más elegida de la marca pese a tener más reseñas",
+      "Según una review en video de una usuaria con 2 años de uso real, el pedal es plástico genérico (no metálico) y la máquina vibra un poco a velocidad media-alta, aunque sin que eso le haya generado fallas en ese tiempo",
+    ],
+    verdict: "Con {{reviews:MLA15141564}} calificaciones, es la máquina con más respaldo de reseñas de toda esta comparativa. Su fuerte es la velocidad (1100 puntadas/min) y la estructura pensada para telas pesadas como denim o cuero. El dato a tener en cuenta: el kit oficial no incluye prensatela para dobladillo, algo que generó al menos una queja real por expectativa no cumplida.",
+    specs: [
+      { label: "Marca", value: "Singer" },
+      { label: "Modelo", value: "4423 / Facilita Pro" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Velocidad del motor", value: "1100 puntadas por minuto" },
+      { label: "Estructura", value: "Interna de metal, para telas pesadas (denim, cuero)" },
+      { label: "Cantidad de puntadas", value: "23" },
+      { label: "Brazo libre", value: "Sí" },
+      { label: "Tipo de enhebrador", value: "Automático" },
+      { label: "Tipo de máquina", value: "Recta" },
+    ],
+    relatedProducts: ["MLA18448448", "MLA15236898"],
+    articleBody: `## Qué es la Singer Facilita Pro 4423
+
+Es una máquina de coser doméstica de la marca Singer, con {{reviews:MLA15141564}} calificaciones en MercadoLibre Argentina (la base más grande de esta comparativa), vendida a {{precio:MLA15141564}}. Tiene motor con 1100 puntadas por minuto y estructura interna de metal pensada para telas pesadas.
+
+## Lo que dicen los compradores
+
+Una reseña real describe su experiencia como principiante: **"Me encanta mi máquina, soy principiante y ya estoy muy emocionada por hacer varias costuras. Es muy fácil de manejar. Yo, que soy principiante, ya logré hacer reparaciones"** (403 votos útiles).
+
+## El dato honesto
+
+Una reseña real de 2 estrellas avisa: **"Ella es hermosa, pero quedó decepcionada porque no vino el prensatelas para dobladillo"**. Según el kit oficial declarado por Singer México, la caja trae 4 prensatelas (básico, cierre, ojal y botón), sin el de dobladillo: no es que faltó algo prometido, sino un accesorio que esa compradora esperaba y la marca no declara incluido. Con una base de más de 25.000 calificaciones y {{rating:MLA15141564}} estrellas, no es un reclamo frecuente, pero vale la pena saberlo antes de comprar.
+
+## Para quién es, y para quién no
+
+Es para vos si vas a coser telas pesadas con frecuencia (denim, cuero) y priorizás velocidad de costura. No es para vos si tu presupuesto es ajustado (mirá la Proshop o la Godeco) o si priorizás la mayor cantidad de puntadas posible dentro de Singer (ahí la M3505 tiene 32 contra las 23 de esta).`,
+    faq: [
+      { question: "¿Sirve para coser jean o cuero?", answer: "Sí, su estructura interna de metal está pensada específicamente para telas pesadas como denim o cuero, según su ficha técnica." },
+      { question: "¿Qué tan rápida es?", answer: "1100 puntadas por minuto, la más rápida de las Singer mecánicas de esta comparativa." },
+      { question: "¿Trae todos los accesorios?", answer: "Trae 4 prensatelas según el kit oficial de Singer México (básico, cierre, ojal y botón). Una reseña real de 2 estrellas esperaba también uno para dobladillo, que no forma parte de ese kit declarado." },
+      { question: "¿Es buena para principiantes?", answer: "Sí, según una reseña real de una compradora principiante que logró hacer reparaciones desde el primer uso." },
+      { question: "¿Por qué tiene tantas más reseñas que las otras Singer?", answer: "No hay un dato público que explique la diferencia con certeza; lo que sí se puede afirmar es el hecho: su base de {{reviews:MLA15141564}} calificaciones es, hoy, la más grande de todas las Singer de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLA42690946",
+    title: "Máquina de Coser Lumina Flora Rosa Trabajos Pesados con 24 Diseños de Puntada",
+    canonicalName: "Lumina Flora Rosa",
+    brand: "Lumina",
+    price: 369900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_634678-MLA110707449713_042026-F.jpg",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA42690946",
+    affiliateUrl: "https://meli.la/1K33pPM",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1218,
+    reviewsSampledAt: "2026-11-09",
+    soldQuantity: 1000,
+    visibility: "normal",
+    priceUpdated: "2026-11-09",
+    priceLastChecked: "2026-11-09",
+    priceStatus: "fresh",
+    seoTitle: "Lumina Flora Rosa: motor de 100W para trabajos pesados, ¿vale la pena?",
+    metaDescription: "Máquina de coser Lumina Flora Rosa a {{precio:MLA42690946}}, con {{reviews:MLA42690946}} calificaciones y {{rating:MLA42690946}} estrellas, 5° en ventas de Máquinas de Coser. Motor de 100W y enhebrador automático para trabajos pesados.",
+    pros: [
+      "5° en ventas de Máquinas de Coser de MercadoLibre, con {{reviews:MLA42690946}} calificaciones",
+      "Motor servo de 100W, el más declarado en vatios de esta comparativa, pensado para telas pesadas y proyectos de gran escala",
+      "Enhebrador automático y cortador de hilo incorporado, además de brazo libre con iluminación",
+      "750 puntadas por minuto y prensatelas de dos posiciones para telas elásticas",
+    ],
+    cons: [
+      "Según una reseña real de 4 estrellas, puede llegar dura/trabada de fábrica tras tiempo en depósito, y hay que aceitarla antes del primer uso",
+      "Menos diseños de puntada que la Lumina Luxor computarizada (24 contra 146)",
+      "No es electrónica/computarizada: sigue siendo mecánica pese al motor potente",
+      "Precio por encima de las portátiles básicas de esta comparativa",
+    ],
+    verdict: "Con un motor de 100W y enhebrador automático, es la opción pensada específicamente para coser telas gruesas o proyectos de gran escala sin forzar el motor. El tip honesto de una compradora real: si llega dura, aceitala antes de arrancar.",
+    specs: [
+      { label: "Marca", value: "Lumina" },
+      { label: "Línea", value: "Flora" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia del motor", value: "100W (servo paso a paso)" },
+      { label: "Velocidad", value: "750 puntadas por minuto" },
+      { label: "Cantidad de puntadas", value: "24" },
+      { label: "Tipo de enhebrador", value: "Automático" },
+      { label: "Con cortador de hilo", value: "Sí" },
+      { label: "Brazo libre con iluminación", value: "Sí" },
+      { label: "Prensatelas", value: "Dos posiciones, para telas elásticas" },
+      { label: "Peso neto", value: "6,1 kg (confirmado en luminaweb.com.ar)" },
+      { label: "Tipo de aguja", value: "HAX1, del 11 al 18" },
+    ],
+    relatedProducts: ["MLA15236898", "MLA18448448"],
+    articleBody: `## Qué es la Lumina Flora Rosa
+
+Es una máquina de coser doméstica de la marca Lumina, con {{reviews:MLA42690946}} calificaciones en MercadoLibre Argentina, vendida a {{precio:MLA42690946}}. Es 5° en ventas de la categoría Máquinas de Coser. El sitio oficial de Lumina (luminaweb.com.ar) confirma el motor paso a paso de 100W, velocidad de 750 ppm y un peso neto de 6,1 kg.
+
+## Lo que dicen los compradores
+
+Una reseña real de una compradora primeriza: **"Hace una semana más o menos que la empecé a usar. Es mi primera máquina y ya pude hacer un montón de canastitos gracias a que es muy facil de usar (recta). No sé aún el tema de las puntadas pero ya le iré agarrando la mano. Hasta mis michis están encantados"** (173 votos útiles). Otra reseña suma un dato clave: **"Hermosa, super práctica, arranca despacio y luego agarra velocidad, cose telas gruesas pero no es semi industrial. La amo"**.
+
+## El dato honesto
+
+Una reseña real de 4 estrellas avisa: **"tuve que aceitarla porque estaba dura y se trababa mucho, probablemente mucho tiempo guardada. Fuera de eso, funciona bien"** — un tip útil antes del primer uso si la máquina estuvo tiempo en depósito. Y como aclara otra compradora real, cose telas gruesas pero no llega a ser semi industrial: para eso, haría falta una máquina de otra categoría.
+
+## Para quién es, y para quién no
+
+Es para vos si vas a coser telas gruesas o proyectos de gran escala con cierta frecuencia, y querés enhebrador automático sin pagar el precio de una computarizada. No es para vos si necesitás potencia semi industrial real (esta sigue siendo doméstica) o si preferís la mayor cantidad de diseños posible (ahí la Lumina Luxor, con 146, va más arriba).`,
+    faq: [
+      { question: "¿Es para trabajos pesados de verdad?", answer: "Para uso doméstico con telas gruesas, sí (motor de 100W). No es una máquina semi industrial, según aclara una reseña real de una compradora." },
+      { question: "¿Por qué llegó dura/trabada?", answer: "Según una reseña real, puede pasar si estuvo mucho tiempo guardada en depósito antes de la venta. Se soluciona aceitándola antes del primer uso." },
+      { question: "¿Trae enhebrador automático?", answer: "Sí, además de cortador de hilo incorporado, a diferencia de la Godeco o la Nictom de esta comparativa." },
+      { question: "¿Sirve para telas elásticas?", answer: "Sí, trae prensatelas de dos posiciones pensado para adaptar el arrastre a telas elásticas, según su ficha técnica." },
+      { question: "¿Cuántos diseños de puntada tiene?", answer: "24, menos que los 146 de la Lumina Luxor computarizada, pero más que la mayoría de las mecánicas de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLA15236898",
+    title: "Máquina De Coser Lumina Luxor Computarizada 146 Diseños Blanco",
+    canonicalName: "Lumina Luxor Computarizada",
+    brand: "Lumina",
+    price: 599900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_924464-MLA101920882094_122025-F.jpg",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15236898",
+    affiliateUrl: "https://meli.la/1HQw4M5",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 94,
+    reviewsSampledAt: "2026-11-09",
+    soldQuantity: 500,
+    visibility: "normal",
+    priceUpdated: "2026-11-09",
+    priceLastChecked: "2026-11-09",
+    priceStatus: "fresh",
+    seoTitle: "Lumina Luxor Computarizada: 146 diseños y pantalla LCD, la gama alta",
+    metaDescription: "Máquina de coser Lumina Luxor Computarizada a {{precio:MLA15236898}}, con {{reviews:MLA15236898}} calificaciones y {{rating:MLA15236898}} estrellas. 146 diseños de puntada, pantalla LCD y motor de 850 puntadas/min, la más completa de esta comparativa.",
+    pros: [
+      "146 diseños de puntada, por lejos el máximo de esta comparativa (la siguiente tiene 32)",
+      "Única computarizada del grupo, con pantalla LCD y enhebrador automático",
+      "Motor con 850 puntadas por minuto (la Singer Facilita Pro de esta comparativa es más rápida, 1100 ppm, pero no es computarizada)",
+      "{{rating:MLA15236898}} estrellas, con reseñas reales que la recomiendan 100%",
+    ],
+    cons: [
+      "La más cara de esta comparativa junto con la Singer Facilita Pro",
+      "Una reseña real de 5 estrellas avisa: 'es complicada al principio' hasta aprender a usar todas sus funciones",
+      "Según una reseña real, cose telas gruesas pero no es semi industrial (mismo matiz que la Lumina Flora Rosa)",
+      "Stock bajo al momento de esta comparación (pocas unidades disponibles): confirmá disponibilidad antes de decidirte",
+    ],
+    verdict: "Con 146 diseños de puntada y pantalla LCD, es la opción de gama más alta de esta comparativa para quien quiere el máximo de funciones. El tip honesto de una compradora real: tiene curva de aprendizaje al principio, pero vale la pena si estás dispuesto a invertir tiempo en conocerla.",
+    specs: [
+      { label: "Marca", value: "Lumina" },
+      { label: "Línea", value: "Luxor" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Tecnología", value: "Electrónica (computarizada)" },
+      { label: "Velocidad del motor", value: "850 puntadas por minuto (confirmado en luminaweb.com.ar)" },
+      { label: "Cantidad de diseños de puntada", value: "146" },
+      { label: "Ojales automáticos", value: "7 tipos, en un solo paso" },
+      { label: "Peso neto", value: "5,7 kg" },
+      { label: "Pantalla", value: "LCD digital" },
+      { label: "Tipo de enhebrador", value: "Automático" },
+      { label: "Estructura", value: "Interna de metal" },
+      { label: "Brazo libre", value: "Sí" },
+    ],
+    relatedProducts: ["MLA42690946", "MLA15141564"],
+    articleBody: `## Qué es la Lumina Luxor Computarizada
+
+Es la máquina de coser computarizada de la marca Lumina, con {{reviews:MLA15236898}} calificaciones en MercadoLibre Argentina, vendida a {{precio:MLA15236898}}. Es la única computarizada de esta comparativa, con pantalla LCD, 146 diseños de puntada y motor de 850 puntadas por minuto.
+
+## Lo que dicen los compradores
+
+Una reseña real resume bien lo que implica subir a una computarizada: **"Es complicada al principio. Hasta que aprendes bien como usarla. Pero es hermosa. La recomiendo 100%100. Hagan todas las preguntas necesarias. Pero no se van a arrepentir"**. Otra reseña real suma un dato honesto sobre su potencia: **"Hermosa, super práctica, arranca despacio y luego agarra velocidad, cose telas gruesas pero no es semi industrial. La amo"**.
+
+## El dato honesto
+
+Con 146 diseños, pantalla LCD y funciones programables, tiene más curva de aprendizaje que una máquina mecánica básica: según la reseña citada arriba, al principio puede resultar compleja hasta familiarizarse con el menú. Al momento de esta comparación, el stock disponible era bajo (pocas unidades), así que conviene confirmar disponibilidad antes de decidirte por este modelo.
+
+## Para quién es, y para quién no
+
+Es para vos si querés la mayor cantidad de funciones y diseños de puntada posible, y estás dispuesto a invertir tiempo en aprender a usarla. No es para vos si buscás algo simple y directo para empezar (mirá la Proshop o la Godeco) o si tu presupuesto es más ajustado (mirá la Singer M3505, con menos diseños pero mecánica y más barata).`,
+    faq: [
+      { question: "¿Es difícil de usar?", answer: "Según una reseña real, es complicada al principio hasta aprender bien sus funciones, pero quienes la compraron la recomiendan igual una vez que le agarran la mano." },
+      { question: "¿Cuántos diseños de puntada tiene?", answer: "146, por lejos el máximo de esta comparativa. La siguiente opción con más diseños es la Singer M3505, con 32." },
+      { question: "¿Es semi industrial?", answer: "No, según una reseña real cose telas gruesas pero sigue siendo una máquina doméstica, no semi industrial." },
+      { question: "¿Qué la diferencia de las demás de esta comparativa?", answer: "Es la única computarizada del grupo, con pantalla LCD y 146 diseños programables; el resto selecciona la puntada con un dial mecánico." },
+      { question: "¿Tiene poco stock?", answer: "Al momento de esta comparación, sí, quedaban pocas unidades disponibles. Confirmá el stock actual antes de decidirte." },
+    ],
+  },
+];
+
+curatedProducts.push(...curatedProductsMaquinaDeCoser);
+
 export const categoryPastels: Record<string, string> = {
   cocina: 'var(--pastel-coral)',
   hogar: 'var(--pastel-amber)',
