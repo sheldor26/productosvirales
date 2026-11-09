@@ -155,7 +155,7 @@ export function TableOfContents({ items }: TableOfContentsProps) {
         ref={triggerRef}
         type="button"
         onClick={() => setMobileOpen(true)}
-        className="lg:hidden print:hidden fixed bottom-[76px] right-4 z-[55] flex items-center gap-2 px-3.5 py-2 rounded-full shadow-lg text-[13px] font-medium"
+        className="lg:hidden print:hidden fixed bottom-[76px] right-4 z-[55] flex items-center justify-center w-11 h-11 rounded-full shadow-lg"
         style={{
           backgroundColor: "var(--editorial-accent)",
           color: "#FFFFFF",
@@ -164,8 +164,7 @@ export function TableOfContents({ items }: TableOfContentsProps) {
         aria-expanded={mobileOpen}
         aria-controls="toc-mobile-panel"
       >
-        <List size={16} />
-        Secciones
+        <List size={20} />
       </button>
 
       {mobileOpen && (
