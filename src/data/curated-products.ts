@@ -67439,7 +67439,7 @@ Compralo si trabajás en movilidad con notebook o querés un único cargador par
     id: "MLAU3079854886",
     title: "Power Bank Solar Cargador Portatil 50000mah C/cable Mixio",
     canonicalName: "Power Bank Solar Mixio 50.000 mAh",
-    price: 56260,
+    price: 60198,
     originalPrice: 99999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_764846-MLA83179686271_032025-O.webp",
@@ -67448,12 +67448,12 @@ Compralo si trabajás en movilidad con notebook o querés un único cargador par
     ],
     category: "Tech",
     categorySlug: "tech",
-    permalink: "https://www.mercadolibre.com.ar/p/MLAU3079854886",
+    permalink: "https://www.mercadolibre.com.ar/up/MLAU3079854886",
     affiliateUrl: "https://meli.la/2cdk1kx",
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 336,
+    reviewCount: 436,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
@@ -67467,18 +67467,17 @@ Compralo si trabajás en movilidad con notebook o querés un único cargador par
       { label: "Batería", value: "Ion de litio" },
       { label: "Incluye cable", value: "Sí" },
     ],
-    relatedProducts: ["MLA35433385", "MLA45503497", "MLA65964012", "MLA28743686"],
-    priceUpdated: "2026-08-05",
-    priceLastChecked: "2026-08-05",
+    relatedProducts: ["MLAU3964839724", "MLA45503497", "MLA65964012", "MLA28743686"],
+    priceUpdated: "2026-11-09",
+    priceLastChecked: "2026-11-09",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-08-05",
-    description: "Power bank solar Mixio de 50.000 mAh, el de mayor capacidad y mayor respaldo de reseñas de esta comparativa: 4.7 estrellas en {{reviews:MLAU3079854886}} opiniones. Conectores USB-C, USB y Lightning en un mismo cable.",
+    reviewsSampledAt: "2026-11-09",
+    description: "Power bank solar Mixio de 50.000 mAh, el de mayor respaldo de reseñas de esta comparativa: 4.7 estrellas en {{reviews:MLAU3079854886}} opiniones. Conectores USB-C, USB y Lightning en un mismo cable.",
     seoTitle: "Power Bank Solar Mixio 50.000 mAh: el más elegido",
     metaDescription: "Power bank solar Mixio 50.000 mAh: carga super rápida, USB-C/USB/Lightning, 4.7 estrellas en {{reviews:MLAU3079854886}} opiniones. Precio real y veredicto honesto.",
-    verdict: "El Mixio de 50.000 mAh sirve si buscás la mayor capacidad bruta de esta comparativa con el respaldo de reseñas más grande (336, el más alto del grupo): carga super rápida y un solo cable con las 3 puntas más usadas (USB-C, USB y Lightning). No es la opción si priorizás que el panel solar sea el método principal de carga: como en toda esta categoría, un panel de este tamaño sirve de respaldo de emergencia, no reemplaza cargarlo por cable.",
+    verdict: "El Mixio de 50.000 mAh sirve si buscás el power bank solar con el respaldo de reseñas más grande de esta comparativa: carga super rápida y un solo cable con las 3 puntas más usadas (USB-C, USB y Lightning). No es la opción si priorizás que el panel solar sea el método principal de carga: como en toda esta categoría, un panel de este tamaño sirve de respaldo de emergencia, no reemplaza cargarlo por cable.",
     pros: [
-      "La mayor capacidad declarada de esta comparativa: 50.000 mAh",
-      "El respaldo de reseñas más grande del grupo: {{reviews:MLAU3079854886}} opiniones con 4.7 estrellas",
+      "El respaldo de reseñas más grande de esta comparativa: {{reviews:MLAU3079854886}} opiniones con 4.7 estrellas",
       "Cable con 3 conectores (USB-C, USB, Lightning): sirve para iPhone y Android sin cambiar cable",
       "Carga super rápida según la ficha",
     ],
@@ -67489,11 +67488,11 @@ Compralo si trabajás en movilidad con notebook o querés un único cargador par
     ],
     articleBody: `## Qué es y para quién
 
-El Mixio MX-PB500 es un power bank con panel solar de 50.000 mAh declarados, el de mayor capacidad de esta comparativa. Trae un cable integrado con 3 conectores (USB-C, USB y Lightning), pensado para no andar buscando el cable correcto según el teléfono.
+El Mixio MX-PB500 es un power bank con panel solar de 50.000 mAh declarados. Trae un cable integrado con 3 conectores (USB-C, USB y Lightning), pensado para no andar buscando el cable correcto según el teléfono.
 
 ## Lo bueno
 
-Es el power bank con más reseñas reales de este grupo: {{reviews:MLAU3079854886}} opiniones con 4.7 estrellas, muy por encima de las [201 del Gadnic](/producto/cargador-solar-gadnic-power-bank-b60-15000mah-inalambrico-linterna-mla35433385) o las bases más chicas del [Ecopower](/producto/power-bank-solar-ecopower-22000mah-carga-rapida-negro-azul-ep-c805-mla45503497) y el [Lictin](/producto/cargador-solar-lictin-para-telefonos-capacidad-de-12000-mah-con-cable-incorporad-mla65964012). La capacidad declarada (50.000 mAh) es la más alta de la comparativa, y el cable de 3 puntas resuelve la compatibilidad con cualquier teléfono sin cables sueltos.
+Es el power bank con más reseñas reales de este grupo: {{reviews:MLAU3079854886}} opiniones con 4.7 estrellas, muy por encima del resto de la comparativa. El cable de 3 puntas resuelve la compatibilidad con cualquier teléfono sin cables sueltos.
 
 ## La contra real
 
@@ -67501,10 +67500,10 @@ La ficha técnica de MercadoLibre tiene un error evidente: en el campo "Capacida
 
 ## Para quién sí y para quién no
 
-Compralo si priorizás la máxima capacidad bruta y querés el power bank solar con más historial de reseñas reales de esta comparativa. Si te importa más una marca con trayectoria evaluada en el sitio, el [Gadnic](/producto/cargador-solar-gadnic-power-bank-b60-15000mah-inalambrico-linterna-mla35433385) de esta guía ya tiene otros productos revisados en la [guía general de cargadores portátiles](/guias/tech/cargador-portatil).`,
+Compralo si querés el power bank solar con más historial de reseñas reales de esta comparativa. Si te importa más una marca con trayectoria evaluada en el sitio, el [Gadnic](/producto/cargador-solar-gadnic-power-bank-b60-15000mah-inalambrico-linterna-mla35433385) de esta guía ya tiene otros productos revisados en la [guía general de cargadores portátiles](/guias/tech/cargador-portatil).`,
     faq: [
       { question: "¿El Mixio realmente tiene 50.000 mAh?", answer: "Es la cifra que declara el vendedor en el título y la descripción, aunque la ficha técnica de MercadoLibre tiene un error de tipeo en un campo ('5 mAh') que no coincide. No hay ficha de fabricante independiente para confirmar la capacidad real fuera de lo declarado por el vendedor." },
-      { question: "¿Por qué tiene tantas más reseñas que los otros power banks solares de esta guía?", answer: "Es el que más rotación tiene en MercadoLibre de los 4 que comparamos: {{reviews:MLAU3079854886}} opiniones reales contra 201 del [Gadnic](/producto/cargador-solar-gadnic-power-bank-b60-15000mah-inalambrico-linterna-mla35433385) y menos de 10 del [Ecopower](/producto/power-bank-solar-ecopower-22000mah-carga-rapida-negro-azul-ep-c805-mla45503497) y el [Lictin](/producto/cargador-solar-lictin-para-telefonos-capacidad-de-12000-mah-con-cable-incorporad-mla65964012)." },
+      { question: "¿Por qué tiene tantas más reseñas que los otros power banks solares de esta guía?", answer: "Es el que más rotación tiene en MercadoLibre de esta comparativa: {{reviews:MLAU3079854886}} opiniones reales, bastante por encima del resto." },
       { question: "¿Sirve para iPhone y Android?", answer: "Sí, el cable integrado trae los 3 conectores más usados (USB-C, USB y Lightning), así que no hace falta buscar un cable aparte según el teléfono." },
       { question: "¿El panel solar carga rápido?", answer: "Como en toda esta categoría, un panel solar de este tamaño físico genera muy poca energía comparado con un cargador de pared: sirve de respaldo de emergencia (por ejemplo, de campamento sin enchufe), no como método principal de carga." },
     ],
@@ -67529,7 +67528,7 @@ Compralo si priorizás la máxima capacidad bruta y querés el power bank solar 
     rating: 4.3,
     reviewCount: 254,
     pastelColor: "var(--pastel-amber)",
-    visibility: "normal",
+    visibility: "deprioritized",
     specs: [
       { label: "Marca", value: "Gadnic" },
       { label: "Modelo", value: "B60 (BC000060)" },
@@ -67541,15 +67540,15 @@ Compralo si priorizás la máxima capacidad bruta y querés el power bank solar 
       { label: "Batería", value: "Polímero de litio" },
       { label: "Incluye cable", value: "Sí" },
     ],
-    relatedProducts: ["MLAU3079854886", "MLA45503497", "MLA65964012", "MLA28743686"],
-    priceUpdated: "2026-10-07",
-    priceLastChecked: "2026-10-12",
-    priceStatus: "fresh",
+    relatedProducts: ["MLAU3079854886", "MLA45503497", "MLA65964012", "MLAU3964839724"],
+    priceUpdated: "2026-11-09",
+    priceLastChecked: "2026-11-09",
+    priceStatus: "out_of_stock",
     reviewsSampledAt: "2026-08-05",
     description: "Power bank solar Gadnic B60, con carga inalámbrica y linterna integrada. Marca ya conocida en el sitio (Gadnic 25.000 mAh en la guía general de cargadores portátiles). 4.3 estrellas en {{reviews:MLA35433385}} opiniones.",
     seoTitle: "Gadnic B60: power bank solar con inalámbrica y linterna",
     metaDescription: "Power bank solar Gadnic B60: carga inalámbrica, linterna integrada y 3 puertos. 4.3 estrellas en {{reviews:MLA35433385}} opiniones. Discrepancia de capacidad explicada.",
-    verdict: "El Gadnic B60 sirve si querés funciones extra que ninguno de los otros 3 power banks solares de esta guía tiene: carga inalámbrica y linterna integrada, de una marca con otros productos ya evaluados en el sitio (el [Gadnic de 25.000 mAh](/producto/cargador-portatil-gadnic-25000-mah-carga-rapida-5v-2a-dual-entrada-micro-entrada-mla28743686) de la [guía general de cargadores portátiles](/guias/tech/cargador-portatil)). La honestidad completa: hay una discrepancia real entre el título (15.000 mAh) y la ficha técnica de MercadoLibre (que declara 10 Ah, es decir 10.000 mAh), sin confirmar con el fabricante.",
+    verdict: "Al 2026-11-09 este producto figura sin stock en MercadoLibre (la publicación no tiene ninguna oferta activa, verificado en vivo desde Buenos Aires y desde Corrientes). El Gadnic B60 servía si buscabas funciones extra que ninguno de los otros power banks solares de esta guía tiene: carga inalámbrica y linterna integrada, de una marca con otros productos ya evaluados en el sitio (el [Gadnic de 25.000 mAh](/producto/cargador-portatil-gadnic-25000-mah-carga-rapida-5v-2a-dual-entrada-micro-entrada-mla28743686) de la [guía general de cargadores portátiles](/guias/tech/cargador-portatil)). La honestidad completa: hay una discrepancia real entre el título (15.000 mAh) y la ficha técnica de MercadoLibre (que declara 10 Ah, es decir 10.000 mAh), sin confirmar con el fabricante.",
     pros: [
       "Único de esta comparativa con carga inalámbrica",
       "Linterna integrada, útil justamente en los cortes de luz o salidas donde más se usa un power bank solar",
@@ -67615,7 +67614,7 @@ Comprala si te sirven la carga inalámbrica y la linterna integrada, y preferís
       { label: "Puertos de carga", value: "2" },
       { label: "Incluye cable", value: "Sí" },
     ],
-    relatedProducts: ["MLAU3079854886", "MLA35433385", "MLA65964012", "MLA28743686"],
+    relatedProducts: ["MLAU3079854886", "MLAU3964839724", "MLA65964012", "MLA28743686"],
     priceUpdated: "2026-11-04",
     priceLastChecked: "2026-11-06",
     priceStatus: "fresh",
@@ -67688,7 +67687,7 @@ Comprala si te importa la calificación más alta posible y una ficha técnica s
       { label: "Puertos de carga", value: "3" },
       { label: "Compatible", value: "iPhone, Motorola, Samsung" },
     ],
-    relatedProducts: ["MLAU3079854886", "MLA35433385", "MLA45503497", "MLA28743686"],
+    relatedProducts: ["MLAU3079854886", "MLAU3964839724", "MLA45503497", "MLA28743686"],
     priceUpdated: "2026-11-06",
     priceLastChecked: "2026-11-06",
     priceStatus: "fresh",
@@ -67730,6 +67729,121 @@ Comprala si el presupuesto es lo que más pesa en la decisión y buscás algo si
       { question: "¿Tiene protección contra sobrecarga?", answer: "Sí, según la ficha del producto, un detalle de seguridad que no todos los power banks económicos declaran." },
       { question: "¿Alcanza para varios días de uso sin enchufe?", answer: "Con 12.000 mAh declarados, es la menor capacidad de esta comparativa: alcanza para 1-2 cargas de celular. Para varios días sin enchufe, el [Mixio de 50.000 mAh](/producto/power-bank-solar-cargador-portatil-50000mah-c-cable-mixio-mlau3079854886) o el [Ecopower de 22.000 mAh](/producto/power-bank-solar-ecopower-22000mah-carga-rapida-negro-azul-ep-c805-mla45503497) de esta guía rinden más." },
     ],
+  },
+  {
+    id: "MLAU3964839724",
+    title: "Cargador Portátil 80000mah Carga Solar 65w Linterna Multiuso",
+    canonicalName: "Power Bank Solar Sanci 80.000 mAh",
+    reviewsSampledAt: "2026-11-09",
+    price: 94300,
+    originalPrice: 115000,
+    priceUpdated: "2026-11-09",
+    priceLastChecked: "2026-11-09",
+    priceStatus: "fresh",
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_912711-MLA110593697938_052026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_912711-MLA110593697938_052026-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/cargador-portatil-80000mah-carga-solar-65w-linterna-multiuso/up/MLAU3964839724",
+    affiliateUrl: "https://meli.la/2pHLrD5",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 18,
+    brand: "Sanci",
+    pastelColor: "var(--pastel-slate)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Sanci" },
+      { label: "Modelo", value: "SC-DY7552" },
+      { label: "Capacidad declarada", value: "80.000 mAh (la ficha técnica de MercadoLibre expresa el mismo dato en el campo \"Capacidad de la batería\" como \"80 Ah\", equivalente exacto a 80.000 mAh)" },
+      { label: "Conectores del cable", value: "USB-C / USB-A / USB-C / Lightning" },
+      { label: "Velocidad de carga", value: "65 W, entrada y salida bidireccional" },
+      { label: "Voltaje de entrada", value: "22,5 V" },
+      { label: "Voltaje de salida", value: "22,5 V" },
+      { label: "Tipo de batería", value: "Litio recargable" },
+      { label: "Linterna integrada", value: "Sí, de alta potencia" },
+      { label: "Pantalla", value: "Digital LED con indicador de carga" },
+      { label: "Incluye cable", value: "Sí" },
+      { label: "Vendedor", value: "Lidimi, tienda oficial de MercadoLibre, MercadoLíder Platinum, +5 mil ventas" },
+      { label: "Garantía", value: "6 meses de fábrica" },
+    ],
+    relatedProducts: ["MLAU3079854886", "MLA35433385", "MLA45503497", "MLA65964012"],
+    description: "Power bank solar de 80.000 mAh de Sanci, vendido por la tienda oficial Lidimi (MercadoLíder Platinum). La mayor capacidad declarada de esta comparativa, con linterna de alta potencia y carga bidireccional de 65 W. 4.6 estrellas en {{reviews:MLAU3964839724}} opiniones.",
+    seoTitle: "Sanci 80.000 mAh: el power bank solar de mayor capacidad",
+    metaDescription: "Power bank solar Sanci 80.000 mAh, tienda oficial Lidimi: linterna de alta potencia, carga bidireccional 65W y pantalla digital. 4.6★ en {{reviews:MLAU3964839724}} opiniones.",
+    verdict: "El Sanci de 80.000 mAh (vendido por Lidimi, tienda oficial MercadoLíder Platinum) tiene la mayor capacidad declarada de esta comparativa, con linterna de alta potencia, pantalla digital y carga bidireccional de 65 W, la más rápida declarada del grupo. La honestidad completa: tiene solo {{reviews:MLAU3964839724}} opiniones al momento de esta guía, menos historial que el Mixio, y el propio vendedor aclara en su descripción que la carga solar es lenta y que la recarga principal debe hacerse por cable USB-C, algo que una reseña real confirma como limitación.",
+    pros: [
+      "La mayor capacidad declarada de esta comparativa: 80.000 mAh",
+      "Vendido por tienda oficial (Lidimi, MercadoLíder Platinum, +5 mil ventas): no es un vendedor de bajo historial",
+      "Carga bidireccional de 65 W, la más rápida declarada de esta comparativa",
+      "Linterna de alta potencia integrada y pantalla digital con indicador de carga",
+      "Manija de transporte integrada, pensada para camping o uso al aire libre",
+    ],
+    cons: [
+      "Solo {{reviews:MLAU3964839724}} calificaciones al momento de esta guía: la nota de 4.6 es real pero con menos historial que las {{reviews:MLAU3079854886}} del [Mixio](/producto/power-bank-solar-cargador-portatil-50000mah-c-cable-mixio-mlau3079854886)",
+      "El propio vendedor aclara en la descripción que la carga solar es lenta y que la recarga principal debe hacerse por cable USB-C: coincide con la advertencia general de esta guía, pero vale repetirlo",
+      "Una reseña real señala que, en su caso puntual, la carga solar no funcionó bien",
+      "Los 80.000 mAh son la cifra declarada por el vendedor (la ficha técnica de MercadoLibre expresa el mismo número en el campo \"80 Ah\"): no hay ficha de fabricante independiente que la confirme",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Sanci SC-DY7552 es un power bank solar de 80.000 mAh declarados, la mayor capacidad de esta comparativa, vendido por Lidimi, tienda oficial de MercadoLibre con categoría MercadoLíder Platinum y más de 5 mil ventas. Trae panel solar integrado, linterna de alta potencia, pantalla digital y una manija pensada para llevarlo colgado en una mochila o en camping.
+
+## Lo bueno
+
+Es, por capacidad declarada, la opción más grande de esta guía: 80.000 mAh contra los 50.000 del [Mixio](/producto/power-bank-solar-cargador-portatil-50000mah-c-cable-mixio-mlau3079854886). También es el único de esta comparativa con carga bidireccional de 65 W, la velocidad declarada más alta del grupo, y viene de un vendedor con historial real (tienda oficial, MercadoLíder Platinum), un respaldo que no todos los productos de esta categoría tienen.
+
+## La contra real
+
+Al momento de esta guía acumula solo {{reviews:MLAU3964839724}} calificaciones, bastante menos que las {{reviews:MLAU3079854886}} del Mixio. Y hay que repetir algo que el propio vendedor aclara en su descripción, sin que se lo preguntemos: "la carga solar es lenta y la recarga principal debe hacerse mediante cable USB-C". Es la misma advertencia que aplica a toda la categoría, pero acá viene confirmada directamente por quien vende el producto, y una reseña real coincide: "muy bueno aunque la carga solar no funciona muy bien". La ficha técnica de MercadoLibre expresa esa misma cifra en el campo "Capacidad de la batería" como "80 Ah" (equivalente exacto a 80.000 mAh, no una cifra distinta): no encontramos ficha de fabricante independiente para confirmar el número declarado por el vendedor.
+
+## Para quién sí y para quién no
+
+Comprala si priorizás la mayor capacidad bruta de esta comparativa y preferís comprarle a una tienda oficial con historial, aunque la ficha puntual tenga pocas reseñas todavía. Si el respaldo de reseñas es tu prioridad número uno, el [Mixio](/producto/power-bank-solar-cargador-portatil-50000mah-c-cable-mixio-mlau3079854886) sigue siendo la opción con más historial real de esta guía.`,
+    faq: [
+      { question: "¿Cuántos mAh tiene realmente?", answer: "El título y la descripción del vendedor declaran 80.000 mAh. La ficha técnica de MercadoLibre expresa el mismo dato en el campo \"Capacidad de la batería\" como \"80 Ah\" (equivalente exacto a 80.000 mAh); no hay ficha de fabricante independiente para confirmar el número declarado por el vendedor." },
+      { question: "¿La carga solar es rápida?", answer: "No, y el propio vendedor lo aclara en su descripción: la carga solar es lenta, la recarga principal debe hacerse por cable USB-C. Una reseña real confirma esta limitación. Aplica a toda la categoría, no es un defecto puntual de este producto." },
+      { question: "¿Quién lo vende?", answer: "Lidimi, tienda oficial de MercadoLibre con categoría MercadoLíder Platinum y más de 5 mil ventas, con 6 meses de garantía de fábrica." },
+      { question: "¿Tiene linterna?", answer: "Sí, trae una linterna de alta potencia integrada, además de pantalla digital LED con indicador de carga." },
+      { question: "¿Qué conectores trae el cable?", answer: "Según la ficha del producto: USB-C, USB-A, USB-C y Lightning." },
+      { question: "¿Por qué tiene menos reseñas que el Mixio de esta guía?", answer: "Es una publicación con menos historial de ventas: {{reviews:MLAU3964839724}} calificaciones contra las {{reviews:MLAU3079854886}} del Mixio. La nota de 4.6 es real, pero con menos volumen de datos detrás." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Lo probé y mi celular es compatible con carga rápida de 10. Aún no lo probé con carga solar pero te salva para cargar el celular si no está en un lugar para enchufar el celular. Lo bueno es que tiene linterna.", useful: 2 },
+      { rating: 5, country: "Argentina", text: "Materiales: buen tamaño, práctico para llevar y con una correa cómoda. Parece resistente y los paneles solares están bien integrados.", useful: 1 },
+      { rating: 5, country: "Argentina", text: "Muy bueno aunque la carga solar no funciona muy bien.", useful: 1 },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Power Bank Solar Sanci 80.000 mAh",
+      description: "Power bank solar Sanci SC-DY7552 de 80.000 mAh, vendido por la tienda oficial Lidimi en MercadoLibre, con linterna de alta potencia, pantalla digital y carga bidireccional de 65 W.",
+      brand: { "@type": "Brand", name: "Sanci" },
+      model: "SC-DY7552",
+      sku: "MLAU3964839724",
+      category: "Power bank solar",
+      image: "https://http2.mlstatic.com/D_NQ_NP_912711-MLA110593697938_052026-O.webp",
+      url: "https://productosvirales.com.ar/producto/cargador-portatil-80000mah-carga-solar-65w-linterna-multiuso-mlau3964839724",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "94300",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+        url: "https://meli.la/2pHLrD5",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "18",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
   },
 
   // ─── Planchitas de pelo — importadas via Chrome (jul 2026, API ML caída). Silo cuidado-personal (STAGED) ───
