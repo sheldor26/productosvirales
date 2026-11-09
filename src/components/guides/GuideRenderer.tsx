@@ -599,18 +599,22 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
             {product.title}
           </p>
           {product.rating ? (
-            <div className="mt-0.5 flex flex-wrap items-center gap-x-1.5 gap-y-0.5 text-[12px] text-[var(--text-muted)]">
-              <Stars rating={product.rating} size={12} />
-              <span className="font-medium text-[var(--text-secondary)]">
-                {product.rating.toFixed(1)}
-              </span>
-              {product.reviewCount ? (
-                <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
-              ) : null}
+            <>
+              <div className="mt-0.5 flex items-center gap-1.5 text-[12px] text-[var(--text-muted)]">
+                <Stars rating={product.rating} size={12} />
+                <span className="font-medium text-[var(--text-secondary)]">
+                  {product.rating.toFixed(1)}
+                </span>
+                {product.reviewCount ? (
+                  <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
+                ) : null}
+              </div>
               {product.soldQuantity ? (
-                <span>· +{product.soldQuantity.toLocaleString("es-AR")} vendidos</span>
+                <div className="text-[12px] text-[var(--text-muted)]">
+                  +{product.soldQuantity.toLocaleString("es-AR")} vendidos
+                </div>
               ) : null}
-            </div>
+            </>
           ) : null}
         </Link>
         {bestPrice && (

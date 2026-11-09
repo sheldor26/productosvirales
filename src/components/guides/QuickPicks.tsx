@@ -123,17 +123,19 @@ export function QuickPicks({ picks }: QuickPicksProps) {
                   href={productHref(p.product)}
                   prefetch={false}
                   data-cta-location="quickpick-rating"
-                  className="flex w-fit flex-wrap items-center gap-x-1.5 gap-y-0.5 text-[11px] text-[var(--text-muted)]"
+                  className="flex w-fit flex-col gap-0.5 text-[11px] text-[var(--text-muted)]"
                 >
-                  <Stars rating={p.product.rating} size={12} />
-                  <span className="font-medium text-[var(--text-secondary)]">
-                    {p.product.rating.toFixed(1)}
+                  <span className="flex items-center gap-1.5">
+                    <Stars rating={p.product.rating} size={12} />
+                    <span className="font-medium text-[var(--text-secondary)]">
+                      {p.product.rating.toFixed(1)}
+                    </span>
+                    {p.product.reviewCount ? (
+                      <span>· {p.product.reviewCount.toLocaleString("es-AR")}</span>
+                    ) : null}
                   </span>
-                  {p.product.reviewCount ? (
-                    <span>· {p.product.reviewCount.toLocaleString("es-AR")}</span>
-                  ) : null}
                   {p.product.soldQuantity ? (
-                    <span>· +{p.product.soldQuantity.toLocaleString("es-AR")} vendidos</span>
+                    <span>+{p.product.soldQuantity.toLocaleString("es-AR")} vendidos</span>
                   ) : null}
                 </Link>
               ) : null}

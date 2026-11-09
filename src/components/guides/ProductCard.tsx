@@ -297,15 +297,17 @@ export function ProductCard({ section }: ProductCardProps) {
             <Link
               href={productHref(product)}
               prefetch={false}
-              className="flex w-fit flex-wrap items-center gap-x-2 gap-y-1 text-sm text-[var(--text-muted)]"
+              className="flex w-fit flex-col gap-1 text-sm text-[var(--text-muted)]"
             >
-              <Stars rating={rating} />
-              <span className="font-medium text-[var(--text-secondary)]">{rating.toFixed(1)}</span>
-              {product.reviewCount ? (
-                <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
-              ) : null}
+              <span className="flex flex-wrap items-center gap-x-2 gap-y-1">
+                <Stars rating={rating} />
+                <span className="font-medium text-[var(--text-secondary)]">{rating.toFixed(1)}</span>
+                {product.reviewCount ? (
+                  <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
+                ) : null}
+              </span>
               {product.soldQuantity ? (
-                <span>· +{product.soldQuantity.toLocaleString("es-AR")} vendidos</span>
+                <span>+{product.soldQuantity.toLocaleString("es-AR")} vendidos</span>
               ) : null}
             </Link>
           )}
