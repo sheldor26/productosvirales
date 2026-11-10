@@ -3,7 +3,7 @@ import { baseOpenGraph } from "@/lib/site-og";
 
 const title = "Términos y condiciones";
 const description =
-  "Términos de uso de ProductosVirales.com.ar. Condiciones bajo las cuales podés usar el sitio.";
+  "Términos de uso de ProductosVirales.com.ar: condiciones bajo las cuales podés usar el sitio, el contenido editorial y los links de afiliado del sitio.";
 const canonical = "https://productosvirales.com.ar/terminos";
 
 export const metadata: Metadata = {

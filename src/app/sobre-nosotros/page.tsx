@@ -4,7 +4,7 @@ import { baseOpenGraph } from "@/lib/site-og";
 export const metadata: Metadata = {
   title: "Sobre nosotros",
   description:
-    "Somos ProductosVirales: un curador independiente de productos virales y trending de MercadoLibre Argentina. Conocé nuestra metodología, cómo ganamos dinero y por qué podés confiar en nuestras recomendaciones.",
+    "Curador independiente de productos virales de MercadoLibre Argentina: cómo ganamos dinero y por qué podés confiar en nuestras recomendaciones.",
   alternates: {
     canonical: "https://productosvirales.com.ar/sobre-nosotros",
   },

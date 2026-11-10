@@ -31,7 +31,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const product = curatedProducts.find((p) => p.id === id);
   if (!product) return { title: "Producto no encontrado" };
 
-  const title = product.seoTitle || product.title;
+  // injectLivePrices acá también: sin esto, un producto sin seoTitle propio
+  // sacaba el título crudo con el token sin resolver ("{{reviews:MLA…}}")
+  // directo en el <title> y en el snippet de Google.
+  const title = toPlainText(injectLivePrices(product.seoTitle || product.title));
   // injectLivePrices también acá: si no, un token puesto en metaDescription sale
   // literal ("{{reviews:MLA…}}") en el meta y en el snippet de Google, que es
   // justo donde nadie lo mira hasta que ya está indexado.
@@ -165,6 +168,11 @@ export default async function ProductPage({ params }: Props) {
   // rating ni disponibilidad de la página visible.
   const custom = (product.structuredData || {}) as Record<string, unknown>;
   const customOffers = (custom.offers as Record<string, unknown>) || {};
+  // schema.org exige `Country` (objeto), no un string suelto, para
+  // countryOfOrigin — algunas fichas lo cargaron como texto plano.
+  if (typeof custom.countryOfOrigin === "string") {
+    custom.countryOfOrigin = { "@type": "Country", name: custom.countryOfOrigin };
+  }
 
   // "Pros and cons" de Google (rich result propio desde 2022, solo para
   // páginas de review editorial — exactamente lo que es esta ficha, no una
@@ -172,12 +180,21 @@ export default async function ProductPage({ params }: Props) {
   // honesto" de ProductDetail.tsx, pasados por toPlainText porque el
   // structured data no debe llevar markdown. Mínimo real de Google: al
   // menos 2 notas entre ambas listas, si no el Review queda sin ellas.
+  // Google exige `reviewRating` en todo Review dentro de Product (si falta,
+  // invalida el rich result) — así que este Review editorial solo se emite
+  // cuando hay un rating real del producto para usar, nunca inventado.
   const totalProsConsNotes = (detailProduct.pros?.length || 0) + (detailProduct.cons?.length || 0);
   const editorialReview =
-    totalProsConsNotes >= 2
+    totalProsConsNotes >= 2 && product.rating
       ? {
           "@type": "Review",
           author: { "@type": "Organization", name: "Equipo ProductosVirales" },
+          reviewRating: {
+            "@type": "Rating",
+            ratingValue: product.rating.toFixed(1),
+            bestRating: "5",
+            worstRating: "1",
+          },
           ...(detailProduct.pros && detailProduct.pros.length > 0
             ? {
                 positiveNotes: {

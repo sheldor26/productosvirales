@@ -7,7 +7,7 @@ import { baseOpenGraph } from "@/lib/site-og";
 export const metadata: Metadata = {
   title: "Trending — Lo más buscado en MercadoLibre",
   description:
-    "Descubrí los productos que están en tendencia ahora mismo en MercadoLibre Argentina.",
+    "Descubrí los productos que están en tendencia ahora mismo en MercadoLibre Argentina, ordenados por ventas reales: lo más buscado y comprado hoy.",
   alternates: {
     canonical: "https://productosvirales.com.ar/trending",
   },

@@ -18,7 +18,7 @@ export const categories: Category[] = [
     pastel: "var(--color-pastel-amber)",
     mlCategoryId: "MLA1574",
     h1: "Productos para el Hogar Virales",
-    description: "Organización, decoración, limpieza y electrodomésticos que todos quieren",
+    description: "Organización, decoración, limpieza y electrodomésticos que todos quieren: lo que rompe en MercadoLibre Argentina, comparado por precio y reseñas reales.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>En productos virales de hogar mostramos lo que está rompiendo en MercadoLibre Argentina: organizadores que te ordenan la cocina o el placard, accesorios de limpieza inteligente, electrodomésticos compactos para espacios chicos y decoración que aparece todo el tiempo en TikTok. La mayoría resuelve un problema cotidiano concreto (el cajón que explota, el baño sin espacio, el polvo imposible) de una forma que se ve simple una vez que la descubrís.</p>
@@ -42,7 +42,7 @@ export const categories: Category[] = [
     pastel: "var(--color-pastel-coral)",
     mlCategoryId: "MLA1144",
     h1: "Productos de Cocina Virales",
-    description: "Utensilios, pavas, sartenes y electrodomésticos que son furor",
+    description: "Utensilios, pavas, sartenes y electrodomésticos que son furor: freidoras de aire, licuadoras portátiles y más, comparados por precio real de MercadoLibre.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Pavas eléctricas con control de temperatura, sartenes antiadherentes de cerámica o acero, freidoras de aire, licuadoras portátiles USB, gadgets para picar, pelar y cortar en segundos. TikTok convirtió la cocina en un laboratorio de gadgets: recetas virales que necesitan herramientas específicas (batidores de matcha, moldes para huevo, accesorios para pasta) llegan a MercadoLibre Argentina en pocas semanas.</p>
@@ -66,7 +66,7 @@ export const categories: Category[] = [
     pastel: "var(--color-pastel-purple)",
     mlCategoryId: "MLA1182",
     h1: "Instrumentos Musicales",
-    description: "Guitarras, teclados y equipos para el que empieza a tocar",
+    description: "Guitarras, teclados y equipos para el que empieza a tocar: desde marcas genéricas de entrada hasta Fender, Gibson y Yamaha, comparados por precio real.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Instrumentos de entrada para el que arranca: guitarras criollas, electroacústicas y eléctricas, controladores de DJ y los accesorios que hacen falta para poder tocar de verdad. La mayoría de lo que se vende son marcas genéricas de entrada, más baratas y con la góndola más completa. Pero las marcas internacionales sí están: Fender, Gibson, Gretsch y Yamaha se consiguen, solo que salen bastante más y no son las que más se venden. Acá comparamos las dos cosas: lo genérico y lo de marca.</p>
@@ -81,7 +81,7 @@ export const categories: Category[] = [
     pastel: "var(--color-pastel-blue)",
     mlCategoryId: "MLA1051",
     h1: "Tecnología Viral",
-    description: "Proyectores, gadgets y tecnología que son tendencia",
+    description: "Proyectores, gadgets y tecnología que son tendencia: auriculares JBL y Xiaomi, cargadores magnéticos y accesorios, comparados por precio de MercadoLibre.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Proyectores portátiles tipo "astronauta" que son furor en habitaciones gamer, auriculares inalámbricos de marcas conocidas y alternativas económicas, cargadores magnéticos, hubs USB, lámparas LED con efectos, accesorios para celular y tablet. El mundo tech viral mezcla productos de marca (con garantía oficial en Argentina) y genéricos importados de calidad variable.</p>
@@ -104,7 +104,7 @@ export const categories: Category[] = [
     icon: "Gamepad2",
     pastel: "var(--color-pastel-blue)",
     h1: "Setup Gamer: lo mejor en MercadoLibre Argentina",
-    description: "Mouse, teclados, sillas, monitores y auriculares para armar tu setup",
+    description: "Mouse, teclados, sillas, monitores y auriculares para armar tu setup: Logitech, Razer y Redragon comparados por precio real de MercadoLibre Argentina.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Mouse y teclados gamer de Logitech, Redragon y Razer, monitores curvos de alta tasa de refresco (Samsung Odyssey, Xiaomi, Gigabyte), sillas ergonómicas (Alpina, Cougar, Corsair) y auriculares con sonido envolvente para competitivo. Es la categoría con más variedad de precio del sitio: desde un mouse de $26.000 hasta un monitor curvo de casi $1.000.000.</p>
@@ -127,7 +127,7 @@ export const categories: Category[] = [
     icon: "Headphones",
     pastel: "var(--color-pastel-blue)",
     h1: "Parlantes y Auriculares Virales",
-    description: "Parlantes portátiles JBL, auriculares Sony, Xiaomi y de estudio Audio-Technica",
+    description: "Parlantes portátiles JBL, auriculares Sony, Xiaomi y de estudio Audio-Technica, comparados por autonomía real, resistencia al agua y precio real.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Parlantes portátiles JBL (Go, Flip, Charge, Boombox) y alternativas como Stromberg y Xiaomi, auriculares inalámbricos deportivos y de uso diario (Sony, Xiaomi Redmi Buds, Samsung Galaxy Buds), y auriculares de estudio para monitoreo (Audio-Technica ATH-M series, Sennheiser HD 280 Pro). Cubre desde el parlante de mesa de luz hasta el auricular cerrado que usa un editor de audio.</p>
@@ -151,7 +151,7 @@ export const categories: Category[] = [
     pastel: "var(--color-pastel-pink)",
     mlCategoryId: "MLA1246",
     h1: "Productos de Belleza Virales",
-    description: "Skincare, masajeadores y cuidado personal que arrasan en redes",
+    description: "Skincare, masajeadores y cuidado personal que arrasan en redes: gua sha, LED masks y depiladoras IPL, comparados por precio real de MercadoLibre.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Masajeadores faciales (gua sha, rodillos de jade, lifting devices), herramientas de skincare (limpiadores ultrasónicos, LED masks), planchitas y secadores inteligentes, depiladoras IPL de hogar, accesorios para maquillaje. TikTok Argentina impulsa tendencias de K-beauty, rutinas minimalistas y devices que prometen resultados de consultorio en casa. Algunos funcionan, otros son puro marketing.</p>
@@ -174,7 +174,7 @@ export const categories: Category[] = [
     icon: "Thermometer",
     pastel: "var(--color-pastel-green)",
     h1: "Climatización Viral",
-    description: "Aires acondicionados, ventiladores de techo, estufas eléctricas y a leña, y termotanques",
+    description: "Aires acondicionados, ventiladores de techo, estufas eléctricas y a leña, y termotanques, comparados por frigorías, potencia real y precio de MercadoLibre.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Aires acondicionados portátiles para cuartos sin salida de aire fijo, ventiladores de techo de 3 y 4 palas, estufas eléctricas de bajo consumo, caloventores y termotanques eléctricos. Productos de temporada: la demanda de aires se dispara en verano y la de estufas y termotanques en invierno, así que los precios se mueven bastante según la época.</p>
@@ -197,7 +197,7 @@ export const categories: Category[] = [
     icon: "HeartPulse",
     pastel: "var(--color-pastel-purple)",
     h1: "Salud y Bienestar Viral",
-    description: "Balanzas digitales, masajeadores y productos para cuidar tu salud en casa",
+    description: "Balanzas digitales, masajeadores y productos para cuidar tu salud en casa, comparados por capacidad, intensidad ajustable y precio real de MercadoLibre.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Balanzas digitales de baño (simples y con análisis de composición corporal por Bluetooth), masajeadores cervicales, de pies y de cuerpo completo. Son productos que se compran una vez y se usan durante años, así que vale la pena elegir bien desde el principio.</p>
@@ -220,7 +220,7 @@ export const categories: Category[] = [
     icon: "Shield",
     pastel: "var(--color-pastel-blue)",
     h1: "Seguridad para el Hogar Viral",
-    description: "Cámaras de seguridad WiFi, interior y exterior, con y sin mensualidad",
+    description: "Cámaras de seguridad WiFi, interior y exterior, con y sin mensualidad, comparadas por almacenamiento, detección de movimiento y precio de MercadoLibre.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Cámaras de seguridad WiFi para interior y exterior, motorizadas (con seguimiento de movimiento) y fijas, individuales o en kits de varias unidades para cubrir toda la casa. La ventaja de esta generación es que graban en la nube o en microSD sin depender de una alarma con abono mensual.</p>
@@ -243,7 +243,7 @@ export const categories: Category[] = [
     icon: "ToyBrick",
     pastel: "var(--color-pastel-pink)",
     h1: "Juguetes Virales para Regalar",
-    description: "Los juguetes que están pegando fuerte en Argentina, por edad: bebés, niños, niñas y adolescentes",
+    description: "Los juguetes que están pegando fuerte en Argentina, por edad: bebés, niños, niñas y adolescentes, comparados por seguridad y precio real de MercadoLibre.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Juguetes que hoy están vendiendo fuerte en MercadoLibre Argentina y aparecen seguido en redes: alfombras y gimnasios sensoriales para bebés, bloques magnéticos y cocinas de juguete para los más chicos, sets de construcción y autos a control remoto para la primaria, y coleccionables tipo blind-box, drones chicos y gadgets antiestrés para preadolescentes. Organizado por franja de edad, no por marca, porque es lo que más define si un juguete conviene o no.</p>
@@ -266,7 +266,7 @@ export const categories: Category[] = [
     icon: "Trophy",
     pastel: "var(--color-pastel-purple)",
     h1: "Coleccionables Virales",
-    description: "Figuritas, álbumes y objetos de colección que son furor en Argentina",
+    description: "Figuritas, álbumes y objetos de colección que son furor en Argentina, como los sobres oficiales del Mundial, comparados por precio real de MercadoLibre.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Sobres y packs de figuritas oficiales (como los del álbum del Mundial), álbumes y accesorios para completarlos. Son productos de temporada: la demanda se dispara con cada evento grande y baja el resto del año.</p>
@@ -346,7 +346,7 @@ export const categories: Category[] = [
     icon: "PawPrint",
     pastel: "var(--color-pastel-amber)",
     h1: "Mascotas: Productos para Perros y Gatos",
-    description: "Rascadores, accesorios y equipamiento para mascotas, comparados con precio real de MercadoLibre",
+    description: "Rascadores, accesorios y equipamiento para mascotas, comparados por material, estabilidad de la base y precio real de MercadoLibre Argentina.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Productos pensados para perros y gatos: rascadores, torres y accesorios de estética e higiene. Comparamos publicaciones reales de MercadoLibre Argentina por precio, respaldo de reseñas y materiales declarados, no por lo que promete el título del vendedor.</p>
@@ -366,7 +366,7 @@ export const categories: Category[] = [
     icon: "Baby",
     pastel: "var(--color-pastel-pink)",
     h1: "Bebés: Cochecitos, Corralitos y Paseo",
-    description: "Cochecitos, corralitos y artículos de paseo para bebés, comparados con precio real de MercadoLibre",
+    description: "Cochecitos, corralitos y artículos de paseo para bebés, comparados por peso máximo, certificación de seguridad y precio real de MercadoLibre Argentina.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Cochecitos de paseo y corralitos, los dos artículos de mayor ticket en la etapa de bebé. Comparamos publicaciones reales de MercadoLibre Argentina por precio, respaldo de reseñas y specs de seguridad declaradas, no por lo que promete el título del vendedor.</p>
@@ -406,7 +406,7 @@ export const categories: Category[] = [
     icon: "Briefcase",
     pastel: "var(--color-pastel-slate)",
     h1: "Oficina: Sillas Ergonómicas y Mobiliario",
-    description: "Mobiliario de oficina y home office comparado por lo que decide el uso real: peso máximo soportado, ergonomía y respaldo de opiniones, con precio real de MercadoLibre",
+    description: "Mobiliario de oficina y home office comparado por lo que importa: peso máximo soportado, ergonomía y respaldo de opiniones, con precio real de MercadoLibre.",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Sillas ergonómicas de Circle Line, Alpina, Cougar y Dyvan para quien trabaja muchas horas sentado. Comparamos publicaciones reales de MercadoLibre Argentina por precio, peso máximo soportado y respaldo de reseñas, no por lo que promete el título del vendedor.</p>

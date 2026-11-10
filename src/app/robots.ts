@@ -5,16 +5,30 @@ export default function robots(): MetadataRoute.Robots {
 
   return {
     rules: [
-      // Bots de búsqueda de IA: permitidos explícitamente (nos citan y traen tráfico).
+      // Bots de búsqueda/citación de IA: permitidos explícitamente (nos citan y traen tráfico).
       {
-        userAgent: ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "PerplexityBot"],
+        userAgent: ["OAI-SearchBot", "ChatGPT-User", "PerplexityBot"],
         allow: "/",
         disallow: ["/api/"],
       },
       // Bots de entrenamiento: bloqueados (usan el contenido para entrenar modelos,
-      // no generan citas ni tráfico). No afecta a Googlebot ni a los AI Overviews.
+      // no generan citas ni tráfico). No afecta a Googlebot ni a los AI Overviews
+      // (Google-Extended solo controla el entrenamiento de Gemini/Vertex AI, no el
+      // índice de Search). GPTBot y ClaudeBot son los bots de ENTRENAMIENTO de OpenAI
+      // y Anthropic (las citas en vivo las traen OAI-SearchBot/ChatGPT-User y
+      // PerplexityBot, ya permitidos arriba) — antes quedaban mal clasificados como
+      // "búsqueda" y permitidos por error; Ahrefs lo marcó como política inconsistente
+      // porque solo bloqueábamos 2 de los ~7 bots de entrenamiento reales.
       {
-        userAgent: ["CCBot", "Google-Extended"],
+        userAgent: [
+          "CCBot",
+          "Google-Extended",
+          "GPTBot",
+          "ClaudeBot",
+          "DeepseekBot",
+          "Meta-ExternalAgent",
+          "Applebot-Extended",
+        ],
         disallow: "/",
       },
       {
