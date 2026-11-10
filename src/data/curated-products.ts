@@ -83239,7 +83239,7 @@ El pack con mejor rating de toda la guía, con la ventaja de saber exactamente q
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 16240,
+    reviewCount: 16158,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
@@ -83261,16 +83261,16 @@ El pack con mejor rating de toda la guía, con la ventaja de saber exactamente q
       { label: "Llanta", value: "Aluminio, doble pared" },
     ],
     relatedProducts: ["MLA61732398", "MLA63460526", "MLA62903959", "MLA74126437", "MLA1114038122"],
-    priceUpdated: "2026-10-07",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-08-05",
-    description: "Overtech R29 Q5: la bicicleta rodado 29 más vendida de esta comparativa por lejos, con casi 19.000 calificaciones. Cuadro de acero inoxidable, freno a disco en ambas ruedas y cambio trasero Shimano, aunque el delantero es de una marca genérica.",
+    reviewsSampledAt: "2026-11-10",
+    description: "Overtech R29 Q5: la bicicleta rodado 29 más vendida de esta comparativa por lejos, con {{reviews:MLA48478468}} calificaciones. Cuadro de acero inoxidable, freno a disco en ambas ruedas y cambio trasero Shimano, aunque el delantero es de una marca genérica.",
     seoTitle: "Overtech R29 Q5: la rodado 29 más vendida en Argentina",
-    metaDescription: "Overtech R29 Q5: {{reviews:MLA48478468}} calificaciones, 4.7 estrellas, freno a disco y cambio trasero Shimano. Precio real, specs verificadas y contras reales antes de comprar.",
-    verdict: "La Overtech R29 Q5 es la bicicleta rodado 29 con más reseñas de todo Mercado Libre Argentina, y eso pesa: casi 19.000 compradores reales la calificaron con 4.7 estrellas. Cumple lo básico (freno a disco en ambas ruedas, suspensión delantera, 21 velocidades) a un precio medio. La contra real: el título menciona \"Shimano\" pero solo el cambio trasero es de esa marca, el delantero es Sunrun. Si buscás la opción más probada del mercado, es esta.",
+    metaDescription: "Overtech R29 Q5: {{reviews:MLA48478468}} calificaciones, {{rating:MLA48478468}} estrellas, freno a disco y cambio trasero Shimano. Precio real, specs verificadas y contras reales antes de comprar.",
+    verdict: "La Overtech R29 Q5 es la bicicleta rodado 29 con más reseñas de todo Mercado Libre Argentina, y eso pesa: {{reviews:MLA48478468}} compradores reales la calificaron con {{rating:MLA48478468}} estrellas. Cumple lo básico (freno a disco en ambas ruedas, suspensión delantera, 21 velocidades) a un precio medio. La contra real: el título menciona \"Shimano\" pero solo el cambio trasero es de esa marca, el delantero es Sunrun. Si buscás la opción más probada del mercado, es esta.",
     pros: [
-      "Lejos la más vendida de esta comparativa: {{reviews:MLA48478468}} calificaciones con 4.7 estrellas, la base de reseñas más grande de cualquier bicicleta del sitio",
+      "Lejos la más vendida de esta comparativa: {{reviews:MLA48478468}} calificaciones con {{rating:MLA48478468}} estrellas, la base de reseñas más grande de cualquier bicicleta del sitio",
       "Freno a disco mecánico en ambas ruedas, igual que el resto de esta comparativa",
       "Cambio trasero Shimano TY21, marca reconocida en componentes de bici",
       "Soporta hasta 125 kg, el máximo de las 6 bicicletas de esta guía",
@@ -83288,7 +83288,7 @@ La Overtech R29 Q5 es una mountain bike rodado 29 de cuadro de acero inoxidable,
 
 ## Lo bueno
 
-Casi 19.000 calificaciones con 4.7 estrellas es un volumen de prueba social que ninguna otra bicicleta de esta comparativa se acerca a igualar. Las reseñas reales describen un andar suave y silencioso, y varios compradores la comparan favorablemente contra bicicletas de marcas más caras. Trae freno a disco en las dos ruedas y suspensión delantera, lo esperable en esta franja de precio, y soporta hasta 125 kg.
+{{reviews:MLA48478468}} calificaciones con {{rating:MLA48478468}} estrellas es un volumen de prueba social que ninguna otra bicicleta de esta comparativa se acerca a igualar. Las reseñas reales describen un andar suave y silencioso, y varios compradores la comparan favorablemente contra bicicletas de marcas más caras. Trae freno a disco en las dos ruedas y suspensión delantera, lo esperable en esta franja de precio, y soporta hasta 125 kg.
 
 ## La contra real
 
@@ -83308,7 +83308,7 @@ Comprala si priorizás la opción más probada del mercado, con la base de rese�
     id: "MLA61732398",
     title: "Bicicleta Alpina Mtb Mountain Bike 1.0 Rodado 29 21 Velocidades Negro/Rojo Talle M",
     canonicalName: "Bicicleta Alpina MTB 1.0 Pro",
-    price: 248064,
+    price: 248320,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_861485-MLA107450831449_022026-O.webp",
     images: [
@@ -83321,7 +83321,7 @@ Comprala si priorizás la opción más probada del mercado, con la base de rese�
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 4192,
+    reviewCount: 4198,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
@@ -83342,19 +83342,19 @@ Comprala si priorizás la opción más probada del mercado, con la base de rese�
       { label: "Llanta", value: "Aluminio, doble pared" },
     ],
     relatedProducts: ["MLA48478468", "MLA63460526", "MLA62903959", "MLA74126437", "MLA1114038122"],
-    priceUpdated: "2026-11-09",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-08-05",
-    description: "Alpina 1.0 Pro: el mejor equilibrio de esta comparativa entre rating alto y respaldo de reseñas grande (4.8 estrellas en {{reviews:MLA61732398}} calificaciones, la segunda base más grande). Cuadro de acero inoxidable, freno a disco en ambas ruedas.",
+    reviewsSampledAt: "2026-11-10",
+    description: "Alpina 1.0 Pro: el mejor equilibrio de esta comparativa entre rating alto y respaldo de reseñas grande ({{rating:MLA61732398}} estrellas en {{reviews:MLA61732398}} calificaciones, la segunda base más grande). Cuadro de acero inoxidable, freno a disco en ambas ruedas.",
     seoTitle: "Alpina 1.0 Pro: rodado 29 con rating alto y gran respaldo",
-    metaDescription: "Alpina MTB 1.0 Pro rodado 29: 4.8 estrellas en {{reviews:MLA61732398}} calificaciones, la segunda base de reseñas de la comparativa. Precio real y contras honestas.",
-    verdict: "La Alpina 1.0 Pro combina un rating muy alto con un respaldo grande de verdad: 4.8 estrellas en {{reviews:MLA61732398}} reseñas, la segunda base más grande de esta comparativa después de la Overtech. Cumple lo básico bien (freno a disco, suspensión delantera, cuadro liviano para ser de acero), pero soporta menos peso que las demás (115 kg) y varias reseñas mencionan que llega con las ruedas desinfladas y algún pedal flojo. Es la opción más elegida para quien quiere rating alto sin apostar a un producto con pocas reseñas.",
+    metaDescription: "Alpina MTB 1.0 Pro rodado 29: {{rating:MLA61732398}} estrellas en {{reviews:MLA61732398}} calificaciones, la segunda base de reseñas de la comparativa. Precio real y contras honestas.",
+    verdict: "La Alpina 1.0 Pro combina un rating muy alto con un respaldo grande de verdad: {{rating:MLA61732398}} estrellas en {{reviews:MLA61732398}} reseñas, la segunda base más grande de esta comparativa después de la Overtech. Cumple lo básico bien (freno a disco, suspensión delantera, cuadro liviano para ser de acero), pero soporta menos peso que las demás (115 kg) y varias reseñas mencionan que llega con las ruedas desinfladas y algún pedal flojo. Es la opción más elegida para quien quiere rating alto sin apostar a un producto con poco respaldo.",
     pros: [
-      "4.8 estrellas, el segundo mejor rating de esta comparativa (después del 4.9 de la Ghepard)",
+      "{{rating:MLA61732398}} estrellas, empatada en el mejor rating de esta comparativa junto a la Overtech, la Ghepard y la Fire Bird",
       "Segunda base de reseñas más grande: {{reviews:MLA61732398}} calificaciones",
       "Buen equilibrio precio-calidad, aunque ya no es la más barata de esta guía",
-      "La más liviana entre las de cuadro de acero (17 kg)",
+      "De las más livianas entre las de cuadro de acero (17 kg, solo por detrás de la Fire Bird con 16 kg)",
       "Incluye manual de armado según la ficha técnica",
     ],
     cons: [
@@ -83369,7 +83369,7 @@ La Alpina MTB 1.0 Pro es una mountain bike rodado 29 de cuadro de acero inoxidab
 
 ## Lo bueno
 
-Con 4.8 estrellas en {{reviews:MLA61732398}} calificaciones, tiene el segundo mejor rating de esta comparativa (después del 4.9 de la Ghepard, que tiene mucho menos historial) y la segunda base de reseñas más grande, después de la Overtech. Pesa 17 kg, liviana para ser de cuadro de acero, e incluye manual de armado. Las reseñas describen un armado sencillo y una bicicleta cómoda para uso diario.
+Con {{rating:MLA61732398}} estrellas en {{reviews:MLA61732398}} calificaciones, empata el mejor rating de esta comparativa (junto a la Overtech, la Ghepard y la Fire Bird) y tiene la segunda base de reseñas más grande, después de la Overtech. Pesa 17 kg, de las más livianas para ser de cuadro de acero (solo la Fire Bird, con 16 kg, pesa menos en ese material), e incluye manual de armado. Las reseñas describen un armado sencillo y una bicicleta cómoda para uso diario.
 
 ## La contra real
 
@@ -83380,7 +83380,7 @@ Soporta hasta 115 kg, el límite más bajo de esta comparativa (las demás llega
 Comprala si querés un rating alto respaldado por miles de reseñas reales, y no superás los 115 kg de peso. Revisá que las ruedas tengan buena presión y que los pedales estén bien ajustados antes de la primera salida larga. Si pesás más de 115 kg o preferís un grupo de cambios más reconocido, la Overtech (125 kg, Shimano trasero) o las SLP son mejor opción.`,
     faq: [
       { question: "¿Cuánto peso soporta la Alpina 1.0 Pro?", answer: "115 kg según la ficha técnica, el límite más bajo de esta comparativa de 6 bicicletas rodado 29." },
-      { question: "¿Es la bicicleta rodado 29 mejor calificada?", answer: "No, la Ghepard X 1.0 Gen6 tiene mejor rating (4.9 contra 4.8), aunque con muchas menos reseñas (90 contra 2.822). Entre las bicicletas con respaldo grande, la Alpina tiene el mejor rating de esta comparativa." },
+      { question: "¿Es la bicicleta rodado 29 mejor calificada?", answer: "Empata en el primer puesto con la Overtech, la Ghepard y la Fire Bird (todas con {{rating:MLA61732398}} estrellas), pero con un respaldo de reseñas mucho más grande que esas dos últimas: {{reviews:MLA61732398}} calificaciones." },
       { question: "¿Llega armada?", answer: "No, según la ficha técnica requiere ensamblado e incluye manual de armado." },
       { question: "¿Hay que revisar algo antes de la primera salida?", answer: "Sí: varias reseñas reales mencionan que llega con las ruedas desinfladas, así que conviene chequear la presión antes de salir. También revisar que los pedales estén bien ajustados." },
     ],
@@ -83423,16 +83423,16 @@ Comprala si querés un rating alto respaldado por miles de reseñas reales, y no
       { label: "Altura recomendada", value: "1,65 m a 1,75 m" },
     ],
     relatedProducts: ["MLA48478468", "MLA61732398", "MLA62903959", "MLA74126437", "MLA1114038122"],
-    priceUpdated: "2026-11-06",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-08-05",
-    description: "SLP 5 Pro: cuadro de acero con cambio trasero Shimano Tourney TZ31, marca reconocida en componentes. {{reviews:MLA63460526}} calificaciones con 4.7 estrellas, precio intermedio entre la Alpina y la SLP 10 (versión aluminio de la misma línea).",
+    reviewsSampledAt: "2026-11-10",
+    description: "SLP 5 Pro: cuadro de acero con cambio trasero Shimano Tourney TZ31, marca reconocida en componentes. {{reviews:MLA63460526}} calificaciones con {{rating:MLA63460526}} estrellas, precio intermedio entre la Alpina y la SLP 10 (versión aluminio de la misma línea).",
     seoTitle: "SLP 5 Pro: bicicleta rodado 29 con cambio trasero Shimano",
-    metaDescription: "SLP 5 Pro rodado 29: cuadro de acero, cambio trasero Shimano Tourney TZ31, 4.7 estrellas en {{reviews:MLA63460526}} calificaciones. Specs y precio real verificados.",
+    metaDescription: "SLP 5 Pro rodado 29: cuadro de acero, cambio trasero Shimano Tourney TZ31, {{rating:MLA63460526}} estrellas en {{reviews:MLA63460526}} calificaciones. Specs y precio real verificados.",
     verdict: "La SLP 5 Pro es la opción de esta comparativa con el cambio trasero de marca más reconocida (Shimano Tourney TZ31), en un cuadro de acero a precio intermedio. Es 3 kg más pesada que su hermana de aluminio (SLP 10 Pro), así que si el peso te importa y podés pagar la diferencia, esa es la alternativa lógica dentro de la misma marca.",
     pros: [
-      "{{reviews:MLA63460526}} calificaciones con 4.7 estrellas, buena base de reseñas",
+      "{{reviews:MLA63460526}} calificaciones con {{rating:MLA63460526}} estrellas, buena base de reseñas",
       "Cambio trasero Shimano Tourney TZ31, marca reconocida mundialmente en componentes de bici",
       "Freno a disco mecánico en ambas ruedas",
       "Precio intermedio entre la Alpina (más barata) y la SLP 10 (aluminio, más cara)",
@@ -83448,7 +83448,7 @@ La SLP 5 Pro es una mountain bike rodado 29 de cuadro de acero, 21 velocidades y
 
 ## Lo bueno
 
-El cambio trasero Shimano Tourney TZ31 es un componente de marca reconocida mundialmente, algo que no todas las bicicletas de esta franja de precio ofrecen (la Alpina usa Trioblade, marca genérica). Tiene {{reviews:MLA63460526}} calificaciones con 4.7 estrellas, y su precio queda en un punto intermedio dentro de esta comparativa.
+El cambio trasero Shimano Tourney TZ31 es un componente de marca reconocida mundialmente, algo que no todas las bicicletas de esta franja de precio ofrecen (la Alpina usa Trioblade, marca genérica). Tiene {{reviews:MLA63460526}} calificaciones con {{rating:MLA63460526}} estrellas, y su precio queda en un punto intermedio dentro de esta comparativa.
 
 ## La contra real
 
@@ -83468,7 +83468,7 @@ Comprala si querés un cambio trasero de marca reconocida sin pagar el extra del
     id: "MLA62903959",
     title: "Bicicleta Slp 10 Mtb Aluminio Rodado 29 Freno Disco Negro/Amarillo Talle 18",
     canonicalName: "Bicicleta SLP 10 Pro",
-    price: 316329,
+    price: 328199,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_831519-MLA100509098279_122025-O.webp",
     images: [
@@ -83481,7 +83481,7 @@ Comprala si querés un cambio trasero de marca reconocida sin pagar el extra del
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 1099,
+    reviewCount: 1124,
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
@@ -83502,22 +83502,22 @@ Comprala si querés un cambio trasero de marca reconocida sin pagar el extra del
       { label: "Edad mínima recomendada", value: "10 años" },
     ],
     relatedProducts: ["MLA48478468", "MLA61732398", "MLA63460526", "MLA74126437", "MLA1114038122"],
-    priceUpdated: "2026-11-06",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-08-05",
+    reviewsSampledAt: "2026-11-10",
     description: "SLP 10 Pro: empata con la Fire Bird como la más liviana de esta comparativa (16 kg), pero es la única con cuadro de aluminio (más resistente a la corrosión que el acero). Mismo cambio trasero Shimano Tourney TZ31 que la SLP 5 Pro, en un cuadro más liviano.",
     seoTitle: "SLP 10 Pro: la bicicleta rodado 29 más liviana de aluminio",
-    metaDescription: "SLP 10 Pro rodado 29: cuadro de aluminio, 16 kg, cambio trasero Shimano Tourney TZ31. 4.7 estrellas en {{reviews:MLA62903959}} calificaciones. Precio real y contras honestas.",
-    verdict: "La SLP 10 Pro empata con la Fire Bird como la más liviana de esta comparativa (16 kg), pero es la única de cuadro de aluminio, y comparte el cambio trasero Shimano Tourney TZ31 con su hermana de acero. Es la segunda más cara de las 6 (detrás de la Fire Bird), y varias reseñas reales avisan que conviene revisar los pedales y la regulación de cambios apenas llega. Si el peso del cuadro es tu prioridad y podés pagar el extra, es la elegida.",
+    metaDescription: "SLP 10 Pro rodado 29: cuadro de aluminio, 16 kg, cambio trasero Shimano Tourney TZ31. {{rating:MLA62903959}} estrellas en {{reviews:MLA62903959}} calificaciones. Precio real y contras honestas.",
+    verdict: "La SLP 10 Pro empata con la Fire Bird como la más liviana de esta comparativa (16 kg), pero es la única de cuadro de aluminio, y comparte el cambio trasero Shimano Tourney TZ31 con su hermana de acero. Es la más cara de las 6, y varias reseñas reales avisan que conviene revisar los pedales y la regulación de cambios apenas llega. Si el peso del cuadro es tu prioridad y podés pagar el extra, es la elegida.",
     pros: [
       "Empata con la Fire Bird como la más liviana de esta comparativa (16 kg), pero es la única de cuadro de aluminio",
-      "{{reviews:MLA62903959}} calificaciones con 4.7 estrellas",
+      "{{reviews:MLA62903959}} calificaciones con {{rating:MLA62903959}} estrellas",
       "Mismo cambio trasero Shimano Tourney TZ31 que la SLP 5 Pro, pero en un cuadro más liviano",
       "Reseñas reales confirman uso de hasta 120 km semanales sin problemas mayores",
     ],
     cons: [
-      "Es la segunda más cara de esta comparativa ($501.047, detrás de la Fire Bird)",
+      "Es la más cara de esta comparativa (alrededor de {{precio:MLA62903959:k}})",
       "Reseñas reportan que los pedales de plástico de fábrica son de baja duración y conviene cambiarlos pronto",
       "Varios compradores mencionan que los cambios llegan mal regulados de fábrica y hay que ajustarlos antes de rodar largo",
       "Al menos una reseña indica que la pata de apoyo (caballete) es corta",
@@ -83528,11 +83528,11 @@ La SLP 10 Pro es una mountain bike rodado 29 de cuadro de aluminio, 21 velocidad
 
 ## Lo bueno
 
-Con 16 kg empata con la Fire Bird como la más liviana de esta comparativa, pero es la única con cuadro de aluminio (que no se oxida como el acero de las demás). Reseñas confirman que aguanta bien un uso intenso: un comprador reporta hacerle 120 km semanales repartidos en 3 salidas sin problemas. Tiene {{reviews:MLA62903959}} calificaciones con 4.7 estrellas.
+Con 16 kg empata con la Fire Bird como la más liviana de esta comparativa, pero es la única con cuadro de aluminio (que no se oxida como el acero de las demás). Reseñas confirman que aguanta bien un uso intenso: un comprador reporta hacerle 120 km semanales repartidos en 3 salidas sin problemas. Tiene {{reviews:MLA62903959}} calificaciones con {{rating:MLA62903959}} estrellas.
 
 ## La contra real
 
-Es la segunda más cara de esta comparativa, detrás de la Fire Bird. Varias reseñas reales avisan de dos cosas para revisar apenas llega: los pedales de plástico de fábrica son de baja duración ("no te van a durar ni un mes", según una reseña) y conviene cambiarlos pronto, y los cambios suelen llegar mal regulados, por lo que hay que ajustarlos (o llevarla a un service) antes de salir a rodar largo. Un comprador también señaló que la pata de apoyo es corta.
+Es la más cara de esta comparativa. Varias reseñas reales avisan de dos cosas para revisar apenas llega: los pedales de plástico de fábrica son de baja duración ("no te van a durar ni un mes", según una reseña) y conviene cambiarlos pronto, y los cambios suelen llegar mal regulados, por lo que hay que ajustarlos (o llevarla a un service) antes de salir a rodar largo. Un comprador también señaló que la pata de apoyo es corta.
 
 ## Para quién sí y para quién no
 
@@ -83561,7 +83561,7 @@ Comprala si el peso del cuadro es tu prioridad, querés aluminio en vez de acero
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 1064,
+    reviewCount: 1045,
     pastelColor: "var(--pastel-coral)",
     visibility: "normal",
     specs: [
@@ -83580,22 +83580,22 @@ Comprala si el peso del cuadro es tu prioridad, querés aluminio en vez de acero
       { label: "Altura recomendada", value: "1,65 m a 1,75 m" },
     ],
     relatedProducts: ["MLA48478468", "MLA61732398", "MLA63460526", "MLA62903959", "MLA1114038122"],
-    priceUpdated: "2026-11-04",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-08-05",
-    description: "Ghepard X 1.0 Gen6: la más barata de esta comparativa y con la mejor calificación (4.9 estrellas), aunque todavía con pocas reseñas (90) comparado con el resto. Manijas de cambios Shimano ST-EF500.",
+    reviewsSampledAt: "2026-11-10",
+    description: "Ghepard X 1.0 Gen6: la más barata de esta comparativa, con {{rating:MLA74126437}} estrellas en {{reviews:MLA74126437}} calificaciones (ya con respaldo real, lejos de las 90 que tenía al publicarse esta ficha). Manijas de cambios Shimano ST-EF500.",
     seoTitle: "Ghepard X 1.0 Gen6: la rodado 29 más barata bien calificada",
-    metaDescription: "Ghepard X 1.0 Gen6 rodado 29: la más barata de esta comparativa, 4.9 estrellas, manijas de cambios Shimano ST-EF500. Precio real y contras honestas.",
-    verdict: "La Ghepard X 1.0 Gen6 es la más barata de esta comparativa y la que mejor calificación tiene (4.9 estrellas), con manijas de cambios de marca Shimano. La contra real: tiene solo {{reviews:MLA74126437}} calificaciones, la base de reseñas más chica de las 6 bicicletas de esta guía por lejos. Es una buena apuesta si el precio manda, con el riesgo normal de comprar algo con menos historial todavía.",
+    metaDescription: "Ghepard X 1.0 Gen6 rodado 29: la más barata de esta comparativa, {{rating:MLA74126437}} estrellas en {{reviews:MLA74126437}} calificaciones. Precio real y contras honestas.",
+    verdict: "La Ghepard X 1.0 Gen6 es la más barata de esta comparativa, con {{rating:MLA74126437}} estrellas en {{reviews:MLA74126437}} calificaciones: ya tiene respaldo real (creció mucho desde las 90 reseñas que tenía al publicarse esta ficha). Trae manijas de cambios de marca Shimano. Buena apuesta si el precio manda.",
     pros: [
-      "La más barata de esta comparativa: $316.209",
-      "La mejor calificación de las 6: 4.9 estrellas",
+      "La más barata de esta comparativa (alrededor de {{precio:MLA74126437:k}})",
+      "{{rating:MLA74126437}} estrellas, entre las mejor calificadas de las 6",
       "Manijas de cambios Shimano ST-EF500, marca reconocida",
       "Reseñas reales describen un armado rápido y buena terminación por el precio",
     ],
     cons: [
-      "Solo {{reviews:MLA74126437}} calificaciones, la base de reseñas más chica de esta comparativa (la Overtech tiene 18.746)",
+      "{{reviews:MLA74126437}} calificaciones: ya es un respaldo real (creció mucho desde las 90 que tenía esta ficha al publicarse), pero sigue por debajo de la Overtech y la Alpina",
       "La ficha técnica no declara el peso de la bicicleta",
       "No incluye manual de armado según la ficha técnica",
       "La ficha especifica la marca de las manijas de cambios (Shimano) pero no confirma por separado la marca de los cambios delantero y trasero",
@@ -83606,19 +83606,19 @@ La Ghepard X 1.0 Gen6 es una mountain bike rodado 29 de cuadro de acero inoxidab
 
 ## Lo bueno
 
-Es la más barata de esta comparativa por bastante margen y, pese a eso, tiene la mejor calificación de las 6 bicicletas: 4.9 estrellas. Las reseñas reales describen un armado rápido y buena terminación para el precio; una reseña incluso cuenta que la bicicleta se compró para donarla a un chico de una zona rural que caminaba 30 km hasta la escuela.
+Es la más barata de esta comparativa por bastante margen y, pese a eso, tiene {{rating:MLA74126437}} estrellas, entre las mejor calificadas de las 6 bicicletas. Las reseñas reales describen un armado rápido y buena terminación para el precio; una reseña incluso cuenta que la bicicleta se compró para donarla a un chico de una zona rural que caminaba 30 km hasta la escuela.
 
 ## La contra real
 
-Tiene solo {{reviews:MLA74126437}} calificaciones, muy por debajo de las demás bicicletas de esta comparativa (la Overtech tiene 18.746, la Alpina 2.822). No es una señal negativa en sí, pero sí un respaldo mucho más chico para apoyar la decisión. La ficha técnica tampoco declara el peso de la bicicleta ni incluye manual de armado.
+Tiene {{reviews:MLA74126437}} calificaciones: lejos de las 90 que tenía esta ficha cuando se escribió por primera vez, pero todavía por debajo de la Overtech ({{reviews:MLA48478468}}) y la Alpina ({{reviews:MLA61732398}}). La ficha técnica tampoco declara el peso de la bicicleta ni incluye manual de armado.
 
 ## Para quién sí y para quién no
 
-Comprala si el precio es tu prioridad número uno y aceptás confiar en una base de reseñas todavía chica (aunque muy bien calificada). Si preferís el respaldo de miles de compradores reales antes de decidir, la Overtech o la Alpina tienen mucho más historial.`,
+Comprala si el precio es tu prioridad número uno: ya tiene un respaldo de reseñas real, no solo una buena nota con poco historial. Si preferís el respaldo más grande posible antes de decidir, la Overtech o la Alpina siguen teniendo más historial.`,
     faq: [
-      { question: "¿Cuál es la bicicleta rodado 29 más barata?", answer: "La Ghepard X 1.0 Gen6, a $316.209, la más barata de esta comparativa de 6 bicicletas." },
+      { question: "¿Cuál es la bicicleta rodado 29 más barata?", answer: "La Ghepard X 1.0 Gen6, a alrededor de {{precio:MLA74126437:k}}, la más barata de esta comparativa de 6 bicicletas." },
       { question: "¿Tiene cambios Shimano?", answer: "La ficha técnica confirma que las manijas de cambios son Shimano ST-EF500. No especifica por separado la marca de los cambios delantero y trasero." },
-      { question: "¿Cuántas reseñas tiene la Ghepard X 1.0 Gen6?", answer: "{{reviews:MLA74126437}} calificaciones con 4.9 estrellas al momento de esta guía, la base de reseñas más chica de esta comparativa." },
+      { question: "¿Cuántas reseñas tiene la Ghepard X 1.0 Gen6?", answer: "{{reviews:MLA74126437}} calificaciones con {{rating:MLA74126437}} estrellas al momento de esta guía: creció mucho desde las 90 que tenía al publicarse esta ficha, aunque sigue por debajo de la Overtech y la Alpina." },
       { question: "¿Cuánto pesa?", answer: "La ficha técnica de MercadoLibre no declara el peso de esta bicicleta." },
     ],
   },
@@ -83638,8 +83638,16 @@ Comprala si el precio es tu prioridad número uno y aceptás confiar en una base
     affiliateUrl: "https://meli.la/2Tnnw8H",
     condition: "new",
     freeShipping: true,
-    rating: 4.6,
-    reviewCount: 1169,
+    // Verificado en vivo 2026-11-10: la publicación real detrás de este permalink
+    // (la única accesible, el catálogo /p/MLA1114038122 da 404) muestra "4.8,
+    // 38 calificaciones" en su sección "Opiniones del producto" — muy lejos del
+    // reviewCount: 1169 que tenía esta ficha antes. Existen otras publicaciones
+    // de "Fire Bird rodado 29" en ML con más reseñas (ej. MLA79282865, 836
+    // opiniones) pero con un ID de catálogo distinto al que linkeamos hace
+    // meses; no se hizo swap porque sigue siendo la misma marca/modelo al mismo
+    // precio y con stock real, solo se corrigió el dato de reseñas al real.
+    rating: 4.8,
+    reviewCount: 38,
     pastelColor: "var(--pastel-amber)",
     visibility: "normal",
     specs: [
@@ -83660,21 +83668,22 @@ Comprala si el precio es tu prioridad número uno y aceptás confiar en una base
       { label: "Edad mínima recomendada", value: "12 años" },
     ],
     relatedProducts: ["MLA48478468", "MLA61732398", "MLA63460526", "MLA62903959", "MLA74126437"],
-    priceUpdated: "2026-11-09",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-08-05",
-    description: "Fire Bird Firebird: la tercera base de reseñas más grande de esta comparativa ({{reviews:MLA1114038122}} calificaciones). Cuadro de acero de solo 16 kg, aunque la ficha declara varias marcas posibles para el cambio de velocidades según el stock disponible.",
-    seoTitle: "Fire Bird: rodado 29 liviana con 1.089 opiniones",
-    metaDescription: "Fire Bird rodado 29: 4.6 estrellas en {{reviews:MLA1114038122}} calificaciones, cuadro de acero de 16 kg. Precio real y la marca de cambios que declara la ficha.",
-    verdict: "La Fire Bird Firebird tiene la tercera base de reseñas más grande de esta comparativa ({{reviews:MLA1114038122}} calificaciones, detrás de la Overtech y la Alpina) y pesa solo 16 kg pese a ser de cuadro de acero. La contra real y poco común: la ficha técnica declara varias marcas posibles para el cambio de velocidades (LTWOO, Fast, Lxiang o Shining TZ, según el stock), en vez de una marca fija. Buena opción si el respaldo de reseñas te importa y no te preocupa qué marca exacta de cambios te toque.",
+    reviewsSampledAt: "2026-11-10",
+    description: "Fire Bird Firebird: cuadro de acero de solo 16 kg, de las más livianas de esta comparativa. {{reviews:MLA1114038122}} calificaciones con {{rating:MLA1114038122}} estrellas, la base de reseñas más chica de las 6 (bajó fuerte desde que se escribió esta ficha). La ficha declara varias marcas posibles para el cambio de velocidades según el stock disponible.",
+    seoTitle: "Fire Bird: la rodado 29 más liviana de cuadro de acero",
+    metaDescription: "Fire Bird rodado 29: {{rating:MLA1114038122}} estrellas, cuadro de acero de 16 kg. Precio real, respaldo de reseñas actualizado y la marca de cambios que declara la ficha.",
+    verdict: "La Fire Bird Firebird pesa solo 16 kg pese a ser de cuadro de acero, de las más livianas de esta comparativa. La contra real que cambió desde que se escribió esta ficha: hoy tiene {{reviews:MLA1114038122}} calificaciones, la base de reseñas más chica de las 6 (antes era de las más grandes). La otra contra, de siempre: la ficha técnica declara varias marcas posibles para el cambio de velocidades (LTWOO, Fast, Lxiang o Shining TZ, según el stock), en vez de una marca fija. Buena opción si el peso es tu prioridad y no te preocupa qué marca exacta de cambios te toque ni un respaldo de reseñas todavía chico.",
     pros: [
-      "Tercera base de reseñas más grande de esta comparativa: {{reviews:MLA1114038122}} calificaciones con 4.6 estrellas",
       "Solo 16 kg pese a tener cuadro de acero, de las más livianas de esta comparativa",
+      "{{rating:MLA1114038122}} estrellas, entre las mejor calificadas de las 6",
       "Reseñas reales confirman que se siente liviana comparada con otras bicicletas",
       "Freno a disco mecánico en ambas ruedas",
     ],
     cons: [
+      "{{reviews:MLA1114038122}} calificaciones: la base de reseñas más chica de esta comparativa hoy (bajó fuerte desde que se escribió esta ficha; las demás tienen entre 1.000 y 16.000)",
       "La ficha técnica declara varias marcas posibles para los cambios (LTWOO/Fast/Lxiang adelante, LTwoo/FAST/Shining TZ atrás) en vez de una marca fija: el componente que llega puede variar según el stock del vendedor",
       "Reseñas reales mencionan detalles de terminación (un rayón chico en el cuadro, una rueda que a un comprador le pareció desalineada) y describen el asiento de fábrica como duro",
       "No incluye manual de armado según la ficha técnica",
@@ -83685,19 +83694,19 @@ La Fire Bird Firebird es una mountain bike rodado 29 de cuadro de acero, 21 velo
 
 ## Lo bueno
 
-Es la tercera bicicleta con más reseñas de esta comparativa, detrás de la Overtech y la Alpina pero por delante del resto. Pesa solo 16 kg pese a ser de cuadro de acero, algo que las reseñas confirman directamente: un comprador la describe como "liviana a comparación de otra bici que tenía antes marca chafa".
+Pesa solo 16 kg pese a ser de cuadro de acero, algo que las reseñas confirman directamente: un comprador la describe como "liviana a comparación de otra bici que tenía antes marca chafa". La calificación ({{rating:MLA1114038122}} estrellas) está entre las mejores de esta comparativa.
 
 ## La contra real
 
-La ficha técnica declara varias marcas posibles para el cambio de velocidades (LTWOO, Fast o Lxiang adelante; LTwoo, FAST o Shining TZ atrás), algo poco común: el vendedor no fija una sola marca, así que el componente exacto que llega puede variar según el stock disponible en el momento de la compra. Reseñas reales también mencionan detalles de terminación (un rayón chico debajo del asiento, una rueda que a un comprador le pareció ligeramente desalineada) y describen el asiento de fábrica como duro.
+Un dato que cambió desde que se escribió esta ficha por primera vez: hoy tiene {{reviews:MLA1114038122}} calificaciones, la base de reseñas más chica de las 6 bicicletas de esta guía (las demás van de poco más de 1.000 a más de 16.000). No sabemos si la publicación perdió historial o si cambió de vendedor; lo honesto es avisarlo en vez de repetir un número viejo. Aparte de eso, la ficha técnica declara varias marcas posibles para el cambio de velocidades (LTWOO, Fast o Lxiang adelante; LTwoo, FAST o Shining TZ atrás), así que el componente exacto que llega puede variar según el stock disponible en el momento de la compra. Reseñas reales también mencionan detalles de terminación (un rayón chico debajo del asiento, una rueda que a un comprador le pareció ligeramente desalineada) y describen el asiento de fábrica como duro.
 
 ## Para quién sí y para quién no
 
-Comprala si el respaldo de casi 1.100 reseñas te da confianza y no te preocupa qué marca exacta de cambios te toque (todas son marcas chinas de nivel similar). Si preferís una marca de componentes fija y confirmada, la SLP 5 Pro o la SLP 10 Pro (ambas con Shimano Tourney TZ31 confirmado) son más predecibles en ese punto.`,
+Comprala si el peso es tu prioridad (empata como la más liviana de esta comparativa) y no te preocupa confiar en una base de reseñas todavía chica, ni qué marca exacta de cambios te toque. Si preferís el respaldo de miles de compradores reales antes de decidir, la Overtech o la Alpina tienen mucho más historial; si además querés marca de componentes fija y confirmada, la SLP 5 Pro o la SLP 10 Pro (ambas con Shimano Tourney TZ31) son más predecibles en ese punto.`,
     faq: [
       { question: "¿Qué marca de cambios tiene la Fire Bird Firebird?", answer: "La ficha técnica declara varias marcas posibles según el stock: LTWOO, Fast o Lxiang adelante, y LTwoo, FAST o Shining TZ atrás. No es una marca fija como en las SLP." },
       { question: "¿Cuánto pesa la Fire Bird Firebird?", answer: "16 kg según la ficha técnica, de las más livianas de esta comparativa pese a tener cuadro de acero (no aluminio)." },
-      { question: "¿Cuántas reseñas tiene?", answer: "{{reviews:MLA1114038122}} calificaciones con {{rating:MLA1114038122}} estrellas, la tercera base de reseñas más grande de esta comparativa de 6 bicicletas, después de la Overtech ({{reviews:MLA48478468}}) y la Alpina ({{reviews:MLA61732398}})." },
+      { question: "¿Cuántas reseñas tiene?", answer: "{{reviews:MLA1114038122}} calificaciones con {{rating:MLA1114038122}} estrellas al momento de esta guía: la base de reseñas más chica de esta comparativa de 6 bicicletas, lejos de las demás (entre 1.000 y 16.000)." },
       { question: "¿Qué problemas reportan las reseñas?", answer: "Algunos compradores mencionan detalles de terminación (un rayón chico, una rueda que pareció desalineada) y describen el asiento de fábrica como duro. Son reportes puntuales, no un patrón generalizado." },
     ],
   },
