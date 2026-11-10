@@ -5,6 +5,66 @@
 > toca el catálogo. Entradas nuevas arriba.
 
 
+## 2026-11-10
+
+### Freidora de aire (ML) [ml] (0 productos)
+
+_No se pudo extraer nada esta vez — revisar el parser._
+
+### Aspiradora robot (ML) [ml] (15 productos)
+
+- | +1000 vendidos — $249.999
+- Aspiradora Midea Sin Bolsa- Directcyclone 2000w Vs-mj20tar4 Navy — $186.999
+- Aspiradora Robot Smart Trapeadora Midea Con Control Remoto Negro — $349.999
+- Aspiradora Robot Smart Trapeadora Midea M7 Color Negro Negro — $527.999
+- Aspiradora Sin Bolsa Midea 1400w Blue Potencia Y Comodidad Negro — $124.011
+- ![Blanco Aspiradora Robot Xiaomi Vacuum H50](https://http2.mlstatic.com/D_Q_NP_2X_634774-MLA111279769391_052026-E.webp) — $1.019.999
+- OFERTA IMPERDIBLE — $372.949
+- ![Aspiradora Inalámbrica Smart-tek Robot Ava Evolution WiFi](https://http2.mlstatic.com/D_Q_NP_2X_917537-MLA115299167560_082026-E.webp) — $420.999
+- Llega gratis mañana — $678.749
+- ![Aspiradora Robot Con Wifi Smart 115w Midow 3 Modos Con Base Negro](https://http2.mlstatic.com/D_Q_NP_2X_750354-MLA118183416831_092026-E.webp) — $263.999
+- ![Aspiradora Robot Tp-link Tapo Rv30 Max Plus Trapeador Slim Negro](https://http2.mlstatic.com/D_Q_NP_2X_871915-MLA90896676604_082025-E.webp) — $499.999
+- ![Xiaomi Robot Vacuum S40 Us Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_778237-MLA99219066155_112025-E.webp) — $375.000
+- ](https://www.mercadolibre.com.ar/blanco-aspiradora-robot-xiaomi-vacuum-h50/p/MLA69227149?offer_type=BEST_INSTALLMENTS#wid=MLA3775750014&sid=search) — $1.496.000
+- ![TP-LINK TAPO ASPIRADORA Y TRAPEADORA RV20 MAX PLUS 5300Pa](https://http2.mlstatic.com/D_Q_NP_2X_777217-MLA96905855908_112025-E.webp) — $660.092
+- Disponible en 2 colores — $249.108
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$43.49
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Black Cherry — US$29.99
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$6.97
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.97
+- Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls, 108 Sheets Per Roll | Absorbent, Deep-Cleaning Ridges, Virtually Lint-Free, Reliable — US$6.84
+- Dixie Paper Plates 8.5 Inch, 90 Count, Disposable Plates | For parties as dessert plates or snack plates, 2X stronger, small paper plates are soak-proof, cut resistant, microwave-safe — US$5.89
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$22.86
+- Brawny Tear-A-Square 3-ply paper towels, 6 double rolls | 3 sheet sizes — US$10.58
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$26.99
+- Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls, White, 108 Sheets Per Roll — US$7.97
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.48
+- Owala FreeSip Sway Stainless Steel Water Bottle 30 oz Black Cherry — US$34.99
+- Nespresso Vertuo, Barista Flavored Pack, Medium Roast, 30-Count Coffee Pods | Medium-Roast Coffee Capsules, Caramel, roasted hazelnut and sweet vanilla flavors — US$42.00
+- Amazon Saver Dark Roast Coffee Pods 100 CT — US$32.39
+
+### Amazon Home & Kitchen bestsellers [amazon] (15 productos)
+
+- Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Black, 50-Pack — US$17.99
+- Amazon Basics Lightweight Super Soft Easy Care Wrinkle Free Microfiber 3 Piece Bed Sheet Set with 14-Inch Deep Pockets, Twin, Navy Blue, Solid, Kids, Men & Women Bedding — US$11.29
+- Barossa Design Oeko-tex Certified Shower Curtain Liner Standard Size, Clear | Waterproof PEVA, Rustproof Grommets, 3 Bottom Magnets, Cute Lightweight Bathroom Curtain, Fits Standard Tub 72" Length — US$8.95
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Denim — US$29.99
+- Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - White | Hotel Luxury Bed Sheets for Women, Men, Kids & Teens, Deep Pockets, Easy-Fit, Extra Soft & Wrinkle Free Sheets, Oeko-Tex — US$24.99
+- upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas — US$6.99
+- BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials — US$9.98
+- Zevo Flying Insect Trap Refill Cartridges for Fruit Flies & Gnats, 6 Count | Fits Zevo MAX & Zevo Flying Insect Trap, Catches House Flies, Gnats & Fruit Flies 24/7, No Added Fragrance or Dyes — US$21.97
+- BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6"-18" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel — US$26.99
+- Yankee Candle Spiced Pumpkin Scented Candle, 22oz Large Jar | Up to 150 Hour Burn Time, Room Filling Fragrance, Long-Lasting Scent, Premium Plant Wax Blend, Consistent Burn, Giftable — US$13.49
+- Owala SmoothSip Slider Insulated Stainless Steel Coffee Tumbler, Reusable Iced Coffee Cup, Hot Coffee Travel Mug, BPA Free 12 oz, Vanilla Bean — US$24.98
+- Levoit Top Fill Humidifiers for Bedroom, 2.5L Tank for Large Room, 25dB | Easy to Fill & Clean, Quiet Cool Mist Air Humidifier for Home Baby Nursery & Plants, Auto Shut-off for Safety, 25H Lasting — US$39.99
+- Niagara Sleep Solution Queen Ultra Soft Mattress Topper — Back Pain Relief | Rayon Derived from Bamboo, 20" Deep Pocket, Breathable Pillow Top Mattress Pad, Perfect for Hot Sleepers, Dark Gray — US$39.99
+- GODONLIF Candle Warmer Lamp with Timer, Birthday Gifts for Women Home Decor | 24h Cycle Timer Dimmable Wax Melt Warmer with 2 Bulbs, Home Living Room Decor Christmas Decorations Gifts for Women Mom Her — US$17.99
+- Bedsure GentleSoft White Throw Blanket for Couch - Christmas Thanksgiving Decorations for Home Room Decor, Cozy Fleece Blanket, Christmas Birthday Gifts for Women Mom Her Girls, Off White, 50x60 in — US$13.49
+
 ## 2026-10-13
 
 ### Freidora de aire (ML) [ml] (15 productos)
