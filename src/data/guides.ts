@@ -7292,7 +7292,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "Farmacias, locales de electrónica y MercadoLibre: comparamos precios, variedad y envío para que elijas bien.",
     h1: "Dónde comprar un masajeador en Argentina (guía actualizada)",
     publishedDate: "2026-04-11",
-    updatedDate: "2026-06-26",
+    updatedDate: "2026-11-10",
     hasDisclosure: true,
     intro: [
       'Si estás buscando "masajeador cerca de mí" probablemente querés comprar uno hoy. No mañana. Hoy.',
@@ -7460,10 +7460,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         card: {
           heading: "Para la cara",
           paragraphs: [
-            "Los faciales son otra cosa. Acá no buscás aliviar dolor sino deshinchar, mejorar circulación, ese tipo de cosas. El Energy Golden Bar es una barra dorada facial con vibración (se vende como electroestimulante). No hay tanta variedad de faciales en MercadoLibre Argentina; este está en un listado nuevo de un vendedor Mercado Líder.",
+            "Los faciales son otra cosa. Acá no buscás aliviar dolor sino deshinchar, mejorar circulación, ese tipo de cosas. El Energy Golden Bar es una barra dorada facial con vibración (se vende como electroestimulante). No hay tanta variedad de faciales en MercadoLibre Argentina; este lo vende una tienda oficial con {{reviews:MLA1841302022}} calificaciones reales.",
           ],
           ctas: [
-            { label: "Ver Energy Golden Bar en MercadoLibre", href: "https://meli.la/1X3wKvs" },
+            { label: "Ver Energy Golden Bar en MercadoLibre", href: "https://meli.la/13fYLhg" },
           ],
         },
       },
@@ -7525,6 +7525,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Masajeador cervical: comparativa", href: "/guias/masajeador-cervical" },
       { label: "Masajeador de espalda", href: "/guias/masajeador-espalda" },
       { label: "Pistola de masaje muscular", href: "/guias/pistola-masajeadora" },
+      { label: "Masajeador facial: cuáles funcionan", href: "/guias/masajeador-facial" },
     ],
   },
 
@@ -7543,7 +7544,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "Probé más de 15 masajeadores de MercadoLibre. Cervicales, espalda, pies, faciales y pistolas. Los que valen la pena y los que no.",
     h1: "Mejores masajeadores en Argentina: cuáles valen la pena y cuáles no",
     publishedDate: "2026-04-11",
-    updatedDate: "2026-06-26",
+    updatedDate: "2026-11-10",
     hasDisclosure: true,
     intro: [
       "Estuve tres semanas probando masajeadores que encontré en MercadoLibre. Algunos son buenos. Otros son un desperdicio de plata. Acá te cuento cuáles valen la pena y para qué sirve cada uno.",
@@ -7749,10 +7750,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         card: {
           heading: "Energy Golden Bar - Electroestimulante facial",
           paragraphs: [
-            "Tipo barra dorada con vibración (se vende como electroestimulante). Un paso arriba de los rodillos manuales: la vibración ayuda a que los productos de skincare penetren mejor y estimula la circulación facial. No hay tanta oferta de masajeadores faciales en MercadoLibre Argentina; este está en un listado nuevo de un vendedor Mercado Líder. Si ya usás serums o cremas, puede potenciar el efecto.",
+            "Tipo barra dorada con vibración (se vende como electroestimulante). Un paso arriba de los rodillos manuales: la vibración ayuda a que los productos de skincare penetren mejor y estimula la circulación facial. No hay tanta oferta de masajeadores faciales en MercadoLibre Argentina; este lo vende una tienda oficial, con {{reviews:MLA1841302022}} calificaciones reales. Si ya usás serums o cremas, puede potenciar el efecto.",
           ],
           ctas: [
-            { label: "Ver Energy Golden Bar en MercadoLibre", href: "https://meli.la/1X3wKvs" },
+            { label: "Ver Energy Golden Bar en MercadoLibre", href: "https://meli.la/13fYLhg" },
           ],
         },
       },
@@ -9490,11 +9491,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "Comparé masajeadores faciales eléctricos, rodillos y gua sha. Cuáles sirven y cuáles no.",
     h1: "Masajeador facial: cuáles funcionan y cuáles son puro marketing",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-07-11",
+    updatedDate: "2026-11-10",
     hasDisclosure: true,
     directAnswer: `Para deshinchar la cara sin gastar de más, el **kit de rodillo de jade + gua sha** (alrededor de {{precio:MLA24518712:k}}) es lo más honesto: sin motor ni promesas, deshincha si lo usás frío. Para un efecto de firmeza temporal antes de un evento, el Energy Golden Bar (barra con vibración); y para lo más técnico del grupo, el equipo de alta frecuencia Gadnic LF60. Ninguno borra arrugas de forma permanente.`,
     quickPicks: [
-      { productMlaId: "MLA24518712", label: "Empezar barato", labelColor: "green", tagline: "Kit rodillo de jade + gua sha: sin motor ni promesas, deshincha si lo usás frío" },
+      { productMlaId: "MLA24518712", label: "Sin motor ni pilas", labelColor: "green", tagline: "Kit rodillo de jade + gua sha: sin motor ni promesas, deshincha si lo usás frío" },
+      { productMlaId: "MLA1841302022", label: "Firmeza temporal", labelColor: "amber", tagline: "Energy Golden Bar: barra con vibración, ya con reseñas reales de compradores" },
       { productMlaId: "MLA26522167", label: "Casi profesional", labelColor: "purple", tagline: "Gadnic LF60: alta frecuencia, lo más técnico del grupo (equipo de gabinete doméstico)" },
     ],
     intro: [
@@ -9544,29 +9546,28 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "card",
         card: {
-          heading: "Energy Golden Bar — barra facial con vibración — {{precio:MLA1835535491}}",
+          heading: "Energy Golden Bar — barra facial con vibración — {{precio:MLA1841302022}}",
           paragraphs: [
-            "Tipo barra dorada, se vende como electroestimulante: es la conocida Energy Beauty Bar, con cabeza en forma de T y punta redondeada que se adaptan a los contornos de la cara. La conseguís en un listado activo de un vendedor Mercado Líder, todavía sin opiniones propias. Lo pasás por la cara con movimientos ascendentes.",
+            "Tipo barra dorada, se vende como electroestimulante: es la conocida Energy Beauty Bar, con cabeza en forma de T y punta redondeada que se adaptan a los contornos de la cara. La vende una tienda oficial de MercadoLibre (MercadoLíder Platinum), con {{reviews:MLA1841302022}} calificaciones reales. Lo pasás por la cara con movimientos ascendentes.",
             "Un dato del manual que conviene saber antes de comprar: no se carga por USB, funciona con una pila AA (1.5V) y hace unas 6.000 a 7.000 vibraciones por minuto. O sea, el manual lo documenta sobre todo como una barra de vibración; el \"electroestimulante\" del nombre es discreto. Sentís un cosquilleo y la piel queda más firme al tacto por un par de horas, pero eso es efecto de la vibración. Usalo con un serum o gel para que deslice mejor y no raspe sobre piel seca.",
             "Un punto a tener en cuenta: la pila se gasta rápido. El propio manual recomienda cambiarla cuando la vibración se debilita y sacarla después de usar. Eso sí, el efecto es temporal, no cambia tu cara permanentemente. Como complemento de una rutina de skincare, suma.",
           ],
         },
       },
-      { type: "callout", calloutVariant: "warning", calloutTitle: "Sin stock al 2026-08-17", content: "La publicación de la Energy Golden Bar está pausada en MercadoLibre, así que hoy no se puede comprar. Dejamos el análisis porque suele volver, pero por ahora las dos opciones disponibles de esta guía son el kit de jade y el equipo de alta frecuencia." },
-      { type: "product-card", productMlaId: "MLA1835535491", label: "Vibración facial", labelColor: "amber" },
+      { type: "product-card", productMlaId: "MLA1841302022", label: "Vibración facial", labelColor: "amber" },
       {
         type: "card",
         card: {
           heading: "Rodillo de jade + gua sha (kit) — {{precio:MLA24518712}}",
           paragraphs: [
-            "La opción más barata y probablemente la más honesta. No tiene motor, no tiene batería, no promete magia. Es una piedra natural de jade que pasás por la cara. Si la guardás en la heladera 30 minutos antes de usarla, el frío reduce la hinchazón de forma visible en 5 minutos.",
-            "El kit trae el rodillo doble (grande para mejillas y frente, chico para contorno de ojos) más una piedra gua sha para masaje más profundo. Tiene más de 10.000 vendidos en MercadoLibre, que es una barbaridad para un producto de skincare. El gua sha requiere ver un tutorial de 3 minutos en YouTube para usarlo bien. No es complicado, pero hay una técnica. Sin técnica, es una piedra cara que no hace mucho.",
-            "Por {{precio:MLA24518712}} es difícil que te arrepientas. Si no te gusta, perdiste lo que sale un café con medialunas.",
+            "Probablemente la opción más honesta del grupo: no tiene motor, no tiene batería, no promete magia. Es una piedra natural de jade que pasás por la cara. Si la guardás en la heladera 30 minutos antes de usarla, el frío reduce la hinchazón de forma visible en 5 minutos.",
+            "El kit trae el rodillo doble (grande para mejillas y frente, chico para contorno de ojos) más una piedra gua sha para masaje más profundo. Tiene {{reviews:MLA24518712}} calificaciones en MercadoLibre, que es una barbaridad para un producto de skincare. El gua sha requiere ver un tutorial de 3 minutos en YouTube para usarlo bien. No es complicado, pero hay una técnica. Sin técnica, es una piedra cara que no hace mucho.",
+            "Por {{precio:MLA24518712}} es una entrada accesible al cuidado facial, sin depender de pilas ni electrónica.",
           ],
           ctas: [{ label: "Ver kit rodillo jade + gua sha en MercadoLibre", href: "https://meli.la/1rDGvYf" }],
         },
       },
-      { type: "product-card", productMlaId: "MLA24518712", label: "Empezar barato", labelColor: "green" },
+      { type: "product-card", productMlaId: "MLA24518712", label: "Sin motor ni pilas", labelColor: "green" },
       {
         type: "card",
         card: {
@@ -9581,7 +9582,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         },
       },
       { type: "product-card", productMlaId: "MLA26522167", label: "Tratamiento profesional", labelColor: "purple" },
-      { type: "verdict", content: "Mi opinión: para empezar, el kit de rodillo jade + gua sha por {{precio:MLA24518712}} es imbatible. Si ya tenés una rutina de skincare y querés algo que complemente, el Energy Golden Bar está bien. Y si querés ir en serio con tratamientos faciales en casa, el Gadnic LF60 es el que más se acerca a resultados profesionales, pero el precio lo refleja." },
+      { type: "verdict", content: "Mi opinión: para empezar, el kit de rodillo jade + gua sha por {{precio:MLA24518712}} es la entrada más honesta: sin motor, sin pilas, sin promesas. Si ya tenés una rutina de skincare y querés algo que complemente, el Energy Golden Bar está bien. Y si querés ir en serio con tratamientos faciales en casa, el Gadnic LF60 es el que más se acerca a resultados profesionales, pero el precio lo refleja." },
       { type: "h2", title: "Cuándo no comprar un masajeador facial" },
       { type: "p", content: "Si tenés acné activo, rosácea o la piel muy sensible, un masajeador puede empeorar las cosas. La fricción y la presión irritan los brotes. Consultá con un dermatólogo antes." },
       { type: "p", content: "Si tu expectativa es \"rejuvenecer\", ahorrá la plata. Ningún masajeador facial de $20.000 va a hacer lo que hace un tratamiento profesional de $200.000. Son categorías distintas. Si lo que te duele es el cuello o la mandíbula, mirá la guía de [masajeador cervical](/guias/masajeador-cervical); y si es la espalda o los pies, las de [masajeador de espalda](/guias/masajeador-espalda) o [masajeador de pies](/guias/masajeador-pies), que son otra cosa." },
@@ -9774,7 +9775,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: "¿El gua sha sirve para el bruxismo?", answer: "Ayuda a aflojar la tensión del músculo de la mandíbula que deja el bruxismo, y a mucha gente le alivia pasarlo por esa zona. Pero es un alivio temporal: no cura el bruxismo de fondo. Para eso está la placa de descanso y el odontólogo." },
       { question: "¿El Energy Golden Bar se carga o usa pila?", answer: "Usa pila, no se carga por USB. Según el manual funciona con una pila AA de 1.5V, con la que hace unas 6.000 a 7.000 vibraciones por minuto. Cuando la vibración se debilita, hay que cambiarla, y conviene sacarla después de usar para que la próxima dure más." },
       { question: "¿El equipo de alta frecuencia sirve para el acné?", answer: "Se usa con ese objetivo para acné leve: el tubo de vidrio produce ozono al tocar la piel, y ese ozono tiene efecto esterilizante que, según el fabricante, puede ayudar. El manual trae un método (el Sparkle) de uso puntual y cosmético: menos de 10 segundos, con los ojos cubiertos. No lo tomes como indicación médica: no lo uses sobre brotes activos, heridas ni acné severo sin ver a un dermatólogo." },
-      { question: "¿Rodillo de jade o masajeador eléctrico?", answer: "Depende de qué buscás. El rodillo es más barato, no necesita carga, y cumple para deshinchar si lo usás frío. El eléctrico ayuda más a que los serums penetren. Si tenés plata para uno solo, el rodillo frío rinde más por lo que cuesta." },
+      { question: "¿Rodillo de jade o masajeador eléctrico?", answer: "Depende de qué buscás. El rodillo no necesita pilas ni carga, y cumple para deshinchar si lo usás frío. El eléctrico ayuda más a que los serums penetren. Si preferís algo manual y sin electrónica, el rodillo frío rinde bien por lo que cuesta." },
       { question: "¿Cuántas veces al día se puede usar?", answer: "Una o dos veces, 5-10 minutos cada vez. A la mañana para deshinchar y a la noche como parte de tu rutina. Más que eso no aporta nada y puede irritar pieles sensibles." },
       { question: "¿Qué es un masajeador iónico facial?", answer: "En teoría, usa corriente para mejorar la penetración de productos. En la práctica, la mayoría son masajeadores con vibración que cuestan más por el nombre. La tecnología iónica en productos de consumo no tiene evidencia sólida." },
       { question: "¿Se puede usar con acné?", answer: "No es recomendable sobre zonas con acné activo. La presión y la fricción pueden irritar los brotes y empeorar la inflamación. Esperá a que baje el brote o evitá esas zonas." },
@@ -10302,7 +10303,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "Una guía que ordena todos los tipos de masajeador eléctrico, qué hace cada uno y cuál conviene, con precios reales del mercado argentino.",
     h1: "Masajeador eléctrico: cuál comprar según para qué lo querés",
     publishedDate: "2026-06-08",
-    updatedDate: "2026-06-08",
+    updatedDate: "2026-11-10",
     hasDisclosure: true,
     standfirst:
       "Masajeador eléctrico es un cajón enorme: entran pistolas de percusión, asientos shiatsu, aparatos de cuello, de pies y faciales. Acá ordenamos los tipos, te decimos qué hace cada uno y cuál conviene según tu problema, sin venderte el más caro.",
@@ -10356,9 +10357,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "product-card", productMlaId: "MLA23131501", label: "Para los pies", labelColor: "green" },
 
       { type: "h2", title: "5. Facial: otra lógica completamente distinta" },
-      { type: "p", content: "Los masajeadores faciales no buscan aliviar dolor muscular sino estimular la piel: circulación, drenaje, aplicación de cremas. Son suaves por diseño y no tienen nada que ver con los anteriores. Van desde un rodillo de jade manual de unos {{precio:MLA24518712:k}} hasta barras con vibración (vendidas como electroestimulantes) como la Energy Beauty Bar (cerca de {{precio:MLA1835535491:k}})." },
+      { type: "p", content: "Los masajeadores faciales no buscan aliviar dolor muscular sino estimular la piel: circulación, drenaje, aplicación de cremas. Son suaves por diseño y no tienen nada que ver con los anteriores. Van desde un rodillo de jade manual de unos {{precio:MLA24518712:k}} hasta barras con vibración (vendidas como electroestimulantes) como la Energy Beauty Bar (cerca de {{precio:MLA1841302022:k}})." },
       { type: "p", content: "Si lo que buscás es cuidado de la piel y no alivio de contracturas, este es el grupo, y conviene tratarlo aparte. La guía dedicada de [masajeador facial](/guias/masajeador-facial) explica qué esperar de cada formato y qué promesas conviene tomar con pinzas." },
-      { type: "product-card", productMlaId: "MLA1835535491", label: "Facial", labelColor: "purple" },
+      { type: "product-card", productMlaId: "MLA1841302022", label: "Facial", labelColor: "purple" },
 
       { type: "h2", title: "Las tecnologías que vas a ver en las publicaciones" },
       { type: "p", content: "Las fichas de Mercado Libre repiten siempre las mismas palabras y conviene saber qué significan, porque marcan la sensación real del masaje. El shiatsu son nodos que giran y hacen presión, como pulgares amasando: es lo que mejor trabaja un nudo. La percusión, en cambio, golpea hacia adentro y afuera a alta velocidad; es lo de las pistolas, y llega más profundo en músculos grandes." },
@@ -10392,8 +10393,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "list",
         items: [
-          "[Masajeador facial rodillo de jade](https://meli.la/1rDGvYf) — **{{precio:MLA24518712}}** (el más barato, cuidado de piel)",
-          "[Energy Beauty Bar facial](https://meli.la/1X3wKvs) — **{{precio:MLA1835535491}}** (facial con vibración)",
+          "[Energy Beauty Bar facial](https://meli.la/13fYLhg) — **{{precio:MLA1841302022}}** (el más barato, facial con vibración)",
+          "[Masajeador facial rodillo de jade](https://meli.la/1rDGvYf) — **{{precio:MLA24518712}}** (cuidado de piel, sin motor ni pilas)",
           "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **{{precio:MLA24127896}}** (cuello, el más vendido)",
           "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **{{precio:MLA25263767}}** (percutor con calor)",
           "[Suono masajeador de pies](https://meli.la/2d7VKT6) — **{{precio:MLA23131501}}** (pies con calor y compresión)",

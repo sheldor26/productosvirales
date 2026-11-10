@@ -35362,11 +35362,42 @@ La Oster 8970 es una pava de acero bien valorada por calidad de materiales y tem
     // Energy Beauty Bar facial — LISTADO ACTIVO en stock (Golden T Lift, vendedor Mercado Líder, $24.999).
     // El listado de RESERVA (original MLA1841302022, con 4.7★/39 opiniones) está más abajo como ficha
     // deprioritized: cuando Bright Data detecte que volvió a tener stock, se hace el swap de vuelta.
+    // Ex-activa: publicación pausada/eliminada, verificado en vivo 2026-11-10 (ML redirige
+    // a un listado genérico). El contenido rico se migró a la ficha MLA1841302022 (ver abajo),
+    // que volvió a tener stock con reseñas reales de compradores, vendida por la tienda oficial
+    // "Vibra Salud". Se conserva esta ficha como referencia histórica, sin borrarla.
     id: 'MLA1835535491',
     priceStatus: "out_of_stock",
-    title: "Masajeador Facial Energy Golden Bar Electroestimulante",
+    title: "Masajeador Facial Energy Golden Bar Electroestimulante (publicación vieja, descontinuada)",
     price: 24999,
-    originalPrice: 24999,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_2X_872948-MLA89095019620_082025-F.webp',
+    category: 'Belleza',
+    categorySlug: 'belleza',
+    permalink: 'https://articulo.mercadolibre.com.ar/MLA-1835535491-masajeador-anti-age-facial-reafirmante-con-vibracion-_JM',
+    affiliateUrl: 'https://meli.la/1X3wKvs',
+    condition: 'new',
+    freeShipping: true,
+    rating: 0,
+    reviewCount: 0,
+    soldQuantity: 0,
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'deprioritized',
+    relatedProducts: ['MLA1841302022', 'MLA26522167', 'MLA24518712'],
+  },
+  {
+    // Reemplazo activo (swap 2026-11-10): esta era la "ficha de reserva" (agotada desde hacía
+    // meses). Verificado en vivo: volvió a tener stock, ahora vendida por la tienda oficial
+    // "Vibra Salud" (MercadoLíder Platinum, +10 mil ventas), con reseñas reales de compradores —
+    // antes la ficha activa (MLA1835535491) no tenía ninguna opinión propia. Se migró acá
+    // todo el contenido rico que tenía esa ficha, actualizado con los datos reales de hoy.
+    id: 'MLA1841302022',
+    title: "Masajeador Facial Energy Golden Bar Electroestimulante",
+    price: 17799,
+    originalPrice: 19999,
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
+    priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_872948-MLA89095019620_082025-F.webp',
     images: [
@@ -35378,36 +35409,36 @@ La Oster 8970 es una pava de acero bien valorada por calidad de materiales y tem
       ],
     category: 'Belleza',
     categorySlug: 'belleza',
-    permalink: 'https://articulo.mercadolibre.com.ar/MLA-1835535491-masajeador-anti-age-facial-reafirmante-con-vibracion-_JM',
-    affiliateUrl: 'https://meli.la/1X3wKvs',
+    permalink: 'https://articulo.mercadolibre.com.ar/MLA-1841302022-masajeador-facial-energy-golden-bar-electroestimulante-_JM',
+    affiliateUrl: 'https://meli.la/13fYLhg',
     condition: 'new',
     freeShipping: true,
-    rating: 0,
-    reviewCount: 0,
-    reviewsSampledAt: '2026-07-11',
-    soldQuantity: 0,
+    rating: 4.7,
+    reviewCount: 41,
+    reviewsSampledAt: '2026-11-10',
+    soldQuantity: 100,
     pastelColor: 'var(--pastel-pink)',
-    description: "Barra masajeadora facial dorada con cabezal en T, alimentada por una pila AA. Vibra unas 6.000 a 7.000 veces por minuto: se usa para masaje facial y para ayudar a que penetren serums y cremas. Los claims del vendedor sobre eliminar arrugas, estimular colágeno o quitar puntos negros no están verificados.",
+    visibility: 'normal',
+    description: "Barra masajeadora facial dorada Energy Beauty Bar (línea 24K), con cabezal en T y extremo redondeado, alimentada por una pila AA. Vibra entre 6.000 y 7.000 veces por minuto: sirve para masaje facial y para ayudar a que penetren serums y cremas. Vendida por una tienda oficial de MercadoLibre, con {{reviews:MLA1841302022}} calificaciones reales. Los claims del vendedor sobre eliminar arrugas o estimular colágeno son marketing, no evidencia verificada.",
     badge: 'trending',
-    seoTitle: 'Energy Beauty Bar: masajeador facial de 7.000 vibraciones',
-    metaDescription: 'Barra masajeadora facial dorada que vibra hasta 7.000 veces por minuto. Cabezal en T, funciona con pila AA, funda de terciopelo. Precio actual en ML.',
-    ogTitle: 'Energy Beauty Bar: masajeador facial de 7.000 vibraciones | ProductosVirales',
-    ogDescription: 'La barra masajeadora facial dorada que vibra hasta 7.000 veces por minuto. Cabezal en T y funda de terciopelo, funciona con pila AA. Ver precio en Argentina.',
-    h1: 'Energy Beauty Bar: el masajeador facial dorado con 7.000 vibraciones por minuto',
+    seoTitle: 'Energy Beauty Bar: masajeador facial con reseñas reales',
+    metaDescription: 'Barra masajeadora facial dorada Energy Beauty Bar: vibración de hasta 7.000 vpm, pila AA, {{rating:MLA1841302022}} estrellas en {{reviews:MLA1841302022}} reseñas reales. Precio actual y honestidad sobre los claims del vendedor.',
+    ogTitle: 'Energy Beauty Bar: masajeador facial con reseñas reales | ProductosVirales',
+    ogDescription: 'La barra masajeadora facial dorada que vibra hasta 7.000 veces por minuto, ahora con reseñas reales de compradores. Cabezal en T, funciona con pila AA. Ver precio en Argentina.',
+    h1: 'Energy Beauty Bar: el masajeador facial dorado, con reseñas reales de compradores',
     pros: [
+      'Ya tiene {{reviews:MLA1841302022}} calificaciones reales, con {{rating:MLA1841302022}} de promedio',
+      'Vendida por una tienda oficial de MercadoLibre (MercadoLíder Platinum), no un vendedor genérico sin historial',
       'Vibración de 6.000 a 7.000 vpm',
       'Compacta, entra en cualquier cartera',
       'Cabezal en T + punta redondeada',
-      'Funda de terciopelo incluida',
-      'Vendedor Mercado Líder con envío gratis',
     ],
     cons: [
-      'Una sola velocidad fija',
-      'Funciona con pila AA (no se carga por USB)',
-      'Listado nuevo, todavía sin opiniones',
-      'Claim "Technology from Japan" sin certificación verificable',
+      'Una sola velocidad fija, sin regulador',
+      'Funciona con pila AA: no se carga por USB, y no viene incluida',
+      'Los claims del vendedor ("elimina arrugas", "elimina puntos negros", "estimula colágeno") son marketing, sin evidencia clínica independiente',
     ],
-    verdict: 'Entrada económica con componente activo. Si ya usás jade roller y querés sumar vibración mecánica, tiene lógica.',
+    verdict: 'Entrada económica con componente activo. Si ya usás jade roller y querés sumar vibración mecánica, tiene lógica, y a diferencia de la publicación anterior que recomendábamos, esta ya tiene el respaldo de reseñas reales de compradores.',
     articleBody: `## Cómo funciona
 
 El motor interno convierte la energía de la pila en vibración de alta frecuencia. Esa vibración se transmite al contacto a través del cabezal metálico, que por su forma en T cubre bien zonas planas como la frente, las mejillas y el cuello.
@@ -35416,17 +35447,17 @@ El fabricante habla de una "microcorriente" que ayudaría a que penetren los sue
 
 No hay niveles de intensidad regulables. Es una sola velocidad, fija.
 
+## Lo que dicen los compradores reales
+
+Con {{reviews:MLA1841302022}} calificaciones ({{rating:MLA1841302022}} de promedio), ya hay historial real para apoyarse, algo que la publicación anterior de este mismo producto no tenía. Un resumen de opiniones de MercadoLibre (generado automáticamente a partir de los comentarios, no verificado por nosotros de forma independiente) la describe como funcional y útil en la rutina facial diaria, con mención puntual al drenaje linfático; algún comprador llegó a usarla en el contexto de parálisis de Bell. Tomalo como un dato de uso real, no como indicación médica: para cualquier condición de salud, consultá a un profesional antes de usar cualquier masajeador.
+
 ## Para qué la usa la gente
 
-Los usos habituales de este tipo de barra: masaje del contorno de ojos y la frente, trabajar la línea de la mandíbula, y preparar la piel antes de aplicar productos porque la vibración ayuda con la absorción. También para aflojar la tensión facial después de varias horas frente a la pantalla. Este listado es nuevo y todavía no tiene opiniones propias.
+Los usos habituales de este tipo de barra: masaje del contorno de ojos y la frente, trabajar la línea de la mandíbula, y preparar la piel antes de aplicar productos porque la vibración ayuda con la absorción. También para aflojar la tensión facial después de varias horas frente a la pantalla.
 
 El fabricante también menciona limpieza de poros y puntos negros, pero para eso hay que combinarla con un limpiador facial. Sola no limpia.
 
 Importante: la Energy Beauty Bar no es un dispositivo médico ni estético certificado. Los beneficios mencionados son los reportados por el fabricante y los compradores. No reemplaza tratamientos dermatológicos.
-
-## Qué trae en la caja
-
-Basado en las imágenes del producto: la barra Energy Beauty Bar (modelo BM-1, "Technology from Japan" grabado en la tapa inferior), funda de terciopelo negro con cordón, caja de presentación dorada con grabado "Energy Beauty Bar" y manual de instrucciones. No está confirmado si la pila AA viene incluida — verificalo en la publicación antes de comprar.
 
 ## Cómo usarla
 
@@ -35440,74 +35471,54 @@ El jade roller y el gua sha son herramientas manuales: el efecto depende de la p
 
 Si ya usás [jade roller o gua sha](/guias/masajeador-facial) y querés sumar algo con componente activo, la Energy Beauty Bar tiene lógica. Si arrancás de cero en cuidado facial, es una entrada económica que no requiere aprender nada complicado. Más opciones en la [guía de masajeadores faciales](/guias/masajeador-facial) y en [cuál masajeador elegir según tu caso](/guias/mejores-masajeadores-argentina).`,
     specs: [
-      { label: 'Modelo', value: 'BM-1' },
       { label: 'Marca', value: 'Energy Beauty Bar' },
-      { label: 'Origen declarado', value: 'Technology from Japan' },
-      { label: 'Vibraciones', value: '6.000 – 7.000 vpm' },
-      { label: 'Fuente de energía', value: '1 pila AA (1,5V DC)' },
-      { label: 'Cabezal', value: 'Forma T metálico dorado' },
-      { label: 'Extremo posterior', value: 'Redondeado metálico dorado' },
-      { label: 'Color cuerpo', value: 'Dorado' },
-      { label: 'Incluye', value: 'Funda terciopelo + caja presentación + manual' },
-      { label: 'Pila incluida', value: 'No confirmado' },
+      { label: 'Línea', value: '24K' },
+      { label: 'Modelo', value: 'Golden' },
+      { label: 'Voltaje', value: '1.5V' },
+      { label: 'Zonas de aplicación', value: 'Cara, cuello, escote' },
+      { label: 'Es inalámbrico', value: 'Sí' },
+      { label: 'Tipo de alimentación', value: 'Pila AA' },
+      { label: 'Incluye batería', value: 'No' },
+      { label: 'Con sistema de vibración', value: 'Sí' },
+      { label: 'Con regulador de velocidad', value: 'No' },
+      { label: 'Vendedor', value: 'Vibra Salud (tienda oficial, MercadoLíder Platinum, +10 mil ventas)' },
     ],
     faq: [
       { question: '¿La Energy Beauty Bar sirve para el contorno de ojos?', answer: 'Sí. El extremo redondeado de la parte trasera está pensado para zonas pequeñas y sensibles como el contorno de ojos y el surco nasogeniano. El cabezal en T es más adecuado para frente, mejillas y cuello.' },
       { question: '¿Cuánto tiempo hay que usarla por día?', answer: 'El fabricante recomienda 3 minutos diarios. No hay evidencia de que usarla más tiempo aporte beneficios adicionales, y sobre piel sensible es mejor no exceder ese tiempo al principio.' },
       { question: '¿Funciona sin crema o serum?', answer: 'Técnicamente sí, pero el fabricante recomienda aplicarla sobre piel con producto. La vibración facilita la absorción, así que tiene más sentido usarla después de aplicar tu rutina habitual.' },
-      { question: '¿La pila AA viene incluida?', answer: 'No está confirmado en la publicación. Antes de comprar, revisá la descripción actualizada en MercadoLibre o consultá al vendedor directamente.' },
-      { question: '¿Tiene garantía?', answer: 'Depende del vendedor. Al ser un producto importado sin marca local establecida, la garantía varía según el seller. Revisá las condiciones de la publicación antes de comprar.' },
+      { question: '¿La pila AA viene incluida?', answer: 'No, hay que comprarla aparte.' },
+      { question: '¿Tiene reseñas reales?', answer: 'Sí: {{reviews:MLA1841302022}} calificaciones con {{rating:MLA1841302022}} de promedio, vendida por una tienda oficial de MercadoLibre (MercadoLíder Platinum). Es un cambio respecto a la publicación anterior de este mismo producto, que no tenía ninguna opinión propia.' },
     ],
     relatedProducts: ['MLA26522167', 'MLA24518712'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
-      name: 'Energy Beauty Bar Masajeador Facial Electroestimulante BM-1',
+      name: 'Energy Beauty Bar Masajeador Facial Electroestimulante',
       description: 'Barra masajeadora facial con vibración de 6.000 a 7.000 vibraciones por minuto. Cabezal en T y punta redondeada metálicos. Funciona con 1 pila AA.',
       brand: { '@type': 'Brand', name: 'Energy Beauty Bar' },
-      model: 'BM-1',
-      sku: 'MLA1835535491',
+      model: 'Golden',
+      sku: 'MLA1841302022',
       category: 'Masajeadores faciales',
       color: 'Dorado',
       image: 'https://http2.mlstatic.com/D_NQ_NP_2X_872948-MLA89095019620_082025-F.webp',
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '24999',
+        price: '17799',
         availability: 'https://schema.org/InStock',
-        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
-        url: 'https://meli.la/1X3wKvs',
+        seller: { '@type': 'Organization', name: 'Vibra Salud' },
+        url: 'https://meli.la/13fYLhg',
       },
     },
   },
   {
-    // FICHA DE RESERVA (deprioritized, no se muestra en el sitio): listado ORIGINAL del Energy Beauty Bar,
-    // con reviews reales (4.7★/39). Está agotado. Cuando Bright Data lo detecte de nuevo con stock,
-    // conviene hacer el swap de vuelta con la ficha activa MLA1835535491 (que no tiene opiniones).
-    id: 'MLA1841302022',
-    title: "Masajeador Facial Energy Golden Bar Electroestimulante (reserva)",
-    price: 18429,
-    currency: 'ARS',
-    image: 'https://http2.mlstatic.com/D_NQ_NP_2X_872948-MLA89095019620_082025-F.webp',
-    category: 'Belleza',
-    categorySlug: 'belleza',
-    permalink: 'https://articulo.mercadolibre.com.ar/MLA-1841302022-masajeador-facial-energy-golden-bar-electroestimulante-_JM',
-    affiliateUrl: 'https://meli.la/13fYLhg',
-    condition: 'new',
-    freeShipping: false,
-    rating: 4.7,
-    reviewCount: 41,
-    soldQuantity: 100,
-    priceStatus: "fresh",
-    visibility: 'deprioritized',
-  },
-  {
     id: 'MLA24518712',
     title: "Kit Masajeador Facial Jade Rodillo +piedra Guasha-natural Color Verde",
-    price: 6783,
-    priceUpdated: "2026-11-09",
-    priceLastChecked: "2026-11-09",
-    originalPrice: 7790,
+    price: 19990,
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
+    priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_636629-MLU70439270590_072023-F.webp',
     images: [
@@ -35528,18 +35539,16 @@ Si ya usás [jade roller o gua sha](/guias/masajeador-facial) y querés sumar al
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-pink)',
     description: "Sumérgete en un mundo de relajación y bienestar con el Set Masajeador Rodillo Jade Piedra Guasha Natural Facial Color Verde. Este producto, de la reconocida marca Jade, es un aliado perfecto para tu rutina de cuidado facial. Su diseño de rodillo permite un masaje suave y efectivo, ayudando a mejorar",
-    badge: 'hot-deal',
     seoTitle: 'Kit rodillo de jade + gua sha facial: precio y opiniones AR',
-    metaDescription: 'Rodillo de jade y gua sha natural en un kit. Sin pilas, sin motor. 2.195 compras en MercadoLibre Argentina. El favorito para guardar en la heladera.',
+    metaDescription: 'Rodillo de jade y gua sha natural en un kit. Sin pilas, sin motor. {{reviews:MLA24518712}} compras en MercadoLibre Argentina. El favorito para guardar en la heladera.',
     ogTitle: 'Kit rodillo de jade + gua sha facial | ProductosVirales',
-    ogDescription: 'Rodillo de jade doble cabezal y gua sha natural en un kit. Manual, sin pilas. 2.195 compradores en MercadoLibre Argentina. El truco de la heladera funciona.',
-    h1: 'Kit rodillo de jade y gua sha: el masajeador facial manual con 2.195 compradores',
+    ogDescription: 'Rodillo de jade doble cabezal y gua sha natural en un kit. Manual, sin pilas. {{reviews:MLA24518712}} compradores en MercadoLibre Argentina. El truco de la heladera funciona.',
+    h1: 'Kit rodillo de jade y gua sha: el masajeador facial manual con {{reviews:MLA24518712}} compradores',
     pros: [
-      'Precio bajo ($5.399)',
+      'Sin pilas ni motor: no depende de electrónica',
       'Incluye rodillo doble cabezal + gua sha',
-      'Sin pilas ni motor',
       'Funciona frío desde la heladera',
-      '4.5⭐ con {{reviews:MLA24518712}} calificaciones',
+      '{{rating:MLA24518712}}⭐ con {{reviews:MLA24518712}} calificaciones',
     ],
     cons: [
       'Sin vibración mecánica',
@@ -35547,7 +35556,7 @@ Si ya usás [jade roller o gua sha](/guias/masajeador-facial) y querés sumar al
       'Llega en embalaje básico (sin estuche)',
       'Requiere técnica manual para gua sha',
     ],
-    verdict: 'La mejor entrada económica al skincare facial. Por $5.399 con 2.195 compradores, es la opción más baja del catálogo.',
+    verdict: 'La entrada manual al skincare facial: sin motor, sin pilas, sin promesas de electroestimulación. Con {{reviews:MLA24518712}} compradores, es la opción con más historial de esta categoría en el catálogo.',
     articleBody: `## Qué incluye el kit
 
 El rodillo tiene dos rodillos montados en un mango metálico dorado: uno grande para mejillas, frente y cuello, y uno pequeño para el contorno de ojos y la nariz. La piedra es verde con veteado natural, y el acabado es suave al tacto.
@@ -35562,7 +35571,7 @@ El rodillo de jade trabaja por presión, temperatura y movimiento. Al deslizarlo
 
 La gua sha agrega un componente de presión diferente. Con la cara curva se trabaja la tensión acumulada en la mandíbula y en los músculos faciales, que en muchas personas están más contracturados de lo que parecen.
 
-Comparado con la [Energy Beauty Bar](/producto/masajeador-facial-energy-golden-bar-electroestimulante-mla1835535491) (eléctrica, 6.000-7.000 vpm, $24.999), este kit es el opuesto: más barato, más lento, más silencioso, y con un componente de ritual que el dispositivo motorizado no tiene.
+Comparado con la [Energy Beauty Bar](/producto/masajeador-facial-energy-golden-bar-electroestimulante-mla1841302022) (eléctrica, 6.000-7.000 vpm, {{precio:MLA1841302022}}), este kit es el opuesto: manual, más lento, más silencioso, y con un componente de ritual que el dispositivo motorizado no tiene.
 
 ## El truco de la heladera
 
@@ -35578,7 +35587,7 @@ Para los puntos negros o la limpieza activa no sirve. Tampoco para zonas con acn
 
 ## Una nota sobre el material
 
-A $5.399, este kit está en el rango más accesible del mercado de jade. La especificación dice "piedra natural de jade" y el color verde con veteado es consistente con nephrite o aventurina verde, que son piedras legítimas aunque no jadeíta de alta calidad.
+A {{precio:MLA24518712}}, este kit sigue en el rango accesible del mercado de jade. La especificación dice "piedra natural de jade" y el color verde con veteado es consistente con nephrite o aventurina verde, que son piedras legítimas aunque no jadeíta de alta calidad.
 
 No hay certificación de autenticidad incluida. Si el origen exacto del mineral es importante para vos, el punto de precio sugiere que no es jade premium. Si lo que buscás es una herramienta de masaje que funcione correctamente a diario, el material cumple.
 
@@ -35607,12 +35616,12 @@ Lavar con agua fría después de usar. No necesita desinfección especial si se 
       { question: '¿Qué diferencia al rodillo grande del pequeño?', answer: 'El rodillo grande (el cabezal principal) es para zonas amplias: mejillas, frente, cuello. El pequeño está en el extremo opuesto del mango y es para áreas chicas donde el grande no entra bien, principalmente el contorno de ojos y los lados de la nariz.' },
       { question: '¿Este kit viene con el gua sha o se compra por separado?', answer: 'El kit incluye los dos: el rodillo de doble cabezal y la herramienta gua sha. Ambas en jade verde del mismo material.' },
     ],
-    relatedProducts: ['MLA1835535491', 'MLA26522167'],
+    relatedProducts: ['MLA1841302022', 'MLA26522167'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
       name: 'Kit Masajeador Facial Jade Rodillo Doble Cabezal + Gua Sha Natural Verde',
-      description: 'Kit de masaje facial compuesto por rodillo de jade doble cabezal (15cm x 4,5cm) y herramienta gua sha de piedra natural verde. Manual, sin vibración ni pilas. 2.195 calificaciones en MercadoLibre Argentina.',
+      description: 'Kit de masaje facial compuesto por rodillo de jade doble cabezal (15cm x 4,5cm) y herramienta gua sha de piedra natural verde. Manual, sin vibración ni pilas. 2.275 calificaciones en MercadoLibre Argentina.',
       brand: { '@type': 'Brand', name: 'Jade' },
       model: 'Piedra natural',
       sku: 'MLA24518712',
@@ -35624,7 +35633,7 @@ Lavar con agua fría después de usar. No necesita desinfección especial si se 
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '5399',
+        price: '19990',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/1rDGvYf',
@@ -35632,7 +35641,7 @@ Lavar con agua fría después de usar. No necesita desinfección especial si se 
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.5',
-        reviewCount: '2195',
+        reviewCount: '2275',
         bestRating: '5',
         worstRating: '1',
       },
@@ -35663,21 +35672,21 @@ Lavar con agua fría después de usar. No necesita desinfección especial si se 
     condition: 'new',
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 6448,
+    reviewCount: 5764,
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-pink)',
     description: "Tratamientos profesionales en casa\nEl equipo de alta frecuencia Gadnic LF60 ayuda a mejorar la circulación, estimular la piel y reducir signos de envejecimiento, con resultados visibles desde las primeras sesiones.\n\nCuatro electrodos para distintos usos\nIncluye electrodos en forma de hongo, lengua, ",
     badge: 'trending',
     seoTitle: 'Gadnic LF60: equipo alta frecuencia con 4 electrodos | AR',
-    metaDescription: 'Equipo de alta frecuencia Gadnic LF60 con 4 electrodos de vidrio. Para acné, manchas y cuero cabelludo. 4.7⭐ y más de 2.500 compradores en Argentina.',
+    metaDescription: 'Equipo de alta frecuencia Gadnic LF60 con 4 electrodos de vidrio. Para acné, manchas y cuero cabelludo. {{rating:MLA26522167}}⭐ y {{reviews:MLA26522167}} compradores en Argentina.',
     ogTitle: 'Gadnic LF60: equipo alta frecuencia 4 electrodos facial y capilar | ProductosVirales',
-    ogDescription: 'El equipo de alta frecuencia Gadnic LF60 incluye 4 electrodos de vidrio intercambiables para acné, manchas, arrugas y cuero cabelludo. 4.7⭐ con 2.509 compradores.',
+    ogDescription: 'El equipo de alta frecuencia Gadnic LF60 incluye 4 electrodos de vidrio intercambiables para acné, manchas, arrugas y cuero cabelludo. {{rating:MLA26522167}}⭐ con {{reviews:MLA26522167}} compradores.',
     h1: 'Gadnic LF60: el equipo de alta frecuencia con 4 electrodos que usan en casa como en el consultorio',
     pros: [
       '4 electrodos de vidrio intercambiables',
       'Uso facial + corporal + capilar',
       'Efecto bactericida por ozono localizado',
-      '4.7⭐ con 2.509 calificaciones',
+      '{{rating:MLA26522167}}⭐ con {{reviews:MLA26522167}} calificaciones',
       'Regulador de intensidad continuo',
     ],
     cons: [
@@ -35725,7 +35734,7 @@ Frecuencia recomendada: 3-4 veces por semana. No todos los días si la piel es s
 
 ## Dónde encaja en el catálogo facial
 
-Tres opciones en el catálogo con tres lógicas distintas. El [kit jade + gua sha](/producto/kit-masajeador-facial-jade-rodillo-piedra-guasha-natural-color-verde-mla24518712) ($5.399) es la entrada manual — ritual diario, drenaje, sin electrónica. La [Energy Beauty Bar](/producto/masajeador-facial-energy-golden-bar-electroestimulante-mla1835535491) ($24.999) suma vibración mecánica (se vende como microcorriente, no verificado) para masaje facial básico. El LF60 es el dispositivo más técnico y el más caro de los tres. Tiene sentido para personas con acné que no encuentran solución con productos tópicos, o para quienes ya conocen la alta frecuencia de cabinas de estética y quieren el resultado en casa.
+Tres opciones en el catálogo con tres lógicas distintas. El [kit jade + gua sha](/producto/kit-masajeador-facial-jade-rodillo-piedra-guasha-natural-color-verde-mla24518712) ({{precio:MLA24518712}}) es la entrada manual — ritual diario, drenaje, sin electrónica. La [Energy Beauty Bar](/producto/masajeador-facial-energy-golden-bar-electroestimulante-mla1841302022) ({{precio:MLA1841302022}}) suma vibración mecánica (se vende como microcorriente, no verificado) para masaje facial básico. El LF60 es el dispositivo más técnico y el más caro de los tres. Tiene sentido para personas con acné que no encuentran solución con productos tópicos, o para quienes ya conocen la alta frecuencia de cabinas de estética y quieren el resultado en casa.
 
 Más contexto en la [guía de masajeadores faciales](/guias/masajeador-facial) y en la [comparativa general de masajeadores](/guias/mejores-masajeadores-argentina).`,
     specs: [
@@ -35749,7 +35758,7 @@ Más contexto en la [guía de masajeadores faciales](/guias/masajeador-facial) y
       { question: '¿Se puede usar en el cuero cabelludo?', answer: 'Sí. El electrodo peine está diseñado específicamente para el cuero cabelludo. Gadnic incluye "recuperación capilar" entre las aplicaciones del equipo.' },
       { question: '¿Cuánto tiempo dura cada sesión?', answer: 'Gadnic recomienda sesiones de 5-10 minutos por zona, 3-4 veces por semana. No diariamente si la piel es sensible. Para acné puntual con el electrodo cuchara, 1-2 minutos por área son suficientes.' },
     ],
-    relatedProducts: ['MLA1835535491', 'MLA24518712'],
+    relatedProducts: ['MLA1841302022', 'MLA24518712'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
@@ -35765,15 +35774,15 @@ Más contexto en la [guía de masajeadores faciales](/guias/masajeador-facial) y
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '49349',
+        price: '42849',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/2a6LCX1',
       },
       aggregateRating: {
         '@type': 'AggregateRating',
-        ratingValue: '4.7',
-        reviewCount: '2509',
+        ratingValue: '4.8',
+        reviewCount: '5764',
         bestRating: '5',
         worstRating: '1',
       },
