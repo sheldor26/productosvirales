@@ -65852,7 +65852,7 @@ Comprá el RCA AAPR12XP si valorás las funciones extra de deshumidificación y 
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 14761,
+    reviewCount: 15134,
     ratingBreakdown: { five: "84.2%", four: "11.63%", three: "2.44%", two: "0.6%", one: "1.14%" },
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
@@ -65875,16 +65875,16 @@ Comprá el RCA AAPR12XP si valorás las funciones extra de deshumidificación y 
       { label: "Accesorios incluidos", value: "Cargador, manual, set de montaje" },
     ],
     relatedProducts: ["MLA43877246", "MLA19663400", "MLA26988384"],
-    priceUpdated: "2026-11-06",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
-    description: "Cámara de seguridad Gadnic SX39: motorizada con seguimiento de personas, Full HD, audio bidireccional e IP66. La más vendida del catálogo por lejos, con más de 21.000 calificaciones. La memoria micro-SD se compra aparte.",
+    reviewsSampledAt: "2026-11-10",
+    description: "Cámara de seguridad Gadnic SX39: motorizada con seguimiento de personas, Full HD, audio bidireccional e IP66. La más vendida del catálogo por lejos, con {{reviews:MLA18711640}} calificaciones. La memoria micro-SD se compra aparte.",
     seoTitle: "Cámara Gadnic SX39: la más vendida, ¿conviene?",
-    metaDescription: "Cámara de seguridad Gadnic SX39: motorizada, Full HD, IP66 y más de 21.000 calificaciones. Precio real, pros, contras y para quién conviene.",
+    metaDescription: "Cámara de seguridad Gadnic SX39: motorizada, Full HD, IP66 y {{reviews:MLA18711640}} calificaciones. Precio real, pros, contras y para quién conviene.",
     verdict: "La Gadnic SX39 sirve si querés la cámara con más respaldo de compradores del país: motorizada con seguimiento, audio en ambos sentidos y apta exterior por IP66, a precio accesible. No sirve si tu Wi-Fi es flojo donde la vas a colgar (las reseñas reportan que ahí se puede tildar) o si esperás que venga con la memoria incluida: la micro-SD se compra aparte.",
     pros: [
-      "La más vendida del catálogo, con más de 21.000 calificaciones y 4.8 de promedio",
+      "La más vendida del catálogo, con {{reviews:MLA18711640}} calificaciones y {{rating:MLA18711640}} de promedio",
       "Motorizada: gira y hace seguimiento de personas en movimiento, y las reseñas destacan lo silencioso del domo",
       "Micrófono y parlante: escuchás y hablás desde el celular, útil como disuasivo",
       "Resistencia IP66: sirve para exterior bajo techo o interior",
@@ -65897,7 +65897,7 @@ Comprá el RCA AAPR12XP si valorás las funciones extra de deshumidificación y 
     ],
     articleBody: `## Qué es y para quién
 
-La Gadnic SX39 es una cámara de seguridad Wi-Fi motorizada: un domo que gira, sigue a las personas en movimiento y avisa al celular. Es, por lejos, la cámara de seguridad más vendida del catálogo de MercadoLibre Argentina, con más de 21.000 calificaciones y 4.8 de promedio.
+La Gadnic SX39 es una cámara de seguridad Wi-Fi motorizada: un domo que gira, sigue a las personas en movimiento y avisa al celular. Es, por lejos, la cámara de seguridad más vendida del catálogo de MercadoLibre Argentina, con {{reviews:MLA18711640}} calificaciones y {{rating:MLA18711640}} de promedio.
 
 ## Lo bueno
 
@@ -65922,7 +65922,7 @@ Comprá la SX39 si querés una cámara motorizada con seguimiento y el mayor res
     id: "MLA43877246",
     title: "Camara Seguridad Geotek Ip Wifi Domo Doble Lente 6mp Exterior Vision Nocturna Deteccion Movimiento Color Blanco",
     canonicalName: "Cámara de Seguridad Geotek GT-A33BN (doble lente)",
-    price: 67999,
+    price: 64659,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_939925-MLA105817158098_022026-O.webp",
     images: [
@@ -65935,7 +65935,7 @@ Comprá la SX39 si querés una cámara motorizada con seguimiento y el mayor res
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 7939,
+    reviewCount: 7945,
     ratingBreakdown: { five: "84.83%", four: "10.91%", three: "2.34%", two: "0.72%", one: "1.2%" },
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
@@ -65958,17 +65958,17 @@ Comprá la SX39 si querés una cámara motorizada con seguimiento y el mayor res
       { label: "Almacenamiento", value: "Micro-SD (no incluida); en cámaras de esta misma plataforma iCSee el tope habitual es 128 GB" },
     ],
     relatedProducts: ["MLA18711640", "MLA48013621", "MLA19663400"],
-    priceUpdated: "2026-11-09",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
-    description: "Cámara de seguridad Geotek de doble lente para exterior: dos vistas en una misma cámara, visión nocturna a color de 20 m, IP66 y más de 10.000 calificaciones. Contra honesta: los tornillos incluidos son flojos, según reseñas.",
+    reviewsSampledAt: "2026-11-10",
+    description: "Cámara de seguridad Geotek de doble lente para exterior: dos vistas en una misma cámara, visión nocturna a color de 20 m, IP66 y {{reviews:MLA43877246}} calificaciones. Contra honesta: los tornillos incluidos son flojos, según reseñas.",
     seoTitle: "Cámara Geotek Doble Lente: ¿vale la pena para exterior?",
-    metaDescription: "Cámara Geotek GT-A33BN doble lente: exterior IP66, visión nocturna color 20 m, más de 10.000 calificaciones. Precio real, pros y contras.",
+    metaDescription: "Cámara Geotek GT-A33BN doble lente: exterior IP66, visión nocturna color 20 m, {{reviews:MLA43877246}} calificaciones. Precio real, pros y contras.",
     verdict: "La Geotek doble lente sirve si querés cubrir el frente o el patio con una sola cámara que muestra dos vistas a la vez, con visión nocturna a color y resistencia real a la intemperie (una reseña cuenta que aguantó una tormenta que voló el techo de la cochera). No sirve si esperás que el 6 MP sea de un solo lente (es la suma de los dos) o si vas a usar los tornillos que vienen en la caja: comprá tornillos decentes.",
     pros: [
       "Doble lente: una vista fija panorámica y una motorizada con seguimiento, en la misma cámara",
-      "Más de 10.000 calificaciones con 4.8 de promedio",
+      "{{reviews:MLA43877246}} calificaciones con {{rating:MLA43877246}} de promedio",
       "Visión nocturna a color con alcance declarado de 20 m",
       "Aguante real a la intemperie: IP66, y reseñas que reportan tormentas sin drama",
       "La app iCSee no mete publicidad, según reseñas de compradores con varias cámaras",
@@ -65981,7 +65981,7 @@ Comprá la SX39 si querés una cámara motorizada con seguimiento y el mayor res
     ],
     articleBody: `## Qué es y para quién
 
-La Geotek GT-A33BN es una cámara de exterior con dos lentes: uno fijo que ve panorámico y uno motorizado que gira y sigue el movimiento. En la app ves las dos tomas a la vez. Con más de 10.000 calificaciones, es la segunda cámara con más respaldo del catálogo argentino.
+La Geotek GT-A33BN es una cámara de exterior con dos lentes: uno fijo que ve panorámico y uno motorizado que gira y sigue el movimiento. En la app ves las dos tomas a la vez. Con {{reviews:MLA43877246}} calificaciones, es de las cámaras con más respaldo del catálogo argentino.
 
 ## Lo bueno
 
@@ -65995,7 +65995,7 @@ Dos datos técnicos de la plataforma iCSee (la app que usa esta cámara, compart
 
 ## Para quién sí y para quién no
 
-Comprala si querés vigilar un frente, patio o cochera con una sola cámara que cubra el plano general y el detalle en movimiento. No la compres si buscás algo simple para interior: para eso hay opciones más chicas y baratas, como la Ezviz H1C o la Gadnic SX39.`,
+Comprala si querés vigilar un frente, patio o cochera con una sola cámara que cubra el plano general y el detalle en movimiento. No la compres si buscás algo simple para interior: para eso hay opciones más chicas y baratas, como la Ezviz H1C o la Ezviz TY1.`,
     faq: [
       { question: "¿Qué significa doble lente en esta cámara?", answer: "Tiene dos cámaras en un cuerpo: una fija con vista panorámica y una motorizada que gira y sigue el movimiento. En la app ves ambas tomas a la vez. El 6 MP del título es la suma de los dos lentes de 3 MP." },
       { question: "¿Aguanta la lluvia?", answer: "Sí, es IP66, pensada para exterior. Una reseña cuenta que sobrevivió a una tormenta que voló el techo de la cochera donde estaba instalada." },
@@ -66011,8 +66011,8 @@ Comprala si querés vigilar un frente, patio o cochera con una sola cámara que 
     id: "MLA19663400",
     title: "Cámara de seguridad WIFI IP TP-Link Tapo C210 Tapo con Vista 2K 3MP y Detección IA de 360 Grados",
     canonicalName: "Cámara de Seguridad TP-Link Tapo C210",
-    price: 51990,
-    originalPrice: 80000,
+    price: 52699,
+    originalPrice: 63899,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_725717-MLA99943629485_112025-O.webp",
     images: [
@@ -66025,7 +66025,7 @@ Comprala si querés vigilar un frente, patio o cochera con una sola cámara que 
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 7713,
+    reviewCount: 7723,
     ratingBreakdown: { five: "90.64%", four: "7.36%", three: "0.98%", two: "0.32%", one: "0.71%" },
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
@@ -66042,23 +66042,23 @@ Comprala si querés vigilar un frente, patio o cochera con una sola cámara que 
       { label: "Wi-Fi", value: "Solo 2.4 GHz (802.11 b/g/n)" },
       { label: "Audio bidireccional", value: "Sí (micrófono y parlante)" },
       { label: "Alarma", value: "Sí, de luz y sonido" },
-      { label: "Detección inteligente", value: "IA de detección de personas, seguimiento de movimiento (motion tracking) y detección de llanto de bebé — no disponible en el modelo hermano más barato (C200)" },
+      { label: "Detección inteligente", value: "IA de detección de personas, seguimiento de movimiento (motion tracking) y detección de llanto de bebé (no disponible en el modelo hermano más barato, C200)" },
       { label: "Almacenamiento", value: "Micro-SD hasta 256 GB (no incluida)" },
       { label: "Asistentes compatibles", value: "Alexa y Asistente de Google" },
       { label: "Alimentación", value: "Adaptador 9 V con cable de 3 m" },
       { label: "Dimensiones", value: "86,6 x 85 x 117,7 mm" },
     ],
     relatedProducts: ["MLA37794717", "MLA26988384", "MLA18711640"],
-    priceUpdated: "2026-11-09",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
-    description: "Cámara TP-Link Tapo C210: 2K 3 MP con giro de 360°, marca global de redes y la mejor calificación de la categoría (4.9 en más de 6.300 opiniones). Specs verificadas en tp-link.com/ar. Solo interior y solo Wi-Fi de 2.4 GHz.",
+    reviewsSampledAt: "2026-11-10",
+    description: "Cámara TP-Link Tapo C210: 2K 3 MP con giro de 360°, marca global de redes y la mejor calificación de la categoría ({{rating:MLA19663400}} en {{reviews:MLA19663400}} opiniones). Specs verificadas en tp-link.com/ar. Solo interior y solo Wi-Fi de 2.4 GHz.",
     seoTitle: "TP-Link Tapo C210: ¿la mejor cámara de interior?",
-    metaDescription: "Cámara TP-Link Tapo C210: 2K, giro 360°, 4.9 estrellas en más de 6.300 calificaciones. Precio real en Argentina, pros, contras y para quién es.",
-    verdict: "La Tapo C210 sirve si querés la mejor combinación de imagen (2K real de 3 MP), app y respaldo de marca global para vigilar el interior de tu casa: es la mejor calificada de la categoría, con 4.9. No sirve para exterior (el fabricante la lista como cámara de interior) ni si tu router solo emite en 5 GHz: se conecta únicamente a redes de 2.4 GHz.",
+    metaDescription: "Cámara TP-Link Tapo C210: 2K, giro 360°, {{rating:MLA19663400}} estrellas en {{reviews:MLA19663400}} calificaciones. Precio real en Argentina, pros, contras y para quién es.",
+    verdict: "La Tapo C210 sirve si querés la mejor combinación de imagen (2K real de 3 MP), app y respaldo de marca global para vigilar el interior de tu casa: es la mejor calificada de la categoría, con {{rating:MLA19663400}}. No sirve para exterior (el fabricante la lista como cámara de interior) ni si tu router solo emite en 5 GHz: se conecta únicamente a redes de 2.4 GHz.",
     pros: [
-      "La mejor calificada de la categoría: 4.9 en más de 6.300 opiniones, con 90% de 5 estrellas",
+      "La mejor calificada de la categoría: {{rating:MLA19663400}} en {{reviews:MLA19663400}} opiniones, con 90% de 5 estrellas",
       "Resolución 2K de 3 MP real (2304 x 1296), verificada en la página de TP-Link Argentina",
       "Gira 360° en horizontal y 114° en vertical, con seguimiento de movimiento",
       "Detección de personas por IA, seguimiento de movimiento y detección de llanto de bebé: funciones que el modelo hermano más barato (C200) no tiene",
@@ -66073,7 +66073,7 @@ Comprala si querés vigilar un frente, patio o cochera con una sola cámara que 
     ],
     articleBody: `## Qué es y para quién
 
-La Tapo C210 es la cámara de interior de TP-Link, la marca global de routers y redes. Filma en 2K (3 MP reales, 2304 x 1296), gira 360° en horizontal y es la cámara mejor calificada de toda la categoría en MercadoLibre Argentina: 4.9 de promedio en más de 6.300 opiniones, con 90% de compradores poniéndole 5 estrellas.
+La Tapo C210 es la cámara de interior de TP-Link, la marca global de routers y redes. Filma en 2K (3 MP reales, 2304 x 1296), gira 360° en horizontal y es la cámara mejor calificada de toda la categoría en MercadoLibre Argentina: {{rating:MLA19663400}} de promedio en {{reviews:MLA19663400}} opiniones, con 90% de compradores poniéndole 5 estrellas.
 
 ## Lo bueno
 
@@ -66102,7 +66102,7 @@ Comprala si querés la mejor cámara de interior del catálogo, con marca recono
     id: "MLA26988384",
     title: "Mini Camara De Seguridad Wifi Vision Full Hd Ezviz Audio Color Blanco",
     canonicalName: "Cámara de Seguridad Ezviz H1C (mini interior)",
-    price: 47297,
+    price: 47288,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_631403-MLA112500730672_062026-O.webp",
     images: [
@@ -66114,8 +66114,8 @@ Comprala si querés la mejor cámara de interior del catálogo, con marca recono
     affiliateUrl: "https://meli.la/1fGvF6y",
     condition: "new",
     freeShipping: true,
-    rating: 4.9,
-    reviewCount: 7052,
+    rating: 4.8,
+    reviewCount: 7127,
     ratingBreakdown: { five: "89%", four: "8.46%", three: "1.54%", two: "0.47%", one: "0.54%" },
     pastelColor: "var(--pastel-coral)",
     visibility: "normal",
@@ -66139,16 +66139,16 @@ Comprala si querés la mejor cámara de interior del catálogo, con marca recono
       { label: "Seguridad anti-robo", value: "El botón de reset no desvincula la cámara de la cuenta original: si te la roban, no se puede re-vincular a otra cuenta sin desbloquearla desde soporte de EZVIZ" },
     ],
     relatedProducts: ["MLA37794717", "MLA19663400", "MLA18711640"],
-    priceUpdated: "2026-11-09",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
-    description: "Mini cámara Ezviz H1C para interior: Full HD, audio bidireccional, visión nocturna de 12 m y montaje con cinta o tornillos. La más barata de la guía, con más de 6.400 calificaciones. Sin verificar en fabricante (página LATAM inaccesible).",
+    reviewsSampledAt: "2026-11-10",
+    description: "Mini cámara Ezviz H1C para interior: Full HD, audio bidireccional, visión nocturna de 12 m y montaje con cinta o tornillos. La más barata de la guía, con {{reviews:MLA26988384}} calificaciones. Sin verificar en fabricante (página LATAM inaccesible).",
     seoTitle: "Ezviz H1C: la mini cámara barata, ¿cumple?",
-    metaDescription: "Mini cámara Ezviz H1C: Full HD, visión nocturna, más de 6.400 calificaciones y el precio más bajo de su categoría. Pros, contras y veredicto.",
-    verdict: "La Ezviz H1C sirve si querés empezar a vigilar el interior de tu casa gastando lo menos posible sin caer en marcas genéricas: es la más barata de la guía, de marca especialista, y con más de 6.400 calificaciones que la respaldan. No sirve si necesitás que gire o siga el movimiento (es fija) ni para exterior.",
+    metaDescription: "Mini cámara Ezviz H1C: Full HD, visión nocturna, {{reviews:MLA26988384}} calificaciones y el precio más bajo de su categoría. Pros, contras y veredicto.",
+    verdict: "La Ezviz H1C sirve si querés empezar a vigilar el interior de tu casa gastando lo menos posible sin caer en marcas genéricas: es la más barata de la guía, de marca especialista, y con {{reviews:MLA26988384}} calificaciones que la respaldan. No sirve si necesitás que gire o siga el movimiento (es fija) ni para exterior.",
     pros: [
-      "El precio más bajo de la guía, con marca especialista en cámaras y 4.8 de promedio",
+      "El precio más bajo de la guía, con marca especialista en cámaras y {{rating:MLA26988384}} de promedio",
       "Chica y fácil de instalar: se pega o se atornilla, y las reseñas destacan la conexión simple",
       "Compresión H.265: los videos ocupan menos memoria que en cámaras H.264",
       "Audio bidireccional que las reseñas describen como muy bueno",
@@ -66166,7 +66166,7 @@ Comprala si querés la mejor cámara de interior del catálogo, con marca recono
     ],
     articleBody: `## Qué es y para quién
 
-La Ezviz H1C es una mini cámara Wi-Fi de interior: Full HD, visión nocturna de 12 metros y audio en ambos sentidos, en un cuerpo chico que se pega o se atornilla donde lo necesites. Es la opción más barata de nuestra guía de cámaras de seguridad, con más de 6.400 calificaciones.
+La Ezviz H1C es una mini cámara Wi-Fi de interior: Full HD, visión nocturna de 12 metros y audio en ambos sentidos, en un cuerpo chico que se pega o se atornilla donde lo necesites. Es la opción más barata de nuestra guía de cámaras de seguridad, con {{reviews:MLA26988384}} calificaciones.
 
 ## Lo bueno
 
@@ -66184,7 +66184,7 @@ Comprala si querés tu primera cámara de interior o sumar puntos de vigilancia 
       { question: "¿Sirve para exterior?", answer: "No, es de interior y no resiste agua." },
       { question: "¿Cómo se instala?", answer: "Se pega con el adhesivo incluido o se atornilla con la placa metálica. Las reseñas la describen como muy fácil de conectar al Wi-Fi." },
       { question: "¿Graba sin memoria?", answer: "No, para grabar necesita una micro-SD que se compra aparte. Sin memoria solo muestra en vivo desde la app." },
-      { question: "¿Por qué es tan barata siendo de marca?", answer: "Porque es el modelo de entrada de Ezviz: fija, de interior y sin motorización. Lo esencial (imagen Full HD, visión nocturna, audio) lo cumple bien según más de 6.400 calificaciones." },
+      { question: "¿Por qué es tan barata siendo de marca?", answer: "Porque es el modelo de entrada de Ezviz: fija, de interior y sin motorización. Lo esencial (imagen Full HD, visión nocturna, audio) lo cumple bien según {{reviews:MLA26988384}} calificaciones." },
       { question: "¿Deja de grabar si se corta el internet o el Wi-Fi?", answer: "No. Sigue grabando en la micro-SD aunque no haya conexión; el internet solo hace falta para ver el video en vivo o revisar grabaciones de forma remota desde la app." },
       { question: "¿Se conecta a Wi-Fi de 5 GHz?", answer: "No, solo a redes de 2.4 GHz, y además necesita Wi-Fi para configurarse inicialmente: no tiene un modo de conexión directa (hotspot) propio." },
       { question: "¿Qué pasa si me la roban?", answer: "Tiene una función de seguridad real: una vez vinculada a tu cuenta, resetearla no la desvincula. Quien te la robe no puede configurarla en otro celular sin pasar por soporte de EZVIZ y comprobar que es dueño legítimo, a diferencia de las cámaras genéricas sin marca." },
@@ -66208,7 +66208,7 @@ Comprala si querés tu primera cámara de interior o sumar puntos de vigilancia 
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 10663,
+    reviewCount: 10051,
     ratingBreakdown: { five: "84.98%", four: "10.75%", three: "2.09%", two: "0.64%", one: "1.55%" },
     pastelColor: "var(--pastel-amber)",
     visibility: "normal",
@@ -66230,17 +66230,17 @@ Comprala si querés tu primera cámara de interior o sumar puntos de vigilancia 
       { label: "Almacenamiento", value: "Micro-SD por cámara (no incluidas); en esta plataforma el tope habitual es 128 GB por cámara" },
     ],
     relatedProducts: ["MLA43877246", "MLA18711640", "MLA19663400"],
-    priceUpdated: "2026-11-04",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
+    reviewsSampledAt: "2026-11-10",
     description: "Kit de 3 cámaras Geotek para exterior: domos motorizados Full HD con visión nocturna a color e IP66. Sale menos que comprar 3 cámaras sueltas y evita la mensualidad de las alarmas con abono. Cada cámara necesita corriente y su propia micro-SD.",
     seoTitle: "Kit 3 Cámaras Geotek: ¿conviene para toda la casa?",
-    metaDescription: "Kit de 3 cámaras de seguridad Geotek: exterior IP66, visión nocturna color, más de 6.200 calificaciones. Precio real, pros, contras y veredicto.",
+    metaDescription: "Kit de 3 cámaras de seguridad Geotek: exterior IP66, visión nocturna color, {{reviews:MLA48013621}} calificaciones. Precio real, pros, contras y veredicto.",
     verdict: "El kit Geotek sirve si querés cubrir varios frentes de la casa de una vez pagando menos que por 3 cámaras sueltas, sin mensualidad de por medio: la frase de una reseña lo resume, invertís una vez y listo. No sirve si no tenés cómo llevar corriente a cada punto de instalación o si tenés mascotas que van a disparar la detección de personas todo el día, un límite que una reseña honesta marca.",
     pros: [
       "Tres cámaras exterior IP66 por menos de lo que salen sueltas",
-      "Más de 6.200 calificaciones con 4.8 de promedio",
+      "{{reviews:MLA48013621}} calificaciones con {{rating:MLA48013621}} de promedio",
       "Sin mensualidad: graba local en micro-SD, sin abono de monitoreo",
       "Visión nocturna a color de 20 m y detección de personas en las tres cámaras",
       "Instalación descripta como sencilla por las reseñas (llevar corriente y sincronizar por app)",
@@ -66253,7 +66253,7 @@ Comprala si querés tu primera cámara de interior o sumar puntos de vigilancia 
     ],
     articleBody: `## Qué es y para quién
 
-El kit GT-N3 de Geotek trae tres cámaras domo motorizadas de exterior (IP66, Full HD, visión nocturna a color) para cubrir varios frentes de una casa de una vez: entrada, patio, cochera. Con más de 6.200 calificaciones, es la forma más elegida de armar un sistema de varias cámaras sin abono en MercadoLibre Argentina.
+El kit GT-N3 de Geotek trae tres cámaras domo motorizadas de exterior (IP66, Full HD, visión nocturna a color) para cubrir varios frentes de una casa de una vez: entrada, patio, cochera. Con {{reviews:MLA48013621}} calificaciones, es la forma más elegida de armar un sistema de varias cámaras sin abono en MercadoLibre Argentina.
 
 ## Lo bueno
 
@@ -66292,7 +66292,7 @@ Compralo si querés cubrir toda la casa de una vez, sin mensualidad y con margen
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 3059,
+    reviewCount: 3113,
     ratingBreakdown: { five: "91.2%", four: "7.06%", three: "1.11%", two: "0.32%", one: "0.32%" },
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
@@ -66316,23 +66316,23 @@ Compralo si querés cubrir toda la casa de una vez, sin mensualidad y con margen
       { label: "Alcance visión nocturna", value: "Aproximadamente 10 m; varias reviews describen la imagen nocturna en blanco y negro, no a color como indica la ficha de ML" },
     ],
     relatedProducts: ["MLA26988384", "MLA19663400", "MLA18711640"],
-    priceUpdated: "2026-11-09",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
-    description: "Cámara Ezviz TY1: motorizada de interior con detección de figura humana y seguimiento, Full HD, 4.9 de promedio. Sin suscripción obligatoria para las funciones básicas. Base de calificaciones más chica que el resto de la guía (2.145).",
+    reviewsSampledAt: "2026-11-10",
+    description: "Cámara Ezviz TY1: motorizada de interior con detección de figura humana y seguimiento, Full HD, {{rating:MLA37794717}} de promedio. Sin suscripción obligatoria para las funciones básicas. Base de calificaciones más chica que el resto de la guía ({{reviews:MLA37794717}}).",
     seoTitle: "Ezviz TY1: motorizada de interior, ¿conviene?",
-    metaDescription: "Cámara Ezviz TY1 motorizada: detección humana, seguimiento y 4.9 estrellas. Precio real en Argentina, pros, contras y para quién conviene.",
-    verdict: "La Ezviz TY1 sirve si querés una motorizada de interior con detección de figura humana y seguimiento, de marca especialista y sin pagar suscripción para lo esencial: tiene 4.9, la mejor calificación de la guía junto a la Tapo. No sirve si te pesa que la base de opiniones sea la más chica del grupo (2.145) o si buscás resolución 2K: es Full HD.",
+    metaDescription: "Cámara Ezviz TY1 motorizada: detección humana, seguimiento y {{rating:MLA37794717}} estrellas. Precio real en Argentina, pros, contras y para quién conviene.",
+    verdict: "La Ezviz TY1 sirve si querés una motorizada de interior con detección de figura humana y seguimiento, de marca especialista y sin pagar suscripción para lo esencial: tiene {{rating:MLA37794717}}, la mejor calificación de la guía junto a la Tapo. No sirve si te pesa que la base de opiniones sea la más chica del grupo ({{reviews:MLA37794717}}) o si buscás resolución 2K: es Full HD.",
     pros: [
-      "4.9 de promedio, con 91% de calificaciones de 5 estrellas",
+      "{{rating:MLA37794717}} de promedio, con 91% de calificaciones de 5 estrellas",
       "Detección de figura humana con seguimiento motorizado, y detección de ruidos anormales",
       "Las funciones esenciales no requieren suscripción, según reseñas",
       "Marca especialista en cámaras, compatible con Alexa y Asistente de Google",
       "Zoom digital 8x",
     ],
     cons: [
-      "La base de calificaciones más chica de la guía (2.145 frente a las más de 5.000 del resto)",
+      "La base de calificaciones más chica de la guía ({{reviews:MLA37794717}} frente a los miles del resto)",
       "Resolución Full HD, contra el 2K de la Tapo C210 a precio parecido",
       "Solo interior, y necesita un enchufe cerca",
       "Specs sin verificar en la página del fabricante (inaccesible al momento del research)",
@@ -66341,7 +66341,7 @@ Compralo si querés cubrir toda la casa de una vez, sin mensualidad y con margen
     ],
     articleBody: `## Qué es y para quién
 
-La Ezviz TY1 es una cámara motorizada de interior: gira, detecta figuras humanas (no cualquier movimiento) y las sigue, con alerta al celular y detección de ruidos anormales. Es de las dos mejor calificadas de nuestra guía, con 4.9 de promedio.
+La Ezviz TY1 es una cámara motorizada de interior: gira, detecta figuras humanas (no cualquier movimiento) y las sigue, con alerta al celular y detección de ruidos anormales. Es de las dos mejor calificadas de nuestra guía, con {{rating:MLA37794717}} de promedio.
 
 ## Lo bueno
 
@@ -66360,7 +66360,7 @@ Comprala si querés detección de personas de verdad (no alertas por cada cortin
       { question: "¿La Ezviz TY1 necesita suscripción?", answer: "Para lo esencial, no: una reseña destaca que la app tiene las funciones justas para un usuario que no requiere suscripción. Graba local en micro-SD (se compra aparte)." },
       { question: "¿Qué diferencia hay entre detección de movimiento y de figura humana?", answer: "La detección de movimiento se dispara con cualquier cambio en la imagen (mascotas, cortinas, luces). La TY1 detecta específicamente figuras humanas y las sigue con el motor, lo que reduce las falsas alarmas." },
       { question: "¿Sirve para exterior?", answer: "No, es de interior y se alimenta de corriente eléctrica, sin resistencia al agua declarada." },
-      { question: "¿Por qué tiene menos calificaciones que las otras?", answer: "Es un modelo con menos rotación en el catálogo argentino: {{reviews:MLA37794717}} calificaciones, contra más de 5.000 del resto de la guía. La muestra igual es amplia y el promedio (4.9) es el más alto junto a la Tapo C210." },
+      { question: "¿Por qué tiene menos calificaciones que las otras?", answer: "Es un modelo con menos rotación en el catálogo argentino: {{reviews:MLA37794717}} calificaciones, contra miles del resto de la guía. La muestra igual es amplia y el promedio ({{rating:MLA37794717}}) es el más alto junto a la Tapo C210." },
       { question: "¿Detecta sonidos?", answer: "Sí, además del movimiento detecta ruidos anormales y avisa al celular, según la ficha y las reseñas." },
       { question: "¿Se conecta a Wi-Fi de 5 GHz?", answer: "No, solo se conecta a redes de 2.4 GHz. Tiene puerto Ethernet como alternativa si tu router es de banda dual o preferís conectarla por cable." },
       { question: "¿La visión nocturna es a color?", answer: "La ficha de MercadoLibre lo indica, pero al menos una review internacional detallada la describe en blanco y negro, el formato típico de la mayoría de cámaras con infrarrojo. No pudimos confirmarlo contra la página oficial del fabricante, así que conviene preguntarle al vendedor antes de comprar si ese detalle es importante para vos." },
