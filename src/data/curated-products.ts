@@ -99349,20 +99349,20 @@ Es la más potente de esta comparativa, con 2 kW, y comparte con la Gamma la pre
     title: "Hidrolavadora Inalámbrica Deco de Aca 48V — Portátil, 2 Baterías, Manguera 5 m",
     canonicalName: "Deco de Aca 48V",
     mpn: "48V",
-    price: 48999, currency: "ARS",
+    price: 57229, currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_859042-MLA115588097380_092026-O.webp",
     images: ["https://http2.mlstatic.com/D_NQ_NP_859042-MLA115588097380_092026-O.webp"],
     category: "Hogar y Jardín", categorySlug: "hogar-jardin",
     permalink: "https://www.mercadolibre.com.ar/hidrolavadora-inalambrica-portatil-recargable-bateria/p/MLA37476338",
     affiliateUrl: "https://meli.la/1cG27Su",
-    condition: "new", freeShipping: true, rating: 4.4, reviewCount: 2234,
+    condition: "new", freeShipping: true, rating: 4.4, reviewCount: 2621,
     badge: "bestseller",
     pastelColor: "var(--pastel-green)",
     specs: [
       { label: "Marca", value: "Genérica, vendida por la tienda oficial Deco de Aca" },
       { label: "Modelo", value: "48V" },
       { label: "Voltaje", value: "48V declarados" },
-      { label: "Potencia", value: "400 W declarados, la mayor potencia del grupo" },
+      { label: "Potencia", value: "400 W declarados, la mayor entre las que declaran potencia" },
       { label: "Tipo de alimentación", value: "Batería de ion de litio, incluye 2 unidades" },
       { label: "Presión máxima", value: "36 bar" },
       { label: "Largo de la manguera", value: "5 m" },
@@ -99373,18 +99373,18 @@ Es la más potente de esta comparativa, con 2 kW, y comparte con la Gamma la pre
       { label: "Con porta accesorios", value: "No" },
       { label: "Incluye cargador", value: "Sí" },
     ],
-    relatedProducts: ["MLA61640877", "MLA51280399", "MLA1876063451"],
-    priceUpdated: "2026-11-09", priceLastChecked: "2026-09-14", priceVerifiedAt: "2026-09-14",
-    priceStatus: "fresh", reviewsSampledAt: "2026-09-14",
+    relatedProducts: ["MLA61640877", "MLA51280399", "MLAU5234990824"],
+    priceUpdated: "2026-11-10", priceLastChecked: "2026-11-10", priceVerifiedAt: "2026-11-10",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     description: "La más vendida de esta comparativa, con {{reviews:MLA37476338}} opiniones muy por encima del resto. Trae 2 baterías, filtro y depósito de espuma. Su contra real: una reseña midió con tester que la batería no llega a los 48V que declara la publicación.",
     seoTitle: "Deco de Aca 48V: la hidrolavadora inalámbrica más vendida",
-    metaDescription: "Hidrolavadora inalámbrica Deco de Aca 48V, la más vendida de nuestra comparativa con más de 2.200 opiniones. Qué dicen sus compradores, sin filtrar.",
-    verdict: "Es **la más vendida de esta comparativa**, con **{{reviews:MLA37476338}} opiniones**, casi 4 veces más que la siguiente. Declara **400 W**, la potencia más alta del grupo, y trae **2 baterías** de fábrica más filtro de agua y depósito de espuma. Pero acá aparece la advertencia honesta: una reseña midió con tester que la batería **nunca superó los 21V** pese a que la publicación declara 48V, y otra avisa que **dejó de funcionar después de varios usos**. Con casi 2.300 opiniones el promedio (4,4) se sostiene, pero esos dos hallazgos puntuales conviene tenerlos presentes antes de comprar.",
+    metaDescription: "Hidrolavadora inalámbrica Deco de Aca 48V, la más vendida de nuestra comparativa con más de 2.600 opiniones. Qué dicen sus compradores, sin filtrar.",
+    verdict: "Es **la más vendida de esta comparativa**, con **{{reviews:MLA37476338}} opiniones**, casi 4 veces más que la siguiente. Declara **400 W**, la potencia más alta entre las que la declaran, y trae **2 baterías** de fábrica más filtro de agua y depósito de espuma. Pero acá aparece la advertencia honesta: una reseña midió con tester que la batería **nunca superó los 21V** pese a que la publicación declara 48V, y otra avisa que **dejó de funcionar después de varios usos**. Con más de 2.600 opiniones el promedio (4,4) se sostiene, pero esos dos hallazgos puntuales conviene tenerlos presentes antes de comprar.",
     pros: [
       "{{reviews:MLA37476338}} opiniones, la base más grande de este grupo por lejos",
       "Trae 2 baterías de fábrica: se alterna una mientras carga la otra",
       "Incluye filtro de agua y depósito de espuma",
-      "400 W declarados, la potencia más alta de esta comparativa",
+      "400 W declarados, la potencia más alta entre las que la declaran",
       "Envío gratis",
     ],
     cons: [
@@ -99413,7 +99413,7 @@ Esta es la advertencia honesta antes de comprar. La publicación declara 48V, pe
 
 ## Otra reseña avisa que dejó de funcionar tras varios usos
 
-Con casi 2.300 opiniones el promedio general (4,4) se sostiene, pero al menos una reseña con 27 votos útiles cuenta que el producto funcionó bien los primeros días y después dejó de andar. Vale la pena tenerlo presente, sobre todo por el uso esporádico que suele tener este tipo de producto.
+Con más de 2.600 opiniones el promedio general (4,4) se sostiene, pero al menos una reseña con 27 votos útiles cuenta que el producto funcionó bien los primeros días y después dejó de andar. Vale la pena tenerlo presente, sobre todo por el uso esporádico que suele tener este tipo de producto.
 
 ## Para quién es, y para quién no
 
@@ -99425,7 +99425,7 @@ Es la hidrolavadora inalámbrica más vendida de esta comparativa, con una base 
     faq: [
       { question: "¿Por qué es la más vendida de la comparativa?", answer: "Acumula casi 4 veces más opiniones que cualquier otra hidrolavadora inalámbrica de este grupo, y viene con 2 baterías, filtro y depósito de espuma incluidos de fábrica." },
       { question: "¿Realmente da 48V como dice la publicación?", answer: "Una reseña midió con tester que la batería, en carga, no supera los 21V, pese a que la publicación declara 48V. Es la advertencia honesta más importante antes de comprar este modelo." },
-      { question: "¿Es confiable a largo plazo?", answer: "El promedio (4,4 con casi 2.300 opiniones) es bueno, pero al menos una reseña con 27 votos útiles avisa que dejó de funcionar después de varios usos. No es la mayoría, pero es un caso real a tener en cuenta." },
+      { question: "¿Es confiable a largo plazo?", answer: "El promedio (4,4 con más de 2.600 opiniones) es bueno, pero al menos una reseña con 27 votos útiles avisa que dejó de funcionar después de varios usos. No es la mayoría, pero es un caso real a tener en cuenta." },
       { question: "¿Trae 2 baterías o hay que comprarlas aparte?", answer: "Trae 2 baterías de fábrica: podés alternar una mientras la otra carga, sin esperar." },
       { question: "¿Tiene ruedas?", answer: "No, ni porta accesorios. Es liviana (1 kg la pistola) y se piensa para cargarla, no para arrastrarla." },
       { question: "¿Trae depósito de espuma?", answer: "Sí, además de filtro de agua para no ensuciar la bomba." },
@@ -99442,13 +99442,13 @@ Es la hidrolavadora inalámbrica más vendida de esta comparativa, con una base 
     category: "Hogar y Jardín", categorySlug: "hogar-jardin",
     permalink: "https://www.mercadolibre.com.ar/hidrolavadora-inalambrica-mtl-48v-multiuso-sin-canilla-motor-de-cobre-156w-bateria-de-7500mah-con-manguera-de-6-metros-boquillas-botella-de-espuma-accesorios-completos/p/MLA61640877",
     affiliateUrl: "https://meli.la/16nYudY",
-    condition: "new", freeShipping: false, rating: 4.6, reviewCount: 110,
+    condition: "new", freeShipping: false, rating: 4.5, reviewCount: 334,
     pastelColor: "var(--pastel-blue)",
     specs: [
       { label: "Marca", value: "MTL" },
       { label: "Modelo", value: "RB0034" },
       { label: "Voltaje", value: "48V declarados" },
-      { label: "Potencia", value: "156 W declarados, la menor de esta comparativa" },
+      { label: "Potencia", value: "156 W declarados, la menor entre las tres que declaran potencia" },
       { label: "Material de la bomba", value: "Cobre" },
       { label: "Batería", value: "7.500 mAh" },
       { label: "Presión máxima", value: "33 bar" },
@@ -99459,13 +99459,13 @@ Es la hidrolavadora inalámbrica más vendida de esta comparativa, con una base 
       { label: "Incluye cargador", value: "Sí" },
       { label: "Usos recomendados", value: "Doméstico y semiprofesional" },
     ],
-    relatedProducts: ["MLA37476338", "MLA51280399", "MLA1876063451"],
-    priceUpdated: "2026-11-06", priceLastChecked: "2026-09-14", priceVerifiedAt: "2026-09-14",
-    priceStatus: "fresh", reviewsSampledAt: "2026-09-14",
+    relatedProducts: ["MLA37476338", "MLA51280399", "MLAU5234990824"],
+    priceUpdated: "2026-11-06", priceLastChecked: "2026-11-10", priceVerifiedAt: "2026-11-10",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     description: "La única de esta comparativa con bomba de cobre declarada, y la manguera más larga del grupo (6 m). Su contra real: menos presión de salida que otras hidrolavadoras, según sus propios compradores.",
     seoTitle: "MTL RB0034: bomba de cobre y manguera de 6 metros",
     metaDescription: "Hidrolavadora inalámbrica MTL RB0034, la única de nuestra comparativa con bomba de cobre y manguera de 6 metros. Con su contra real.",
-    verdict: "Tiene buena calificación ({{rating:MLA61640877}}, aunque con muchas menos opiniones que la Deco de Aca), y es la única que declara **bomba de cobre** de esta comparativa: las otras tres fichas no especifican el material de la bomba. Tiene la **manguera más larga** del grupo, 6 metros, y trae **porta accesorios** para no perder las boquillas. Su potencia declarada (156 W) es la más baja del grupo, y sus propios compradores lo confirman en la práctica: coinciden en que **la presión de salida es menor** comparada con otras hidrolavadoras. Para uso liviano (auto, moto, bici) el balance es bueno; si buscás la máxima presión posible, no es la primera opción de esta comparativa.",
+    verdict: "Tiene buena calificación ({{rating:MLA61640877}}, aunque con muchas menos opiniones que la Deco de Aca), y es la única que declara **bomba de cobre** de esta comparativa: las otras tres fichas no especifican el material de la bomba. Tiene la **manguera más larga** del grupo, 6 metros, y trae **porta accesorios** para no perder las boquillas. Su potencia declarada (156 W) es la más baja entre las tres de esta comparativa que declaran potencia, y sus propios compradores lo confirman en la práctica: coinciden en que **la presión de salida es menor** comparada con otras hidrolavadoras. Para uso liviano (auto, moto, bici) el balance es bueno; si buscás la máxima presión posible, no es la primera opción de esta comparativa.",
     pros: [
       "Única con bomba de cobre declarada de esta comparativa",
       "Manguera de 6 metros, la más larga del grupo",
@@ -99475,7 +99475,7 @@ Es la hidrolavadora inalámbrica más vendida de esta comparativa, con una base 
     ],
     cons: [
       "Muchas menos opiniones que la Deco de Aca, la más vendida de esta comparativa",
-      "156 W declarados, la potencia más baja del grupo",
+      "156 W declarados, la potencia más baja entre las tres que la declaran",
       "Varios compradores confirman menos presión de salida que otras hidrolavadoras",
       "No trae ruedas",
     ],
@@ -99493,7 +99493,7 @@ Declara bomba de cobre; las otras tres fichas de esta comparativa no especifican
 
 ## La contra honesta: menos presión que otras hidrolavadoras
 
-Declara 156 W, la potencia más baja de esta comparativa, y sus propios compradores lo confirman: coinciden en que la presión de salida es menor comparada con otras hidrolavadoras. Para lavar una moto o dar una pasada liviana al auto alcanza de sobra; si buscás la máxima presión posible, no es la primera opción del grupo.
+Declara 156 W, la potencia más baja entre las tres de esta comparativa que la declaran, y sus propios compradores lo confirman: coinciden en que la presión de salida es menor comparada con otras hidrolavadoras. Para lavar una moto o dar una pasada liviana al auto alcanza de sobra; si buscás la máxima presión posible, no es la primera opción del grupo.
 
 ## Para quién es, y para quién no
 
@@ -99501,11 +99501,11 @@ Es para vos si priorizás durabilidad (bomba de cobre) y alcance (manguera de 6 
 
 ## El veredicto
 
-Tiene buena calificación y una diferencia real frente al resto de esta comparativa: bomba de cobre y la manguera más larga del grupo. Su contra honesta es la potencia, la más baja de las cuatro, algo que sus propios compradores confirman como menos presión de salida en el uso real.`,
+Tiene buena calificación y una diferencia real frente al resto de esta comparativa: bomba de cobre y la manguera más larga del grupo. Su contra honesta es la potencia, la más baja entre las tres que la declaran, algo que sus propios compradores confirman como menos presión de salida en el uso real.`,
     faq: [
       { question: "¿Por qué se destaca en esta comparativa?", answer: "Es la única que declara bomba de cobre y la que tiene la manguera más larga del grupo (6 metros), con buena calificación pese a tener menos opiniones que la Deco de Aca 48V." },
       { question: "¿Es más durable que las otras por la bomba de cobre?", answer: "Es la única de esta comparativa que declara bomba de cobre; las otras tres fichas no especifican el material de la bomba, así que no se puede afirmar que sea plástico. En teoría el cobre suma durabilidad, aunque no hay todavía suficientes opiniones de largo plazo para confirmarlo con datos." },
-      { question: "¿Tiene buena presión?", answer: "Es su contra honesta: declara la potencia más baja del grupo (156 W) y varios compradores confirman que la presión de salida es menor comparada con otras hidrolavadoras. Para uso liviano alcanza bien." },
+      { question: "¿Tiene buena presión?", answer: "Es su contra honesta: declara la potencia más baja entre las tres de esta comparativa que la declaran (156 W) y varios compradores confirman que la presión de salida es menor comparada con otras hidrolavadoras. Para uso liviano alcanza bien." },
       { question: "¿Para qué uso conviene?", answer: "Según sus propios compradores, rinde bien para lavar autos, motos y bicicletas. Si necesitás máxima presión para superficies muy sucias, otro modelo de esta comparativa puede convenir más." },
       { question: "¿Tiene porta accesorios?", answer: "Sí, es de las pocas de esta comparativa que lo trae, junto con un maletín de transporte." },
       { question: "¿Qué tan larga es la manguera?", answer: "6 metros, la más larga de las cuatro hidrolavadoras inalámbricas de esta comparativa." },
@@ -99522,7 +99522,7 @@ Tiene buena calificación y una diferencia real frente al resto de esta comparat
     category: "Hogar y Jardín", categorySlug: "hogar-jardin",
     permalink: "https://www.mercadolibre.com.ar/hidrolavadora-bateria-inalambrica-sin-canilla-multiusos-color-negro/p/MLA51280399",
     affiliateUrl: "https://meli.la/2mr5MAg",
-    condition: "new", freeShipping: false, rating: 4.4, reviewCount: 567,
+    condition: "new", freeShipping: false, rating: 4.4, reviewCount: 727,
     pastelColor: "var(--pastel-amber)",
     specs: [
       { label: "Marca", value: "Stardom" },
@@ -99538,9 +99538,9 @@ Tiene buena calificación y una diferencia real frente al resto de esta comparat
       { label: "Con porta accesorios", value: "Sí" },
       { label: "Con ruedas", value: "No" },
     ],
-    relatedProducts: ["MLA37476338", "MLA61640877", "MLA1876063451"],
-    priceUpdated: "2026-11-09", priceLastChecked: "2026-09-14", priceVerifiedAt: "2026-09-14",
-    priceStatus: "fresh", reviewsSampledAt: "2026-09-14",
+    relatedProducts: ["MLA37476338", "MLA61640877", "MLAU5234990824"],
+    priceUpdated: "2026-11-09", priceLastChecked: "2026-11-10", priceVerifiedAt: "2026-11-10",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     description: "La que más usos declara de esta comparativa (aire acondicionado, pisos, ventanas, riego), y trabaja sin canilla, tomando agua de un balde. Su contra real: hay que cebar la bomba a mano antes de cada uso.",
     seoTitle: "Stardom HK2401: la hidrolavadora inalámbrica más versátil",
     metaDescription: "Hidrolavadora inalámbrica Stardom HK2401, sin canilla y multiuso. La más versátil de nuestra comparativa, con su contra real explicada.",
@@ -99591,48 +99591,75 @@ Es la hidrolavadora inalámbrica más versátil de esta comparativa por la canti
     ],
   },
   {
+    // Ex-activa: esta publicación de KIKIIMPORT (MLA1876063451) dejó de existir
+    // (404 real, verificado en vivo 2026-11-10: "Parece que esta página no
+    // existe"). Se encontró el mismo modelo exacto (mpn "Hidrolavadora 2
+    // baterias", misma marca KIKIIMPORT en la ficha técnica) re-listado bajo
+    // otro ID de catálogo (MLAU5234990824, ver abajo), pero vendido ahora por
+    // un vendedor distinto (HPIMPORTSZ, también MercadoLíder). El contenido
+    // rico se migró a esa ficha. Se conserva esta como referencia histórica,
+    // sin borrarla.
     id: "MLA1876063451",
-    title: "Hidrolavadora Inalámbrica KIKIIMPORT — 2 Baterías 48V Incluidas",
-    canonicalName: "KIKIIMPORT 2 Baterías",
+    title: "Hidrolavadora Inalámbrica KIKIIMPORT — 2 Baterías 48V Incluidas (publicación vieja, dada de baja)",
+    canonicalName: "KIKIIMPORT 2 Baterías (publicación vieja)",
     mpn: "Hidrolavadora 2 baterias",
+    priceStatus: "out_of_stock",
     price: 58302, currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_919339-MLA112968633452_072026-O.webp",
     images: ["https://http2.mlstatic.com/D_NQ_NP_919339-MLA112968633452_072026-O.webp"],
     category: "Hogar y Jardín", categorySlug: "hogar-jardin",
     permalink: "https://www.mercadolibre.com.ar/p/MLA1876063451",
     affiliateUrl: "https://meli.la/2w1feiN",
-    condition: "new", freeShipping: true, rating: 5.0, reviewCount: 23,
+    condition: "new", freeShipping: true, rating: 0, reviewCount: 0,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "deprioritized",
+    relatedProducts: ["MLAU5234990824", "MLA37476338", "MLA61640877", "MLA51280399"],
+  },
+  {
+    id: "MLAU5234990824",
+    title: "Hidrolavadora Inalámbrica KIKIIMPORT — 2 Baterías 48V Incluidas",
+    canonicalName: "KIKIIMPORT 2 Baterías",
+    mpn: "Hidrolavadora 2 baterias",
+    price: 59491, currency: "ARS",
+    originalPrice: 69990,
+    image: "https://http2.mlstatic.com/D_NQ_NP_919339-MLA112968633452_072026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_919339-MLA112968633452_072026-O.webp"],
+    category: "Hogar y Jardín", categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/hidrolavadora-inalambrica-portatil-2-baterias-auto-jardin/up/MLAU5234990824",
+    affiliateUrl: "https://meli.la/2myXGvW",
+    condition: "new", freeShipping: true, rating: 4.2, reviewCount: 22,
     pastelColor: "var(--pastel-purple)",
     specs: [
       { label: "Marca", value: "KIKIIMPORT" },
       { label: "Voltaje", value: "48V declarados" },
       { label: "Frecuencia", value: "50/60 Hz" },
-      { label: "Potencia", value: "200 W declarados" },
+      { label: "Potencia", value: "No declarada en esta publicación" },
       { label: "Presión máxima", value: "30 bar, la más baja de esta comparativa" },
-      { label: "Caudal de agua", value: "4 l/min" },
+      { label: "Caudal de agua", value: "No declarado en esta publicación" },
       { label: "Baterías incluidas", value: "2, de fábrica" },
       { label: "Largo de la manguera", value: "5 m" },
       { label: "Incluye cargador", value: "Sí" },
       { label: "Es portátil", value: "Sí" },
-      { label: "Vendedor", value: "KIKIIMPORT, MercadoLíder con más de 10 mil ventas en la tienda" },
+      { label: "Vendedor", value: "HPIMPORTSZ, MercadoLíder con más de 10 mil ventas en la tienda" },
     ],
     relatedProducts: ["MLA37476338", "MLA61640877", "MLA51280399"],
-    priceUpdated: "2026-09-14", priceLastChecked: "2026-09-14", priceVerifiedAt: "2026-09-14",
-    priceStatus: "fresh", reviewsSampledAt: "2026-09-14",
-    description: "Trae 2 baterías 48V de fábrica y tiene la mejor calificación de esta comparativa, aunque con pocas opiniones todavía. Es la que menos presión máxima declara del grupo.",
+    priceUpdated: "2026-11-10", priceLastChecked: "2026-11-10", priceVerifiedAt: "2026-11-10",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
+    description: "Trae 2 baterías 48V de fábrica, igual que la Deco de Aca. Es la que menos opiniones y la calificación más baja tiene de esta comparativa, aunque todavía son pocas para ser concluyentes.",
     seoTitle: "KIKIIMPORT: hidrolavadora inalámbrica con 2 baterías incluidas",
-    metaDescription: "Hidrolavadora inalámbrica KIKIIMPORT con 2 baterías 48V de fábrica. Vendedor MercadoLíder, pocas opiniones todavía, lo decimos de frente.",
-    verdict: "Trae **2 baterías 48V de fábrica**, igual que la Deco de Aca, y tiene la **calificación más alta de esta comparativa** (5,0), aunque hay que decirlo de frente: son **solo {{reviews:MLA1876063451}} opiniones**, la base más chica del grupo, así que conviene tomar ese puntaje con cautela. La vende **KIKIIMPORT**, un vendedor MercadoLíder con más de 10 mil ventas en su tienda, lo que da algo de respaldo extra más allá de las opiniones puntuales de este modelo. Su contra real: declara **30 bar**, la presión máxima más baja de las cuatro hidrolavadoras de esta comparativa.",
+    metaDescription: "Hidrolavadora inalámbrica KIKIIMPORT con 2 baterías 48V de fábrica. Pocas opiniones todavía y la nota más baja de la comparativa, lo decimos de frente.",
+    verdict: "Trae **2 baterías 48V de fábrica**, igual que la Deco de Aca, vendida por **HPIMPORTSZ**, un vendedor MercadoLíder con más de 10 mil ventas en su tienda. Hay que decirlo de frente: con **{{reviews:MLAU5234990824}} opiniones** es la base más chica del grupo y tiene la **calificación más baja de esta comparativa** ({{rating:MLAU5234990824}}), así que conviene tomar ese puntaje con cautela mientras junta más historial. Su contra real: declara **30 bar**, la presión máxima más baja de las cuatro hidrolavadoras de esta comparativa, y esta publicación puntual no declara la potencia en watts.",
     pros: [
-      "5,0 de calificación, la más alta de esta comparativa (con pocas opiniones, aclarado)",
       "Trae 2 baterías 48V de fábrica",
       "Vendedor MercadoLíder con más de 10 mil ventas en la tienda",
       "Envío gratis",
       "Fácil y rápida de armar, según sus compradores",
     ],
     cons: [
-      "Solo {{reviews:MLA1876063451}} opiniones para este modelo puntual, pocas para confiar en el promedio todavía",
+      "Solo {{reviews:MLAU5234990824}} opiniones para este modelo puntual, la base más chica del grupo",
+      "{{rating:MLAU5234990824}} de calificación, la más baja de esta comparativa",
       "30 bar de presión máxima, la más baja de esta comparativa",
+      "Esta publicación no declara la potencia en watts",
       "Una reseña aclara que no es para uso prolongado",
       "Sin porta accesorios declarado",
     ],
@@ -99643,30 +99670,30 @@ Es la hidrolavadora inalámbrica más versátil de esta comparativa por la canti
     ],
     articleBody: `## Qué es la KIKIIMPORT 2 Baterías
 
-Es la hidrolavadora inalámbrica con la calificación más alta de [nuestra comparativa de hidrolavadoras inalámbricas en Argentina](/guias/hogar-jardin/hidrolavadora-inalambrica), aunque con pocas opiniones todavía. Cuesta {{precio:MLA1876063451}} y tiene {{reviews:MLA1876063451}} calificaciones con {{rating:MLA1876063451}} estrellas en MercadoLibre Argentina.
+Es una de las cuatro hidrolavadoras inalámbricas de [nuestra comparativa de hidrolavadoras inalámbricas en Argentina](/guias/hogar-jardin/hidrolavadora-inalambrica). Cuesta {{precio:MLAU5234990824}} y tiene {{reviews:MLAU5234990824}} calificaciones con {{rating:MLAU5234990824}} estrellas en MercadoLibre Argentina.
 
 ## Pocas opiniones, lo decimos de frente
 
-Con {{reviews:MLA1876063451}} calificaciones es la base más chica de este grupo, bastante menos que las otras tres. El 5,0 de promedio es un buen dato, pero con tan pocas opiniones conviene tomarlo con cautela hasta que junte más historial. Lo que sí suma respaldo: la vende KIKIIMPORT, un vendedor MercadoLíder con más de 10 mil ventas en su tienda.
+Con {{reviews:MLAU5234990824}} calificaciones es la base más chica de este grupo, bastante menos que las otras tres, y también tiene la calificación más baja de la comparativa. Con tan pocas opiniones conviene tomar ambos datos con cautela hasta que junte más historial. Lo que sí suma respaldo: la vende HPIMPORTSZ, un vendedor MercadoLíder con más de 10 mil ventas en su tienda.
 
-## La contra real: la presión más baja del grupo
+## La contra real: la presión más baja del grupo, y sin potencia declarada
 
-Declara 30 bar de presión máxima, la más baja de las cuatro hidrolavadoras inalámbricas de esta comparativa. Una reseña lo confirma indirectamente: aclara que no es para uso prolongado, aunque sí sirve para tareas puntuales como lavar el motor del auto.
+Declara 30 bar de presión máxima, la más baja de las cuatro hidrolavadoras inalámbricas de esta comparativa, y esta publicación puntual no declara la potencia en watts (las otras tres sí la declaran). Una reseña lo confirma indirectamente: aclara que no es para uso prolongado, aunque sí sirve para tareas puntuales como lavar el motor del auto.
 
 ## Para quién es, y para quién no
 
-Es para vos si querés 2 baterías de fábrica con el respaldo de un vendedor grande y consolidado. No es para vos si la presión máxima es tu prioridad: para eso, la [Deco de Aca 48V](/producto/hidrolavadora-inalambrica-deco-de-aca-48v-portatil-2-baterias-manguera-5-m-mla37476338) o la [Stardom HK2401](/producto/hidrolavadora-inalambrica-stardom-hk2401-sin-canilla-multiuso-48v-mla51280399) de esta misma comparativa declaran más presión.
+Es para vos si querés 2 baterías de fábrica con el respaldo de un vendedor grande y consolidado. No es para vos si la presión máxima o un historial más grande de opiniones son tu prioridad: para eso, la [Deco de Aca 48V](/producto/hidrolavadora-inalambrica-deco-de-aca-48v-portatil-2-baterias-manguera-5-m-mla37476338) o la [Stardom HK2401](/producto/hidrolavadora-inalambrica-stardom-hk2401-sin-canilla-multiuso-48v-mla51280399) de esta misma comparativa declaran más presión y tienen muchas más opiniones.
 
 ## El veredicto
 
-Trae 2 baterías de fábrica y tiene la mejor calificación de esta comparativa, pero con una base de opiniones todavía chica: hay que tomar ese 5,0 con cautela. Su contra real es la presión máxima, la más baja del grupo, adecuada para tareas puntuales más que para uso prolongado.`,
+Trae 2 baterías de fábrica igual que la más vendida de esta comparativa, pero con una base de opiniones todavía chica y la nota más baja del grupo: hay que tomar esos dos datos con cautela. Su otra contra real es la presión máxima, la más baja del grupo, adecuada para tareas puntuales más que para uso prolongado.`,
     faq: [
-      { question: "¿Por qué tiene la mejor calificación si son pocas opiniones?", answer: "Es real que tiene 5,0 de promedio, pero con una base de opiniones bastante más chica que el resto de esta comparativa. Conviene tomarlo con cautela hasta que junte más historial." },
-      { question: "¿El vendedor es confiable?", answer: "Sí: KIKIIMPORT es MercadoLíder con más de 10 mil ventas en su tienda, un respaldo que va más allá de las opiniones puntuales de este modelo." },
+      { question: "¿Cómo interpretar su calificación, la más baja de esta comparativa?", answer: "Con solo {{reviews:MLAU5234990824}} opiniones es la base más chica del grupo, así que su promedio ({{rating:MLAU5234990824}}) tiene mucho menos sustento estadístico que el de las otras tres fichas, que acumulan cientos o miles de opiniones. Conviene tomarlo con cautela hasta que junte más historial." },
+      { question: "¿El vendedor es confiable?", answer: "Sí: HPIMPORTSZ es MercadoLíder con más de 10 mil ventas en su tienda, un respaldo que va más allá de las opiniones puntuales de este modelo." },
       { question: "¿Tiene buena presión?", answer: "Es su contra real: declara 30 bar, la presión máxima más baja de las cuatro hidrolavadoras de esta comparativa." },
+      { question: "¿Cuánta potencia tiene?", answer: "Esta publicación puntual no declara la potencia en watts, a diferencia de las otras tres fichas de esta comparativa. No podemos afirmar un dato que la publicación no da." },
       { question: "¿Sirve para uso prolongado?", answer: "Según una reseña, no: rinde mejor para tareas puntuales como lavar el motor del auto que para sesiones largas." },
       { question: "¿Trae 2 baterías?", answer: "Sí, de fábrica, igual que la Deco de Aca 48V de esta misma comparativa." },
-      { question: "¿Tiene envío gratis?", answer: "Sí." },
     ],
   },
   // Guía nueva amoladora — 6 fichas sourceadas con Bright Data el 2026-08-18
