@@ -3751,3 +3751,24 @@ Origen: siguiente guía de la cola de "nunca tocadas desde su publicación". Bug
 **Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (ratchet de precios en prosa sin cobertura bajó de 142 a 138), `npm run build` OK (exit 0). Deploy de Vercel a READY, IndexNow enviado (10 URLs: la guía + las 6 fichas de producto + guías relacionadas del sitemap).
 
 Re-medir: ~2026-12-10 (4 semanas). Pendiente para otra sesión: verificar cuál código de tracking de `meli.la` es el correcto para la Tapo C210 y unificarlo entre la ficha y la prosa.
+
+## `cocina-a-gas` — siguiente de la cola de guías vencidas, primera pasada desde publicación (2026-08-16) — 2026-11-10
+
+Origen: siguiente guía de la cola de "nunca tocadas desde su publicación". A diferencia de las guías anteriores de esta misma cola (bicicleta-rodado-29, camara-de-seguridad), esta YA estaba mayormente tokenizada desde que se escribió — buena señal de que no todas las guías viejas del sitio están en el mismo estado.
+
+**Verificación en vivo (6 productos):** todos en stock. 3 sin cambios (Drean CD5603AN0, Siam Essential, Drean CD5617AI0: precio, rating y reviewCount exactos). 3 con drift real, corregidos en sus fichas: Escorial Candor S2 ($395.826→$425.663, +7.5%; 7.432→7.233 reseñas), Florencia 5518F ($524.000→$538.337, +2.7%), Usman Industrial (precio sin cambio, pero rating 4.2→4.3 y reviewCount 558→531).
+
+**Hallazgo grande:** la sección "la air fryer integrada cuesta $688.119, un 92% más cara" (comparando las dos Drean de la guía) tenía el monto y el porcentaje hardcodeados, a diferencia del resto de la guía que ya usaba tokens. Con los precios de hoy la resta real es otra (no el 92% declarado). Se migró a `{{preciodif:MLA48950671:MLA63018001}}` (token que existe en el sitio justo para este caso) en las ~11 instancias donde se repetía esa comparación: la guía (H2, párrafo, FAQ) y las 2 fichas Drean involucradas (description, metaDescription, verdict, pros, cons, tabla dentro del articleBody, FAQ). El "92%"/"casi el doble" se reemplazó por lenguaje cualitativo ("bastante más cara") en vez de recalcular un porcentaje nuevo a mano, porque el sitio no tiene un token de porcentaje/ratio y ese número se habría vuelto a desactualizar.
+
+**Segundo hallazgo:** la ficha de Usman Industrial tenía su rating viejo ("4,2") hardcodeado 3 veces (un subtítulo H2 dentro del `articleBody`, una pregunta de FAQ y un ítem de `pros`), pese a que el resto de esa misma ficha ya usaba tokens. Confirmado que tanto los H2 de `articleBody` como las preguntas de FAQ resuelven tokens vía `injectLivePrices` (no es exclusivo de párrafos), así que se tokenizaron las 3 menciones con `{{rating:MLA36486302}}`.
+
+**Gap de enlazado hub-and-spoke:** de las 3 guías hermanas del silo cocina que debían linkear de vuelta a `cocina-a-gas` (`microondas`, `horno-electrico`, `freezer-vertical`), solo `horno-electrico` lo hacía (mención contextual en prosa). Se agregó un link en el footer `internalLinks` de `microondas` y de `freezer-vertical`. No se tocó el `updatedDate` de esas dos guías (es solo enlazado, no cambio de contenido de producto, siguiendo la convención ya establecida en este sitio).
+
+**Trío auditor (2 rondas de Codex, 1 de Gemini, hasta GO/GO):**
+- **Codex ronda 1: NO-GO** — yo solo había corregido 3 de las ~11 instancias de "$688.119"/"92%" (la sección de la guía), sin revisar que las fichas propias de los dos productos Drean involucrados tenían sus propias copias de la misma comparación. También señaló que la tabla dentro del `articleBody` de la ficha con air fryer tenía "$1.440.118" y "$751.999" hardcodeados, sin relación con los precios reales. Corregidas las ~11 instancias.
+- **Gemini/agy: GO limpio** en su única pasada.
+- **Codex ronda 2: GO**, confirmando 0 menciones residuales. Mejora opcional que señaló (aplicada): dos comparaciones más, distintas de la de las Drean entre sí (Drean CD5603AN0 vs. Escorial, "sin irse al doble de precio" y "es el doble de cara que la Escorial"), también suavizadas a lenguaje cualitativo.
+
+**Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (ratchet de precios en prosa sin cobertura bajó de 136 a 135), `npm run build` OK (exit 0). El primer deploy de Vercel a producción falló por el flake conocido de fuentes de Google (sin relación con el código, documentado en memoria del proyecto); el deploy de este commit específico (`cocina-a-gas`) salió READY sin problema. IndexNow enviado.
+
+Re-medir: ~2026-12-10 (4 semanas).
