@@ -3652,3 +3652,29 @@ Origen: siguiente guía de la cola de "nunca tocadas desde su publicación" (`po
 **Pendiente:** Juan pidió recotejar el stock del Gadnic B60 dentro de unas horas por si la baja fue temporal, no una discontinuación permanente. Ver fila en `docs/productos-sin-stock.md`.
 
 Re-medir: ~2026-12-07 (4 semanas). Verificar indexación de la ficha nueva en Search Console a las 2-3 semanas.
+
+## `torre-de-sonido` — siguiente de la cola de guías vencidas, primera pasada desde publicación + ficha nueva Noblex MNX1600 — 2026-11-10
+
+Origen: siguiente guía de la cola de "nunca tocadas desde su publicación" (`torre-de-sonido`, publicada 2026-07-05, nunca optimizada desde entonces pese a tener `updatedDate` 2026-08-31, que resultó ser un ajuste mecánico de precio, no una optimización de contenido real).
+
+**Diagnóstico GSC + SERP:** rankea #3 orgánico para "mejor torre de sonido" (confirmado a mano en Google AR, sin AI Overview en esa búsqueda) y posición 8.2 para "torre de sonido" genérica (185 impr/28 días, sin canibalización). El CTR bajo es por bajo volumen de búsquedas, no por AIO robándose el clic.
+
+**Stock de las 2 fichas existentes:** Noblex MNT290 (MLA15733030) y JVC XS-LA5214 (MLA45615651) verificadas en vivo, ambas con stock real y precio sin cambios ($173.899 y $198.899).
+
+**Hueco de mercado real:** el SERP mostró un mercado más diverso (Samsung, Sony, Philips, Aiwa, LG), y la propia guía ya reconocía un hueco editorial sin resolver ("Para una fiesta de verdad... no le da. Para eso hay torres de más potencia real"). Antes de sourcear de cero, se encontró que ya existía en el catálogo una ficha de una tercera torre, Aiwa AW-T2018R (MLA20012498), marcada `deprioritized`/`out_of_stock` desde 2026-08-31; se re-verificó en vivo y sigue sin stock real (mismo mensaje "Elige otra variante", confirmado con el JSON interno de la página), así que se descartó y se sourceó un producto nuevo real: **Noblex MNX1600** (MLA42879609), doble woofer, vendido por GONINO HOGAR (MercadoLíder Platinum, +5 mil ventas, no es la tienda oficial de Noblex), $376.990, 4.8★/241 opiniones (la mejor nota de las 3).
+
+**Hallazgo de honestidad:** la ficha técnica de MercadoLibre rotula la potencia del MNX1600 como "5.200 W (RMS)" explícitamente (no PMPO, como las otras dos torres de la guía). Esa cifra no resulta creíble para un equipo con batería recargable. Tratado con el mismo nivel de honestidad que ya aplican las fichas hermanas (MNT290 "3200W" PMPO, JVC "4800W" sin RMS publicado).
+
+**Trío auditor (6 rondas de Codex, 1 real de Gemini tras 2 cuelgues, hasta GO/GO):**
+- **Incidente técnico:** las primeras 2 corridas de Codex y Gemini quedaron colgadas a 0% CPU durante más de 1 hora cada una (sin relación con el contenido; se verificó que ambas herramientas respondían bien a un prompt trivial). Se mató el proceso y se relanzó con un prompt más acotado (indicarles que lean rangos de líneas exactos en vez de correr `git diff` sobre archivos de ~40.000 líneas con cambios de otras sesiones en paralelo), lo que resolvió el problema.
+- **Ronda 1 Codex: NO-GO, 3 bloqueantes reales**: (1) la ficha nueva se llamaba a sí misma "la más potente de esta comparativa" en specs/description/seoTitle/pros sin ninguna medición que lo sostenga (los "5.200W" son justamente el dato cuestionado) — corregido a "doble woofer"/"mejor calificada"; (2) la guía afirmaba en términos absolutos que las torres "no son transportables"/"no se transportan"/están "enchufadas", pese a que las 3 fichas (incluida la nueva) declaran batería recargable — corregido en 8 lugares distintos (directAnswer, intro, callout, 2 H3, lista de precios, FAQ, veredicto) a "poco prácticas para transportar seguido por tamaño y peso, aunque tengan batería"; (3) la ficha inventaba una explicación técnica ("5.200W equivaldría a un sistema profesional conectado a la red eléctrica") sin sustento y le agregaba a una cita real una condición que no decía ("con volumen moderado") — se sacaron ambas.
+- **Rondas 2-5 Codex:** cada una encontró 1-2 frases residuales del mismo problema de portabilidad que se habían escapado de la corrección anterior (eran 8 menciones repartidas en toda la guía); todas corregidas.
+- **Gemini/agy:** GO limpio en su primera corrida real (la primera intentona también se colgó, ver incidente técnico arriba).
+- **Ronda 6 Codex: GO limpio**, confirmado contra el bloque completo de la guía.
+- **Mejoras opcionales aplicadas de paso:** el label "Más opiniones" de la JVC pasó a "Fuera de Noblex" (la MNT290 en realidad tiene más reseñas); se tokenizaron 4 menciones hardcodeadas de "1.700" calificaciones en la ficha preexistente de la JVC (el conteo real ya es {{reviews:MLA45615651}}) a `{{reviews:MLA45615651}}`.
+
+**Cambios en la guía `torre-de-sonido`:** se agregaron `directAnswer`, callout "Respuesta rápida", `ogImage` y `sitemapLastmod` (la guía original no tenía ninguno de los cuatro). Noblex MNX1600 insertado como producto #2 del ranking, JVC renumerada a #3. Actualizados quickPicks, tabla comparativa, 3 secciones de "cómo elegir" (nueva sección sobre watts inflados en las 3 torres), lista de precios, veredicto y FAQ. `updatedDate`/`sitemapLastmod` → 2026-11-10. `relatedProducts` de MNT290 y JVC actualizado cruzado al MNX1600 nuevo.
+
+**Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (el ratchet de reseñas hardcodeadas bajó de 879 a 874, nunca sube), `npm run build` completo OK (exit 0) en las 4 corridas posteriores a cada ronda de correcciones.
+
+Re-medir: ~2026-12-10 (4 semanas). Verificar indexación de la ficha nueva en Search Console a las 2-3 semanas.
