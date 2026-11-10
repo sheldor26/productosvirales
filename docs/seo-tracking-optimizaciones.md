@@ -3814,3 +3814,27 @@ Origen: con las 4 guías del lote anterior cerradas, se buscó una quinta candid
 **Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (sin deuda nueva: 854 reseñas hardcodeadas, 135 precios en prosa sin cobertura, sin cambios), `npm run build` OK (exit 0, tras el flake conocido de fuentes de Google en el primer intento). Deploy de Vercel a READY (commit `4f4e8c8`). IndexNow enviado (5 URLs: la guía + las 4 fichas de producto).
 
 Re-medir: ~2026-12-10 (4 semanas).
+
+## `plancha-de-ropa` — sexta de la cola de guías vencidas, primera pasada desde publicación (2026-09-08) — 2026-11-10
+
+Origen: siguiente guía de la cola "nunca tocada" con buena señal de GSC (3.097 impresiones/28 días, 65 clicks, posición 5,54).
+
+**Verificación en vivo (Chrome real, 4 productos):** Philco PSP1217PI (MLA15800669) precio sin cambio ($30.299), rating 4.5→4.6, reseñas 1454→1639. Liliana RPV910 (MLA52936698) precio $46.696→$52.504 (+12,4%, drift real), rating sin cambio (4.6), reseñas 603→832. Atma GS2200PI (MLA19888818) precio sin cambio ($60.499), rating sin cambio (4.5), reseñas 5195→5543. Philips PerfectCare GC6842/30 (MLA23350594) precio sin cambio ($332.255), rating sin cambio (4.8), reseñas 551→2831 (salto grande, x5,1).
+
+**Hallazgo grande, igual al patrón de `batidora`: el salto de reseñas de un producto volvió falso un claim comparativo sobre OTRO producto.** La guía y la propia ficha del Atma afirmaban en 5 lugares distintos que tenía "más del triple de opiniones que cualquier otro modelo"/"que el resto" de la comparativa. Cuando se escribió la guía (sept. 2026), Atma (5195) vs. Philips (551) era 9,4x — "más del triple" era cierto por lejos. Con los números reales de hoy, Philips saltó a 2.831 reseñas, así que Atma (5543) vs. Philips (2831) es solo 1,96x: YA NO es "más del triple" contra TODOS los modelos. Corregido en los 5 lugares (callout, product-card/párrafo de la guía, verdict y articleBody de la ficha del Atma) a "muchas más opiniones". Se dejó intacta la ÚNICA mención de "más del triple" que compara específicamente contra "cualquier plancha TRADICIONAL" (FAQ de la guía, que excluye a la Philips por ser una estación, no una plancha tradicional): ahí sigue siendo matemáticamente cierto (5543 vs. 1639 de la Philco = 3,38x).
+
+**Hallazgo de stock:** al verificar en vivo, la publicación de la Philips mostraba "¡ÚLTIMA UNIDAD!". Se agregó esta aclaración honesta en 4 lugares (verdict, cons y FAQ nueva de la ficha, párrafo de la guía).
+
+**Gap de intención de búsqueda en GSC:** la query "mejores marcas de planchas de ropa argentina" y variantes suman ~47 impresiones con 0-1 clicks, posición 5-7, sin cobertura directa en la guía. Se agregó 1 FAQ nueva respondiendo con honestidad usando solo datos ya presentes en la guía, sin inventar un ranking de marcas.
+
+**Gap de enlazado hub-and-spoke:** `plancha-de-ropa` ya linkeaba a `aspiradora-de-mano` (misma silo hogar), pero esa guía no linkeaba de vuelta. Se agregó el link recíproco faltante (sin tocar su `updatedDate`, es solo enlazado).
+
+**Trío auditor (2 rondas de Codex, 2 de Gemini por un fallo silencioso en la primera corrida, hasta GO/GO):**
+- **Codex ronda 1: NO-GO, 1 bloqueante real** — la FAQ nueva de marca afirmaba que "Philips es la única marca internacional de esta guía", dato falso (Philco también es una marca de origen internacional, según su propia historia oficial). Corregido a "Philips tiene la calificación más alta y el formato de estación completa", quitando la afirmación de exclusividad sin sostén.
+- **Gemini/agy ronda 1: sin salida** (fallo silencioso, sin el error de permisos habitual); relanzada en ronda 2 junto con Codex, dio **GO limpio**.
+- **Mejoras opcionales aplicadas de paso:** con el nuevo precio de la Liliana (+73% sobre la Philco), 2 frases que describían esa diferencia como "por poco más de precio"/"precio moderadamente mayor" (en la ficha de la Philco y en 2 FAQ cruzadas) se corrigieron a "a un precio notablemente mayor", más acorde a la magnitud real.
+- **Codex ronda 2: GO limpio**, confirmando que no queda ninguna afirmación de exclusividad de marca sin sostén y que las 3 correcciones de magnitud de precio son coherentes.
+
+**Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (sin deuda nueva), `npm run build` OK (exit 0, sin necesidad de reintento). Deploy de Vercel a READY (commit `0a1be71`). IndexNow enviado (5 URLs: la guía + las 4 fichas de producto, cada una por separado ya que sus slugs no comparten el substring "plancha-de-ropa").
+
+Re-medir: ~2026-12-10 (4 semanas).
