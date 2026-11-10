@@ -3724,3 +3724,30 @@ Origen: siguiente guía de la cola de "nunca tocadas desde su publicación". Dia
 **Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (ratchet de reseñas hardcodeadas bajó de 879 a 859 por la tokenización completa), `npm run build` OK (exit 0) en todas las corridas posteriores a cada ronda de correcciones. Deploy de Vercel a READY, IndexNow enviado para la guía.
 
 Re-medir: ~2026-12-10 (4 semanas).
+
+## `camara-de-seguridad` — siguiente de la cola de guías vencidas, primera pasada desde publicación (2026-07-12) — 2026-11-10
+
+Origen: siguiente guía de la cola de "nunca tocadas desde su publicación". Bug encontrado de entrada: el campo `updatedDate` decía "2026-07-06", ANTES del `publishedDate` ("2026-07-12") — nunca se había tocado en serio pese a la fecha.
+
+**Hallazgo grande:** la guía predataba el sistema de tokens del sitio (`{{precio:ID}}`/`{{reviews:ID}}`/`{{rating:ID}}`). Tenía TODOS los precios, ratings y conteos de reseñas de la narrativa hardcodeados con valores de julio 2026, mientras los campos de datos de las 6 fichas (`price`/`rating`/`reviewCount`) se habían ido actualizando solos vía los scripts automáticos de Bright Data. Resultado: desfasajes grandes entre el texto y la realidad verificada en vivo (Chrome real):
+
+- Gadnic SX39: guía decía "~$42.000", real $75.999 (+81%).
+- Geotek doble lente: guía decía "~$53.000", real $64.659 (+22%). También decía "más de 10.000 calificaciones" cuando el real es 7.945 (nunca llegó a esa cifra).
+- Ezviz H1C: guía decía "~$39.000", real $47.288 (+21%).
+- Ezviz TY1: guía decía "~$42.000", real $50.999 (+21%).
+- Kit 3 Geotek: guía decía "~$110.000", real $156.450 (+42%). Su propia ficha además tenía una inconsistencia interna preexistente: la narrativa decía "más de 6.200 calificaciones con 4.8 de promedio" mientras el campo `reviewCount` de la misma ficha decía 10.663 y `rating` decía 4.7.
+
+**Dos bugs preexistentes no relacionados al refresh, encontrados de paso:**
+- La ficha de Ezviz H1C tenía `rating: 4.9` en el campo de datos, mientras su propio `pros`/`verdict` ya decían "4.8 de promedio" (contradicción interna). Verificado en vivo: el real es 4.8. Se corrigió el campo.
+- La ficha de TP-Link Tapo C210 declaraba `originalPrice: 80000` sin relación con el 17% OFF real visto en vivo (precio $52.699 implica original ~$63.899, no $80.000). Corregido.
+
+**Qué se hizo:** se tokenizaron todos los precios/ratings/reviews de la narrativa (antes solo la tabla y la lista de precios usaban tokens), se reescribió y reordenó la lista de precios a orden ascendente real (antes agrupaba por "gama" de forma que no respetaba el precio real: Ezviz H1C → Ezviz TY1 → Tapo C210 → Geotek doble lente → Gadnic SX39 → Kit 3 Geotek), y se actualizaron los 6 campos de `price`/`rating`/`reviewCount` a los valores reales de hoy. El ranking 1-6 de la guía (por caso de uso: todoterreno, exterior, mejor calificada, económica, kit, detección humana) se dejó sin reordenar — no sigue la metodología de "por volumen de reseñas" de otras guías de este sitio, sino por caso de uso, y eso sigue siendo coherente (confirmado por Gemini en la auditoría: forzar el orden por reseñas pondría al kit de 3 por encima de cámaras individuales, distorsionando la recomendación).
+
+**Trío auditor (1 ronda de Codex con 1 bloqueante real, 1 de Gemini, hasta GO/GO):**
+- **Codex: NO-GO en la primera pasada** — un párrafo de la ficha de Geotek doble lente recomendaba "opciones más chicas y baratas, como la Ezviz H1C o la Gadnic SX39" para quien buscaba algo simple de interior, pero la Gadnic SX39 ($75.999) es más cara que la propia Geotek ($64.659): la comparación quedó invertida al actualizar los precios. Corregido reemplazando la mención por la Ezviz TY1 (también interior, también más barata). Mejoras opcionales aplicadas de paso: se tokenizó un rating hardcodeado que quedaba en la ficha de Ezviz TY1, y se sacó un guion largo (—) de una spec de la Tapo C210.
+- **Gemini/agy: GO limpio** en su única pasada, confirmando que el reordenamiento ascendente de precios se lee bien y que el ranking por caso de uso sigue siendo correcto.
+- Hallazgo no aplicado (mejora opcional, fuera de alcance): Gemini notó que el `affiliateUrl` propio de la ficha de la Tapo C210 (`meli.la/163zVTJ`) usa un código de tracking distinto al que usan todas las menciones en prosa de esta guía y de `kit-camaras-seguridad` (`meli.la/2XP2zp1`). No se tocó por no tener certeza de cuál es el link de atribución correcto vigente hoy; queda pendiente de verificar en una sesión futura antes de unificarlo.
+
+**Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (ratchet de precios en prosa sin cobertura bajó de 142 a 138), `npm run build` OK (exit 0). Deploy de Vercel a READY, IndexNow enviado (10 URLs: la guía + las 6 fichas de producto + guías relacionadas del sitemap).
+
+Re-medir: ~2026-12-10 (4 semanas). Pendiente para otra sesión: verificar cuál código de tracking de `meli.la` es el correcto para la Tapo C210 y unificarlo entre la ficha y la prosa.
