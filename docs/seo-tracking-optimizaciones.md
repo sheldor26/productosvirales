@@ -3838,3 +3838,25 @@ Origen: siguiente guía de la cola "nunca tocada" con buena señal de GSC (3.097
 **Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (sin deuda nueva), `npm run build` OK (exit 0, sin necesidad de reintento). Deploy de Vercel a READY (commit `0a1be71`). IndexNow enviado (5 URLs: la guía + las 4 fichas de producto, cada una por separado ya que sus slugs no comparten el substring "plancha-de-ropa").
 
 Re-medir: ~2026-12-10 (4 semanas).
+
+## `lavavajillas` — séptima de la cola de guías vencidas, primera pasada desde publicación (2026-09-08) — 2026-11-10
+
+Origen: siguiente guía de la cola "nunca tocada" con buena señal de GSC (2.130 impresiones/28 días, 54 clicks, posición 5,26, CTR 2,54%).
+
+**Verificación en vivo (Chrome real, 4 productos):** Philco PHLJ05 (MLA45721602) precio sin cambio real ($449.349), rating sin cambio (4.7), reseñas 1137→1268. Drean LVDR1506CI0 (MLA47234972) precio $1.099.999→$1.084.999 (-1,4%), rating sin cambio (4.8), reseñas 192→226. Candy CF6C4F1PW (MLA43082935) precio $931.498→$916.899 (-1,6%), **rating 4.8→4.7** (bajó), reseñas 106→193. Whirlpool WLV14SY (MLA24527949) precio sin cambio ($1.879.999), rating sin cambio (4.8), reseñas 237→578 (salto grande, x2,4).
+
+**Hallazgo que la actualización de datos volvió falso:** la propia ficha del Drean afirmaba en `pros` "la nota más alta de esta comparativa junto a la Candy y la Whirlpool" — un triple empate en rating (los 3 a 4.8 cuando se escribió la ficha). Con el rating real de hoy, la Candy bajó a 4.7, así que el empate ya solo es entre Drean y Whirlpool (ambos 4.8). Corregido quitando a la Candy de la afirmación.
+
+**Gap de intención de búsqueda, el más grande visto en esta cola:** la query principal de la guía, "cuál es el mejor lavavajillas en argentina", tiene 108 impresiones y **0 clicks** en posición 5,8 — la señal más fuerte de "¿esto es un AI Overview citando a otro sitio, o un problema de contenido?" de las 7 guías de esta sesión (diagnóstico informativo, sin verificación manual de SERP en esta pasada). El cluster completo de queries "marca" (9 variantes, ~108 impresiones sumadas, mayormente 0 clicks) tampoco tenía respuesta directa. Se agregó 1 FAQ nueva respondiendo con honestidad usando solo datos ya presentes en la guía, sin inventar un ranking de marcas.
+
+**Gap de enlazado hub-and-spoke:** de las 4 guías hermanas del silo cocina a las que `lavavajillas` ya linkeaba (`batidora`, `sandwichera`, `sarten-antiadherente`, `exprimidor`), solo `sarten-antiadherente` linkeaba de vuelta. Se agregaron los 3 links recíprocos faltantes.
+
+**Trío auditor (2 rondas de Codex, 1 de Gemini por 2 fallos silenciosos en rondas previas, hasta GO/GO):**
+- **Codex ronda 1: NO-GO, 1 bloqueante real** — la FAQ nueva de marca afirmaba que Whirlpool era "el modelo más silencioso de esta guía", un dato que excede lo verificable: 2 de las 4 fichas (Drean y Candy) no publican su nivel de ruido, así que no se puede afirmar que Whirlpool sea el más silencioso de las 4 (solo que es más silencioso que el Philco, el único otro que sí lo declara). Corregido acotando la comparación a los 2 modelos que sí publican el dato.
+- **Gemini/agy: sin salida en 2 intentos** (fallo silencioso, sin el error de permisos habitual); en la ronda 2 finalmente respondió con **GO limpio**, confirmando la coherencia de las 4 fichas y que la FAQ de marca se lee natural.
+- **Mejora opcional aplicada de paso:** "Philco... la más elegida" (el conteo de reseñas no demuestra ventas) corregido a "la que reúne más calificaciones".
+- **Codex ronda 2: GO limpio**, confirmando que la comparación de ruido quedó bien acotada y que la ficha de Philco ya no usa un superlativo de ventas sin sostén.
+
+**Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (sin deuda nueva), `npm run build` OK (exit 0, sin necesidad de reintento). Deploy de Vercel a READY (commit `dfc6e06`). IndexNow enviado (6 URLs: la guía + las 4 fichas de producto, cubiertas por el match "lavavajillas" ya que sus slugs comparten ese substring).
+
+Re-medir: ~2026-12-10 (4 semanas).
