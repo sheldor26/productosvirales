@@ -85424,7 +85424,7 @@ Comprala si priorizás la mayor potencia y velocidad de esta comparativa y no te
     id: "MLA45125910",
     title: "Casco Bicicleta Dakota Regulable Liviano Con Visera Color Amarillo Talle L",
     canonicalName: "Casco Dakota Regulable con Visera",
-    price: 22772,
+    price: 30429,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_925226-MLA91141039893_082025-O.webp",
     images: [
@@ -85437,7 +85437,7 @@ Comprala si priorizás la mayor potencia y velocidad de esta comparativa y no te
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 3318,
+    reviewCount: 3322,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
@@ -85453,16 +85453,17 @@ Comprala si priorizás la mayor potencia y velocidad de esta comparativa y no te
       { label: "Bandas reflectivas", value: "No" },
     ],
     relatedProducts: ["MLA53403344", "MLA27816766", "MLA19906148"],
-    priceUpdated: "2026-11-06",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-08-06",
-    description: "Casco Dakota Regulable: el más elegido de esta comparativa, con {{reviews:MLA45125910}} calificaciones reales y 4.8 estrellas. Liviano (300 g), visera extraíble, uso general/urbano.",
+    description: "Casco Dakota Regulable: el más elegido de esta comparativa, con {{reviews:MLA45125910}} calificaciones reales y {{rating:MLA45125910}} estrellas. Liviano (300 g), visera extraíble, uso general/urbano.",
     seoTitle: "Casco Dakota: el casco de bicicleta con más reseñas reales",
-    metaDescription: "Casco de bicicleta Dakota Regulable: {{reviews:MLA45125910}} calificaciones, 4.8 estrellas, visera extraíble, 300 g. Precio real y contras honestas antes de comprar.",
-    verdict: "El casco Dakota Regulable es el más elegido de esta comparativa: {{reviews:MLA45125910}} calificaciones reales con 4.8 estrellas, la mayor base de reseñas por lejos. Liviano (300 g), con visera extraíble y correas ajustables, pensado para uso general/urbano. La contra real: la ficha técnica no declara ninguna certificación de seguridad (CE/CPSC).",
+    metaDescription: "Casco de bicicleta Dakota Regulable: {{reviews:MLA45125910}} calificaciones, {{rating:MLA45125910}} estrellas, visera extraíble, 300 g. Precio real y contras honestas antes de comprar.",
+    verdict: "El casco Dakota Regulable es el más elegido de esta comparativa: {{reviews:MLA45125910}} calificaciones reales con {{rating:MLA45125910}} estrellas, la mayor base de reseñas por lejos. También es el más barato de los cuatro. Liviano (300 g), con visera extraíble y correas ajustables, pensado para uso general/urbano. La contra real: la ficha técnica no declara ninguna certificación de seguridad (CE/CPSC).",
     pros: [
       "El más elegido de esta comparativa: {{reviews:MLA45125910}} calificaciones reales, la mayor base de reseñas por lejos",
+      "También el más barato de los cuatro",
       "Liviano: 300 g",
       "Visera extraíble y correas ajustables para distintos tamaños de cabeza",
       "Vendido por tienda oficial Dakota con más de 250 mil ventas históricas",
@@ -85478,7 +85479,7 @@ El casco Dakota Regulable es un casco de bicicleta liviano (300 g) con visera ex
 
 ## Lo bueno
 
-Es el más elegido de esta comparativa por lejos: {{reviews:MLA45125910}} calificaciones reales con 4.8 estrellas, vendido por la tienda oficial Dakota con más de 250 mil ventas históricas. Un comprador real lo describe: "los materiales son muy livianos... no importa qué tan grande sea tu cráneo podés regularlo". Otro lo elige específicamente por ser "una opción económica comparado con otro que vi que sale x10 veces más".
+Es el más elegido de esta comparativa por lejos: {{reviews:MLA45125910}} calificaciones reales con {{rating:MLA45125910}} estrellas, y también el más barato de los cuatro. Vendido por la tienda oficial Dakota con más de 250 mil ventas históricas. Un comprador real lo describe: "los materiales son muy livianos... no importa qué tan grande sea tu cráneo podés regularlo". Otro lo elige específicamente por ser "una opción económica comparado con otro que vi que sale x10 veces más".
 
 ## La contra real
 
@@ -85488,7 +85489,7 @@ La ficha técnica no declara ninguna certificación de seguridad (CE/CPSC), a di
 
 Comprala si buscás la opción con más respaldo de reseñas reales de esta comparativa, para uso general urbano o de paseo. Si hacés MTB o ruta de forma más seria y priorizás tecnología de protección específica, el Abus Viantor Mips de esta comparativa está mejor equipado (a un precio bastante más alto).`,
     faq: [
-      { question: "¿Es el casco de bicicleta más elegido?", answer: "Sí, tiene la mayor base de reseñas reales de esta comparativa: {{reviews:MLA45125910}} calificaciones con 4.8 estrellas." },
+      { question: "¿Es el casco de bicicleta más elegido?", answer: "Sí, tiene la mayor base de reseñas reales de esta comparativa: {{reviews:MLA45125910}} calificaciones con {{rating:MLA45125910}} estrellas. También es el más barato de los cuatro." },
       { question: "¿Tiene certificación de seguridad?", answer: "La ficha técnica de MercadoLibre no declara ninguna certificación (CE/CPSC). No es necesariamente que no la tenga, pero no está confirmado en la publicación." },
       { question: "¿Cuánto pesa?", answer: "300 g según la ficha técnica." },
       { question: "¿La visera se puede sacar?", answer: "Sí, es extraíble según la ficha técnica." },
@@ -85498,7 +85499,7 @@ Comprala si buscás la opción con más respaldo de reseñas reales de esta comp
     id: "MLA53403344",
     title: "Casco Bicicleta Con Visera C/ Regulación Ventilaciones Color Negro/Rojo Talle 57-62",
     canonicalName: "Casco Smart-línea Deportivo con Ventilaciones",
-    price: 27264,
+    price: 39999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_759668-MLA89357182909_082025-O.webp",
     images: [
@@ -85511,7 +85512,7 @@ Comprala si buscás la opción con más respaldo de reseñas reales de esta comp
     condition: "new",
     freeShipping: true,
     rating: 4.6,
-    reviewCount: 2547,
+    reviewCount: 2549,
     pastelColor: "var(--pastel-amber)",
     visibility: "normal",
     specs: [
@@ -85527,17 +85528,17 @@ Comprala si buscás la opción con más respaldo de reseñas reales de esta comp
       { label: "Bandas reflectivas", value: "No" },
     ],
     relatedProducts: ["MLA45125910", "MLA27816766", "MLA19906148"],
-    priceUpdated: "2026-11-04",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-08-06",
     description: "Casco Smart-línea deportivo: el segundo más barato de esta comparativa, con {{reviews:MLA53403344}} reseñas reales y una historia real de un accidente donde cumplió su función. Uso deportivo, correas ajustables.",
     seoTitle: "Casco deportivo económico para bicicleta y MTB",
-    metaDescription: "Casco de bicicleta deportivo económico: {{reviews:MLA53403344}} calificaciones, 4.6 estrellas, uso MTB/deportivo. Precio real y contras honestas antes de comprar.",
-    verdict: "Este casco deportivo es el segundo más barato de esta comparativa, con {{reviews:MLA53403344}} calificaciones reales y 4.6 estrellas. Al menos un comprador real lo acredita con una caída real donde el casco cumplió su función. La contra real: el campo \"Modelo\" de la ficha trae un dato que parece mal cargado (\"16 a 25 Ventilaciones\" en vez de un código), y el telgopor se deforma con presión fuerte según otra reseña real.",
+    metaDescription: "Casco de bicicleta deportivo económico: {{reviews:MLA53403344}} calificaciones, {{rating:MLA53403344}} estrellas, uso MTB/deportivo. Precio real y contras honestas antes de comprar.",
+    verdict: "Este casco deportivo es el segundo más barato de esta comparativa, con {{reviews:MLA53403344}} calificaciones reales y {{rating:MLA53403344}} estrellas. Al menos un comprador real lo acredita con una caída real donde el casco cumplió su función. La contra real: el campo \"Modelo\" de la ficha trae un dato que parece mal cargado (\"16 a 25 Ventilaciones\" en vez de un código), y el telgopor se deforma con presión fuerte según otra reseña real.",
     pros: [
       "Segundo más barato de esta comparativa",
-      "{{reviews:MLA53403344}} calificaciones reales con 4.6 estrellas",
+      "{{reviews:MLA53403344}} calificaciones reales con {{rating:MLA53403344}} estrellas",
       "Reseña real de un comprador que sufrió una caída y el casco cumplió su función",
       "Correas ajustables y visera extraíble",
     ],
@@ -85552,7 +85553,7 @@ Este casco deportivo con ventilaciones y visera extraíble es una opción econó
 
 ## Lo bueno
 
-Es el segundo más barato de esta comparativa, con {{reviews:MLA53403344}} calificaciones reales y 4.6 estrellas. Tiene una reseña real de peso: un comprador cuenta que se cayó de la bicicleta ("se me salió la cadena") y el casco le protegió la cabeza en el golpe, aunque se rompió el codo y la muñeca. Otro comprador lo describe como "el casco estándar de calidad media a un precio de remate".
+Es el segundo más barato de esta comparativa, con {{reviews:MLA53403344}} calificaciones reales y {{rating:MLA53403344}} estrellas. Tiene una reseña real de peso: un comprador cuenta que se cayó de la bicicleta ("se me salió la cadena") y el casco le protegió la cabeza en el golpe, aunque se rompió el codo y la muñeca. Otro comprador lo describe como "el casco estándar de calidad media a un precio de remate".
 
 ## La contra real
 
@@ -85560,9 +85561,9 @@ La ficha técnica declara el campo "Modelo" como "16 a 25 Ventilaciones", un dat
 
 ## Para quién sí y para quién no
 
-Comprala si buscás una opción económica para uso deportivo/MTB con buen respaldo de reseñas (el SLP WT-032 de esta comparativa es todavía más barato). Si preferís un casco con marca internacional y MIPS mencionado en el título, el Abus Viantor Mips de esta comparativa cumple mejor esa función, a un precio bastante más alto.`,
+Comprala si buscás una opción económica para uso deportivo/MTB con buen respaldo de reseñas (solo el Dakota Regulable de esta comparativa cuesta menos). Si preferís un casco con marca internacional y MIPS mencionado en el título, el Abus Viantor Mips de esta comparativa cumple mejor esa función, a un precio bastante más alto.`,
     faq: [
-      { question: "¿Es el casco más barato de esta comparativa?", answer: "Es el segundo más barato; el SLP WT-032 de esta comparativa cuesta un poco menos." },
+      { question: "¿Es el casco más barato de esta comparativa?", answer: "Es el segundo más barato; solo el Dakota Regulable de esta comparativa cuesta menos." },
       { question: "¿Sirve para MTB?", answer: "Sí, la ficha técnica lo declara para uso deportivo." },
       { question: "¿Tiene certificación de seguridad declarada?", answer: "No, la ficha técnica de MercadoLibre no declara ninguna certificación (CE/CPSC)." },
       { question: "¿Cuánto pesa?", answer: "270 g según la ficha técnica." },
@@ -85572,7 +85573,7 @@ Comprala si buscás una opción económica para uso deportivo/MTB con buen respa
     id: "MLA27816766",
     title: "Casco Abus Viantor Mips Para Ciclismo Negro S",
     canonicalName: "Casco Abus Viantor Mips",
-    price: 100949,
+    price: 179464,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_971595-MLU72302174358_102023-O.webp",
     images: [
@@ -85600,14 +85601,14 @@ Comprala si buscás una opción económica para uso deportivo/MTB con buen respa
       { label: "Bandas reflectivas", value: "Sí" },
     ],
     relatedProducts: ["MLA45125910", "MLA53403344", "MLA19906148"],
-    priceUpdated: "2026-11-04",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-08-06",
     description: "Casco Abus Viantor Mips: la única marca internacional de esta comparativa, con tecnología MIPS mencionada en el título del producto. La más cara por lejos, con solo {{reviews:MLA27816766}} calificaciones todavía.",
     seoTitle: "Casco Abus Viantor Mips: premium, con MIPS según la ficha",
     metaDescription: "Casco de bicicleta Abus Viantor Mips: marca internacional, MIPS mencionado en el título, policarbonato. Precio real y contras honestas antes de comprar.",
-    verdict: "El casco Abus Viantor Mips es la única marca internacional reconocida de ciclismo de esta comparativa (Abus, Alemania), con tecnología MIPS mencionada en el título del producto. Es, por lejos, el más caro de esta guía (más de 4 veces el precio de las demás opciones). La contra real: solo tiene {{reviews:MLA27816766}} calificaciones todavía, y la ficha declara un dato de circunferencia de cabeza implausible (129,54 cm) que no confirmamos.",
+    verdict: "El casco Abus Viantor Mips es la única marca internacional reconocida de ciclismo de esta comparativa (Abus, Alemania), con tecnología MIPS mencionada en el título del producto. Es, por lejos, el más caro de esta guía: más del triple del precio de cualquiera de las otras tres opciones. La contra real: solo tiene {{reviews:MLA27816766}} calificaciones todavía, y la ficha declara un dato de circunferencia de cabeza implausible (129,54 cm) que no confirmamos.",
     pros: [
       "Única marca internacional reconocida de ciclismo de esta comparativa (Abus, Alemania)",
       "Tecnología MIPS mencionada en el título del producto, un plus de protección frente a impactos rotacionales",
@@ -85615,7 +85616,7 @@ Comprala si buscás una opción económica para uso deportivo/MTB con buen respa
       "Material policarbonato, más resistente que el PVC/poliestireno del resto de la guía",
     ],
     cons: [
-      "Por lejos el más caro de esta comparativa: más de 4 veces el precio de las demás opciones",
+      "Por lejos el más caro de esta comparativa: más del triple del precio de cualquiera de las otras tres opciones",
       "Solo {{reviews:MLA27816766}} calificaciones todavía, la base de reseñas más chica de esta guía",
       "La ficha técnica declara \"Tamaño de circunferencia de la cabeza: 129,54 cm\", un dato físicamente implausible que no pudimos confirmar",
       "Visera no extraíble, a diferencia del resto de las opciones de esta comparativa",
@@ -85631,15 +85632,15 @@ Es la única marca internacional reconocida de ciclismo de esta comparativa. Un 
 
 ## La contra real
 
-Es, por lejos, el más caro de esta comparativa: más de 4 veces el precio de cualquiera de las otras 3 opciones. Solo tiene {{reviews:MLA27816766}} calificaciones todavía, así que su 4.8 estrellas tiene poco respaldo estadístico. La ficha técnica declara un dato implausible: "Tamaño de circunferencia de la cabeza: 129,54 cm" (ninguna cabeza humana mide eso), que marcamos como no confirmado. La tecnología MIPS aparece en el título de la publicación pero no como un atributo separado en la ficha técnica.
+Es, por lejos, el más caro de esta comparativa: más del triple del precio de cualquiera de las otras 3 opciones. Solo tiene {{reviews:MLA27816766}} calificaciones todavía, así que sus {{rating:MLA27816766}} estrellas tienen poco respaldo estadístico. La ficha técnica declara un dato implausible: "Tamaño de circunferencia de la cabeza: 129,54 cm" (ninguna cabeza humana mide eso), que marcamos como no confirmado. La tecnología MIPS aparece en el título de la publicación pero no como un atributo separado en la ficha técnica.
 
 ## Para quién sí y para quién no
 
-Comprala si priorizás marca internacional reconocida y el plus de MIPS (mencionado en el título) por sobre el precio. Si buscás la opción con más respaldo de reseñas reales de esta comparativa, el Dakota Regulable tiene 200 veces más calificaciones.`,
+Comprala si priorizás marca internacional reconocida y el plus de MIPS (mencionado en el título) por sobre el precio. Si buscás la opción con más respaldo de reseñas reales de esta comparativa, el Dakota Regulable tiene más de 160 veces más calificaciones.`,
     faq: [
       { question: "¿El Abus Viantor tiene tecnología MIPS?", answer: "Se menciona en el título del producto, pero no aparece como un atributo separado y confirmado en la ficha técnica de MercadoLibre." },
       { question: "¿Por qué es tan caro comparado con los demás?", answer: "Es de una marca internacional reconocida de ciclismo (Abus, Alemania), a diferencia de las otras 3 opciones de esta comparativa. Ese factor de marca y la mención de MIPS en el título explican gran parte de la diferencia de precio." },
-      { question: "¿Cuántas reseñas tiene?", answer: "Solo {{reviews:MLA27816766}} calificaciones todavía, la base de reseñas más chica de esta comparativa, aunque con 4.8 estrellas." },
+      { question: "¿Cuántas reseñas tiene?", answer: "Solo {{reviews:MLA27816766}} calificaciones todavía, la base de reseñas más chica de esta comparativa, aunque con {{rating:MLA27816766}} estrellas." },
       { question: "¿La visera se puede sacar?", answer: "No, según la ficha técnica no es extraíble, a diferencia del resto de las opciones de esta comparativa." },
       { question: "¿Tiene certificación de seguridad declarada?", answer: "No, la ficha técnica de MercadoLibre no declara ninguna certificación (CE/CPSC), igual que el resto de los cascos de esta comparativa." },
     ],
@@ -85648,7 +85649,7 @@ Comprala si priorizás marca internacional reconocida y el plus de MIPS (mencion
     id: "MLA19906148",
     title: "Casco Slp Bicicleta Ciclismo Mtb 13 Vent C/Regulador Color Negro/Amarillo Talle M/L",
     canonicalName: "Casco SLP WT-032 MTB",
-    price: 27073,
+    price: 45999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_709519-MLA109736954429_032026-O.webp",
     images: [
@@ -85661,7 +85662,7 @@ Comprala si priorizás marca internacional reconocida y el plus de MIPS (mencion
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 3013,
+    reviewCount: 3015,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
@@ -85677,21 +85678,22 @@ Comprala si priorizás marca internacional reconocida y el plus de MIPS (mencion
       { label: "Usos recomendados", value: "Ciclismo" },
     ],
     relatedProducts: ["MLA45125910", "MLA53403344", "MLA27816766"],
-    priceUpdated: "2026-11-04",
-    priceLastChecked: "2026-11-09",
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-08-06",
-    description: "Casco SLP WT-032: el más barato de esta comparativa, con {{reviews:MLA19906148}} reseñas reales. Diseño MTB específico, 13 ventilaciones, el más liviano de esta guía (230 g).",
-    seoTitle: "Casco SLP WT-032: el casco de bicicleta MTB más barato",
-    metaDescription: "Casco de bicicleta SLP WT-032: el más barato de la comparativa, diseño MTB, 230 g, 13 ventilaciones. Precio real y contras honestas.",
-    verdict: "El casco SLP WT-032 es el más barato de esta comparativa, con {{reviews:MLA19906148}} calificaciones reales y 4.7 estrellas. Diseño MTB específico con 13 ventilaciones, y el más liviano de esta guía (230 g). La contra real: la ficha declara el material como \"Plástico\" genérico, sin especificar si es poliestireno o policarbonato como las demás opciones.",
+    description: "Casco SLP WT-032: diseño MTB específico y el más liviano de esta guía (230 g), con {{reviews:MLA19906148}} reseñas reales. 13 ventilaciones.",
+    seoTitle: "Casco SLP WT-032: diseño MTB y el más liviano",
+    metaDescription: "Casco de bicicleta SLP WT-032: diseño MTB, el más liviano (230 g), 13 ventilaciones. Precio real y contras honestas.",
+    verdict: "El casco SLP WT-032 tiene diseño MTB específico con 13 ventilaciones, y es el más liviano de esta guía (230 g), con {{reviews:MLA19906148}} calificaciones reales y {{rating:MLA19906148}} estrellas. Ya no es el más barato de la comparativa: hoy el Dakota Regulable cuesta menos. La contra real: la ficha declara el material como \"Plástico\" genérico, sin especificar si es poliestireno o policarbonato como las demás opciones.",
     pros: [
-      "El más barato de esta comparativa",
-      "{{reviews:MLA19906148}} calificaciones reales con 4.7 estrellas",
-      "El más liviano de esta guía: 230 g",
       "Diseño MTB específico con 13 ventilaciones",
+      "El más liviano de esta guía: 230 g",
+      "{{reviews:MLA19906148}} calificaciones reales con {{rating:MLA19906148}} estrellas, un respaldo casi tan grande como el del Dakota",
+      "Cuesta una fracción del precio del Abus Viantor Mips",
     ],
     cons: [
+      "Ya no es el más barato de la comparativa: el Dakota Regulable cuesta menos",
       "El material declarado en la ficha es \"Plástico\" genérico, sin especificar si es poliestireno o policarbonato",
       "No declara certificación de seguridad en la ficha técnica",
       "Sin bandas reflectivas, a diferencia del Abus Viantor Mips de esta comparativa",
@@ -85702,17 +85704,17 @@ El casco SLP WT-032 es un casco de bicicleta con diseño MTB específico, 13 ven
 
 ## Lo bueno
 
-Es el más barato de esta comparativa, con {{reviews:MLA19906148}} calificaciones reales y 4.7 estrellas, un respaldo de reseñas grande pese al precio bajo. Un comprador real lo resume bien: "Por el precio es excelente. No es el mejor casco pero es el casco estándar de calidad media a un precio de remate. Para la calle...". Es también el más liviano de esta guía, con 230 g.
+Es el más liviano de esta comparativa (230 g) y tiene diseño MTB específico, con {{reviews:MLA19906148}} calificaciones reales y {{rating:MLA19906148}} estrellas, un respaldo de reseñas grande. Un comprador real lo resume bien: "Por el precio es excelente. No es el mejor casco pero es el casco estándar de calidad media a un precio de remate. Para la calle...".
 
 ## La contra real
 
-La ficha técnica declara el material como "Plástico" de forma genérica, sin especificar si la carcasa exterior es de poliestireno expandido o policarbonato como las demás opciones de esta comparativa. No declara certificación de seguridad, y no trae bandas reflectivas.
+Ya no es el más barato de esta comparativa: el Dakota Regulable cuesta menos hoy. La ficha técnica además declara el material como "Plástico" de forma genérica, sin especificar si la carcasa exterior es de poliestireno expandido o policarbonato como las demás opciones de esta comparativa. No declara certificación de seguridad, y no trae bandas reflectivas.
 
 ## Para quién sí y para quién no
 
-Comprala si buscás la opción más económica con diseño MTB específico y buen respaldo de reseñas. Si priorizás el mayor volumen de reseñas posible, el Dakota Regulable de esta comparativa tiene algo más de respaldo (2.919 contra 2.588).`,
+Comprala si buscás diseño MTB específico y el casco más liviano de la comparativa, con buen respaldo de reseñas. Si priorizás el mayor volumen de reseñas posible, el Dakota Regulable tiene algo más de respaldo ({{reviews:MLA45125910}} contra {{reviews:MLA19906148}}).`,
     faq: [
-      { question: "¿Es el casco de bicicleta más barato de esta comparativa?", answer: "Sí, es el más barato de las 4 opciones de esta guía." },
+      { question: "¿Es el casco de bicicleta más barato de esta comparativa?", answer: "No: hoy el Dakota Regulable es el más barato de las 4 opciones de esta guía. El SLP es el más liviano (230 g) y tiene diseño MTB específico." },
       { question: "¿Sirve para MTB?", answer: "Sí, tiene diseño y ventilación pensados específicamente para MTB según la ficha técnica." },
       { question: "¿Cuánto pesa?", answer: "230 g según la ficha técnica, el más liviano de esta comparativa." },
       { question: "¿De qué material es la carcasa?", answer: "La ficha técnica lo declara como \"Plástico\" de forma genérica, sin especificar si es poliestireno expandido o policarbonato." },
