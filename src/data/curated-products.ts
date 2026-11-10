@@ -104009,15 +104009,15 @@ Para quien quiere hacer jugos de fruta y verdura variados, no solo de cítricos,
     id: "MLA45721602",
     title: "Lavavajillas Philco 5 Cubiertos Phlj05 Sobremesada Blanco",
     canonicalName: "Philco PHLJ05", mpn: "PHLJ05N", brand: "Philco",
-    price: 449999, currency: "ARS",
+    price: 449349, currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_989199-MLA99526815818_122025-O.webp",
     images: ["https://http2.mlstatic.com/D_NQ_NP_989199-MLA99526815818_122025-O.webp"],
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/lavavajillas-philco-5-cubiertos-phlj05-sobremesada-blanco/p/MLA45721602",
     affiliateUrl: "https://meli.la/2gSwdJz",
-    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 1137,
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 1268,
     pastelColor: "var(--pastel-blue)",
-    priceUpdated: "2026-11-04", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    priceUpdated: "2026-11-10", priceLastChecked: "2026-11-10", priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     specs: [
       { label: "Marca", value: "Philco" },
       { label: "Modelo", value: "PHLJ05N" },
@@ -104039,7 +104039,7 @@ Para quien quiere hacer jugos de fruta y verdura variados, no solo de cítricos,
     ogTitle: "Philco PHLJ05: lavavajillas compacto de mesa, el más barato",
     ogDescription: "5 cubiertos, pantalla táctil, A+ de eficiencia. El más elegido de esta comparativa, con un aviso honesto sobre cómo conectarlo al agua.",
     h1: "Philco PHLJ05: lavavajillas compacto de mesa, el más barato de esta comparativa",
-    verdict: "El lavavajillas más barato de esta comparativa y el más elegido: {{reviews:MLA45721602}} calificaciones a 4.7 estrellas, la base de opiniones más grande de las cuatro. Es de mesa (sobremesada), para 5 cubiertos, ideal para departamentos chicos. El aviso honesto: viene con un balde para cargar agua a mano, que varios compradores reemplazan conectándolo directo a la cañería del lavarropas para mayor comodidad.",
+    verdict: "El lavavajillas más barato de esta comparativa y el más elegido: {{reviews:MLA45721602}} calificaciones a {{rating:MLA45721602}} estrellas, la base de opiniones más grande de las cuatro. Es de mesa (sobremesada), para 5 cubiertos, ideal para departamentos chicos. El aviso honesto: viene con un balde para cargar agua a mano, que varios compradores reemplazan conectándolo directo a la cañería del lavarropas para mayor comodidad.",
     pros: [
       "El más barato de esta comparativa",
       "{{reviews:MLA45721602}} calificaciones, la base de opiniones más grande de las cuatro",
@@ -104053,7 +104053,7 @@ Para quien quiere hacer jugos de fruta y verdura variados, no solo de cítricos,
     ],
     articleBody: `## El más barato y más elegido de esta comparativa
 
-El Philco PHLJ05 es un lavavajillas de mesa (sobremesada) para 5 cubiertos, a {{precio:MLA45721602}}. Es el más barato de esta comparativa y también el más elegido: {{reviews:MLA45721602}} calificaciones a 4.7 estrellas, la base de opiniones más grande de las cuatro.
+El Philco PHLJ05 es un lavavajillas de mesa (sobremesada) para 5 cubiertos, a {{precio:MLA45721602}}. Es el más barato de esta comparativa y también el más elegido: {{reviews:MLA45721602}} calificaciones a {{rating:MLA45721602}} estrellas, la base de opiniones más grande de las cuatro.
 
 ## Lo que dicen los compradores reales
 
@@ -104075,15 +104075,15 @@ Para deptos y cocinas chicas, 1 a 2 personas, sin espacio ni presupuesto para un
     id: "MLA47234972",
     title: "Lavavajillas 15 Cubiertos Inoxidable Drean Lvdr1506ci0 Gris",
     canonicalName: "Drean LVDR1506CI0", mpn: "LVDR1506CI", brand: "Drean",
-    price: 1099999, currency: "ARS",
+    price: 1084999, currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_880310-MLA105823317329_012026-O.webp",
     images: ["https://http2.mlstatic.com/D_NQ_NP_880310-MLA105823317329_012026-O.webp"],
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/lavavajillas-15-cubiertos-inoxidable-drean-lvdr1506ci0-gris/p/MLA47234972",
     affiliateUrl: "https://meli.la/2dtrJBs",
-    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 192,
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 226,
     pastelColor: "var(--pastel-coral)",
-    priceUpdated: "2026-11-04", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    priceUpdated: "2026-11-10", priceLastChecked: "2026-11-10", priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     specs: [
       { label: "Marca", value: "Drean" },
       { label: "Modelo", value: "LVDR1506CI" },
@@ -104103,12 +104103,12 @@ Para deptos y cocinas chicas, 1 a 2 personas, sin espacio ni presupuesto para un
     ogTitle: "Drean LVDR1506CI0: lavavajillas de pie de acero inoxidable",
     ogDescription: "15 cubiertos, certificación IRAM, marca argentina con soporte técnico local. La mejor elección general, con un aviso honesto sobre el diseño de las canastas.",
     h1: "Drean LVDR1506CI0: lavavajillas de pie, la mejor elección general de esta comparativa",
-    verdict: "La mejor elección general de esta comparativa: 15 cubiertos, acero inoxidable, con certificación de seguridad eléctrica IRAM y {{reviews:MLA47234972}} calificaciones a 4.8 estrellas. Drean es una marca argentina con service y repuestos accesibles localmente. El aviso honesto: una reseña indica que el espacio de las canastas para platos y vasos no está del todo bien aprovechado, y limita algunas posiciones.",
+    verdict: "La mejor elección general de esta comparativa: 15 cubiertos, acero inoxidable, con certificación de seguridad eléctrica IRAM y {{reviews:MLA47234972}} calificaciones a {{rating:MLA47234972}} estrellas. Drean es una marca argentina con service y repuestos accesibles localmente. El aviso honesto: una reseña indica que el espacio de las canastas para platos y vasos no está del todo bien aprovechado, y limita algunas posiciones.",
     pros: [
       "Marca argentina con service y soporte técnico local accesible, según una reseña",
       "Certificación de seguridad eléctrica IRAM",
       "15 cubiertos, buena capacidad para una familia",
-      "{{reviews:MLA47234972}} calificaciones a {{rating:MLA47234972}} estrellas, la nota más alta de esta comparativa junto a la Candy y la Whirlpool",
+      "{{reviews:MLA47234972}} calificaciones a {{rating:MLA47234972}} estrellas, la nota más alta de esta comparativa junto a la Whirlpool",
     ],
     cons: [
       "Una reseña indica que el espacio de las canastas no está del todo bien aprovechado y limita ciertas posiciones",
@@ -104117,7 +104117,7 @@ Para deptos y cocinas chicas, 1 a 2 personas, sin espacio ni presupuesto para un
     ],
     articleBody: `## La mejor elección general de esta comparativa
 
-El Drean LVDR1506CI0 es un lavavajillas de pie para 15 cubiertos, de acero inoxidable, con certificación de seguridad eléctrica IRAM, a {{precio:MLA47234972}}. Con {{reviews:MLA47234972}} calificaciones a 4.8 estrellas, tiene muy buen respaldo. Drean es una marca argentina consolidada, con service y repuestos accesibles localmente.
+El Drean LVDR1506CI0 es un lavavajillas de pie para 15 cubiertos, de acero inoxidable, con certificación de seguridad eléctrica IRAM, a {{precio:MLA47234972}}. Con {{reviews:MLA47234972}} calificaciones a {{rating:MLA47234972}} estrellas, tiene muy buen respaldo. Drean es una marca argentina consolidada, con service y repuestos accesibles localmente.
 
 ## Lo que dicen los compradores reales
 
@@ -104139,15 +104139,15 @@ Para una familia que lava seguido y en volumen, y valora tener soporte técnico 
     id: "MLA43082935",
     title: "Lavavajillas Candy Cf6c4f1pw 16 Cubiertos Inverter Blanco",
     canonicalName: "Candy CF6C4F1PW", mpn: "CF6C4F1PW", brand: "Candy",
-    price: 931498, currency: "ARS",
+    price: 916899, currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_950535-MLA100061590271_122025-O.webp",
     images: ["https://http2.mlstatic.com/D_NQ_NP_950535-MLA100061590271_122025-O.webp"],
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/lavavajillas-candy-cf6c4f1pw-16-cubiertos-inverter-blanco/p/MLA43082935",
     affiliateUrl: "https://meli.la/25inK8q",
-    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 106,
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 193,
     pastelColor: "var(--pastel-amber)",
-    priceUpdated: "2026-11-09", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    priceUpdated: "2026-11-10", priceLastChecked: "2026-11-10", priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     specs: [
       { label: "Marca", value: "Candy" },
       { label: "Línea", value: "Rapido" },
@@ -104168,7 +104168,7 @@ Para una familia que lava seguido y en volumen, y valora tener soporte técnico 
     ogTitle: "Candy CF6C4F1PW: lavavajillas de 16 cubiertos con tecnología Inverter",
     ogDescription: "16 cubiertos, 3 bandejas, 8 programas de lavado. La mayor capacidad de esta comparativa, con un aviso honesto sobre platos grandes.",
     h1: "Candy CF6C4F1PW: lavavajillas de 16 cubiertos, la mayor capacidad de esta comparativa",
-    verdict: "La mayor capacidad de esta comparativa: 16 cubiertos con tecnología Inverter, 3 bandejas y 8 programas de lavado, a {{precio:MLA43082935}}. Con {{reviews:MLA43082935}} calificaciones a 4.8 estrellas, tiene muy buen respaldo. El aviso honesto: si tu vajilla tiene platos grandes, más de una reseña avisa que la capacidad real baja de 16 a unos 12 cubiertos, porque hay que acomodarlos en otro sentido.",
+    verdict: "La mayor capacidad de esta comparativa: 16 cubiertos con tecnología Inverter, 3 bandejas y 8 programas de lavado, a {{precio:MLA43082935}}. Con {{reviews:MLA43082935}} calificaciones a {{rating:MLA43082935}} estrellas, tiene muy buen respaldo. El aviso honesto: si tu vajilla tiene platos grandes, más de una reseña avisa que la capacidad real baja de 16 a unos 12 cubiertos, porque hay que acomodarlos en otro sentido.",
     pros: [
       "16 cubiertos, la capacidad nominal más alta de esta comparativa",
       "Tecnología Inverter y 8 programas de lavado, la mayor variedad de esta comparativa",
@@ -104182,7 +104182,7 @@ Para una familia que lava seguido y en volumen, y valora tener soporte técnico 
     ],
     articleBody: `## La mayor capacidad de esta comparativa
 
-El Candy CF6C4F1PW tiene la capacidad nominal más alta de esta comparativa: 16 cubiertos, con tecnología Inverter, 3 bandejas regulables y 8 programas de lavado, a {{precio:MLA43082935}}. Con {{reviews:MLA43082935}} calificaciones a 4.8 estrellas, tiene muy buen respaldo.
+El Candy CF6C4F1PW tiene la capacidad nominal más alta de esta comparativa: 16 cubiertos, con tecnología Inverter, 3 bandejas regulables y 8 programas de lavado, a {{precio:MLA43082935}}. Con {{reviews:MLA43082935}} calificaciones a {{rating:MLA43082935}} estrellas, tiene muy buen respaldo.
 
 ## Lo honesto sobre la capacidad real
 
@@ -104210,9 +104210,9 @@ Para una familia numerosa que necesita capacidad real de lavado, sabiendo que la
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/lavavajillas-14-cubiertos-whirlpool-wlv14sy-sense-plateado/p/MLA24527949",
     affiliateUrl: "https://meli.la/2oCKYkm",
-    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 237,
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 578,
     pastelColor: "var(--pastel-purple)",
-    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-11-10", priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     specs: [
       { label: "Marca", value: "Whirlpool" },
       { label: "Línea", value: "Sense" },
@@ -104235,7 +104235,7 @@ Para una familia numerosa que necesita capacidad real de lavado, sabiendo que la
     ogTitle: "Whirlpool WLV14SY Sense: lavavajillas premium, 46 dB declarados",
     ogDescription: "46 dB, tecnología Inverter, marca internacional reconocida. La opción premium de esta comparativa, con avisos honestos sobre la instalación.",
     h1: "Whirlpool WLV14SY Sense: lavavajillas premium, la opción de esta comparativa",
-    verdict: "La opción premium de esta comparativa: marca internacional reconocida, 46 dB de ruido declarados (bastante menos que los 54 dB del Philco PHLJ05; el Drean y la Candy no declaran este dato), tecnología Inverter y 8 programas de lavado. Con {{reviews:MLA24527949}} calificaciones a 4.8 estrellas, tiene muy buen respaldo. Es, por lejos, la más cara de esta comparativa. El aviso honesto de una reseña muy detallada: la instalación importa mucho, y un mal armado (manguera de desagote ahorcada) puede cortar el ciclo a la mitad sin que sea una falla del producto.",
+    verdict: "La opción premium de esta comparativa: marca internacional reconocida, 46 dB de ruido declarados (bastante menos que los 54 dB del Philco PHLJ05; el Drean y la Candy no declaran este dato), tecnología Inverter y 8 programas de lavado. Con {{reviews:MLA24527949}} calificaciones a {{rating:MLA24527949}} estrellas, tiene muy buen respaldo. Es, por lejos, la más cara de esta comparativa. El aviso honesto de una reseña muy detallada: la instalación importa mucho, y un mal armado (manguera de desagote ahorcada) puede cortar el ciclo a la mitad sin que sea una falla del producto.",
     pros: [
       "46 dB de ruido declarados, menos que los 54 dB del Philco PHLJ05 de esta comparativa",
       "Marca internacional reconocida, con más historial en el mercado argentino",
@@ -104250,7 +104250,7 @@ Para una familia numerosa que necesita capacidad real de lavado, sabiendo que la
     ],
     articleBody: `## La opción premium de esta comparativa
 
-El Whirlpool WLV14SY Sense es la opción premium de esta comparativa: marca internacional reconocida, 46 dB de ruido declarados (bastante menos que los 54 dB del Philco PHLJ05; el Drean y la Candy no declaran este dato), tecnología Inverter y 8 programas de lavado, a {{precio:MLA24527949}}. Con {{reviews:MLA24527949}} calificaciones a 4.8 estrellas, tiene muy buen respaldo.
+El Whirlpool WLV14SY Sense es la opción premium de esta comparativa: marca internacional reconocida, 46 dB de ruido declarados (bastante menos que los 54 dB del Philco PHLJ05; el Drean y la Candy no declaran este dato), tecnología Inverter y 8 programas de lavado, a {{precio:MLA24527949}}. Con {{reviews:MLA24527949}} calificaciones a {{rating:MLA24527949}} estrellas, tiene muy buen respaldo.
 
 ## Lo que dicen los compradores reales
 
