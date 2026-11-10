@@ -33142,30 +33142,33 @@ El paso natural arriba del HY300: más brillo declarado, hasta 150 pulgadas y la
   },
   {
     id: 'MLA54267098',
-    title: "Proyector Portátil Gadnic FHD ATV 9000 Lúmenes Screen Mirroring 200 ANSI Enfoque Automático Rotación 270",
-    canonicalName: "Gadnic HY-500 Pro (PROJ097W) 200 ANSI con Android TV",
-    seoTitle: "Proyector Gadnic HY-500 Pro 200 ANSI: análisis honesto",
-    metaDescription: "Proyector Gadnic con 200 lúmenes ANSI declarados (dato real, no marketing), Android TV, enfoque automático y rotación 270°. 4.5 estrellas. Precio y contras.",
-    ogTitle: "Gadnic HY-500 Pro — el único que declara lúmenes ANSI",
-    ogDescription: "200 ANSI declarados, enfoque automático, rotación 270° y marca local con garantía. El análisis honesto: resolución nativa 720p y Netflix con vueltas.",
-    price: 210499,
-    // Sin stock, 2026-11-08: "Este producto no está disponible. Elige otra
-    // variante." sin selector de variantes, sin precio y sin botón de compra
-    // (verificado en vivo, chequeo diario de productos >$200.000; el 6/11 todavía
-    // tenía precio $210.499). Búsqueda del modelo exacto (Gadnic HY-500 Pro,
-    // PROJ097W) en ML: solo 2 publicaciones y las dos son USADAS de particulares
-    // (MLAU4419931687, $195.000, vendedora con 3 ventas y sin garantía;
-    // MLAU5428553045, $190.000) — no sirven como swap de un producto nuevo.
-    // Si vuelve a haber una publicación Nueva con stock, hacer el swap y volver
-    // a visibility "normal". La guía proyector-portatil todavía lo trata como
-    // comprable en el texto: pendiente de revisión editorial.
-    // Ver docs/productos-sin-stock.md.
-    priceUpdated: "2026-11-06",
-    priceLastChecked: "2026-11-08",
-    priceStatus: "out_of_stock",
-    priceVerifiedAt: "2026-11-08",
-    visibility: "deprioritized",
-    originalPrice: undefined,
+    title: "Proyector Portátil Gadnic FHD ATV 9000 Lúmenes Screen Mirroring Enfoque Automático Rotación 270",
+    canonicalName: "Gadnic HY-500 Pro (PROJ097W) con Android TV",
+    seoTitle: "Proyector Gadnic HY-500 Pro: enfoque automático, análisis honesto",
+    metaDescription: "Proyector Gadnic con enfoque automático y rotación 270°, Android TV y marca local con garantía. 4.6 estrellas. Precio real y contras, sin vueltas.",
+    ogTitle: "Gadnic HY-500 Pro — el único con enfoque automático de esta guía",
+    ogDescription: "Enfoque automático, rotación 270° y marca local con garantía. El análisis honesto: resolución nativa 720p, brillo de marketing como el resto de la gama y Netflix con vueltas.",
+    price: 230000,
+    // Restock verificado en vivo 2026-11-10: volvió a tener stock (vendedor
+    // Grupo Micron, MercadoLíder Platinum, "ÚLTIMAS 2 UNIDADES", botón de
+    // compra activo). visibility vuelta a "normal". OJO: la publicación
+    // actual YA NO declara los 200 lúmenes ANSI que tenía antes (chequeado
+    // a fondo: ni en los bullets "Lo que tenés que saber", ni en la tabla de
+    // características expandida — solo figura "Brillo de la imagen: 10.000
+    // lm" o "9.000 lúmenes" según la sección, el número de marketing). No se
+    // encontró el manual oficial de Gadnic para el PROJ097W para confirmar
+    // si el dato cambió en el hardware real o es solo que este vendedor no
+    // cargó ese campo. Mientras no se pueda reverificar, dejamos de afirmar
+    // el dato ANSI en ficha y guía: el nuevo diferenciador honesto es el
+    // enfoque automático + rotación 270°, exclusivo de este modelo en la
+    // comparativa (ningún otro proyector de la guía lo declara). Precio
+    // subió de $210.499 a $230.000. Ver docs/productos-sin-stock.md.
+    priceUpdated: "2026-11-10",
+    priceLastChecked: "2026-11-10",
+    priceStatus: "fresh",
+    priceVerifiedAt: "2026-11-10",
+    visibility: "normal",
+    originalPrice: 330000,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_664448-MLA101666539436_122025-F.webp',
     images: [
@@ -33181,16 +33184,20 @@ El paso natural arriba del HY300: más brillo declarado, hasta 150 pulgadas y la
     reviewCount: 613,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-purple)',
-    description: "Marca: Gadnic\nModelo: HY-500 Pro (PROJ097W)\nBrillo: 200 ANSI declarados (9.000/10.000 lm de marketing)\nResolución nativa: 1280 x 720 px\nTamaño de la imagen: 40\" - 120\"\nContraste: 2000:1\nDistancia de proyección: 1 a 3 m\nCon Wi-Fi: Sí\nScreen mirroring: Sí\nEnfoque automático y rotación 270°\nCon control remoto: Sí\nCon parlante: Sí\nVoltaje: 220V",
-    articleBody: `El Gadnic HY-500 Pro es el proyector con el que la marca local apunta a la gama media, y tiene una particularidad que lo separa del resto: además de los "9.000 lúmenes" de marketing del título, la ficha declara **200 lúmenes ANSI** — el dato real que casi ningún proyector económico se anima a publicar. Tiene 4.5 estrellas en {{reviews:MLA54267098}} calificaciones y está entre los 15 más vendidos de la categoría.
+    description: "Marca: Gadnic\nModelo: HY-500 Pro (PROJ097W)\nBrillo: 9.000 lm declarados (lúmenes de marketing; esta publicación no declara lúmenes ANSI)\nResolución nativa: 1280 x 720 px\nTamaño de la imagen: 40\" - 120\"\nContraste: 2000:1\nDistancia de proyección: 1 a 3 m\nCon Wi-Fi: Sí\nScreen mirroring: Sí\nEnfoque automático y rotación 270°\nCon control remoto: Sí\nCon parlante: Sí\nVoltaje: 220V",
+    articleBody: `El Gadnic HY-500 Pro es el proyector con el que la marca local apunta a la gama media. Lo que lo separa del resto de esta comparativa: **enfoque automático y rotación de 270°** (podés proyectar al techo), dos comodidades que ningún otro modelo de esta guía declara. Tiene 4.6 estrellas en {{reviews:MLA54267098}} calificaciones y está entre los 15 más vendidos de la categoría.
 
-## Qué resolución y brillo esperar
+## Un dato que había y ya no está
 
-Dos aclaraciones honestas. Primera: el título dice "FHD", pero la resolución nativa declarada en la ficha técnica es 1280x720 (HD). Acepta señal Full HD, la proyecta en 720p. Segunda: 200 ANSI es un brillo real modesto — pero como es un número honesto, sirve para comparar de verdad. Las reseñas acompañan: "Excelente definición. Lo compré con intención de usarlo en un aula escolar, y funciona perfecto, incluso con luz del día", cuenta un comprador. Otro lo resume: "Muy buena definición y sonido. Completamente puede reemplazar a una tv a mucho menor costo".
+Honestidad completa: hasta hace poco, esta misma publicación declaraba 200 lúmenes ANSI (el dato de brillo real que casi ningún proyector económico publica), y era el motivo por el que la recomendábamos para usar con algo de luz. Verificamos la ficha de nuevo y ese dato ya no aparece en ningún lado de la publicación actual: ni en los puntos destacados, ni en la tabla de características. Solo queda el "9.000 lúmenes" de marketing, igual que el resto de la categoría. No sabemos si cambió el hardware real o si el vendedor actual simplemente no cargó ese campo; hasta que podamos confirmarlo, dejamos de usar el dato ANSI para recomendar este proyector sobre los demás por brillo.
+
+## Qué resolución esperar
+
+El título dice "FHD", pero la resolución nativa declarada en la ficha técnica es 1280x720 (HD). Acepta señal Full HD como entrada, la proyecta en 720p. Las reseñas de uso real igual son buenas: "Excelente definición. Lo compré con intención de usarlo en un aula escolar, y funciona perfecto, incluso con luz del día", cuenta un comprador. Otro lo resume: "Muy buena definición y sonido. Completamente puede reemplazar a una tv a mucho menor costo".
 
 ## Para qué sirve (y para qué no)
 
-Cine en casa, aulas, quincho: con penumbra rinde muy bien y con algo de luz se defiende mejor que los genéricos de entrada. El enfoque automático y la rotación de 270° (podés proyectar al techo) son comodidades que en esta gama no abundan. No es para quien espere 1080p nativo real ni brillo de TV en un living soleado.
+Cine en casa, aulas, quincho: con penumbra rinde bien, como todo en esta gama. El enfoque automático y la rotación de 270° son comodidades reales que ahorran tiempo cada vez que lo movés o lo apuntás a otra pared. No es para quien espere 1080p nativo real, ni (sin el dato ANSI a mano) para asumir que rinde mejor que el resto con luz ambiente.
 
 ## El tema Netflix, sin vueltas
 
@@ -33202,27 +33209,32 @@ WiFi, screen mirroring desde el celular, HDMI y USB. El parlante integrado es de
 
 ## Para quién sí y para quién no
 
-Sí, si querés el escalón de imagen y brillo real arriba de los genéricos, con marca local, garantía y enfoque automático. No, si esperás Netflix oficial sin adaptador o resolución 1080p nativa.
+Sí, si querés enfoque automático y rotación 270° (comodidades reales que ahorran tiempo), con marca local y garantía. No, si esperás Netflix oficial sin adaptador, resolución 1080p nativa, o si buscás el dato de brillo real: hoy esta publicación no lo declara.
 
 ## En resumen
 
-El proyector "sincero" de la gama media: declara sus 200 ANSI, rinde incluso con algo de luz y suma enfoque automático y rotación 270°. El asterisco es Netflix, que se resuelve con una app alternativa o un TV Stick. Antes de decidir, mirá la [guía completa de proyectores portátiles](/guias/tech/proyector-portatil).`,
+Ya no es "el proyector con el dato honesto de brillo" que era antes: esa publicación cambió y dejó de declarar ANSI. Sigue siendo el único de esta guía con enfoque automático y rotación 270°, con marca local y garantía, pero a un precio más alto que antes y sin la ventaja de brillo verificable que lo distinguía. Antes de decidir, mirá la [guía completa de proyectores portátiles](/guias/tech/proyector-portatil).`,
     pros: [
-      "Declara 200 lúmenes ANSI: el dato de brillo real, no solo marketing",
-      "Rinde con algo de luz ambiente según las reseñas (aula, media tarde)",
-      "Enfoque automático y rotación 270° (proyecta hasta el techo)",
+      "Único de esta comparativa con enfoque automático y rotación 270° (proyecta hasta el techo)",
+      "4.6 estrellas en {{reviews:MLA54267098}} calificaciones, entre los 15 más vendidos de la categoría",
       "Marca local con garantía y service en Argentina",
+      "Reseñas de uso real buenas incluso con algo de luz (aula, media tarde), aunque ya no hay un dato ANSI que lo respalde",
     ],
     cons: [
+      "Ya no declara lúmenes ANSI: hasta hace poco lo hacía, la publicación cambió y hoy solo muestra el número de marketing como el resto de la categoría",
       "El título dice FHD pero la resolución nativa es 720p",
       "Netflix oficial no funciona directo: requiere app alternativa o TV Stick",
-      "Proyección máxima declarada de 120 pulgadas, menor que otros de su precio",
+      "El más caro de esta comparativa ($230.000, subió desde $210.499)",
     ],
-    verdict: "La opción de gama media con datos honestos: 200 ANSI reales, enfoque automático y garantía local. Sabiendo que la nativa es 720p y que Netflix pide una vuelta extra, es de lo más sólido antes de los $300.000.",
+    verdict: "El único de esta comparativa con enfoque automático y rotación 270°, con marca local y garantía. La honestidad completa: hasta hace poco declaraba 200 lúmenes ANSI (el dato de brillo real) y era su diferencial principal; la publicación cambió y ese dato ya no aparece, así que hoy no se puede recomendar por brillo verificable por sobre el resto. Sabiendo que la nativa es 720p, que Netflix pide una vuelta extra y que es el más caro del grupo, conviene elegirlo por el enfoque automático, no por el brillo.",
     faq: [
       {
-        question: "¿Los 9.000 lúmenes son reales?",
-        answer: "Los 9.000/10.000 lúmenes del título son de marketing. El dato real está en la ficha: 200 lúmenes ANSI, que es un brillo modesto pero honesto — la mayoría de los proyectores económicos ni siquiera lo publica. En la práctica rinde bien con penumbra y se defiende con algo de luz.",
+        question: "¿Declara lúmenes ANSI (el dato de brillo real)?",
+        answer: "Ya no. Hasta hace poco esta publicación declaraba 200 lúmenes ANSI, pero verificado de nuevo en vivo, ese dato ya no aparece en ningún lado de la ficha actual: solo figura el número de marketing ('9.000 lúmenes'), igual que el resto de los proyectores de esta categoría. No podemos confirmar si cambió el hardware real o si el vendedor actual no cargó ese campo.",
+      },
+      {
+        question: "¿Qué lo diferencia de los otros proyectores de la guía?",
+        answer: "El enfoque automático y la rotación de 270° (podés proyectar al techo), que ningún otro modelo de esta comparativa declara. Ya no se diferencia por brillo real verificable, como sí lo hacía antes con el dato ANSI.",
       },
       {
         question: "¿Funciona Netflix?",
