@@ -102723,9 +102723,9 @@ Para quien ya decidió invertir en el mejor anafe eléctrico de perilla-fija (o 
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/batidora-manual-optibat-ab100-de-350w-color-blanco-liliana/p/MLA28427866",
     affiliateUrl: "https://meli.la/1a1HneV",
-    condition: "new", freeShipping: true, rating: 4.4, reviewCount: 2033,
+    condition: "new", freeShipping: true, rating: 4.4, reviewCount: 2424,
     pastelColor: "var(--pastel-blue)",
-    priceUpdated: "2026-11-06", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    priceUpdated: "2026-11-06", priceLastChecked: "2026-11-10", priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     specs: [
       { label: "Marca", value: "Liliana" },
       { label: "Línea", value: "Optibat" },
@@ -102789,9 +102789,9 @@ Para quien recién arranca a hornear en casa y no quiere gastar de más en el pr
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/batidora-de-mano-ultracomb-500w-5-velocidades-bm-2608r-rojo-gancho-amasado/p/MLA51335717",
     affiliateUrl: "https://meli.la/1trGuqr",
-    condition: "new", freeShipping: true, rating: 4.6, reviewCount: 490,
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 661,
     pastelColor: "var(--pastel-coral)",
-    priceUpdated: "2026-11-04", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    priceUpdated: "2026-11-04", priceLastChecked: "2026-11-10", priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     specs: [
       { label: "Marca", value: "Ultracomb" },
       { label: "Modelo", value: "BM-2608R" },
@@ -102849,15 +102849,15 @@ Para quien va a amasar con cierta frecuencia (pan casero, pizza, facturas) y qui
     id: "MLA15992328",
     title: "Batidora De Mano Yelmo Electrica Bm-1608 300w 7 Velocidades",
     canonicalName: "Yelmo BM-1608", mpn: "BM-1608", brand: "Yelmo",
-    price: 55000, currency: "ARS",
+    price: 52000, currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_884283-MLA97294051814_112025-O.webp",
     images: ["https://http2.mlstatic.com/D_NQ_NP_884283-MLA97294051814_112025-O.webp"],
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/batidora-de-mano-yelmo-electrica-bm-1608-300w-7-velocidades/p/MLA15992328",
     affiliateUrl: "https://meli.la/1bMsC46",
-    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 913,
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 869,
     pastelColor: "var(--pastel-amber)",
-    priceUpdated: "2026-11-04", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    priceUpdated: "2026-11-10", priceLastChecked: "2026-11-10", priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     specs: [
       { label: "Marca", value: "Yelmo" },
       { label: "Modelo", value: "BM-1608" },
@@ -102872,15 +102872,15 @@ Para quien va a amasar con cierta frecuencia (pan casero, pizza, facturas) y qui
       { label: "Peso", value: "780 g" },
     ],
     relatedProducts: ["MLA28427866", "MLA51335717", "MLA45462816"],
-    description: "Batidora de mano Yelmo BM-1608, 300W, 7 velocidades y batidores de metal. La mejor calificada entre las batidoras de mano de esta comparativa, con 4.7 estrellas.",
+    description: "Batidora de mano Yelmo BM-1608, 300W, 7 velocidades y batidores de metal. Una de las mejor calificadas entre las batidoras de mano de esta comparativa, con 4.7 estrellas.",
     seoTitle: "Yelmo BM-1608: la batidora de mano compacta con 7 velocidades",
     metaDescription: "Yelmo BM-1608 a {{precio:MLA15992328}}: 300W, 7 velocidades, batidores de metal y {{reviews:MLA15992328}} calificaciones. Una de las opciones más compactas y valoradas de esta comparativa.",
     ogTitle: "Yelmo BM-1608: 7 velocidades y batidores de metal en formato compacto",
     ogDescription: "300W, 7 velocidades, batidores de metal duraderos. Compacta, fácil de limpiar, aunque compradores avisan que no rinde para grandes cantidades.",
     h1: "Yelmo BM-1608: batidora de mano con 7 velocidades y formato compacto",
-    verdict: "La batidora de mano mejor calificada de esta comparativa: {{rating:MLA15992328}} estrellas en {{reviews:MLA15992328}} calificaciones. Suma 7 velocidades, la mayor cantidad de esta comparativa, y batidores de metal duraderos. Es compacta y liviana, ideal para espacios chicos, pero con solo 300W (la potencia más baja de las tres batidoras de mano) no rinde igual con cantidades grandes o masas pesadas.",
+    verdict: "Una de las batidoras de mano mejor calificadas de esta comparativa, empatada con la Ultracomb BM-2608R: {{rating:MLA15992328}} estrellas en {{reviews:MLA15992328}} calificaciones. Suma 7 velocidades, la mayor cantidad de esta comparativa, y batidores de metal duraderos. Es compacta y liviana, ideal para espacios chicos, pero con solo 300W (la potencia más baja de las tres batidoras de mano) no rinde igual con cantidades grandes o masas pesadas.",
     pros: [
-      "{{rating:MLA15992328}} estrellas, la calificación más alta entre las batidoras de mano de esta comparativa",
+      "{{rating:MLA15992328}} estrellas, empatada con la Ultracomb en la calificación más alta entre las batidoras de mano de esta comparativa",
       "7 velocidades, la mayor variedad de esta comparativa",
       "Batidores y ganchos de metal, sin el riesgo de flexión de los plásticos",
       "Compacta y liviana (780 g), fácil de guardar y limpiar",
@@ -102891,9 +102891,9 @@ Para quien va a amasar con cierta frecuencia (pan casero, pizza, facturas) y qui
       "Reseñas avisan que no conviene para amasar o batir grandes cantidades de una sola vez",
       "El botón eyector pide presionar fuerte para soltar los batidores",
     ],
-    articleBody: `## Compacta y la mejor calificada de mano
+    articleBody: `## Compacta y una de las mejor calificadas de mano
 
-La Yelmo BM-1608 tiene {{rating:MLA15992328}} estrellas en {{reviews:MLA15992328}} calificaciones, la calificación más alta entre las tres batidoras de mano de esta comparativa, y casi el doble de opiniones que la Ultracomb BM-2608R. Cuesta {{precio:MLA15992328}} y tiene 7 velocidades, la mayor cantidad de este grupo. Sus batidores y ganchos son de metal, igual que la Ultracomb BM-2608R.
+La Yelmo BM-1608 tiene {{rating:MLA15992328}} estrellas en {{reviews:MLA15992328}} calificaciones, empatando con la Ultracomb BM-2608R en la calificación más alta entre las tres batidoras de mano de esta comparativa, y con más opiniones que la Ultracomb BM-2608R. Cuesta {{precio:MLA15992328}} y tiene 7 velocidades, la mayor cantidad de este grupo. Sus batidores y ganchos son de metal, igual que la Ultracomb BM-2608R.
 
 ## Lo honesto sobre la potencia
 
@@ -102904,7 +102904,7 @@ Con 300W es la menos potente de las tres batidoras de mano de esta comparativa (
 Para cocina de uso doméstico normal: tortas, bizcochuelos, merengues, mezclas livianas, en departamentos o cocinas con poco espacio de guardado. Si vas a amasar o batir en cantidad de forma habitual, la Ultracomb BM-2608R de esta comparativa suma potencia real para eso. Y si necesitás volumen grande y uso frecuente, la batidora de pie Peabody PE-BM110P es el salto correcto.`,
     faq: [
       { question: "¿Sirve para amasar pan o masas pesadas?", answer: "No es lo ideal: con 300W es la menos potente de las batidoras de mano de esta comparativa, y varias reseñas confirman que rinde bien para bollos chicos pero no para grandes cantidades de masa pesada. Para eso conviene la Ultracomb BM-2608R (500W) o una batidora de pie." },
-      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA15992328}} calificaciones a {{rating:MLA15992328}} estrellas, casi el doble de opiniones que la Ultracomb BM-2608R." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA15992328}} calificaciones a {{rating:MLA15992328}} estrellas, más opiniones que la Ultracomb BM-2608R." },
       { question: "¿Los batidores son de metal o plástico?", answer: "De metal, tanto los batidores como los ganchos para amasar. No tiene el problema de flexión que reportan los batidores plásticos de la Liliana Optibat AB100." },
       { question: "¿Es fácil de limpiar y guardar?", answer: "Sí, reseñas destacan que es compacta (780 g), fácil de limpiar y que entra en espacios chicos de alacena o cajón." },
       { question: "¿Cuesta sacar los batidores con el botón eyector?", answer: "Alguna reseña avisa que hay que presionar con cierta fuerza para que salgan. No es un defecto grave, pero es un detalle a tener en cuenta." },
@@ -102921,9 +102921,9 @@ Para cocina de uso doméstico normal: tortas, bizcochuelos, merengues, mezclas l
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/batidora-de-mesa-peabody-pe-bm110p-1000w-4l-rosa-6-vel-frecuencia-wats/p/MLA45462816",
     affiliateUrl: "https://meli.la/2DSmttc",
-    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 1347,
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 1480,
     pastelColor: "var(--pastel-pink)",
-    priceUpdated: "2026-11-06", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    priceUpdated: "2026-11-06", priceLastChecked: "2026-11-10", priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     specs: [
       { label: "Marca", value: "Peabody" },
       { label: "Modelo", value: "PE-BM110P" },
