@@ -3698,3 +3698,29 @@ Origen: siguiente guía de la cola de "nunca tocadas desde su publicación" (pub
 **Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (ratchets bajados: reseñas hardcodeadas 879→874, precios en prosa sin cobertura 143→142, ambos por las correcciones de esta guía), `npm run build` completo OK (exit 0). Deploy de Vercel falló la primera vez por el flake conocido de fuentes de Google (`vercel-deploy-fallo-intermitente-fuentes`, sin relación con el código), resuelto con un redeploy inmediato que terminó READY.
 
 Re-medir: ~2026-12-10 (4 semanas). Revisar en el próximo repaso si la publicación del Gadnic recupera el dato ANSI (o lo pierde algún otro producto de la guía).
+
+## `bicicleta-rodado-29` — siguiente de la cola de guías vencidas, primera pasada desde publicación (2026-08-05) — 2026-11-10
+
+Origen: siguiente guía de la cola de "nunca tocadas desde su publicación". Diagnóstico GSC (snapshot fresco, 28 días): posición 6.18 promedio, 7.607 impresiones, 66 clicks, cerca del top pero sin optimizar nunca. Verificación en vivo (Chrome real) de los 6 productos: precio, rating y reviewCount.
+
+**Hallazgo grande #1 (precio):** la SLP 10 Pro (MLA62903959) subió de $316.329 a $328.199, y eso la convirtió en la bicicleta MÁS CARA de las 6 — la guía afirmaba en 3 lugares distintos ("la más cara de esta comparativa") que esa posición la tenía la Fire Bird, un error que además era anterior a esta subida de precio (la Fire Bird, $293.803, siempre había sido más barata que la SLP 10 Pro). Corregido en standfirst, párrafo de producto, lista de precios y tabla, con reordenamiento a orden ascendente real.
+
+**Hallazgo grande #2 (reseñas, Fire Bird):** la ficha de la Fire Bird (MLA1114038122) declaraba `reviewCount: 1169` ("tercera base de reseñas más grande del grupo"), pero la publicación real detrás de nuestro permalink (el catálogo `/p/MLA1114038122` da 404 hoy, solo queda accesible vía `articulo.mercadolibre.com.ar`) muestra en vivo "4.8 estrellas, 38 calificaciones", confirmado dos veces leyendo el DOM renderizado (no por regex sobre HTML crudo, que puede enganchar un widget equivocado). Existe otra publicación de "Fire Bird rodado 29" en ML con más reseñas (MLA79282865, 836 opiniones) pero con un ID de catálogo distinto al que linkeamos desde hace meses; no se hizo swap de producto (sigue siendo la misma marca/modelo, mismo precio, con stock real confirmado), solo se corrigió el dato y se reescribió toda la narrativa que dependía de él: pasó de "tercera base más grande" a la base de reseñas más chica de las 6, por lejos.
+
+**Hallazgo grande #3 (reseñas, Ghepard):** la Ghepard (MLA74126437) pasó de 90 reseñas (al publicarse la guía) a 1.045 hoy, y el rating bajó ligeramente de 4.9 a 4.8 (ahora empatada en el primer puesto con Overtech, Alpina y Fire Bird). Invirtió su rol: ya no es "la base de reseñas más chica" (ese lugar lo ocupa ahora la Fire Bird) ni "la mejor calificada en solitario" (empata con otras 3). Se reescribió su ficha completa (description/verdict/pros/cons/articleBody/faq) para reflejarlo.
+
+**Renumeración en cascada:** la metodología de la guía ordena el ranking por respaldo de reseñas. El orden real hoy es Overtech (16.158) > Alpina (4.198) > SLP 5 Pro (1.147) > SLP 10 Pro (1.124) > Ghepard (1.045) > Fire Bird (38), contra el orden original (Overtech > Alpina > Fire Bird > Ghepard > SLP 5 > SLP 10). Se renumeraron H3 y `ranking` de cada product-card, y se reordenó la tabla comparativa y la lista de precios por el orden de precio real (que ya tenía un error menor preexistente, SLP 5 y Overtech invertidas).
+
+**Tokenización completa:** la guía se publicó antes de que el sitio adoptara los tokens `{{reviews:ID}}`/`{{rating:ID}}`, así que tenía TODOS los números de reseñas y rating hardcodeados, en la guía y en las 6 fichas. Se migró todo a tokens para que no vuelva a desactualizarse.
+
+**Bugs preexistentes encontrados de paso (no relacionados al refresh en sí):** la ficha de Ghepard tenía un precio hardcodeado erróneo ($316.209, residuo de otro producto) en `pros` y en una FAQ; la ficha de Alpina comparaba su rating contra "el 4.9 de la Ghepard" (ya desactualizado) y se declaraba "la más liviana entre las de cuadro de acero" ignorando que la Fire Bird pesa menos (16 kg contra 17 kg). Ambos corregidos.
+
+**Trío auditor (2 rondas de Codex, 2 de Gemini por un fallo de permisos headless en la primera, hasta GO/GO):**
+- **Ronda 1 Codex: NO-GO, 4 bloqueantes reales** — los dos primeros eran errores míos cometidos durante la reescritura (la Fire Bird seguía diciendo "la más cara" en un párrafo que yo mismo escribí, y una cita sobre pedales/regulación quedó mal ubicada bajo la Fire Bird tras la renumeración, cuando correspondía a la SLP 10 Pro); los otros dos eran contradicciones no detectadas en las fichas de Overtech (hardcodeaba "casi 19.000"/"4.7 estrellas" pese a tener los campos ya actualizados a 16.158/4.8) y Alpina (comparaciones falsas contra la Ghepard). Los 4 corregidos.
+- **Gemini/agy:** la primera corrida falló por un permiso de headless mode (ya documentado en la skill `trio-auditor`); relanzada con `--dangerously-skip-permissions`, dio GO limpio.
+- **Ronda 2 Codex: GO limpio**, confirmando los 4 bloqueantes resueltos.
+- **Mejoras opcionales aplicadas de paso:** se tokenizaron 2 menciones de reseñas que quedaban hardcodeadas (FAQ de Alpina, articleBody de Ghepard) y se sacó un guion largo (—) preexistente del `verdict` de la guía.
+
+**Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (ratchet de reseñas hardcodeadas bajó de 879 a 859 por la tokenización completa), `npm run build` OK (exit 0) en todas las corridas posteriores a cada ronda de correcciones. Deploy de Vercel a READY, IndexNow enviado para la guía.
+
+Re-medir: ~2026-12-10 (4 semanas).
