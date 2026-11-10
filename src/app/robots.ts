@@ -19,6 +19,9 @@ export default function robots(): MetadataRoute.Robots {
       // PerplexityBot, ya permitidos arriba) — antes quedaban mal clasificados como
       // "búsqueda" y permitidos por error; Ahrefs lo marcó como política inconsistente
       // porque solo bloqueábamos 2 de los ~7 bots de entrenamiento reales.
+      // anthropic-ai (Anthropic) y xAI-Bot (Grok) sumados el 10/11 porque Ahrefs
+      // empezó a trackearlos recién en el crawl de esa fecha y quedaron afuera de
+      // la lista original, generando el mismo tipo de inconsistencia de nuevo.
       {
         userAgent: [
           "CCBot",
@@ -28,6 +31,8 @@ export default function robots(): MetadataRoute.Robots {
           "DeepseekBot",
           "Meta-ExternalAgent",
           "Applebot-Extended",
+          "anthropic-ai",
+          "xAI-Bot",
         ],
         disallow: "/",
       },
