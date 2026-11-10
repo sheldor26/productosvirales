@@ -88011,7 +88011,7 @@ Es para vos si buscás un formato bajo y ancho para usar como aparador, o prefer
     condition: "new",
     freeShipping: true,
     rating: 4.5,
-    reviewCount: 2641,
+    reviewCount: 2665,
     soldQuantity: 10000,
     pastelColor: "var(--pastel-slate)",
     specs: [
@@ -88026,8 +88026,8 @@ Es para vos si buscás un formato bajo y ancho para usar como aparador, o prefer
       { label: "Con ruedas en la base", value: "Sí" },
       { label: "Pisos recomendados", value: "Plastificados, cerámicos" },
     ],
-    relatedProducts: ["MLA72997517", "MLA34015297", "MLA47004067"],
-    priceUpdated: "2026-11-04", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    relatedProducts: ["MLA72094597", "MLA34015297", "MLA47004067"],
+    priceUpdated: "2026-11-04", priceLastChecked: "2026-11-10", priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     description: "Balde mopa centrífugo Hogar Actual, tambor de acero inoxidable, mango de 1,45 m. La más vendida de esta comparativa. {{reviews:MLAU3394839069}} opiniones a {{rating:MLAU3394839069}} estrellas.",
     seoTitle: "Hogar Actual: la mopa centrífuga más vendida de MercadoLibre",
     metaDescription: "Balde mopa centrífugo Hogar Actual, acero inoxidable: la más vendida de esta comparativa. {{reviews:MLAU3394839069}} opiniones a {{rating:MLAU3394839069}} estrellas.",
@@ -88060,11 +88060,11 @@ Una reseña real avisa que la publicación promete 4 repuestos de mopa, pero sol
 
 ## Cómo se compara con los otros de esta guía
 
-Frente al [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517), que es más barato, este tiene mucho más respaldo de opiniones. Frente al [ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297), que no usa balde, este necesita agua y más espacio de guardado. Frente al [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067), que tiene aún más opiniones, este tiene balde de acero en vez de plástico.
+Frente al [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-celeste-mla72094597), que es más barato, este tiene mucho más respaldo de opiniones. Frente al [ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297), que no usa balde, este necesita agua y más espacio de guardado. Frente al [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067), que tiene aún más opiniones, este tiene balde de acero en vez de plástico.
 
 ## Para quién sí y para quién no
 
-Es para vos si buscás la opción con más historial de uso real y preferís un balde de acero inoxidable. No es la mejor opción si buscás el precio más bajo, ahí el Santech rinde mejor.`,
+Es para vos si buscás la opción con más historial de uso real y preferís un balde de acero inoxidable. No es la mejor opción si buscás el precio más bajo entre las de balde, ahí el Santech rinde mejor.`,
     faq: [
       { question: "¿Es la mopa más vendida de MercadoLibre?", answer: "De esta comparativa, sí: tiene la insignia de más vendido y {{reviews:MLAU3394839069}} opiniones, la base más grande entre las mopas de tipo centrífugo." },
       { question: "¿El balde es de acero o plástico?", answer: "El balde y el tambor centrifugador son de acero inoxidable, según su ficha técnica." },
@@ -88075,12 +88075,18 @@ Es para vos si buscás la opción con más historial de uso real y preferís un 
     ],
   },
   {
+    // Ex-activa: la variante "Verde" quedó sin stock ("Este producto no está
+    // disponible. Elige otra variante."), verificado en vivo 2026-11-10. ML
+    // ofrece la misma publicación en color Celeste bajo otro ID de catálogo
+    // (MLA72094597, ver abajo), vendida por la Tienda oficial de Santech. El
+    // contenido rico se migró a esa ficha. Se conserva esta como referencia
+    // histórica, sin borrarla.
     id: "MLA72997517",
-    title: "Set Mopa Centrifuga 360 Balde Mas 2 Mopas Con Ruedas Santech Verde",
-    canonicalName: "Santech Set Mopa Centrífuga con Ruedas",
+    title: "Set Mopa Centrifuga 360 Balde Mas 2 Mopas Con Ruedas Santech Verde (sin stock, ver variante Celeste)",
+    canonicalName: "Santech Set Mopa Centrífuga con Ruedas (Verde, sin stock)",
     brand: "Santech",
+    priceStatus: "out_of_stock",
     price: 17284,
-    originalPrice: 27999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_Q_NP_836071-MLA111870427536_062026-F.webp",
     images: [
@@ -88092,14 +88098,39 @@ Es para vos si buscás la opción con más historial de uso real y preferís un 
     affiliateUrl: "https://meli.la/1doGjys",
     condition: "new",
     freeShipping: true,
+    rating: 0,
+    reviewCount: 0,
+    soldQuantity: 0,
+    pastelColor: "var(--pastel-slate)",
+    visibility: "deprioritized",
+    relatedProducts: ["MLA72094597", "MLAU3394839069", "MLA34015297", "MLA47004067"],
+  },
+  {
+    id: "MLA72094597",
+    title: "Set Mopa Centrifuga 360 Balde Mas 2 Mopas Con Ruedas Santech Celeste",
+    canonicalName: "Santech Set Mopa Centrífuga con Ruedas",
+    brand: "Santech",
+    price: 17459,
+    originalPrice: 21500,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_836071-MLA111870427536_062026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_836071-MLA111870427536_062026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/set-mopa-centrifuga-360-balde-2-mopas-con-ruedas-santech-celeste/p/MLA72094597",
+    affiliateUrl: "https://meli.la/2FM7o3x",
+    condition: "new",
+    freeShipping: true,
     rating: 4.6,
-    reviewCount: 270,
+    reviewCount: 565,
     soldQuantity: 500,
     pastelColor: "var(--pastel-slate)",
     specs: [
       { label: "Marca", value: "Santech" },
       { label: "Modelo", value: "MO010" },
-      { label: "Color", value: "Verde" },
+      { label: "Color", value: "Celeste" },
       { label: "Con mango regulable", value: "No" },
       { label: "Con cabezal giratorio", value: "Sí" },
       { label: "Con rotación de 360°", value: "Sí" },
@@ -88108,19 +88139,20 @@ Es para vos si buscás la opción con más historial de uso real y preferís un 
       { label: "Con ruedas", value: "Sí" },
     ],
     relatedProducts: ["MLAU3394839069", "MLA34015297", "MLA47004067"],
-    priceUpdated: "2026-09-28", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
-    description: "Set mopa centrífuga Santech con ruedas, mango largo, 2 mopas de repuesto. La más económica de esta comparativa. {{reviews:MLA72997517}} opiniones a {{rating:MLA72997517}} estrellas.",
+    priceUpdated: "2026-11-10", priceLastChecked: "2026-11-10", priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
+    description: "Set mopa centrífuga Santech con ruedas, mango largo, 2 mopas de repuesto. Vendida por la Tienda oficial de Santech. La más económica entre las mopas con balde de esta comparativa. {{reviews:MLA72094597}} opiniones a {{rating:MLA72094597}} estrellas.",
     seoTitle: "Santech: la mopa centrífuga más económica, con ruedas",
-    metaDescription: "Set mopa centrífuga Santech, con ruedas: la más económica de esta comparativa. {{reviews:MLA72997517}} opiniones a {{rating:MLA72997517}} estrellas.",
-    verdict: "Es la más económica de esta comparativa, a {{precio:MLA72997517}}, con ruedas en el balde para trasladarlo sin levantarlo (igual que el Hogar Actual). Reseñas reales destacan el mango más largo que el de otras mopas que probaron antes, y que las mopas de repuesto se pueden lavar en lavarropas. La contra real: su base de opiniones ({{reviews:MLA72997517}}) es bastante más chica que la del Hogar Actual o el Shopping Digital, y el mango no es regulable en altura.",
+    metaDescription: "Set mopa centrífuga Santech, con ruedas: la más económica entre las mopas con balde de esta comparativa. {{reviews:MLA72094597}} opiniones a {{rating:MLA72094597}} estrellas.",
+    verdict: "Es la más económica entre las mopas con balde de esta comparativa (la ST Smart Tech, sin balde, cuesta un poco menos), a {{precio:MLA72094597}}, con ruedas en el balde para trasladarlo sin levantarlo (igual que el Hogar Actual). Reseñas reales destacan el mango más largo que el de otras mopas que probaron antes, y que las mopas de repuesto se pueden lavar en lavarropas. La contra real: su base de opiniones ({{reviews:MLA72094597}}) es más chica que la del Hogar Actual o el Shopping Digital, y el mango no es regulable en altura.",
     pros: [
-      "La más económica de esta comparativa, a {{precio:MLA72997517}}",
+      "La más económica entre las mopas con balde de esta comparativa, a {{precio:MLA72094597}}",
+      "Vendida por la Tienda oficial de Santech",
       "Con ruedas en el balde para trasladarlo sin levantarlo",
       "Reseñas reales destacan el mango largo, cómodo para no encorvarse",
       "Las mopas de repuesto se pueden lavar en lavarropas, según una reseña real",
     ],
     cons: [
-      "Su base de opiniones ({{reviews:MLA72997517}}) es más chica que la del Hogar Actual o el Shopping Digital",
+      "Su base de opiniones ({{reviews:MLA72094597}}) es más chica que la del Hogar Actual o el Shopping Digital",
       "El mango no es regulable en altura, según su ficha técnica",
     ],
     customerReviews: [
@@ -88129,15 +88161,15 @@ Es para vos si buscás la opción con más historial de uso real y preferís un 
     ],
     articleBody: `## Qué es y para quién
 
-El Santech es un set de mopa centrífuga con balde con ruedas, mango largo y 2 mopas de repuesto. Es la opción más económica de esta comparativa, a {{precio:MLA72997517}}.
+El Santech es un set de mopa centrífuga con balde con ruedas, mango largo y 2 mopas de repuesto, vendido por la Tienda oficial de Santech. Es la opción más económica entre las mopas con balde de esta comparativa, a {{precio:MLA72094597}}.
 
 ## El diferencial real: mango largo y precio
 
-El balde del Santech trae ruedas propias, así que se traslada sin levantarlo (el Hogar Actual también las tiene, según su ficha técnica). Lo que sí distingue al Santech es el precio, el más bajo de esta comparativa, y varias reseñas reales que destacan que el mango es más largo que el de otras mopas que probaron antes, algo que evita encorvarse al limpiar.
+El balde del Santech trae ruedas propias, así que se traslada sin levantarlo (el Hogar Actual también las tiene, según su ficha técnica). Lo que sí distingue al Santech es el precio, el más bajo entre las mopas con balde de esta comparativa (la ST Smart Tech, sin balde, cuesta un poco menos), y varias reseñas reales que destacan que el mango es más largo que el de otras mopas que probaron antes, algo que evita encorvarse al limpiar.
 
 ## La contra real
 
-Su base de opiniones ({{reviews:MLA72997517}}) es la más chica entre las mopas de tipo centrífugo de esta comparativa, y el mango no es regulable en altura (a diferencia del Hogar Actual, que sí lo es).
+Su base de opiniones ({{reviews:MLA72094597}}) es la más chica entre las mopas de tipo centrífugo de esta comparativa, y el mango no es regulable en altura (a diferencia del Hogar Actual, que sí lo es).
 
 ## Cómo se compara con los otros de esta guía
 
@@ -88145,14 +88177,14 @@ Frente al [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-
 
 ## Para quién sí y para quién no
 
-Es para vos si priorizás el precio más bajo y valorás poder trasladar el balde con ruedas. No es la mejor opción si buscás el mayor respaldo de opiniones reales, ahí el Hogar Actual o el Shopping Digital rinden mejor.`,
+Es para vos si priorizás el precio más bajo entre las de balde y valorás poder trasladarlo con ruedas. No es la mejor opción si buscás el mayor respaldo de opiniones reales, ahí el Hogar Actual o el Shopping Digital rinden mejor.`,
     faq: [
-      { question: "¿Es la mopa más barata de esta comparativa?", answer: `Sí, a {{precio:MLA72997517}} es la más económica de esta guía.` },
+      { question: "¿Es la mopa más barata de esta comparativa?", answer: `No la más barata de las 4 (la ST Smart Tech, sin balde, cuesta un poco menos), pero sí la más económica entre las tres mopas con balde de esta guía.` },
       { question: "¿Tiene ruedas?", answer: "Sí, el balde trae ruedas propias para trasladarlo sin levantarlo." },
       { question: "¿El mango es regulable?", answer: "No en altura, según su ficha técnica, aunque varias reseñas destacan que ya viene más largo que el de otras mopas." },
       { question: "¿Las mopas de repuesto se pueden lavar?", answer: "Sí, según una reseña real se pueden lavar en lavarropas y quedan como nuevas." },
       { question: "¿Cuántas mopas de repuesto trae?", answer: "2 unidades, según su ficha técnica." },
-      { question: "¿Quién la vende?", answer: "Santech, marca verificada en MercadoLibre." },
+      { question: "¿Quién la vende?", answer: "La Tienda oficial de Santech en MercadoLibre." },
     ],
   },
   {
@@ -88174,7 +88206,7 @@ Es para vos si priorizás el precio más bajo y valorás poder trasladar el bald
     condition: "new",
     freeShipping: true,
     rating: 4.2,
-    reviewCount: 840,
+    reviewCount: 823,
     soldQuantity: 10000,
     pastelColor: "var(--pastel-slate)",
     specs: [
@@ -88191,8 +88223,8 @@ Es para vos si priorizás el precio más bajo y valorás poder trasladar el bald
       { label: "Con lampazo lavable", value: "Sí" },
       { label: "Sistema", value: "Spray con botella recargable" },
     ],
-    relatedProducts: ["MLAU3394839069", "MLA72997517", "MLA47004067"],
-    priceUpdated: "2026-11-04", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    relatedProducts: ["MLAU3394839069", "MLA72094597", "MLA47004067"],
+    priceUpdated: "2026-11-04", priceLastChecked: "2026-11-10", priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     description: "Mopa spray ST Smart Tech LV-S02, cabezal plano con rociador incorporado, sin balde. La única sin balde de esta comparativa. {{reviews:MLA34015297}} opiniones a {{rating:MLA34015297}} estrellas.",
     seoTitle: "ST Smart Tech: la mopa spray, sin balde ni manos mojadas",
     metaDescription: "Mopa spray ST Smart Tech LV-S02, sin balde: rociás y trapeás en el mismo movimiento. {{reviews:MLA34015297}} opiniones a {{rating:MLA34015297}} estrellas.",
@@ -88218,7 +88250,7 @@ La ST Smart Tech LV-S02 es una mopa plana con sistema de rociado incorporado: un
 
 ## El diferencial real: sin balde, sin mojarse las manos
 
-Frente al [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069), el [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517) y el [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067), que necesitan balde con agua, esta mopa se rellena con una botella incorporada y no hace falta cargar ni escurrir nada a mano. Reseñas reales destacan que es mucho más rápida para el mantenimiento diario.
+Frente al [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069), el [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-celeste-mla72094597) y el [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067), que necesitan balde con agua, esta mopa se rellena con una botella incorporada y no hace falta cargar ni escurrir nada a mano. Reseñas reales destacan que es mucho más rápida para el mantenimiento diario.
 
 ## La contra real
 
@@ -88259,7 +88291,7 @@ Es para vos si buscás algo rápido para el mantenimiento diario, sin mojarte la
     condition: "new",
     freeShipping: true,
     rating: 4.4,
-    reviewCount: 5136,
+    reviewCount: 5147,
     soldQuantity: 10000,
     pastelColor: "var(--pastel-slate)",
     specs: [
@@ -88275,8 +88307,8 @@ Es para vos si buscás algo rápido para el mantenimiento diario, sin mojarte la
       { label: "Material del balde", value: "Plástico" },
       { label: "Formato de cabezal", value: "Plano (no redondo)" },
     ],
-    relatedProducts: ["MLAU3394839069", "MLA72997517", "MLA34015297"],
-    priceUpdated: "2026-11-04", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    relatedProducts: ["MLAU3394839069", "MLA72094597", "MLA34015297"],
+    priceUpdated: "2026-11-04", priceLastChecked: "2026-11-10", priceStatus: "fresh", reviewsSampledAt: "2026-11-10",
     description: "Trapeador mopa plana Shopping Digital con balde escurridor de plástico. La más elegida de esta comparativa, {{reviews:MLA47004067}} opiniones. {{rating:MLA47004067}} estrellas.",
     seoTitle: "Shopping Digital: la mopa con más opiniones de esta comparativa",
     metaDescription: "Trapeador mopa plana Shopping Digital con balde escurridor. La más elegida de esta comparativa, con {{reviews:MLA47004067}} opiniones a {{rating:MLA47004067}} estrellas.",
@@ -88311,11 +88343,11 @@ Varias reseñas coinciden en que el secado dentro del balde no es perfecto: el a
 
 ## Cómo se compara con los otros de esta guía
 
-Frente al [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069) y el [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517), que tienen cabezal redondo, este es plano y más ancho (33 cm), cubre más superficie por pasada. Frente al [ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297), que no usa balde, este necesita agua y espacio de guardado, pero sirve mejor para limpieza profunda de manchas pegadas.
+Frente al [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069) y el [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-celeste-mla72094597), que tienen cabezal redondo, este es plano y más ancho (33 cm), cubre más superficie por pasada. Frente al [ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297), que no usa balde, este necesita agua y espacio de guardado, pero sirve mejor para limpieza profunda de manchas pegadas.
 
 ## Para quién sí y para quién no
 
-Es para vos si buscás la opción con más respaldo de opiniones reales y preferís un cabezal plano y ancho. No es la mejor opción si priorizás el precio más bajo (ahí el Santech rinde mejor) o si te preocupa la durabilidad del mango, según el caso reportado en una reseña real.`,
+Es para vos si buscás la opción con más respaldo de opiniones reales y preferís un cabezal plano y ancho. No es la mejor opción si priorizás el precio más bajo entre las de balde (ahí el Santech rinde mejor) o si te preocupa la durabilidad del mango, según el caso reportado en una reseña real.`,
     faq: [
       { question: "¿Es la mopa con más opiniones de esta comparativa?", answer: `Sí: {{reviews:MLA47004067}} calificaciones, muy por encima de las otras 3 opciones de esta guía.` },
       { question: "¿El cabezal es redondo o plano?", answer: "Plano, de 33 cm de ancho — a diferencia del Hogar Actual y el Santech, que tienen cabezal redondo tipo spin mop." },
