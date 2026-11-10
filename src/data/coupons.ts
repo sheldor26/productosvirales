@@ -1,55 +1,37 @@
 import type { Coupon } from "@/lib/types";
 
-// Cyber Monday del lunes 9/11, ultimo dia. Estan activos DOS juegos de codigos con los mismos
-// montos y minimas: los tres originales (YATERMINA, CHAUCYBER, ULTIMACHANCE, del mensaje de
-// "recta final" de ML) y los dos con sufijo 11 (CHAUCYBER11, ULTIMACHANCE11, que Juan paso como
-// "los que funcionan"). Juan confirmo que los originales siguen activos, asi que se suman, no se
-// reemplazan. Primero van los originales: si dos cupones dan el mismo descuento, el badge muestra
-// el primero. `getApplicableCoupon` se queda con el que mas descuento da para cada precio:
-//   >= $1.000.000    -> ULTIMACHANCE / ULTIMACHANCE11 ($80.000)
-//   $500k a $1.000k  -> CHAUCYBER / CHAUCYBER11 ($45.000)
-//   $250k a $500k    -> YATERMINA ($20.000)
-//   menos de $250k   -> sin badge
-// Vigencia: los mensajes no dicen nada, se asume hoy hasta las 23:59 (regla del runbook).
+// Previa del Doble 11.11, martes 10/11: tres escalones nuevos, mas chicos que los del Cyber Monday.
+// Se sacan los cupones vencidos del 9/11.
+// `getApplicableCoupon` se queda con el que mas descuento da para cada precio:
+//   >= $500.000      -> MELIONCE ($45.000)
+//   $250k a $500k    -> DOBLECHANCE11 ($20.000)
+//   $150k a $250k    -> 1111ACTIVO ($10.000)
+//   menos de $150k   -> sin badge
+// Vigencia: el mensaje dice "desde las 00 Hs ya van a estar activos" y no da hora de cierre;
+// se asume hoy 00:00 a 23:59 (regla del runbook: el badge se baja de mas antes que prometer de mas).
 export const activeCoupons: Coupon[] = [
   {
-    code: "YATERMINA",
+    code: "1111ACTIVO",
+    discountAmount: 10000,
+    minPurchase: 150000,
+    validFrom: "2026-11-10T00:00:00-03:00",
+    validUntil: "2026-11-10T23:59:00-03:00",
+    active: true,
+  },
+  {
+    code: "DOBLECHANCE11",
     discountAmount: 20000,
     minPurchase: 250000,
-    validFrom: null,
-    validUntil: "2026-11-09T23:59:00-03:00",
+    validFrom: "2026-11-10T00:00:00-03:00",
+    validUntil: "2026-11-10T23:59:00-03:00",
     active: true,
   },
   {
-    code: "CHAUCYBER",
+    code: "MELIONCE",
     discountAmount: 45000,
     minPurchase: 500000,
-    validFrom: null,
-    validUntil: "2026-11-09T23:59:00-03:00",
-    active: true,
-  },
-  {
-    code: "ULTIMACHANCE",
-    discountAmount: 80000,
-    minPurchase: 1000000,
-    validFrom: null,
-    validUntil: "2026-11-09T23:59:00-03:00",
-    active: true,
-  },
-  {
-    code: "CHAUCYBER11",
-    discountAmount: 45000,
-    minPurchase: 500000,
-    validFrom: null,
-    validUntil: "2026-11-09T23:59:00-03:00",
-    active: true,
-  },
-  {
-    code: "ULTIMACHANCE11",
-    discountAmount: 80000,
-    minPurchase: 1000000,
-    validFrom: null,
-    validUntil: "2026-11-09T23:59:00-03:00",
+    validFrom: "2026-11-10T00:00:00-03:00",
+    validUntil: "2026-11-10T23:59:00-03:00",
     active: true,
   },
 ];
