@@ -1,6 +1,7 @@
 import { getPublishedGuides } from "@/data/guides";
 import { guideUrl } from "@/lib/guide-url";
 import { injectLivePrices } from "@/lib/price-token";
+import { getCategoryName as categoryName } from "@/lib/category-labels";
 import type { Guide } from "@/lib/types";
 
 // El archivo se genera en build time (igual que sitemap.xml) leyendo las guías
@@ -8,28 +9,6 @@ import type { Guide } from "@/lib/types";
 export const dynamic = "force-static";
 
 const SITE = "https://productosvirales.com.ar";
-
-/** Nombre legible de cada cluster. Si falta, se prettifica el slug. */
-const CATEGORY_NAMES: Record<string, string> = {
-  "freidoras-de-aire": "Freidoras de aire",
-  "perfumes-arabes": "Perfumes árabes",
-  "pavas-electricas": "Pavas eléctricas",
-  masajeadores: "Masajeadores",
-  cafeteras: "Cafeteras",
-  gaming: "Gaming",
-  "aspiradoras-robot": "Robots aspiradora",
-  audio: "Audio",
-  cocina: "Cocina",
-  licuadoras: "Licuadoras",
-  "cuidado-personal": "Cuidado personal",
-  climatizacion: "Climatización",
-};
-
-function categoryName(slug: string): string {
-  if (CATEGORY_NAMES[slug]) return CATEGORY_NAMES[slug];
-  const pretty = slug.replace(/-/g, " ");
-  return pretty.charAt(0).toUpperCase() + pretty.slice(1);
-}
 
 function guideLine(g: Guide): string {
   // metaDescription lleva tokens de precio en varias guías: hay que resolverlos
