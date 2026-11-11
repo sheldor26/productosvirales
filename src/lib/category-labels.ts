@@ -22,6 +22,7 @@ const ACCENTED_CATEGORY_NAMES: Record<string, string> = {
   "cortadoras-de-cesped": "Cortadoras de Césped",
   "duchas-electricas": "Duchas Eléctricas",
   "eliptica": "Elíptica",
+  "estabilizador-de-tension": "Estabilizador de Tensión",
   "estanterias-flotantes": "Estanterías Flotantes",
   "estufas-electricas": "Estufas Eléctricas",
   "horno-electrico": "Horno Eléctrico",

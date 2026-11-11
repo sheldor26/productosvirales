@@ -109648,8 +109648,8 @@ No es para vos si necesitás que sea inalámbrica o resistente al agua: para eso
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 10476,
-    reviewsSampledAt: "2026-10-08",
+    reviewCount: 12034,
+    reviewsSampledAt: "2026-11-11",
     soldQuantity: 50000,
     visibility: "normal",
     priceUpdated: "2026-11-06",
@@ -109702,7 +109702,7 @@ Más allá de esa aclaración sobre potencia, el estabilizador cumple bien su fu
 
 ## Para qué sirve, según los números reales
 
-Con 616W / 2,8A de salida real, alcanza perfectamente para una computadora de escritorio, un monitor, un router, una consola o cargar el celular. No alcanza para electrodomésticos de alto consumo: heladera, microondas, lavarropas, lavavajillas, estufa eléctrica ni impresora láser.
+Con 616W / 2,8A de salida real según esa medición, alcanza para una computadora de escritorio, un monitor, un router, una consola o cargar el celular, siempre que la suma de lo que enchufes a la vez quede por debajo de ese tope. No alcanza para electrodomésticos de alto consumo: heladera, microondas, lavarropas, lavavajillas, estufa eléctrica ni impresora láser.
 
 ## Un error de carga en la ficha técnica
 
@@ -114083,6 +114083,598 @@ Comprálo si buscás la purificación más completa posible (incluida la elimina
         worstRating: "1",
       },
     },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Sourcing 2026-11-11: guía estabilizador-de-tension (silo hogar).
+  // 6 fichas nuevas que acompañan a la Lyonn TCA 1200VA (MLA6208662).
+  // Datos verificados en vivo en la ficha de ML el 2026-11-11 (precio,
+  // rating, conteo, ficha técnica, garantía). Imágenes 2X-F verificadas
+  // con curl GET. Ninguno de estos 6 tiene una medición independiente de
+  // potencia real: todo VA citado es lo DECLARADO por la publicación.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA19892973",
+    title: "Estabilizador de Tensión TRV Powersafe 3i 6 Tomas RJ45 1000VA",
+    canonicalName: "TRV Powersafe 3i",
+    brand: "TRV Electronics",
+    mpn: "Powersafe 3i",
+    price: 70467,
+    originalPrice: 84900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_710405-MLA114059030350_072026-F.webp",
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19892973",
+    affiliateUrl: "https://meli.la/1GNFQAY",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 791,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 1000,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceVerifiedAt: "2026-11-11",
+    priceStatus: "fresh",
+    seoTitle: "Estabilizador TRV Powersafe 3i: ¿qué banca de verdad?",
+    metaDescription: "TRV Powersafe 3i a {{precio:MLA19892973}}: 6 tomas, RJ45 y 2 años de garantía. Declara 1000 VA nominales, no 1000 W: para qué alcanza y para qué no.",
+    description: "Estabilizador de 6 tomas con protección RJ45, 1000 VA nominales declarados, rango de entrada de 175 a 265 V y 2 años de garantía de fábrica.",
+    pros: [
+      "{{rating:MLA19892973}} estrellas en {{reviews:MLA19892973}} calificaciones",
+      "6 tomas más conexión RJ45 para proteger también la línea de internet o teléfono",
+      "2 años de garantía de fábrica, la más larga de esta comparativa junto con la Lyonn de 2000 VA",
+      "Rango de entrada declarado de 175 a 265 V, con ajuste automático",
+      "El doble de potencia nominal declarada (1000 VA) que su hermano más barato, el Powersafe 2i (500 VA)",
+    ],
+    cons: [
+      "El título de la publicación dice \"1000W\", pero la ficha técnica declara 1.000 VA nominales: no es lo mismo, y la potencia real en watts suele ser bastante menor que los VA",
+      "La \"potencia pico\" de 4000 VA es un valor instantáneo, no lo que banca de forma sostenida: no sirve para dimensionar qué le podés enchufar",
+      "No hay una medición independiente de su salida real. No lo uses para heladera, microondas, estufa ni impresora láser",
+      "No tiene pantalla: solo LED indicador",
+    ],
+    verdict: "Con {{rating:MLA19892973}} estrellas en {{reviews:MLA19892973}} calificaciones, es una alternativa sólida a la Lyonn TCA 1200VA para la PC, el monitor, el router y la tele, con un plus concreto: 2 años de garantía de fábrica y protección RJ45 para la línea de internet. Lo que hay que leer bien: los \"1000W\" del título son en realidad 1.000 VA nominales, y nadie publicó todavía una medición de su salida real. Para electrodomésticos con motor o resistencia, no.",
+    specs: [
+      { label: "Marca", value: "TRV Electronics" },
+      { label: "Línea", value: "Powersafe" },
+      { label: "Modelo", value: "Powersafe 3i" },
+      { label: "Color", value: "Negro" },
+      { label: "Tipo de producto", value: "Estabilizador" },
+      { label: "Cantidad de tomas", value: "6" },
+      { label: "Protección de línea", value: "RJ45 (internet / teléfono)" },
+      { label: "Potencia nominal (declarada)", value: "1.000 VA" },
+      { label: "Potencia pico (declarada)", value: "4.000 VA" },
+      { label: "Voltaje de entrada y salida", value: "220V (monovolt)" },
+      { label: "Rango de voltaje de entrada", value: "175 a 265 V" },
+      { label: "Indicador LED", value: "Sí" },
+      { label: "Peso", value: "1,62 kg" },
+      { label: "Garantía", value: "2 años de fábrica" },
+    ],
+    relatedProducts: ["MLA6208662", "MLA22855241", "MLAU307533919", "MLA27112708"],
+    articleBody: `## Qué es el TRV Powersafe 3i
+
+Es un estabilizador de tensión de 6 tomas de TRV Electronics, con conexión RJ45 para proteger también la línea de internet o de teléfono. Tiene {{rating:MLA19892973}} estrellas en {{reviews:MLA19892973}} calificaciones en MercadoLibre Argentina y se vende a {{precio:MLA19892973}}. Viene con 2 años de garantía de fábrica.
+
+## 1000 W en el título, 1.000 VA en la ficha
+
+Acá está la letra chica. El título de la publicación dice "1000w", pero la ficha técnica declara **1.000 VA de potencia nominal**. No es un detalle de nomenclatura: los VA (potencia aparente) y los W (potencia real) son medidas distintas, y la relación entre ambas depende de lo que enchufes. Como referencia, en la [Lyonn TCA 1200VA](/producto/estabilizador-de-tension-lyonn-tca-1200va-mla6208662) un comprador midió una salida de 616 W, bastante menos de lo que sugiere el nombre: una sola medición, pero un buen motivo para no exigirle al equipo el máximo de lo que declara.
+
+Para el Powersafe 3i no hay una medición así publicada. Así que la regla prudente es la misma: usalo para equipos de consumo moderado y no lo exijas al límite.
+
+## Y los 4000 VA de "potencia pico"
+
+La ficha también declara 4.000 VA de potencia pico. Ese número describe un instante, no lo que el equipo banca de forma sostenida. No sirve para decidir qué le enchufás.
+
+## Para qué sirve
+
+Para una PC de escritorio, un monitor, el router y el módem, una tele o una consola: equipos electrónicos sensibles a los picos y bajones de tensión, pero de consumo moderado. El RJ45 suma protección para la línea de internet, que es por donde también puede entrar un pico.
+
+## Para qué no
+
+Para heladera, freezer, microondas, estufa eléctrica, lavarropas o impresora láser. Son cargas con motor o resistencia, con picos de consumo que un estabilizador de 1.000 VA nominales no tiene por qué aguantar. Para una heladera, mirá un equipo de 1 toma pensado para eso, como la [Lyonn de 2000 VA para heladeras](/producto/estabilizador-de-tension-lyonn-2000va-para-heladeras-mla27112708).
+
+## Frente a los otros TRV
+
+Frente al [Powersafe 2i](/producto/estabilizador-de-tension-trv-powersafe-2i-6-tomas-rj45-mla22855241), que cuesta menos, el 3i declara el doble de potencia nominal (1.000 VA contra 500 VA) y un rango de entrada un poco más amplio. Frente al [Powersafe Gamer](/producto/estabilizador-de-tension-trv-powersafe-gamer-6-tomas-rj45-usb-mlau307533919), declara la misma potencia nominal sin los puertos USB, y con muchas más calificaciones.
+
+## Para quién es, y para quién no
+
+Es para vos si querés proteger el escritorio completo (PC, monitor, router) con garantía larga y protección de la línea de internet.
+
+No es para vos si lo que querés proteger es un electrodoméstico grande. Ahí la potencia declarada no alcanza para confiarse.`,
+    faq: [
+      { question: "¿Es de 1000 W o de 1000 VA?", answer: "La ficha técnica declara 1.000 VA de potencia nominal, aunque el título de la publicación diga 1000W. Son medidas distintas: la potencia real en watts suele ser menor que los VA nominales." },
+      { question: "¿Sirve para una heladera?", answer: "No lo recomendamos. No hay una medición de su salida real, y el arranque del compresor de una heladera pide mucho más que el consumo normal. Para eso conviene un equipo de 1 toma pensado para heladeras." },
+      { question: "¿Para qué sirve el puerto RJ45?", answer: "Para proteger la línea de internet o de teléfono: el cable de red pasa por el estabilizador antes de llegar al router o al módem." },
+      { question: "¿Qué rango de tensión de entrada soporta?", answer: "De 175 a 265 V, según la ficha técnica, con ajuste automático." },
+      { question: "¿Cuánta garantía tiene?", answer: "2 años de garantía de fábrica, según la publicación." },
+      { question: "¿Mantiene los equipos prendidos si se corta la luz?", answer: "No. Es un estabilizador, no una UPS: no tiene batería. Si se corta la luz, se apaga todo lo que tenga enchufado." },
+    ],
+  },
+  {
+    id: "MLA22764711",
+    title: "Estabilizador Automático Lyonn TCA3000NV 3000VA 2100W",
+    canonicalName: "Lyonn TCA3000NV",
+    brand: "Lyonn",
+    mpn: "TCA3000NV",
+    price: 225094,
+    originalPrice: 306000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_919415-MLA116032012019_082026-F.webp",
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA22764711",
+    affiliateUrl: "https://meli.la/26MKM4E",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 319,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 1000,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceVerifiedAt: "2026-11-11",
+    priceStatus: "fresh",
+    seoTitle: "Lyonn TCA3000NV: el estabilizador grande, ¿vale la pena?",
+    metaDescription: "Lyonn TCA3000NV a {{precio:MLA22764711}}: 2100 VA nominales, pantalla LCD y 4 tomas. Un comprador avisa que pide un enchufe de pared de 20A.",
+    description: "Estabilizador automático de 2.100 VA nominales (3.000 VA pico) con 4 tomas, pantalla LCD de tensión de entrada y salida, función delay y 12 meses de garantía.",
+    pros: [
+      "La mayor potencia nominal declarada de esta comparativa: 2.100 VA",
+      "Pantalla LCD que muestra la tensión de entrada y la de salida, así ves qué está pasando en tu red",
+      "Función delay: espera antes de devolver la corriente cuando vuelve la luz, para no castigar los equipos con el primer pico",
+      "Control por microprocesador y supresor de picos, según el fabricante",
+      "{{rating:MLA22764711}} estrellas en {{reviews:MLA22764711}} calificaciones",
+    ],
+    cons: [
+      "Tiene 4 tomas, no 6 como los estabilizadores de escritorio de esta comparativa",
+      "Un comprador avisa que necesita un enchufe de pared de 20A, y que la publicación no lo dice: si no lo tenés, hay que llamar a un electricista",
+      "El mismo comprador señala que no tiene un fusible accesible para cambiar a mano",
+      "Es, por lejos, el más caro de la comparativa",
+      "La ficha técnica carga el rango de entrada de forma ambigua (\"140v 240v, 180-240\"), así que no podemos confirmarte un rango exacto",
+      "Solo 12 meses de garantía de fábrica, menos que los de 24 meses de esta comparativa",
+    ],
+    verdict: "Si tenés varios equipos juntos (dos PCs, un servidor casero, router, monitores) y querés margen, es el que más potencia nominal declara de esta comparativa, con pantalla para ver la tensión de entrada y salida y función delay. Antes de comprarlo, dos cosas: según un comprador, pide un enchufe de pared de 20A que la publicación no menciona, y tiene 4 tomas, no 6. Como el resto, declara VA nominales, no una potencia real medida.",
+    specs: [
+      { label: "Marca", value: "Lyonn" },
+      { label: "Línea", value: "TCA" },
+      { label: "Modelo", value: "TCA3000NV" },
+      { label: "Color", value: "Negro" },
+      { label: "Tipo de producto", value: "Estabilizador automático" },
+      { label: "Cantidad de tomas", value: "4" },
+      { label: "Potencia nominal (declarada)", value: "2.100 VA" },
+      { label: "Potencia pico (declarada)", value: "3.000 VA" },
+      { label: "Voltaje de salida", value: "220V" },
+      { label: "Voltaje de entrada CA (según ficha)", value: "110/220V" },
+      { label: "Pantalla", value: "LCD con tensión de entrada y salida" },
+      { label: "Función delay", value: "Sí" },
+      { label: "Botón de encendido", value: "Sí" },
+      { label: "Ruido máximo", value: "40 dB" },
+      { label: "Peso", value: "6,8 kg" },
+      { label: "Dimensiones", value: "23 cm de ancho x 13,3 cm de profundidad x 18,2 cm de alto" },
+      { label: "Garantía", value: "12 meses de fábrica" },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "Me parece estético, bueno en materiales, terminaciones y no hace ruido. Al principio pensé que no elevaba pero cuando baja los 201v sube la salida a 235-240v [...] Me olvidaba, necesita un enchufe de pared de 20a, no lo tenia y no vi que lo dijera, con lo cual estuve un día sin poder usarlo y el que no sabe de electricidad tiene que llamar a un electricista para que lo coloque.", useful: 9 },
+    ],
+    relatedProducts: ["MLA6208662", "MLA27112708", "MLA19892973", "MLA21829301"],
+    articleBody: `## Qué es el Lyonn TCA3000NV
+
+Es el estabilizador más grande de la línea TCA de Lyonn: declara 2.100 VA de potencia nominal y 3.000 VA de pico, pesa 6,8 kg y tiene pantalla LCD. Tiene {{rating:MLA22764711}} estrellas en {{reviews:MLA22764711}} calificaciones en MercadoLibre Argentina y se vende a {{precio:MLA22764711}}.
+
+## Qué hace distinto
+
+Según el fabricante, el control es por microprocesador, tiene supresor de picos y una **función delay** que, cuando vuelve la luz después de un corte, espera unos segundos antes de devolver la corriente. Es justo el momento en que la red llega más sucia. La **pantalla LCD** muestra la tensión que entra y la que sale, algo útil si sospechás que tu red anda baja o alta.
+
+## El dato que la publicación no dice: el enchufe de 20A
+
+La reseña más útil que encontramos es de 4 estrellas, y avisa algo concreto: **"necesita un enchufe de pared de 20a, no lo tenia y no vi que lo dijera, con lo cual estuve un día sin poder usarlo"**. El mismo comprador cuenta que, cuando la red baja de 201 V, la salida sube a 235-240 V, y que no tiene un fusible accesible para cambiar a mano. Revisá qué toma tenés en la pared antes de comprarlo.
+
+## 4 tomas, no 6
+
+Pese al tamaño, tiene 4 tomas. Los estabilizadores de escritorio de esta comparativa (la Lyonn TCA 1200VA y los TRV Powersafe) tienen 6. Si vas a enchufar muchas cosas, sumá una zapatilla de calidad detrás.
+
+## La potencia: VA nominales, no watts medidos
+
+El título dice "3000VA 2100W", y la ficha técnica carga 2.100 VA como potencia nominal. VA (potencia aparente) y W (potencia activa) no son lo mismo: cuánto se parecen depende del factor de potencia de lo que enchufes. Como en toda la categoría, son valores declarados por el fabricante: no hay una medición independiente de su salida real. Para otro modelo de la misma línea, la [Lyonn TCA 1200VA](/producto/estabilizador-de-tension-lyonn-tca-1200va-mla6208662), un comprador midió 616 W de salida, bastante por debajo de los 1200 VA nominales — una sola medición, no un ensayo de laboratorio. No hay por qué suponer que acá pase exactamente lo mismo, pero sí conviene no exigirle al equipo el máximo de lo declarado.
+
+## El rango de entrada, cargado de forma ambigua
+
+La ficha técnica de MercadoLibre dice "140v 240v,180-240" como rango de entrada. Puede leerse de dos formas, así que no te vamos a confirmar un número exacto.
+
+## Para quién es, y para quién no
+
+Es para vos si tenés varios equipos juntos (dos computadoras, un servidor casero, monitores, router y módem) y querés la mayor potencia nominal declarada de la comparativa, con pantalla para ver tu red.
+
+No es para vos si solo querés proteger una PC o una tele: la Lyonn TCA 1200VA o un TRV Powersafe te resuelven eso por mucho menos. Y tampoco si no tenés, o no querés instalar, un enchufe de 20A.`,
+    faq: [
+      { question: "¿Necesita un enchufe especial?", answer: "Según un comprador, sí: necesita un enchufe de pared de 20A, y la publicación no lo aclara. Si no lo tenés, hay que pedirle a un electricista que lo instale." },
+      { question: "¿Cuántas tomas tiene?", answer: "4, según la ficha técnica. Menos que los estabilizadores de escritorio de 6 tomas, pese a ser bastante más grande." },
+      { question: "¿Cuánta potencia banca?", answer: "Declara 2.100 VA nominales y 3.000 VA de pico. No hay una medición independiente de su salida real, y en esta categoría la potencia real suele ser menor que la nominal." },
+      { question: "¿Qué muestra la pantalla?", answer: "La tensión de entrada y la de salida, según el fabricante." },
+      { question: "¿Qué es la función delay?", answer: "Cuando vuelve la luz después de un corte, espera un momento antes de devolver la corriente a los equipos, para que no reciban el pico del regreso." },
+      { question: "¿Cuánta garantía tiene?", answer: "12 meses de garantía de fábrica, según la publicación." },
+      { question: "¿Sirve como UPS si se corta la luz?", answer: "No. Es un estabilizador, no tiene batería: si se corta la luz, se apaga lo que tenga enchufado." },
+    ],
+  },
+  {
+    id: "MLA27112708",
+    title: "Estabilizador de Tensión Lyonn 2000VA para Heladeras",
+    canonicalName: "Lyonn TCA-2000N",
+    brand: "Lyonn",
+    mpn: "TCA-2000N",
+    price: 65720,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_909154-MLA99475406972_112025-F.webp",
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA27112708",
+    affiliateUrl: "https://meli.la/2QcKLMr",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 969,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 1000,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceVerifiedAt: "2026-11-11",
+    priceStatus: "fresh",
+    seoTitle: "Estabilizador Lyonn 2000VA para heladeras: ¿la protege?",
+    metaDescription: "Lyonn TCA-2000N a {{precio:MLA27112708}}: 1 toma, 2000 VA declarados y 24 meses de garantía, pensado para heladeras. Qué está verificado y qué no.",
+    description: "Estabilizador de 1 toma con regulación automática (AVR), 2.000 VA declarados, rango de entrada de 176 a 275 V y 24 meses de garantía, posicionado por el fabricante para heladeras.",
+    pros: [
+      "Pensado para un solo aparato grande: el fabricante lo posiciona específicamente para heladeras",
+      "2.000 VA declarados, la potencia más alta de los equipos compactos de esta comparativa",
+      "El rango de entrada declarado más amplio de la comparativa: de 176 a 275 V",
+      "Regulación automática (LED AVR) y protecciones contra sobretemperatura, baja tensión y sobretensión",
+      "24 meses de garantía de fábrica",
+    ],
+    cons: [
+      "Tiene 1 sola toma: protege un aparato, no un escritorio entero",
+      "Que \"maneja heladeras\" lo dice el vendedor: no encontramos una medición independiente que confirme que aguanta el arranque de un compresor real",
+      "La ficha técnica también lo lista como apto para \"Impresoras láser\", el mismo campo que en la Lyonn TCA 1200VA resultó no ser cierto según la medición de un comprador",
+      "Las medidas que declara la ficha técnica no coinciden con las de la descripción del vendedor, así que no las publicamos",
+    ],
+    verdict: "Es el equipo de esta comparativa que el fabricante pensó para la heladera: 1 toma, 2.000 VA declarados, regulación automática, un rango de entrada amplio (176 a 275 V, similar al de la Lyonn TCA 1200VA) y 24 meses de garantía. Lo honesto: que aguanta el arranque de un compresor lo dice el vendedor, no una medición independiente — a diferencia de la Lyonn TCA 1200VA, donde un comprador sí midió la salida real (616 W de los 1200 VA nominales, una sola medición de un solo usuario). Con {{rating:MLA27112708}} estrellas en {{reviews:MLA27112708}} calificaciones, es la opción más razonable de la lista para una heladera, sin promesas que no podemos verificar.",
+    specs: [
+      { label: "Marca", value: "Lyonn" },
+      { label: "Línea", value: "TCA" },
+      { label: "Modelo", value: "TCA-2000N-V" },
+      { label: "Color", value: "Negro" },
+      { label: "Tipo de producto", value: "Estabilizador de 1 toma" },
+      { label: "Cantidad de tomas", value: "1" },
+      { label: "Potencia nominal (declarada)", value: "2.000 VA" },
+      { label: "Potencia pico (declarada)", value: "2.000 VA" },
+      { label: "Voltaje de entrada y salida", value: "220V (monovolt)" },
+      { label: "Rango de voltaje de entrada", value: "176 a 275 V" },
+      { label: "Indicadores", value: "LED de encendido, LED AVR, LED de bajo voltaje" },
+      { label: "Protecciones (según vendedor)", value: "Sobretemperatura, baja tensión, sobretensión" },
+      { label: "Botón de encendido", value: "Sí" },
+      { label: "Ruido máximo", value: "40 dB" },
+      { label: "Peso", value: "1,95 kg" },
+      { label: "Garantía", value: "24 meses de fábrica" },
+    ],
+    relatedProducts: ["MLA21829301", "MLA6208662", "MLA22764711", "MLA19892973"],
+    articleBody: `## Qué es la Lyonn TCA-2000N
+
+Es un estabilizador de tensión de **una sola toma** de Lyonn, que el propio fabricante posiciona para heladeras. Declara 2.000 VA, tiene {{rating:MLA27112708}} estrellas en {{reviews:MLA27112708}} calificaciones en MercadoLibre Argentina y se vende a {{precio:MLA27112708}}, con 24 meses de garantía de fábrica.
+
+## Por qué una heladera necesita algo distinto
+
+Una heladera no consume parejo: cada vez que arranca el compresor, durante un instante pide bastante más que su consumo normal. Si en ese momento la tensión de tu red está baja, o vuelve la luz con un pico después de un corte, el compresor es lo que sufre. Por eso los equipos para heladera son de 1 toma: protegen un aparato puntual, enchufado directo.
+
+## Lo que declara
+
+2.000 VA de potencia, regulación automática (la ficha técnica lista un LED AVR, la sigla de regulación automática de voltaje) y protecciones contra sobretemperatura, baja tensión y sobretensión. Su rango de entrada declarado, de 176 a 275 V, es el más amplio de esta comparativa.
+
+## Lo que no está verificado
+
+Que "maneja heladeras de forma eficiente" lo dice el vendedor, no una prueba independiente. No encontramos una medición de su salida real como la que sí existe para la [Lyonn TCA 1200VA](/producto/estabilizador-de-tension-lyonn-tca-1200va-mla6208662), donde un comprador midió 616 W reales para un equipo que se llama "1200VA". No quiere decir que este no cumpla. Quiere decir que no te lo podemos asegurar con un dato.
+
+Hay otro detalle: la ficha técnica lo lista como apto para "Impresoras láser". Es exactamente el campo que, en la Lyonn TCA 1200VA, resultó no ser cierto. No lo tomaríamos como garantía.
+
+## Frente al protector Alumine
+
+El [protector Alumine Pro 2000](/producto/protector-de-tension-alumine-pro-2000-para-heladeras-mla21829301) también es de 1 toma y también se vende para heladeras, por bastante menos. La diferencia: la Lyonn declara regulación automática, un rango de entrada más amplio y 24 meses de garantía; el Alumine es un protector con 30 días de garantía. Si tu red tiene bajones frecuentes, la Lyonn es la apuesta más completa; si solo querés cortar ante una tensión peligrosa, el Alumine cumple por menos plata.
+
+## Para quién es, y para quién no
+
+Es para vos si querés proteger la heladera o el freezer con un equipo dedicado, con garantía larga y regulación automática.
+
+No es para vos si querés proteger varios equipos a la vez: tiene una sola toma. Para el escritorio, mirá la Lyonn TCA 1200VA o un TRV Powersafe de 6 tomas.`,
+    faq: [
+      { question: "¿Sirve para una heladera?", answer: "El fabricante lo posiciona específicamente para heladeras y declara 2.000 VA. No encontramos una medición independiente que confirme que aguanta el arranque de un compresor real, así que es lo que declara el vendedor, no algo que hayamos podido verificar." },
+      { question: "¿Cuántas tomas tiene?", answer: "Una sola. Está pensado para un aparato puntual, como la heladera o el freezer." },
+      { question: "¿Qué rango de tensión soporta?", answer: "De 176 a 275 V de entrada, según la ficha técnica: el rango declarado más amplio de esta comparativa." },
+      { question: "¿Qué diferencia hay con un protector de tensión?", answer: "Un protector corta la corriente cuando la tensión se va de rango. Este Lyonn además declara regulación automática (AVR), que corrige la tensión dentro de un rango en vez de solo cortar." },
+      { question: "¿Cuánta garantía tiene?", answer: "24 meses de garantía de fábrica, según la publicación." },
+      { question: "¿Sirve para una impresora láser?", answer: "La ficha técnica lo dice, pero es el mismo campo que en la Lyonn TCA 1200VA resultó falso según la medición de un comprador. No lo tomaríamos como garantía." },
+    ],
+  },
+  {
+    id: "MLA22855241",
+    title: "Estabilizador de Tensión TRV Powersafe 2i 6 Tomas RJ45",
+    canonicalName: "TRV Powersafe 2i",
+    brand: "TRV Electronics",
+    mpn: "POWERSAFE 2I",
+    price: 58030,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_945045-MLU69105078523_042023-F.webp",
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA22855241",
+    affiliateUrl: "https://meli.la/2qHPWWL",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 1526,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 1000,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceVerifiedAt: "2026-11-11",
+    priceStatus: "fresh",
+    seoTitle: "TRV Powersafe 2i: ¿2000 VA o 500 VA? La letra chica",
+    metaDescription: "TRV Powersafe 2i a {{precio:MLA22855241}}: 6 tomas y RJ45. El título dice 2000VA, pero la ficha declara 500 VA nominales. Para qué alcanza.",
+    description: "Estabilizador de 6 tomas con RJ45, 500 VA nominales declarados (2.000 VA de pico), rango de entrada de 180 a 260 V y 24 meses de garantía.",
+    pros: [
+      "Uno de los estabilizadores de 6 tomas más económicos de esta comparativa",
+      "{{rating:MLA22855241}} estrellas en {{reviews:MLA22855241}} calificaciones, el tercero con más opiniones de la lista",
+      "6 tomas más conexión RJ45 para la línea de internet o teléfono",
+      "24 meses de garantía de fábrica",
+      "Rango de estabilización de salida declarado del 8%",
+    ],
+    cons: [
+      "El \"2000va\" del título es la potencia PICO: la ficha técnica declara solo 500 VA de potencia nominal, la más baja de esta comparativa",
+      "Con 500 VA nominales, es para equipos chicos: router, módem, notebook, una tele. Para una PC gamer exigente, mejor el Powersafe 3i (1.000 VA)",
+      "La descripción del vendedor lo presenta como apto para heladeras y freezers; con 500 VA nominales declarados, no lo usaríamos para eso",
+      "No encontramos en la ficha una salida conmutable a 110 V: la ficha declara salida de 220 V y equipo monovolt",
+    ],
+    verdict: "Con {{rating:MLA22855241}} estrellas en {{reviews:MLA22855241}} calificaciones, es uno de los estabilizadores de 6 tomas más económicos de la comparativa, con RJ45 y 24 meses de garantía. Pero hay que leer la ficha: el \"2000va\" del título es potencia pico, y la nominal declarada es de 500 VA, la más baja del grupo. Ideal para el router, el módem, una notebook o la tele. Para una PC de escritorio potente, el Powersafe 3i declara el doble.",
+    specs: [
+      { label: "Marca", value: "TRV Electronics" },
+      { label: "Línea", value: "Powersafe" },
+      { label: "Modelo", value: "Powersafe 2i" },
+      { label: "Color", value: "Negro" },
+      { label: "Tipo de producto", value: "Estabilizador" },
+      { label: "Cantidad de tomas", value: "6" },
+      { label: "Protección de línea", value: "RJ45 (internet / teléfono)" },
+      { label: "Potencia nominal (declarada)", value: "500 VA" },
+      { label: "Potencia pico (declarada)", value: "2.000 VA" },
+      { label: "Rango de estabilización de salida", value: "8%" },
+      { label: "Voltaje de salida", value: "220V (monovolt)" },
+      { label: "Rango de voltaje de entrada", value: "180 a 260 V" },
+      { label: "Botón de encendido", value: "Sí" },
+      { label: "Indicador LED", value: "Sí" },
+      { label: "Garantía", value: "24 meses de fábrica" },
+    ],
+    relatedProducts: ["MLA19892973", "MLA6208662", "MLAU307533919", "MLA21829301"],
+    articleBody: `## Qué es el TRV Powersafe 2i
+
+Es uno de los estabilizadores de 6 tomas más económicos de esta comparativa: {{precio:MLA22855241}}, con conexión RJ45 para la línea de internet y 24 meses de garantía de fábrica. Tiene {{rating:MLA22855241}} estrellas en {{reviews:MLA22855241}} calificaciones en MercadoLibre Argentina.
+
+## El "2000va" del título es la potencia pico
+
+El título de la publicación dice "2000va", y es fácil leerlo como la potencia del equipo. No lo es. La ficha técnica declara **2.000 VA de potencia pico y 500 VA de potencia nominal**. La pico describe un instante; la nominal es lo que el estabilizador está pensado para bancar de forma sostenida. Y los 500 VA son la potencia nominal más baja de toda la comparativa.
+
+Encima, como pasa en toda la categoría, la nominal en VA no es la potencia real en watts. En la [Lyonn TCA 1200VA](/producto/estabilizador-de-tension-lyonn-tca-1200va-mla6208662) un comprador midió 616 W reales. Para el Powersafe 2i no hay una medición publicada.
+
+## Para qué alcanza
+
+Para el router, el módem, una notebook, un monitor, una tele o una consola. Equipos electrónicos de consumo bajo, que son justamente los que más sufren un pico de tensión y los que menos potencia piden.
+
+## Para qué no
+
+La descripción del vendedor menciona heladeras y freezers entre los equipos que protege la familia Powersafe. Con 500 VA nominales declarados, no lo usaríamos para eso, ni para microondas, estufa o impresora láser. Una PC gamer con placa de video potente también puede quedarle grande: ahí conviene el [Powersafe 3i](/producto/estabilizador-de-tension-trv-powersafe-3i-6-tomas-rj45-1000va-mla19892973), que declara el doble.
+
+## Sobre la salida a 110 V
+
+En algunos lugares se lo menciona como un equipo con salida conmutable 110/220 V. En la ficha técnica que verificamos no aparece: declara salida de 220 V y lo clasifica como monovolt. Si tenés un equipo importado de 110 V, no cuentes con este estabilizador para alimentarlo.
+
+## Para quién es, y para quién no
+
+Es para vos si querés proteger el router, el módem y la tele gastando poco en un estabilizador de 6 tomas, con garantía de 2 años.
+
+No es para vos si vas a enchufar una PC potente o un electrodoméstico: la potencia nominal declarada es la más baja de la comparativa.`,
+    faq: [
+      { question: "¿Es de 2000 VA?", answer: "No exactamente: 2.000 VA es la potencia pico declarada. La potencia nominal, la que banca de forma sostenida, es de 500 VA según la ficha técnica." },
+      { question: "¿Sirve para una PC gamer?", answer: "Para una PC con placa de video potente puede quedar justo. El Powersafe 3i declara el doble de potencia nominal (1.000 VA) y es una opción más tranquila." },
+      { question: "¿Sirve para una heladera?", answer: "No lo recomendamos. Con 500 VA nominales declarados, no tiene margen para el arranque de un compresor." },
+      { question: "¿Tiene salida de 110 V?", answer: "No en la ficha técnica que verificamos: declara salida de 220 V y equipo monovolt." },
+      { question: "¿Qué rango de tensión de entrada soporta?", answer: "De 180 a 260 V, según la ficha técnica." },
+      { question: "¿Cuánta garantía tiene?", answer: "24 meses de garantía de fábrica, según la publicación." },
+    ],
+  },
+  {
+    id: "MLA21829301",
+    title: "Protector de Tensión Alumine Pro 2000 para Heladeras",
+    canonicalName: "Alumine Pro 2000",
+    brand: "Alumine",
+    mpn: "PRO2000",
+    price: 16660,
+    originalPrice: 19600,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_916093-MLA99525620932_122025-F.webp",
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA21829301",
+    affiliateUrl: "https://meli.la/2cMBb2i",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.7,
+    reviewCount: 3416,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 10000,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceVerifiedAt: "2026-11-11",
+    priceStatus: "fresh",
+    seoTitle: "Protector de tensión Alumine Pro 2000: ¿alcanza?",
+    metaDescription: "Alumine Pro 2000 a {{precio:MLA21829301}}: protector de 1 toma para heladera, TV o aire, {{reviews:MLA21829301}} calificaciones. Qué hace y qué no hace.",
+    description: "Protector de tensión de 1 toma, 2.000 VA declarados, rango de 182 a 242 V. Protege un solo aparato; el fabricante lo declara apto para heladera o tele, sin que exista una medición independiente que lo confirme. 30 días de garantía.",
+    pros: [
+      "Por lejos, el más barato de esta comparativa",
+      "El más calificado de la lista después de la Lyonn TCA 1200VA: {{rating:MLA21829301}} estrellas en {{reviews:MLA21829301}} calificaciones",
+      "Apunta al caso más común: proteger un solo aparato (heladera, freezer, tele, aire) sin comprar un estabilizador grande; la aptitud para heladera la declara el fabricante, no una medición independiente",
+      "Se enchufa directo a la pared y el aparato se enchufa en él, sin instalación",
+    ],
+    cons: [
+      "Es un protector, no un estabilizador de varias tomas: protege un solo aparato",
+      "Su rango de entrada declarado (182 a 242 V) es el más angosto de la comparativa",
+      "Solo 30 días de garantía de fábrica, muy por debajo de los 12 a 24 meses de los estabilizadores de esta lista",
+      "La descripción de la publicación es genérica y no aclara cómo actúa ni con qué demora reconecta",
+    ],
+    verdict: "Mucha gente busca \"estabilizador\" cuando lo único que quiere es que la heladera no se queme con un pico o un bajón. Para eso existe este protector: 1 toma, se enchufa entre la pared y el aparato, cuesta una fracción de un estabilizador y tiene {{rating:MLA21829301}} estrellas en {{reviews:MLA21829301}} calificaciones. Que sirva para heladeras lo declara el fabricante; no tenemos una medición independiente que lo confirme, como sí la hay (de un comprador) para la Lyonn TCA 1200VA. Lo que no hace: proteger varios equipos a la vez ni darte garantía larga (30 días). Para un solo electrodoméstico y poca plata, es la opción más lógica de la lista.",
+    specs: [
+      { label: "Marca", value: "Alumine" },
+      { label: "Línea", value: "Protección" },
+      { label: "Modelo", value: "Pro 2000" },
+      { label: "Color", value: "Blanco" },
+      { label: "Tipo de producto", value: "Protector de tensión" },
+      { label: "Cantidad de tomas", value: "1" },
+      { label: "Potencia nominal (declarada)", value: "2.000 VA" },
+      { label: "Voltaje de entrada y salida", value: "220V" },
+      { label: "Rango de voltaje de entrada", value: "182 a 242 V" },
+      { label: "Indicador LED", value: "Sí" },
+      { label: "Aparatos aptos (según ficha)", value: "Heladeras, freezers, compresores, televisores, consolas, notebooks, proyectores" },
+      { label: "Garantía", value: "30 días de fábrica" },
+    ],
+    relatedProducts: ["MLA27112708", "MLA6208662", "MLA22855241", "MLA19892973"],
+    articleBody: `## Qué es el Alumine Pro 2000
+
+Es un **protector de tensión** de una sola toma, de la marca argentina Alumine. Se enchufa directo en la pared y el aparato que querés proteger se enchufa en él. Tiene {{rating:MLA21829301}} estrellas en {{reviews:MLA21829301}} calificaciones en MercadoLibre Argentina y se vende a {{precio:MLA21829301}}, una fracción de lo que cuesta cualquier estabilizador de esta comparativa.
+
+## Protector no es lo mismo que estabilizador
+
+Un estabilizador de varias tomas está pensado para varios equipos electrónicos a la vez (la PC, el monitor, el router) y regula la tensión dentro de un rango. Un protector como este está pensado para **un aparato puntual**, típicamente un electrodoméstico: su trabajo es que una tensión peligrosa no le llegue. Por eso es más barato: hace menos, y lo hace para un solo enchufe.
+
+La descripción de la publicación habla de "corregir las variaciones de voltaje", pero es un texto genérico que no aclara cómo actúa ni con qué demora reconecta cuando vuelve la luz. Lo que sí declara la ficha: 2.000 VA y un rango de entrada de 182 a 242 V, el más angosto de esta comparativa.
+
+## Para qué sirve
+
+Para el caso más común de todos: proteger la heladera, el freezer, la tele o el aire de un pico o un bajón de tensión, sin gastar en un estabilizador grande que después vas a usar con un solo enchufe. La ficha técnica lo lista como apto para heladeras, freezers, compresores, televisores, consolas y notebooks.
+
+## Lo que hay que saber
+
+La garantía es de 30 días de fábrica, muy por debajo de los 12 a 24 meses de los estabilizadores de esta comparativa. Y como el resto de la lista, los 2.000 VA son un valor declarado, no una potencia medida de forma independiente.
+
+## Frente a la Lyonn para heladeras
+
+La [Lyonn TCA-2000N](/producto/estabilizador-de-tension-lyonn-2000va-para-heladeras-mla27112708) también es de 1 toma y para heladeras, pero declara regulación automática, un rango de entrada más amplio (176 a 275 V) y 24 meses de garantía. Cuesta varias veces más. Si tu red tiene bajones seguidos, la Lyonn es la apuesta más completa; si querés una protección básica por poca plata, este Alumine es la opción lógica.
+
+## Para quién es, y para quién no
+
+Es para vos si querés proteger un solo electrodoméstico gastando lo mínimo.
+
+No es para vos si querés proteger un escritorio con varios equipos (para eso, un estabilizador de 6 tomas como la [Lyonn TCA 1200VA](/producto/estabilizador-de-tension-lyonn-tca-1200va-mla6208662)) o si te importa tener una garantía larga.`,
+    faq: [
+      { question: "¿Es un estabilizador?", answer: "Se vende como protector de tensión. Protege un solo aparato, enchufado directo, y no es un estabilizador de varias tomas para un escritorio." },
+      { question: "¿Sirve para la heladera?", answer: "La ficha técnica lo lista como apto para heladeras, freezers y compresores, y es uno de sus usos más comunes. Como en toda la categoría, los 2.000 VA son declarados, no medidos de forma independiente." },
+      { question: "¿Cuántas tomas tiene?", answer: "Una sola." },
+      { question: "¿Qué rango de tensión soporta?", answer: "De 182 a 242 V de entrada, según la ficha técnica. Es el rango más angosto de esta comparativa." },
+      { question: "¿Cuánta garantía tiene?", answer: "30 días de garantía de fábrica, según la publicación." },
+      { question: "¿Por qué es tanto más barato que un estabilizador?", answer: "Porque hace menos: protege un solo aparato, en vez de varios equipos a la vez, y no declara la regulación automática de tensión que sí declaran los estabilizadores de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLAU307533919",
+    title: "Estabilizador de Tensión TRV Powersafe Gamer 6 Tomas RJ45 USB",
+    canonicalName: "TRV Powersafe Gamer",
+    brand: "TRV Electronics",
+    mpn: "Powersafe Gamer",
+    price: 93491,
+    originalPrice: 101256,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_942827-MLA94047209055_102025-F.webp",
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/estabilizador-tension-trv-powersafe-gamer-6-tomas-rj45-usb/up/MLAU307533919",
+    affiliateUrl: "https://meli.la/2uzBf1j",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 7,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 50,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceVerifiedAt: "2026-11-11",
+    priceStatus: "fresh",
+    seoTitle: "TRV Powersafe Gamer: ¿vale lo que cuesta de más?",
+    metaDescription: "TRV Powersafe Gamer a {{precio:MLAU307533919}}: 6 tomas, RJ45 y 2 puertos USB. Misma potencia nominal declarada que el 3i y muy pocas opiniones todavía.",
+    description: "Estabilizador de 6 tomas con RJ45 y 2 puertos USB, 1.000 VA nominales declarados (4.000 VA pico), rango de entrada de 180 a 260 V. Pocas calificaciones todavía.",
+    pros: [
+      "6 tomas, conexión RJ45 y 2 puertos USB según la ficha técnica, el único de la comparativa con USB",
+      "1.000 VA de potencia nominal declarada, igual que el Powersafe 3i",
+      "Ruido máximo declarado de 20 dB, el más bajo de los que lo informan",
+      "Rango de estabilización de salida declarado del 8%",
+    ],
+    cons: [
+      "Apenas {{reviews:MLAU307533919}} calificaciones: el {{rating:MLAU307533919}} de promedio todavía no dice mucho",
+      "Cuesta bastante más que el Powersafe 3i, que declara la misma potencia nominal y tiene 2 años de garantía de fábrica",
+      "La ficha técnica no aclara si los puertos USB son de carga o de comunicación (también lista \"Interfaces de comunicación: COM, USB\")",
+      "La ficha técnica mezcla campos de UPS (\"Tipo de UPS: Online\", \"Tiempo máximo de carga: 4 h\", alarma de \"modo batería\") que no se explican en ningún lado: no lo compres esperando una batería de respaldo",
+      "La garantía que figura en la descripción es del vendedor, por 2 meses",
+    ],
+    verdict: "Es el estabilizador \"gamer\" de TRV: 6 tomas, RJ45 y 2 puertos USB, con 1.000 VA nominales declarados. El problema es la comparación con su propio hermano: el Powersafe 3i declara la misma potencia nominal, tiene 2 años de garantía de fábrica, muchas más calificaciones y cuesta menos. Con solo {{reviews:MLAU307533919}} calificaciones, el {{rating:MLAU307533919}} de promedio todavía no es una señal confiable. Lo elegiría solo si los USB te resuelven algo concreto.",
+    specs: [
+      { label: "Marca", value: "TRV Electronics" },
+      { label: "Línea", value: "Powersafe" },
+      { label: "Modelo", value: "Powersafe Gamer (RJ 45)" },
+      { label: "Color", value: "Negro" },
+      { label: "Tipo de producto", value: "Estabilizador" },
+      { label: "Cantidad de tomas", value: "6" },
+      { label: "Puertos USB", value: "2 (la ficha no aclara si son de carga)" },
+      { label: "Protección de línea", value: "RJ45" },
+      { label: "Potencia nominal (declarada)", value: "1.000 VA" },
+      { label: "Potencia pico (declarada)", value: "4.000 VA" },
+      { label: "Rango de estabilización de salida", value: "8%" },
+      { label: "Voltaje de entrada y salida", value: "220V (monovolt)" },
+      { label: "Rango de voltaje de entrada", value: "180 a 260 V" },
+      { label: "Ruido máximo", value: "20 dB" },
+      { label: "Peso", value: "2,27 kg" },
+      { label: "Dimensiones", value: "12 cm de ancho x 17,5 cm de profundidad x 10,1 cm de alto" },
+    ],
+    relatedProducts: ["MLA19892973", "MLA22855241", "MLA6208662", "MLA22764711"],
+    articleBody: `## Qué es el TRV Powersafe Gamer
+
+Es la versión "gamer" de la línea Powersafe de TRV Electronics: 6 tomas, conexión RJ45 y 2 puertos USB, con 1.000 VA de potencia nominal declarada. Se vende a {{precio:MLAU307533919}} y tiene {{rating:MLAU307533919}} estrellas, pero en apenas {{reviews:MLAU307533919}} calificaciones.
+
+## Pocas opiniones todavía
+
+Un promedio alto con tan pocas calificaciones no pesa igual que el de un producto con miles. No lo tomes como "el mejor calificado de la lista": es un producto con muy poco historial de compradores en esta publicación.
+
+## Qué tiene de distinto
+
+Lo único que lo separa del resto de los TRV de esta comparativa son los **2 puertos USB**. La ficha técnica no aclara si son para cargar el celular o el joystick, o si son de comunicación (también lista "Interfaces de comunicación: COM, USB"). Si los USB de carga son el motivo de tu compra, confirmalo con el vendedor antes.
+
+## La ficha técnica tiene campos de UPS que no cierran
+
+La ficha declara "Tipo de UPS: Online", "Tiempo máximo de carga: 4 h" y una alarma de "modo batería". Nada en el título ni en la descripción habla de una batería. Lo más probable es que sean campos cargados de más, pero no lo compres esperando que mantenga la PC prendida durante un corte.
+
+## Frente al Powersafe 3i
+
+El [Powersafe 3i](/producto/estabilizador-de-tension-trv-powersafe-3i-6-tomas-rj45-1000va-mla19892973) declara la misma potencia nominal (1.000 VA), las mismas 6 tomas y RJ45, 2 años de garantía de fábrica, muchas más calificaciones, y cuesta {{preciodif:MLAU307533919:MLA19892973}} menos. Salvo que los USB te resuelvan algo puntual, el 3i es la compra más razonable.
+
+## Para quién es, y para quién no
+
+Es para vos si armás un escritorio gamer y los puertos USB extra te sirven de verdad.
+
+No es para vos si buscás el estabilizador con más respaldo de compradores, o si querés pagar lo justo por la misma potencia declarada: ahí gana el Powersafe 3i.`,
+    faq: [
+      { question: "¿Qué tiene de \"gamer\"?", answer: "Básicamente el nombre y los 2 puertos USB. La potencia nominal declarada (1.000 VA) es la misma que la del Powersafe 3i." },
+      { question: "¿Los puertos USB sirven para cargar?", answer: "La ficha técnica no lo aclara: lista 2 puertos USB y también \"Interfaces de comunicación: COM, USB\". Si es importante para vos, confirmalo con el vendedor." },
+      { question: "¿Tiene batería como una UPS?", answer: "No hay nada en el título ni en la descripción que hable de una batería, aunque la ficha técnica tenga algunos campos de UPS cargados. No lo compres esperando respaldo durante un corte." },
+      { question: "¿Es confiable su calificación?", answer: "Tiene muy pocas calificaciones todavía, así que el promedio no es una señal tan sólida como la de productos con miles de opiniones." },
+      { question: "¿Qué rango de tensión de entrada soporta?", answer: "De 180 a 260 V, según la ficha técnica." },
+      { question: "¿Cuánta garantía tiene?", answer: "La descripción de la publicación menciona una garantía del vendedor de 2 meses." },
+    ],
   },
 ];
 
