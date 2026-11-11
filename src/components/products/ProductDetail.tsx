@@ -281,8 +281,12 @@ function parseArticle(articleBody?: string): {
       }
       const segText = seg.join(" ");
       if (/no es para (vos|ti)/i.test(segText)) {
-        const parts = segText.split(/no es para (?:vos|ti) si:?/i);
-        const yesPart = parts[0].replace(/.*es para (?:vos|ti) si:?/i, "").trim();
+        // El label puede venir envuelto en markdown bold ("**No es para vos
+        // si:**") o sin él — el split tiene que comerse los `**` de los dos
+        // lados, si no queda un asterisco suelto sin pareja que renderInlineMarkdown
+        // no puede interpretar como negrita y lo muestra literal.
+        const parts = segText.split(/\*{0,2}\s*no es para (?:vos|ti) si:?\s*\*{0,2}/i);
+        const yesPart = parts[0].replace(/.*\*{0,2}\s*es para (?:vos|ti) si:?\s*\*{0,2}/i, "").trim();
         paraYes = yesPart || undefined;
         paraNo = parts[1] ? parts[1].trim() : undefined;
         i = j - 1;
