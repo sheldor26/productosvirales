@@ -11,4 +11,9 @@ export const goLinks: Record<string, string> = {
   // lista "Cupon MELIDOBLEON" del perfil social (jm159). Es una herramienta de monetización
   // generada por ML (lleva matt_tool); NO armar URLs de afiliado a mano.
   cupones: "https://meli.la/1jKpgEV",
+  // Un link por cupón del 11.11 (anuncios de X, uno por lista): cada meli.la lo generó ML con
+  // "Compartir lista" de la lista correspondiente del perfil social.
+  cupon10: "https://meli.la/2xJTYsc", // lista Cupon 11X11MELI ($10.000 desde $150.000)
+  cupon20: "https://meli.la/1RGQ5et", // lista Cupon 11FECHADOBLE26 ($20.000 desde $250.000)
+  cupon45: "https://meli.la/1jKpgEV", // lista Cupon MELIDOBLEON ($45.000 desde $500.000)
 };
