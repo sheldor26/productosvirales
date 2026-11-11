@@ -1,6 +1,5 @@
 import Link from "next/link";
-import Image from "next/image";
-import type { Guide, GuideSection } from "@/lib/types";
+import type { Guide } from "@/lib/types";
 import { calcReadingTime } from "@/lib/reading-time";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import { ShareButtons } from "@/components/widgets/ShareButtons";
@@ -27,14 +26,7 @@ function formatDate(iso: string): string {
   });
 }
 
-function extractHero(guide: Guide): GuideSection | null {
-  const first = guide.sections[0];
-  if (first && first.type === "image" && first.imageSize === "hero") return first;
-  return null;
-}
-
 export function ArticleHeader({ guide }: ArticleHeaderProps) {
-  const hero = extractHero(guide);
   const readingTime = calcReadingTime(guide);
   const standfirst = guide.standfirst || guide.intro[0];
   const categoryLabel = formatCategory(guide.category);
@@ -133,27 +125,6 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
             Cómo funciona
           </Link>
         </p>
-      )}
-
-      {/* Hero image (breakout) */}
-      {hero && hero.src && (
-        <figure className="editorial-hero-wrap mt-6 md:mt-8">
-          <div className="relative aspect-[1200/630] w-full overflow-hidden bg-[var(--bg-secondary)]">
-            <Image
-              src={hero.src}
-              alt={hero.alt || guide.h1}
-              fill
-              sizes="(max-width: 768px) 100vw, 1200px"
-              preload
-              className="object-contain"
-            />
-          </div>
-          {hero.alt && (
-            <figcaption className="px-4 md:px-6 mt-2 text-xs text-[var(--text-muted)] italic max-w-[640px]">
-              {hero.alt}
-            </figcaption>
-          )}
-        </figure>
       )}
     </header>
   );

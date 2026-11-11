@@ -730,9 +730,14 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
 
   const introRest = guide.standfirst ? guide.intro : guide.intro.slice(1);
 
-  // Skip first section if it's the hero (ArticleHeader already renders it)
+  // El hero se saca de bodySections y se renderiza aparte, después del CTA
+  // above-the-fold + QuickPicks (antes vivía en ArticleHeader, ANTES del CTA:
+  // en mobile eso empujaba el botón de compra ~2 pantallas hacia abajo,
+  // violando la regla propia del sitio de "CTA antes del scroll" — detectado
+  // en la auditoría de CRO del 2026-11-11 sobre la guía de más tráfico).
   const firstIsHero =
     guide.sections[0]?.type === "image" && guide.sections[0]?.imageSize === "hero";
+  const heroSection = firstIsHero ? guide.sections[0] : null;
   const bodySections = firstIsHero ? guide.sections.slice(1) : guide.sections;
 
   const topPickId = guide.quickPicks?.[0]?.productMlaId;
@@ -829,6 +834,27 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
           <div className="not-prose max-w-[720px] mb-8">
             <SeguirMlCard copy="default" />
           </div>
+
+          {/* Hero image: ahora acá, después del CTA/QuickPicks (ver comentario
+              en heroSection más arriba). */}
+          {heroSection && heroSection.type === "image" && heroSection.src && (
+            <figure className="editorial-hero-wrap mb-8">
+              <div className="relative aspect-[1200/630] w-full overflow-hidden bg-[var(--bg-secondary)]">
+                <Image
+                  src={heroSection.src}
+                  alt={heroSection.alt || guide.h1}
+                  fill
+                  sizes="(max-width: 768px) 100vw, 1200px"
+                  className="object-contain"
+                />
+              </div>
+              {heroSection.alt && (
+                <figcaption className="px-4 md:px-6 mt-2 text-xs text-[var(--text-muted)] italic max-w-[640px]">
+                  {heroSection.alt}
+                </figcaption>
+              )}
+            </figure>
+          )}
 
           {/* Sections */}
           {bodySections.map((section, i) => {
