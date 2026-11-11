@@ -13804,7 +13804,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     sections: [
       { type: "image", src: "/images/freidoras/gadnic-airfryer-6-5l.webp", alt: `Gadnic Airfryer freidora de aire 6.5 litros 1400W Argentina` },
-      { type: "callout", calloutVariant: "warning", calloutTitle: "El modelo que probamos ya no se consigue", content: `Confirmamos en vivo que esta Gadnic 6.5L de 1400 W está agotada, y la ficha de catálogo de Mercado Libre ya la da como no disponible, así que no parece una falta de stock pasajera. Hoy la línea Gadnic de 6,5 litros se vende como [Cuk by Gadnic 1600 W digital](https://www.mercadolibre.com.ar/freidora-de-aire-cuk-by-gadnic-65lts-1600w-air-fryer-panel-digital-antiadherente-temporizador-multifuncion-apagado-automatico-12-programas/p/MLA18728637), que **no es el modelo de este análisis**: tiene más potencia y panel digital con programas en vez de las dos perillas. Si preferís gastar menos, la [Philips NA120/00 de 4.2L](https://meli.la/2gU6JZ1) sigue disponible (más chica, pero con 2 años de garantía formal). El resto de este análisis queda como referencia de qué esperar de la marca.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El modelo que probamos ya no se consigue", content: `Confirmamos en vivo que esta Gadnic 6.5L de 1400 W está agotada, y la ficha de catálogo de Mercado Libre ya la da como no disponible, así que no parece una falta de stock pasajera. Hoy la línea Gadnic de 6,5 litros se vende como [Cuk by Gadnic 1600 W digital](https://meli.la/2fd4Psa), que **no es el modelo de este análisis**: tiene más potencia y panel digital con programas en vez de las dos perillas. Si preferís gastar menos, la [Philips NA120/00 de 4.2L](https://meli.la/2gU6JZ1) sigue disponible (más chica, pero con 2 años de garantía formal). El resto de este análisis queda como referencia de qué esperar de la marca.` },
       { type: "h3", title: `El reemplazo más parecido que sí está en stock` },
       { type: "product-card", productMlaId: "MLA46208363", label: "Reemplazo directo", labelColor: "green", ranking: 1, description: "Liliana AF966N Airview: 6 litros contra los 6,5 de la Gadnic que probamos, 1.650 W y ventana para mirar sin abrir. Es la que más se le parece en tamaño y formato de las que hoy conseguís." },
       { type: "h2", title: `Especificaciones: potencia justa para el tamaño` },
@@ -13864,7 +13864,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Si cocinás para 6+ personas o querés máxima durabilidad, considerá Atma o algo más grande.` },
       { type: "h2", title: `Recomendación final` },
       { type: "p", content: `Gadnic era una buena opción argentina en esta gama. Funciona bien, tiene servicio local, y el precio era inteligente. No es la freidora más robusta del mercado, pero para 3-4 años de uso normal sin drama, es sólida.` },
-      { type: "p", content: `Hoy, con ese modelo discontinuado, la alternativa de entrada es la [Philips NA120/00](https://meli.la/2gU6JZ1). Si querés quedarte en Gadnic, la línea de 6,5 litros sigue viva como [Cuk by Gadnic 1600 W digital](https://www.mercadolibre.com.ar/freidora-de-aire-cuk-by-gadnic-65lts-1600w-air-fryer-panel-digital-antiadherente-temporizador-multifuncion-apagado-automatico-12-programas/p/MLA18728637), aunque sale bastante más y no es el modelo que probamos. Si después de leer esto dudás entre la Philips y la Atma, probablemente Atma te dé más paz mental a largo plazo.` },
+      { type: "p", content: `Hoy, con ese modelo discontinuado, la alternativa de entrada es la [Philips NA120/00](https://meli.la/2gU6JZ1). Si querés quedarte en Gadnic, la línea de 6,5 litros sigue viva como [Cuk by Gadnic 1600 W digital](https://meli.la/2fd4Psa), aunque sale bastante más y no es el modelo que probamos. Si después de leer esto dudás entre la Philips y la Atma, probablemente Atma te dé más paz mental a largo plazo.` },
       { type: "h2", title: `Las otras dos opciones, según qué te importe` },
       { type: "p", content: `Si la Liliana te queda chica o preferís seguir con Gadnic, estas son las dos alternativas reales que verificamos en Mercado Libre:` },
       { type: "product-card", productMlaId: "MLA42479783", label: "Un poco más grande", labelColor: "blue", ranking: 2, description: "Novohome NH-AF70WIX: 7 litros y 1.700 W, con cuatro funciones. Medio litro más que la Gadnic que probamos y bastante más respaldo de compradores." },
@@ -15694,9 +15694,15 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ogDescription: "De {{precio:MLA24605489:k}} el frasco de entrada a {{precio:MLA16122300:k}} los premium. La comparativa de precios por marca y concentración, para no pagar de más en tu primer árabe.",
     h1: "Perfumes árabes precio 2026: qué cuesta cada marca en Argentina",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-06-26",
-    sitemapLastmod: "2026-10-30",
+    updatedDate: "2026-11-11",
+    sitemapLastmod: "2026-11-11",
     hasDisclosure: true,
+    quickPicks: [
+      { productMlaId: "MLA47054851", label: "Nuestra elección", labelColor: "green", tagline: "El producto más conocido mundialmente de Afnan. Canela, manzana, ámbar y vainilla, en el núcleo del catálogo." },
+      { productMlaId: "MLAU3800115477", label: "Para empezar", labelColor: "purple", tagline: "Kit de 4 perfumes masculinos en formato 35ml, para probar antes de comprar un 100ml." },
+      { productMlaId: "MLA29780185", label: "El más versátil", labelColor: "blue", tagline: "Sirve para oficina, salida, primavera y verano. No se equivoca nunca." },
+      { productMlaId: "MLA16122300", label: "Premium", labelColor: "amber", tagline: "200ml al doble del tamaño estándar, por precio normal. Proyecta como bomba y dura 12 horas." },
+    ],
     intro: [
       "La pregunta que me llega más seguido es esta: cuánto cuestan realmente los perfumes árabes. Y la respuesta corta es que depende de la marca, la concentración y el importador. La respuesta larga es este artículo, con rangos actualizados a 2026 y lo que conviene para cada presupuesto."
     ],
@@ -18139,9 +18145,15 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "Aventus, Sauvage, Invictus, Tobacco Vanille: los perfumes occidentales más caros tienen su dupe árabe a 1/4 o 1/10 del precio. Cuáles cumplen, cuáles no, y qué mirar antes de comprar.",
     h1: "Perfumes árabes y sus dupes: la lista completa de clones para Argentina (2026)",
     publishedDate: "2026-06-04",
-    updatedDate: "2026-11-02",
-    sitemapLastmod: "2026-11-02",
+    updatedDate: "2026-11-11",
+    sitemapLastmod: "2026-11-11",
     hasDisclosure: true,
+    quickPicks: [
+      { productMlaId: "MLA16122300", label: "Nuestra elección", labelColor: "green", tagline: "El dupe árabe más famoso del mundo: 200ml contra los 100ml del Creed Aventus, a un cuarto del precio." },
+      { productMlaId: "MLA29780185", label: "Más económico", labelColor: "purple", tagline: "El dupe del Paco Rabanne Invictus, el más accesible de la lista. Sirve para oficina, salida y verano." },
+      { productMlaId: "MLA25883660", label: "Mejor femenino", labelColor: "blue", tagline: "El dupe del Mugler Angel Nova, elegido por quienes probaron los dos perfumes." },
+      { productMlaId: "MLA31178643", label: "Mejor unisex", labelColor: "amber", tagline: "El gourmand árabe que rivaliza con el Tobacco Vanille de Tom Ford, a una fracción del precio." },
+    ],
     intro: [
       "Un Creed Aventus en Argentina cuesta $500.000. Un Armaf Club de Nuit Intense Man, que comparte el 80% de su perfil olfativo, cuesta {{precio:MLA16122300:k}}. Esa relación se repite con Dior Sauvage Elixir vs Lattafa Asad Intense, Paco Rabanne Invictus vs Rasasi Hawas Ice y otra docena de fragancias premium. El nicho árabe se construyó sobre esa lógica: ofrecer perfiles olfativos similares a perfumes occidentales caros a una fracción del costo.",
       "Esta guía lista los dupes árabes más buscados en Argentina, qué perfume occidental imita cada uno, qué tan cerca llegan del original, dónde fallan y a quién le conviene cada uno. Cubrimos los 9 que están disponibles en el catálogo argentino con datos reales de reseñas y precio."
