@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-11-11 — Encontrar un bug duplicado y buscar las otras copias en el mismo acto, no solo arreglar la que se vio primero
+
+**Qué funcionó:** al encontrar que `ArticleHeader.tsx` perdía tildes al formatear la categoría de una guía ("PERFUMES ARABES"), en vez de arreglar solo ese archivo se hizo `grep -rln 'replace(/-/g\|split("-")'` sobre todo `src/`. Apareció la misma lógica duplicada en `ArticleFooter.tsx` y `related-guides.ts` (3 copias distintas, cada una con su propio bug de tildes), y una cuarta en `llms.txt/route.ts` — justo el archivo que leen los crawlers de IA, el tipo de bug con más impacto de encontrar tarde. Se consolidaron las 4 en un solo helper (`src/lib/category-labels.ts`).
+
+**Por qué:** un bug de "lógica copiada a mano en vez de reutilizada" casi nunca vive en un solo lugar — si una función naive para formatear algo apareció una vez, es señal de que el mismo problema se resolvió (mal) varias veces de forma independiente en el código. Arreglar la primera instancia que se vio y seguir de largo deja las demás intactas, esperando a que alguien las encuentre por accidente (como pasó hoy, revisando pendientes de una sesión anterior).
+
+**Cuándo aplicarlo:** cada vez que se encuentra un bug en una función que "arma texto a mano" desde un dato crudo (un slug, un ID, una fecha) — antes de cerrar el fix, un grep rápido del patrón específico (no de la función por nombre, que puede variar) sobre toda la base de código. El costo es un grep; el beneficio es no dejar 3 copias más del mismo bug dando vueltas.
+
+**Archivos involucrados:** `src/lib/category-labels.ts`, `src/components/guides/ArticleHeader.tsx`, `src/components/guides/ArticleFooter.tsx`, `src/lib/related-guides.ts`, `src/app/llms.txt/route.ts`
+
 ## 2026-10-30 — Expandir una lista de "los mejores" rompe cualquier superlativo que no esté acotado al subconjunto correcto
 
 **Qué funcionó (otra vez, la lección salió de un error atrapado a tiempo):** al expandir la guía de

@@ -3,6 +3,16 @@
 > Bitácora de cosas que salieron mal. Crece con cada error.
 > Formato: fecha — qué pasó — por qué — cómo evitarlo la próxima vez.
 
+## 2026-11-11 — Citar una métrica de memoria sin volver a medirla
+
+**Qué pasó:** en medio de una auditoría de CRO, le dije a Juan que el performance del sitio estaba en "77/100, LCP 2,8s, necesita mejoras" — un número que venía de un reporte de Ahrefs leído mucho antes en la misma sesión (resumido y comprimido en el contexto). Cuando Juan pidió seguir con eso, medí de nuevo antes de tocar código: datos reales de usuarios (CrUX) y Lighthouse mostraban "aprobada" en las métricas web esenciales, LCP 1,7-2,1s, CLS casi 0 — el número que había citado estaba desactualizado o directamente mal. Si hubiera seguido de largo, habría gastado tiempo "arreglando" una imagen (agregar `priority` a un `<Image>`) que no mueve la aguja en un problema que no existía.
+
+**Por qué:** un número memorizado de una fuente leída hace rato (sobre todo después de que el contexto se comprime/resume) puede quedar viejo o directamente mal transcripto, y repetirlo con confianza sin volver a la fuente original convierte una suposición en un "hecho" que dirige trabajo real.
+
+**Cómo evitarlo:** antes de actuar sobre una métrica, un conteo o un dato cuantitativo que se citó de memoria (sobre todo si viene de antes de una compactación de contexto), volver a medirlo con la herramienta real (PageSpeed Insights, Clarity, un query al catálogo) en vez de asumir que sigue siendo así. Si el nuevo dato contradice lo que se iba a hacer, decirlo así de directo en vez de seguir con el plan original.
+
+**Archivos involucrados:** ninguno (se corrigió antes de tocar código)
+
 ## 2026-11-02 — Un refresh de 6 productos a la vez multiplica los superlativos que hay que recalcular, no solo los precios
 
 **Qué pasó:** en el refresh de `cargador-portatil` (6 fichas), actualicé todos los precios y reviewCount, pero en la primera pasada dejé pasar que la baja de precio del Xiaomi (de $40.311 a $32.999) rompió DOS afirmaciones sobre el Gadnic ("al precio más bajo de la comparativa" y "por menos de lo que sale un 10.000 de marca" — el Gadnic a $47.949 ya no es ni lo uno ni lo otro), y que la suba de reviewCount del Energizer 27.000 (de 210 a 226) rompió su propia afirmación de tener "la base de opiniones más chica" (el Mcdodo, con 74, es ahora la más chica). Lo encontró Codex en la ronda 1 del trío, no yo — es la tercera vez en el mismo día que pasa esta familia de bug, ya documentada dos veces antes hoy.
