@@ -39025,6 +39025,149 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más de movilidad",
   },
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva mesa-de-ping-pong — silo fitness (no hay silo "deportes"),
+  // categoría nueva. 2026-11-11. 5 fichas nuevas importadas el mismo día
+  // (ver curatedProductsMesaPingPong). Son 5 y no más A PROPÓSITO: el
+  // catálogo de ML repite la misma línea (Piramydes) a precios casi iguales
+  // y muchas publicaciones no tienen reseñas. Eje editorial: primero la
+  // MEDIDA (reglamentaria 2,74 x 1,52 m vs reducida), después espesor y
+  // material. Datos que contradicen lo intuitivo y están verificados en la
+  // ficha técnica: la Double Fish tiene tablero de 15 mm como la Piramydes
+  // (no más grueso), y la Brienza mide 1,85 x 1,10 m y no es plegable.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "mesa-de-ping-pong",
+    category: "mesa-de-ping-pong",
+    silo: "fitness",
+    pillar: true,
+    title: `Mesa de ping pong: cuál comprar en Argentina [2026]`,
+    seoTitle: `Mesa de Ping Pong: Cuál Comprar en Argentina | Guía 2026`,
+    metaDescription: `Mesa de ping pong: comparamos 5 de MercadoLibre, de {{precio:MLA53396364:k}} a {{precio:MLAU2045380864:k}}. Reglamentaria o mini, qué espesor conviene, cuál se pliega y las contras reales de cada una.`,
+    ogTitle: `Mesa de ping pong: cuál comprar en Argentina`,
+    ogDescription: `Reglamentaria o mini: 5 mesas de ping pong de MercadoLibre comparadas por medida, espesor del tablero y reseñas reales, con las contras que las publicaciones no cuentan.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_899892-MLA97091341029_112025-F.webp`,
+    h1: `Mesa de ping pong: cuál comprar en Argentina según el lugar que tenés [2026]`,
+    directAnswer: `Si tenés lugar, conviene la **[Piramydes Global](/producto/mesa-de-ping-pong-piramydes-global-profesional-plegable-fabricada-en-melamina-co-mla15276755)** (alrededor de {{precio:MLA15276755:k}}): medida reglamentaria de 2,74 x 1,52 m, la más vendida de toda la categoría Ping Pong de MercadoLibre, con {{reviews:MLA15276755}} opiniones. Si no te entra, la **[SurGame Mini](/producto/mini-mesa-ping-pong-plegable-azul-surgame-1-82x0-90m-con-red-mla53396364)** es la más barata para jugar de a dos; y si tenés chicos o no tenés paletas, la **[Sensei](/producto/mini-mesa-ping-pong-sensei-plegable-2-paletas-3-pelotas-color-azul-180-x-102-cm-mla53807662)** trae el set completo y baja de altura.`,
+    publishedDate: "2026-11-11",
+    updatedDate: "2026-11-11",
+    hasDisclosure: true,
+    readingTime: 11,
+    standfirst: `Una mesa de ping pong en MercadoLibre va de {{precio:MLA53396364:k}} a {{precio:MLAU2045380864:k}}, y la primera decisión no es la marca: es la medida. Comparamos 5 mesas reales y en stock, dos de medida reglamentaria y tres reducidas, con precios en vivo, la ficha técnica leída línea por línea y lo que cuentan los compradores, quejas incluidas.`,
+    quickPicks: [
+      { productMlaId: "MLA15276755", label: "Nuestra elección", labelColor: "green", tagline: "Piramydes Global: reglamentaria, 1° en Ping Pong, {{reviews:MLA15276755}} opiniones" },
+      { productMlaId: "MLA53396364", label: "Para espacios chicos", labelColor: "blue", tagline: "SurGame Mini: 1,82 x 0,90 m, 24 kg, la más barata de la lista" },
+      { productMlaId: "MLAU2045380864", label: "Reglamentaria premium", labelColor: "purple", tagline: "Double Fish: líneas pintadas y frontón, pero muy pocas opiniones" },
+      { productMlaId: "MLA53807662", label: "Set completo con paletas", labelColor: "slate", tagline: "Sensei: 2 paletas, 3 pelotas y altura regulable para chicos" },
+    ],
+    intro: [
+      `Buscás "mesa de ping pong" en MercadoLibre y te aparecen decenas que parecen iguales: azules, plegables, "profesionales". El problema es que bajo esa misma foto hay mesas que miden 2,74 m y otras que miden 1,80 m, y esa diferencia cambia el juego mucho más que la marca. Por eso esta guía arranca por lo que define todo: **cuánto lugar tenés y para qué la querés**.`,
+      `Una aclaración antes de seguir: son **5 mesas, no 10**. Recorrimos la categoría entera y buena parte de lo que aparece es la misma línea repetida a precios casi idénticos, o publicaciones sin una sola reseña que las respalde. Preferimos comparar 5 mesas realmente distintas, con datos que pudimos verificar, antes que rellenar la lista. Spoiler de lo que más se repite en las reseñas: las líneas de cinta, las ruedas flojas y el peso a la hora de plegarla.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_899892-MLA97091341029_112025-F.webp", alt: `Mesa de ping pong Piramydes Global Profesional plegable azul, la más vendida de la categoría Ping Pong en MercadoLibre Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** recorrimos la categoría Ping Pong de MercadoLibre Argentina el 11 de noviembre de 2026 y nos quedamos con 5 mesas en stock que cubren los casos reales: medida reglamentaria, reducida plegable, reducida fija y set con paletas. De cada una leímos la ficha técnica (medidas, espesor, material, si se pliega) y las reseñas de compradores, las de 5 estrellas y las de 1 a 3 por igual. Dejamos afuera las publicaciones repetidas de la misma línea y las que no tenían reseñas verificables: por eso son 5 y no más. Donde la ficha técnica contradice al título, gana la ficha técnica. Los precios se revisan contra MercadoLibre varias veces por semana.` },
+
+      { type: "h2", title: `Reglamentaria o mini: la diferencia que cambia el juego`, id: "reglamentaria-vs-mini" },
+      { type: "p", content: `Una mesa reglamentaria, la de los clubes y los torneos, mide **2,74 m de largo, 1,525 m de ancho y 76 cm de alto**. Todo lo que mida menos es una mesa reducida, aunque el título diga "profesional" o "semi profesional". En esta comparativa hay dos reglamentarias y tres reducidas:` },
+      { type: "table", headers: [`Mesa`, `Medida`, `Superficie aprox.`, `Frente a una reglamentaria`], rows: [
+        [`[Piramydes Global](/producto/mesa-de-ping-pong-piramydes-global-profesional-plegable-fabricada-en-melamina-co-mla15276755)`, `2,74 x 1,52 m`, `4,2 m²`, `Reglamentaria`],
+        [`[Double Fish](/producto/mesa-ping-pong-double-fish-profesional-plegable-15mm-ruedas-mlau2045380864)`, `2,74 x 1,525 m`, `4,2 m²`, `Reglamentaria`],
+        [`[Deportes Brienza](/producto/mesa-de-ping-pong-deportes-brienza-semi-profesional-melamina-18mm-azul-mla15259093)`, `1,85 x 1,10 m`, `2 m²`, `Cerca de la mitad`],
+        [`[Sensei](/producto/mini-mesa-ping-pong-sensei-plegable-2-paletas-3-pelotas-color-azul-180-x-102-cm-mla53807662)`, `1,80 x 1,02 m`, `1,8 m²`, `Menos de la mitad`],
+        [`[SurGame Mini](/producto/mini-mesa-ping-pong-plegable-azul-surgame-1-82x0-90m-con-red-mla53396364)`, `1,82 x 0,90 m`, `1,6 m²`, `Menos de la mitad`],
+      ], rowProductIds: ["MLA15276755", "MLAU2045380864", "MLA15259093", "MLA53807662", "MLA53396364"] },
+      { type: "h3", title: `Qué cambia en el juego real` },
+      { type: "p", content: `En una mesa reglamentaria, la pelota tiene recorrido: podés alejarte de la mesa, pegarle con efecto y pelotear largo. Es el ping pong que vas a encontrar en un club, y si querés aprender a jugar bien o practicar, es la medida que corresponde. En una mini de 1,80 m, el juego es más corto y de reflejos: se juega pegado a la mesa, los tiros largos se van afuera y el espacio para dos jugadores de cada lado no existe. Un comprador de la SurGame lo resume sin vueltas: "es para jugar de a dos, cuatro se chocan".` },
+      { type: "p", content: `Eso no hace a las mini malas: las hace distintas. Para jugar en familia, en un departamento o en la oficina después de almorzar, una mini resuelve, y es la única opción cuando una reglamentaria directamente no entra.` },
+      { type: "h3", title: `Cuánto lugar necesitás` },
+      { type: "p", content: `La mesa es solo una parte: también necesitás espacio para moverte alrededor. Como regla práctica para jugar cómodo en casa, sumale alrededor de 1,5 a 2 m libres detrás de cada cabecera y 1 m a cada costado. Con una reglamentaria, eso te lleva a un ambiente de unos 6 x 3,5 m; con una mini, alcanza con unos 5 x 3 m. Si no llegás a esas medidas, igual se juega, pero vas a chocar con las paredes en cada tiro largo. Y pensá dónde la guardás: las plegables ocupan poco parada, la Brienza no se pliega.` },
+
+      { type: "h2", title: `Las 5 mesas de ping pong, una por una`, id: "ranking" },
+      { type: "p", content: `Ordenadas por respaldo real (ventas y cantidad de opiniones) y por a cuánta gente le sirven. Cada una con lo que dicen sus compradores, lo bueno y lo flojo.` },
+
+      { type: "h3", title: `1. Piramydes Global: la reglamentaria más vendida de MercadoLibre` },
+      { type: "product-card", productMlaId: "MLA15276755", label: "Nuestra elección", labelColor: "green", ranking: 1, description: `Medida reglamentaria (2,74 x 1,52 m), melamina de 15 mm, plegable en una sola pieza y con ruedas. 1° más vendida de toda la categoría Ping Pong, con {{rating:MLA15276755}} estrellas en {{reviews:MLA15276755}} opiniones.` },
+      { type: "p", content: `Es nuestra elección porque junta las dos cosas que más pesan: **la medida completa** y **la mayor cantidad de gente que la usó y contó cómo le fue**. Al 11 de noviembre de 2026 era la más vendida de toda la categoría Ping Pong de MercadoLibre (no de una subcategoría), con más de 1000 vendidas y {{reviews:MLA15276755}} opiniones. A alrededor de {{precio:MLA15276755:k}}, es la forma más probada de tener una mesa de club en casa. Se pliega en una sola pieza y, según la publicación, parada sobre las ruedas ocupa unos 12 cm de profundidad.` },
+      { type: "p", content: `Lo honesto: **las ruedas son su punto débil**, y es la queja más repetida entre las reseñas bajas ("No soportan el peso de la mesa"). También es muy pesada: varios compradores avisan que para abrirla o moverla hacen falta dos personas. Las líneas son de cinta, no pintadas, algunas unidades llegaron con los bordes golpeados por el envío y es una mesa de interior según su ficha técnica. Nada de eso cambia el juego, pero conviene saberlo antes.` },
+      { type: "pull-quote", content: `"Lo que obtenes por este precio es una mesa bien armada y solida, que se pliega muy facilmente y rapido [...] Habia leido el comentario de que las ruedas son malas, y es cierto pero acaso influye? en mi opinion para nada."`, attribution: `Opinión verificada en MercadoLibre, 5 estrellas` },
+
+      { type: "h3", title: `2. SurGame Mini: la más barata, para espacios chicos` },
+      { type: "product-card", productMlaId: "MLA53396364", label: "Para espacios chicos", labelColor: "blue", ranking: 2, description: `Mini mesa de 1,82 x 0,90 m, melamina de 16 mm, plegable y de solo 24 kg según la publicación. Plegada mide 95 x 93 x 10 cm. {{rating:MLA53396364}} estrellas en {{reviews:MLA53396364}} opiniones.` },
+      { type: "p", content: `Si una reglamentaria no te entra, es la puerta de entrada más barata: alrededor de {{precio:MLA53396364:k}}, menos de la mitad que la Piramydes. Pesa 24 kg, así que la abrís y la guardás sin pedir ayuda, y plegada entra detrás de una puerta. Sus compradores coinciden en que es firme y está nivelada, aunque las patas "parecen medias chuecas", y que para jugar de a dos es muy divertida.` },
+      { type: "p", content: `Lo honesto: mide 1,82 x 0,90 m, **menos de la mitad de superficie que una reglamentaria**, y eso se siente: es para jugar casual, no para practicar en serio. Las líneas son de cinta (la crítica que más se repite, incluso en reseñas de 4 estrellas), un comprador cuenta que le vino con 3 bisagras de las 6 que debía tener, y la entrega se acuerda con el vendedor. Tampoco trae paletas.` },
+      { type: "pull-quote", content: `"No es la mesa grande profesional, es un 40% mas chica, pero para jugar de a dos esta muy bien! [...] La compramos para la oficina y la verdad que a la hora del almuerzo esta siempre a full."`, attribution: `Opinión verificada en MercadoLibre, 5 estrellas` },
+
+      { type: "h3", title: `3. Sensei Mini: el set completo, con altura para chicos` },
+      { type: "product-card", productMlaId: "MLA53807662", label: "Set completo con paletas", labelColor: "slate", ranking: 3, description: `Mini mesa de 1,80 x 1,02 m que trae 2 paletas y 3 pelotas, con altura regulable a 76 o 65 cm y plegado tipo maletín. {{rating:MLA53807662}} estrellas en {{reviews:MLA53807662}} opiniones.` },
+      { type: "p", content: `Es la única de esta comparativa que llega lista para jugar: **trae 2 paletas y 3 pelotas**. Y es la única con **altura regulable**: 76 cm, la reglamentaria, o 65 cm para que jueguen chicos. Por eso es la que recomendamos para familias. Sale alrededor de {{precio:MLA53807662:k}}, con envío gratis, y sus compradores la describen como firme, linda y fácil de armar y desarmar.` },
+      { type: "p", content: `Lo honesto: el tablero es el más fino de la lista (MDF de 12 mm) y es una mini, con todo lo que eso implica. La única reseña por debajo de 4 estrellas encontró **las patas débiles y el caño fino**, y le pareció cara para su tamaño. Plegada pesa 23 kg según la publicación: un comprador conforme igual recomienda moverla de a dos.` },
+      { type: "pull-quote", content: `"Excelente la mesa para que los niños comiencen a jugar al ping pong ya que inclusive se puede poner en dos alturas diferentes. El tamaño permite que se pueda colocar donde una mesa tradicional no entraría."`, attribution: `Opinión verificada en MercadoLibre, 5 estrellas` },
+
+      { type: "h3", title: `4. Deportes Brienza: la de 18 mm, para dejar armada` },
+      { type: "product-card", productMlaId: "MLA15259093", label: "Para dejar armada", labelColor: "slate", ranking: 4, description: `Mesa reducida de 1,85 x 1,10 m con melamina de 18 mm, el tablero más grueso de la comparativa, y patas de madera. No es plegable. {{rating:MLA15259093}} estrellas en {{reviews:MLA15259093}} opiniones.` },
+      { type: "p", content: `El título dice "semi profesional", pero la ficha técnica aclara lo importante: mide **1,85 x 1,10 m y no es plegable ni tiene ruedas**. Es una mesa para armar una vez en un quincho, un garage o un cuarto de juegos y dejarla ahí. A cambio, tiene el tablero más grueso de toda la comparativa (18 mm), es la más ancha de las reducidas y tiene la altura de una reglamentaria. Sale alrededor de {{precio:MLA15259093:k}}, con envío gratis.` },
+      { type: "p", content: `Lo honesto: el punto débil son **las patas**. De las cuatro reseñas de 2 y 3 estrellas, tres cuentan que hubo que reforzarlas, aunque hay compradores que la encuentran muy estable. Si la comprás, revisá la estructura al armarla. No trae paletas ni pelotas.` },
+      { type: "pull-quote", content: `"Débil de patas. Hay que reforzarlas y también al marco de abajo. Lo demás, cumple suficientemente considerando que es una mesa de uso recreativo."`, attribution: `Opinión verificada en MercadoLibre, 3 estrellas` },
+
+      { type: "h3", title: `5. Double Fish: la reglamentaria con mejor terminación, con pocas reseñas` },
+      { type: "product-card", productMlaId: "MLAU2045380864", label: "Reglamentaria premium", labelColor: "purple", ranking: 5, description: `Medida reglamentaria, MDF de 15 mm con marco perimetral de 30 mm, líneas pintadas, ruedas y modo frontón. Ojo: solo {{reviews:MLAU2045380864}} opiniones.` },
+      { type: "p", content: `Es la otra reglamentaria de la lista, y en el papel tiene mejor terminación que la Piramydes: **líneas pintadas** (no de cinta), pintura laqueada, un marco perimetral de 30 mm debajo del tablero, ruedas que el vendedor describe como reforzadas y la opción de plegar una mitad para jugar solo, tipo frontón. Sale alrededor de {{precio:MLAU2045380864:k}}, con envío gratis.` },
+      { type: "p", content: `Lo honesto, y es importante. Primero: tiene **solo {{reviews:MLAU2045380864}} opiniones**; su {{rating:MLAU2045380864}} es perfecto, pero con tan pocas no hay base para saber si tiene problemas poco frecuentes. Segundo: su tablero es de **15 mm, igual que el de la Piramydes**, que cuesta la mitad, así que lo que pagás de más es terminación, no un tablero más grueso. Y tercero: el título y la ficha técnica dicen Double Fish, pero la descripción del vendedor la presenta como marca "ARD". Antes de comprar, preguntale al vendedor qué marca te llega.` },
+
+      { type: "h2", title: `Tabla comparativa: medida, tablero y para quién es`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Producto`, `Precio`, `Tamaño`, `Tablero`, `Para quién`], rows: [
+        [`[Piramydes Global](/producto/mesa-de-ping-pong-piramydes-global-profesional-plegable-fabricada-en-melamina-co-mla15276755)`, `{{precio:MLA15276755}}`, `2,74 x 1,52 m (reglamentaria), plegable`, `Melamina 15 mm`, `Jugar con la medida de club: la más probada`],
+        [`[SurGame Mini](/producto/mini-mesa-ping-pong-plegable-azul-surgame-1-82x0-90m-con-red-mla53396364)`, `{{precio:MLA53396364}}`, `1,82 x 0,90 m, plegable`, `Melamina 16 mm`, `Departamentos y espacios chicos, de a dos`],
+        [`[Sensei Mini](/producto/mini-mesa-ping-pong-sensei-plegable-2-paletas-3-pelotas-color-azul-180-x-102-cm-mla53807662)`, `{{precio:MLA53807662}}`, `1,80 x 1,02 m, plegable`, `MDF 12 mm`, `Familias con chicos y quien no tiene paletas`],
+        [`[Deportes Brienza](/producto/mesa-de-ping-pong-deportes-brienza-semi-profesional-melamina-18mm-azul-mla15259093)`, `{{precio:MLA15259093}}`, `1,85 x 1,10 m, no plegable`, `Melamina 18 mm`, `Dejarla armada en un quincho o garage`],
+        [`[Double Fish](/producto/mesa-ping-pong-double-fish-profesional-plegable-15mm-ruedas-mlau2045380864)`, `{{precio:MLAU2045380864}}`, `2,74 x 1,525 m (reglamentaria), plegable`, `MDF 15 mm + marco`, `Medida completa con líneas pintadas y frontón (pocas reseñas)`],
+      ], rowProductIds: ["MLA15276755", "MLA53396364", "MLA53807662", "MLA15259093", "MLAU2045380864"] },
+
+      { type: "h2", title: `Cómo elegir tu mesa de ping pong`, id: "como-elegir" },
+      { type: "h3", title: `1. Primero la medida, según tu lugar` },
+      { type: "p", content: `Medí el ambiente antes de mirar modelos. Si te entra una reglamentaria con espacio para moverte (unos 6 x 3,5 m), elegí reglamentaria: es la que te deja jugar ping pong de verdad. Si no te entra, una mini es mejor que no tener mesa, siempre sabiendo que el juego es otro.` },
+      { type: "h3", title: `2. El espesor del tablero: más grueso, mejor pique` },
+      { type: "p", content: `En tenis de mesa, un tablero más grueso tiende a dar un pique más parejo y más alto en toda la superficie, sin zonas "muertas". En esta comparativa van de 12 mm (Sensei) a 18 mm (Brienza), con las dos reglamentarias en 15 mm. Las mesas que se usan en torneos suelen tener tableros bastante más gruesos, alrededor de 25 mm, y apuntan a otro público (clubes, competencia federada); ninguna de esta lista se vende ni se posiciona para ese uso. Para jugar en casa, 15 mm o más alcanza y sobra.` },
+      { type: "h3", title: `3. Melamina o MDF` },
+      { type: "p", content: `En Argentina, "melamina" es una placa de madera (aglomerado o MDF) revestida con una lámina plástica dura: superficie lisa, fácil de limpiar y resistente a los rayones. Cuando una publicación dice "MDF laminado" suele estar describiendo lo mismo, solo que con otro nombre o con una terminación levemente distinta; no son dos materiales opuestos. Para el juego, el espesor pesa más que cómo lo llame la publicación. Lo que importa, sea cual sea el nombre: **todas estas mesas son de interior**. Con humedad o lluvia, la madera de adentro se hincha y la mesa se arquea.` },
+      { type: "h3", title: `4. ¿La vas a guardar o la dejás armada?` },
+      { type: "p", content: `Si la tenés que guardar después de jugar, plegable sí o sí: la Piramydes y la Double Fish se pliegan y se paran sobre ruedas; la SurGame y la Sensei se pliegan como un maletín y son livianas. Si tenés un lugar fijo, una mesa no plegable como la Brienza te ahorra el armado de cada vez.` },
+      { type: "h3", title: `5. Paletas, pelotas y peso` },
+      { type: "p", content: `Solo la Sensei trae paletas y pelotas: con las demás, sumá ese gasto. Y pensá quién la va a mover. Las reglamentarias son pesadas (en la Piramydes es la queja que más se repite junto con las ruedas); las mini, de 23 a 24 kg, las maneja una persona, aunque plegadas conviene moverlas de a dos.` },
+      { type: "h3", title: `6. Cuando llega, revisala antes de armar` },
+      { type: "p", content: `Varias reseñas de esta comparativa hablan de bordes golpeados por el envío, bisagras faltantes o una pata mal soldada. Apenas llega, revisá los cantos, contá las piezas contra el manual y confirmá que vengan la red y los soportes. Si algo no está bien, reclamalo en el momento: MercadoLibre lo cubre.` },
+
+      { type: "h2", title: `Cuánto cuesta una mesa de ping pong en Argentina [noviembre 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA53396364:k}}:** la mini más barata con reseñas reales, la [SurGame Mini](/producto/mini-mesa-ping-pong-plegable-azul-surgame-1-82x0-90m-con-red-mla53396364).`,
+        `**Alrededor de {{precio:MLA15259093:k}}:** la reducida no plegable con tablero de 18 mm, la [Deportes Brienza](/producto/mesa-de-ping-pong-deportes-brienza-semi-profesional-melamina-18mm-azul-mla15259093).`,
+        `**Alrededor de {{precio:MLA53807662:k}}:** la mini con paletas, pelotas y altura regulable, la [Sensei](/producto/mini-mesa-ping-pong-sensei-plegable-2-paletas-3-pelotas-color-azul-180-x-102-cm-mla53807662).`,
+        `**Alrededor de {{precio:MLA15276755:k}}:** la reglamentaria más vendida, la [Piramydes Global](/producto/mesa-de-ping-pong-piramydes-global-profesional-plegable-fabricada-en-melamina-co-mla15276755).`,
+        `**Alrededor de {{precio:MLAU2045380864:k}}:** la reglamentaria con líneas pintadas y frontón, la [Double Fish](/producto/mesa-ping-pong-double-fish-profesional-plegable-15mm-ruedas-mlau2045380864).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál mesa de ping pong comprar`, id: "veredicto" },
+      { type: "verdict", content: `Si tenés el lugar, la **[Piramydes Global](/producto/mesa-de-ping-pong-piramydes-global-profesional-plegable-fabricada-en-melamina-co-mla15276755)**: medida reglamentaria, la más vendida de toda la categoría y la que más opiniones reales tiene, por lejos. Contá con que pesa y que las ruedas son flojas. Si no te entra una de 2,74 m, la **[SurGame Mini](/producto/mini-mesa-ping-pong-plegable-azul-surgame-1-82x0-90m-con-red-mla53396364)** es la más barata para jugar de a dos, y la **[Sensei](/producto/mini-mesa-ping-pong-sensei-plegable-2-paletas-3-pelotas-color-azul-180-x-102-cm-mla53807662)** es la mejor para familias, porque trae paletas y baja de altura. Si tenés un quincho donde dejarla armada, la **[Deportes Brienza](/producto/mesa-de-ping-pong-deportes-brienza-semi-profesional-melamina-18mm-azul-mla15259093)** tiene el tablero más grueso. Y si querés la medida completa con líneas pintadas y frontón, la **[Double Fish](/producto/mesa-ping-pong-double-fish-profesional-plegable-15mm-ruedas-mlau2045380864)**, sabiendo que casi no tiene reseñas. El error a evitar: comprar una mini pensando que es "casi lo mismo" que una reglamentaria.` },
+      { type: "h2", title: "Preguntas frecuentes", id: "faq" },
+    ],
+    faq: [
+      { question: `¿Qué medida tiene una mesa de ping pong reglamentaria?`, answer: `2,74 m de largo, 1,525 m de ancho y 76 cm de alto, con la red a 15,25 cm de altura. En esta comparativa, la Piramydes Global y la Double Fish tienen esa medida; la SurGame, la Sensei y la Brienza son reducidas.` },
+      { question: `¿Sirve una mesa mini para jugar en serio?`, answer: `Para jugar casual, sí; para practicar en serio, no. Una mini de 1,80 m tiene menos de la mitad de superficie que una reglamentaria: el juego es más corto, pegado a la mesa, y los tiros largos y con efecto no entran. Si querés aprender o entrenar con la medida de un club, necesitás una reglamentaria.` },
+      { question: `¿Qué espesor de tablero conviene?`, answer: `Cuanto más grueso, más parejo el pique. Para jugar en casa, 15 mm o más alcanza. En esta comparativa van de 12 mm (Sensei) a 18 mm (Brienza), con las dos reglamentarias en 15 mm. Las mesas de torneo usan tableros bastante más gruesos, alrededor de 25 mm.` },
+      { question: `¿Se puede dejar una mesa de ping pong afuera?`, answer: `Ninguna de las de esta comparativa: son de melamina o MDF, que con la humedad se hinchan y se arquean. Usala bajo techo (quincho, garage, galería cerrada) y tapada con una funda cuando no la uses, y no la dejes al sol. Si es plegable (Piramydes, SurGame, Double Fish o Sensei), guardarla plegada ayuda; la Brienza de esta lista queda armada fija, así que a ella alcanza con taparla bien donde esté. Las mesas para exterior existen, pero usan otros materiales y son otra categoría de precio.` },
+      { question: `¿Qué diferencia hay entre melamina y MDF?`, answer: `En Argentina, "melamina" es una placa de aglomerado o MDF revestida con una lámina plástica dura, lisa y fácil de limpiar. Cuando una publicación dice "MDF laminado" suele estar describiendo el mismo tipo de tablero, no un material distinto. Para el juego pesa más el espesor que el nombre que use la publicación, y todas tienen el mismo límite: son de interior.` },
+      { question: `¿Cuál es la mesa de ping pong más vendida en MercadoLibre?`, answer: `La Piramydes Global Profesional plegable: al 11 de noviembre de 2026 era la 1° más vendida de toda la categoría Ping Pong de MercadoLibre Argentina, con {{reviews:MLA15276755}} opiniones.` },
+      { question: `¿Las mesas traen paletas y pelotas?`, answer: `De esta comparativa, solo la Sensei: viene con 2 paletas y 3 pelotas. Las demás traen red y soporte de red, y las paletas se compran aparte.` },
+    ],
+    internalLinks: [
+      { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
+      { label: "Soga para saltar: cuál comprar", href: "/guias/fitness/soga-para-saltar" },
+      { label: "Mancuernas: cuál comprar", href: "/guias/fitness/mancuernas" },
+    ],
+    internalLinksTitle: "Más para moverte en casa",
+  },
 ];
 
 /**
@@ -39341,6 +39484,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Cascos de Moto",
     description:
       "Integral, abierto, rebatible o doble propósito: qué tipo conviene según cómo usás la moto, qué norma declara cada ficha y qué talle pedir.",
+  },
+  "mesa-de-ping-pong": {
+    name: "Guía de Mesas de Ping Pong",
+    description:
+      "Reglamentaria o mini, espesor del tablero y si se pliega: cuál conviene según el lugar que tenés y las contras reales de cada una.",
   },
   monopatines: {
     name: "Guía de Monopatines Eléctricos",

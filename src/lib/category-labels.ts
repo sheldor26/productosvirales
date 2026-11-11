@@ -32,6 +32,7 @@ const ACCENTED_CATEGORY_NAMES: Record<string, string> = {
   "maquina-de-helados": "Máquina de Helados",
   "maquina-de-remo": "Máquina de Remo",
   "maquinas-de-coser": "Máquinas de Coser",
+  "mesa-de-ping-pong": "Mesa de Ping Pong",
   "niveles-laser": "Niveles Láser",
   "organizacion-hogar": "Organización Hogar",
   "parrillas-electricas": "Parrillas Eléctricas",

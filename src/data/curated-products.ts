@@ -117984,6 +117984,500 @@ Es para vos si hacés ruta larga, viajes en moto, aventura o ripio, o si querés
 
 curatedProducts.push(...curatedProductsCascoDeMoto);
 
+// ─────────────────────────────────────────────────────────
+// Guía nueva mesa-de-ping-pong (silo fitness, no existe categoría
+// "deportes"). 2026-11-11. 5 fichas nuevas: precio, rating, reviewCount y
+// "+N vendidos" leídos en vivo en MercadoLibre el 2026-11-11 (Chrome de
+// Juan). Specs SOLO de la ficha técnica y la descripción de cada
+// publicación. Reseñas citadas textuales, leídas el mismo día con la fecha
+// relativa que muestra ML. Imágenes 2X -F verificadas con curl GET.
+// Ojos con dos cosas que contradicen lo que se suele asumir:
+//  - La Double Fish tiene tablero de 15 mm, IGUAL que la Piramydes Global
+//    (1,5 cm). No es la más gruesa: la más gruesa es la Brienza (18 mm).
+//    Además su descripción la nombra como marca "ARD" aunque el título y
+//    la ficha técnica dicen Double Fish: se avisa, no se resuelve.
+//  - La Brienza mide 1,85 x 1,10 m y NO es plegable: no es reglamentaria.
+// ─────────────────────────────────────────────────────────
+const curatedProductsMesaPingPong: Product[] = [
+  {
+    id: "MLA15276755",
+    title: "Mesa de ping pong Piramydes Global Profesional plegable fabricada en melamina color azul",
+    canonicalName: "Piramydes Global Profesional Plegable",
+    brand: "Piramydes Global",
+    price: 416740,
+    originalPrice: 438674,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_899892-MLA97091341029_112025-F.webp",
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15276755",
+    affiliateUrl: "https://meli.la/28ZAZSx",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.6,
+    reviewCount: 253,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 1000,
+    badge: "bestseller",
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Mesa de ping pong de medida reglamentaria (2,74 x 1,52 m), tablero de melamina de 15 mm, plegable en una sola pieza y con ruedas. La más vendida de toda la categoría Ping Pong de MercadoLibre Argentina.",
+    seoTitle: "Piramydes Global: la mesa de ping pong más vendida de MercadoLibre, ¿vale la pena?",
+    metaDescription: "Mesa de ping pong Piramydes Global reglamentaria a {{precio:MLA15276755}}: {{rating:MLA15276755}} estrellas en {{reviews:MLA15276755}} opiniones, 1° en Ping Pong. Lo bueno, lo flojo (ruedas y peso) y para quién es.",
+    pros: [
+      "1° más vendida de toda la categoría Ping Pong de MercadoLibre Argentina (noviembre 2026), con más de 1000 vendidas",
+      "Medida reglamentaria: 2,74 x 1,52 m y 76 cm de alto, la misma superficie de juego que una mesa de club",
+      "{{rating:MLA15276755}} estrellas sobre {{reviews:MLA15276755}} opiniones: la base de reseñas más grande de esta comparativa, por lejos",
+      "Se pliega en una sola pieza y queda parada sobre las ruedas ocupando unos 12 cm de profundidad, según la publicación",
+      "Incluye red y soportes según la ficha técnica, que pueden quedar puestos al plegarla",
+    ],
+    cons: [
+      "Las ruedas son la queja número uno: varias reseñas de 1 a 3 estrellas dicen que no soportan bien el peso de la mesa",
+      "Es muy pesada: varios compradores avisan que para abrirla, cerrarla o moverla hacen falta dos personas",
+      "Algunas unidades llegaron con los bordes golpeados o saltados por el envío, y un comprador recibió una pata mal soldada",
+      "Las líneas blancas son de cinta, no pintadas (un comprador de 3 estrellas lo marca como \"muy berreta\")",
+      "La ficha técnica la indica para interior: no es una mesa para dejar al aire libre",
+      "Un comprador dice que no le llegaron red ni soporte, aunque la ficha técnica los declara incluidos: revisalo apenas llega",
+    ],
+    verdict: "Es la mesa de ping pong reglamentaria con más respaldo real de MercadoLibre: 1° de toda la categoría Ping Pong, con {{reviews:MLA15276755}} opiniones y {{rating:MLA15276755}} estrellas, a {{precio:MLA15276755}}. Si tenés el lugar para una mesa de 2,74 m, es nuestra elección. Lo que tenés que saber antes: pesa mucho, las ruedas son su punto débil y las líneas son de cinta. Si buscás una terminación más cuidada en la misma medida, la Double Fish de esta comparativa tiene líneas pintadas, pero cuesta el doble y casi no tiene reseñas.",
+    specs: [
+      { label: "Marca", value: "Piramydes Global" },
+      { label: "Modelo", value: "Profesional plegable" },
+      { label: "Medidas abierta (largo x ancho x alto)", value: "2,74 m x 1,52 m x 76 cm (reglamentaria)" },
+      { label: "Espesor del tablero", value: "1,5 cm (15 mm)" },
+      { label: "Material del tablero", value: "Melamina (madera enchapada)" },
+      { label: "Plegable", value: "Sí, una sola pieza con bisagras a ambos lados" },
+      { label: "Medidas plegada", value: "1,52 m x 1,4 m x 12 cm aprox. (según ficha y descripción)" },
+      { label: "Ruedas", value: "Sí, 4 desmontables (vienen para colocar)" },
+      { label: "Estructura", value: "Caño cuadrado perimetral en las dos mitades; las patas se sostienen del caño, no de la madera" },
+      { label: "Bordes", value: "Tapacantos de fleje plástico" },
+      { label: "Accesorios incluidos", value: "Red y soporte de red (según ficha técnica)" },
+      { label: "Ambiente", value: "Interior" },
+      { label: "Frontón", value: "No (según ficha técnica)" },
+      { label: "Edad recomendada", value: "14 años o más (según ficha técnica)" },
+      { label: "Garantía", value: "6 meses de fábrica (según la publicación)" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 112, text: "Opino que la mesa cumplio las espectativas al 100%. Lo que obtenes por este precio es una mesa bien armada y solida, que se pliega muy facilmente y rapido y permite guardarla cuando no se usa ocupando poco espacio. Habia leido el comentario de que las ruedas son malas, y es cierto pero acaso influye? en mi opinion para nada." },
+      { rating: 4, country: "Argentina", date: "hace más de 1 año", useful: 15, text: "Buen producto, comoda para el armado y desarmado, y no ocupa mucho lugar para el guardado." },
+      { rating: 3, country: "Argentina", date: "hace más de 1 año", text: "La mesa en si buena, pero las rueditas no soportan bien el peso de la mesa, que dicho sea de paso no vienen puestas, viene para ponerlas, y la mesa pesa un monton, pero realmente muchisimo." },
+      { rating: 2, country: "Argentina", date: "hace 6 meses", text: "Está buena en calidad pero es muy pesada, una sola persona y menos un niño pueden abrirla solos." },
+    ],
+    relatedProducts: ["MLAU2045380864", "MLA53396364", "MLA53807662", "MLA15259093"],
+    articleBody: `## Qué es la Piramydes Global Profesional
+
+Es una mesa de ping pong de **medida reglamentaria**: 2,74 m de largo, 1,52 m de ancho y 76 cm de alto, la misma superficie de juego que una mesa de club. El tablero es de melamina de 15 mm, se pliega en una sola pieza y trae ruedas para moverla. Al 11 de noviembre de 2026 era **la más vendida de toda la categoría Ping Pong de MercadoLibre Argentina**, con más de 1000 vendidas y {{reviews:MLA15276755}} opiniones. Sale {{precio:MLA15276755}} en la tienda oficial TyP Tecno.
+
+## Por qué es nuestra elección
+
+Porque junta las dos cosas que más pesan en una mesa de ping pong: **la medida completa** y **la mayor cantidad de gente que la usó y contó cómo le fue**. {{rating:MLA15276755}} estrellas sobre {{reviews:MLA15276755}} opiniones es una base que ninguna otra mesa de esta comparativa se acerca a tener.
+
+Lo que más se repite en las reseñas buenas: que es sólida, que se arma y se pliega fácil y que plegada ocupa poco. La reseña más votada lo resume así: "una mesa bien armada y solida, que se pliega muy facilmente y rapido y permite guardarla cuando no se usa ocupando poco espacio".
+
+## Cómo se guarda
+
+Se pliega como una sola pieza: las dos mitades se cierran sobre las bisagras y la mesa queda parada sobre las ruedas. Según la publicación, plegada mide alrededor de 1,52 m de ancho por 1,4 m de alto y apenas 12 cm de profundidad: entra contra una pared del garage o del quincho. La red y los soportes pueden quedar puestos.
+
+## Lo flojo, sin vueltas
+
+- **Las ruedas.** Es, por lejos, la queja más repetida entre las reseñas de 1 a 3 estrellas: "Las ruedas son de muy mala calidad. No soportan el peso de la mesa." Incluso la reseña más votada, que le pone 5 estrellas, admite que las ruedas son malas.
+- **El peso.** "Es muy pesada, una sola persona y menos un niño pueden abrirla solos." Varios compradores coinciden: para abrirla, cerrarla o moverla, mejor de a dos.
+- **El envío.** Hay unidades que llegaron con los bordes saltados o marcados, y un comprador recibió una pata mal soldada. Apenas llega, revisala entera antes de armarla.
+- **Las líneas son de cinta.** No están pintadas. No cambia el juego, pero un comprador de 3 estrellas lo marca como su queja principal.
+- **Red y soporte.** La ficha técnica los declara incluidos, pero un comprador dice que a él no le llegaron. Si te falta algo, reclamalo en el momento.
+
+## Para quién es, y para quién no
+
+Es para vos si tenés lugar para una mesa de 2,74 m (y para moverte alrededor), querés jugar ping pong "de verdad" con la medida completa y te importa comprar lo que ya probaron cientos de personas. No es para vos si la vas a mover sola o solo seguido (pesa mucho y las ruedas son flojas), si la querés dejar afuera (es de interior) o si no tenés el espacio: para eso están las mesas reducidas de esta comparativa, como la SurGame Mini.`,
+    faq: [
+      { question: "¿La Piramydes Global es de medida reglamentaria?", answer: "Sí: según la ficha técnica mide 2,74 m de largo, 1,52 m de ancho y 76 cm de alto, que es la medida de una mesa de competición." },
+      { question: "¿Es buena la mesa Piramydes Global?", answer: "Para su precio, sí según la experiencia reportada: tiene {{rating:MLA15276755}} estrellas sobre {{reviews:MLA15276755}} opiniones y es la más vendida de la categoría Ping Pong en MercadoLibre. Las quejas que se repiten son las ruedas, el peso y algunos golpes de envío." },
+      { question: "¿Se puede dejar al aire libre?", answer: "No. La ficha técnica la indica para interior y el tablero es de melamina, que con la humedad o la lluvia se hincha. Si la tenés en un quincho o garage, tapala con una funda." },
+      { question: "¿Trae paletas y pelotas?", answer: "No. Según la ficha técnica trae red y soporte de red, pero las paletas y las pelotas se compran aparte." },
+      { question: "¿Cuánto ocupa plegada?", answer: "Según la publicación, plegada y parada sobre las ruedas mide alrededor de 1,52 m de ancho por 1,4 m de alto y unos 12 cm de profundidad." },
+      { question: "¿Se puede mover sola?", answer: "Tiene ruedas, pero muchos compradores dicen que es muy pesada y que las ruedas no aguantan bien el peso. Para plegarla y moverla, conviene hacerlo de a dos." },
+    ],
+  },
+  {
+    id: "MLA53396364",
+    title: "Mini Mesa Ping Pong Plegable Azul SurGame 1.82x0.90m Con Red",
+    canonicalName: "SurGame Mini Mesa de Ping Pong",
+    brand: "SurGame",
+    price: 175078,
+    originalPrice: 189993,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_869349-MLA95521871438_102025-F.webp",
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA53396364",
+    affiliateUrl: "https://meli.la/1e2hCo8",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.5,
+    reviewCount: 33,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 100,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Mini mesa de ping pong de 1,82 x 0,90 m, tablero de melamina de 16 mm, plegable y liviana (24 kg). Para jugar de a dos en espacios chicos: no es de medida reglamentaria.",
+    seoTitle: "SurGame Mini: mesa de ping pong para espacios chicos, ¿sirve de verdad?",
+    metaDescription: "Mini mesa de ping pong SurGame de 1,82 x 0,90 m a {{precio:MLA53396364}}: {{rating:MLA53396364}} estrellas en {{reviews:MLA53396364}} opiniones. Qué cambia frente a una reglamentaria, lo bueno y lo flojo.",
+    pros: [
+      "La más barata de esta comparativa, y con reseñas reales que la respaldan",
+      "Liviana para su tamaño: 24 kg según la publicación, se mueve y se guarda sin pedir ayuda",
+      "Plegada mide 95 x 93 x 10 cm según la ficha técnica: entra detrás de una puerta o abajo de una cama alta",
+      "Viene con red y soportes, que pueden quedar puestos",
+      "Compradores destacan que es firme y está nivelada pese a su estructura simple",
+    ],
+    cons: [
+      "No es de medida reglamentaria: 1,82 x 0,90 m contra 2,74 x 1,52 m de una mesa de competición, menos de la mitad de superficie",
+      "Las líneas blancas son de cinta, no pintura (la crítica que más se repite, también en reseñas de 4 y 5 estrellas)",
+      "Un comprador de 2 estrellas avisa que vino con 3 bisagras habiendo agujeros para 6, y que las patas se le iban abriendo",
+      "Otro, también de 2 estrellas, la define como \"safa para chicos\" con problemas de terminación",
+      "No trae paletas ni pelotas, y la entrega se acuerda con el vendedor (no figura con envío gratis)",
+    ],
+    verdict: "Es la mesa de ping pong más barata de esta comparativa con respaldo real: {{rating:MLA53396364}} estrellas en {{reviews:MLA53396364}} opiniones, a {{precio:MLA53396364}}. Sirve para lo que promete: jugar de a dos en un departamento, un patio chico o una oficina, y guardarla en un rincón. Lo que no es: una mesa para practicar en serio, porque mide 1,82 x 0,90 m y el peloteo de verdad necesita la mesa completa. Si tenés el lugar, la Piramydes Global reglamentaria cambia el juego.",
+    specs: [
+      { label: "Marca", value: "SurGame" },
+      { label: "Modelo", value: "Mini" },
+      { label: "Medidas abierta (largo x ancho x alto)", value: "1,82 m x 0,90 m x 74 cm" },
+      { label: "Medidas plegada", value: "95 cm x 93 cm x 10 cm" },
+      { label: "Espesor del tablero", value: "1,6 cm (16 mm)" },
+      { label: "Material del tablero", value: "Madera melamina enchapada" },
+      { label: "Peso", value: "24 kg (según la publicación)" },
+      { label: "Estructura", value: "3 apoyos plegables de caño redondo de 7/8 y caño cuadrado perimetral de refuerzo en las dos mitades" },
+      { label: "Líneas", value: "Blancas ploteadas (los compradores aclaran que son de cinta)" },
+      { label: "Bordes", value: "Tapacantos de fleje plástico" },
+      { label: "Ruedas", value: "No" },
+      { label: "Accesorios incluidos", value: "Red y soportes" },
+      { label: "Edad recomendada", value: "8 a 13 años según ficha técnica (edad mínima 3 años)" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", text: "Muy buena relación precio calidad. Los flejes son cintas pegadas, pero esta hecho en forma bien prolija. La red se la ve bien y prolija. Las patas son raras a la vista, parecen medias chuecas honestamente, pero la mesa es super firme y nivelada, por lo que es solo estético. El tamaño la verdad que es muy divetido para jugar. No es la mesa grande profesional, es un 40% mas chica, pero para jugar de a dos esta muy bien!" },
+      { rating: 5, country: "Argentina", date: "hace 11 meses", text: "Esta muy bien en relación precio calidad, es para jugar de a dos, cuatro se chocan." },
+      { rating: 4, country: "Argentina", date: "hace 2 meses", text: "Buena calidad, lástima que las líneas son cintas y no es pintado." },
+      { rating: 2, country: "Argentina", date: "hace 2 meses", text: "Hay que tener en cuenta que viene con sólo 3 bisagras cuando tiene los agujeros para 6 con lo cual queda inestable la mesa y las patas se van abriendo." },
+    ],
+    relatedProducts: ["MLA53807662", "MLA15259093", "MLA15276755"],
+    articleBody: `## Qué es la SurGame Mini
+
+Es una mini mesa de ping pong de **1,82 m de largo por 0,90 m de ancho** y 74 cm de alto, con tablero de melamina de 16 mm, plegable y sin ruedas. Pesa 24 kg según la publicación, así que la abrís, la cerrás y la guardás sin pedir ayuda. Sale {{precio:MLA53396364}} en la tienda oficial TyP Tecno, la misma que vende la Piramydes Global, y es la más barata de esta comparativa.
+
+## El tamaño: lo primero que tenés que entender
+
+Una mesa reglamentaria mide 2,74 x 1,52 m. Esta mide 1,82 x 0,90 m: un tercio menos de largo y bastante menos de ancho, **menos de la mitad de superficie**. Eso cambia el juego. Con la mesa completa, la pelota tiene recorrido para pegarle con efecto, retroceder y pelotear largo; en una mini, el juego es más corto y de reflejos, más cerca de la mesa.
+
+Un comprador lo explica bien: "No es la mesa grande profesional [...] pero para jugar de a dos esta muy bien!". Otro agrega un límite claro: "es para jugar de a dos, cuatro se chocan".
+
+## Por qué tiene sentido igual
+
+Porque el mejor ping pong es el que entra en tu casa. Plegada mide 95 x 93 cm y 10 cm de espesor: la guardás detrás de una puerta o contra una pared. Para un departamento, un balcón cerrado, una oficina o una casa con chicos, es la forma más barata de tener mesa.
+
+Lo que destacan sus compradores: que es firme y está nivelada aunque las patas "parecen medias chuecas", que es fácil de mover de a dos y que se puede plegar una mitad para jugar solo contra la tabla, tipo frontón.
+
+## Lo flojo, sin vueltas
+
+- **Las líneas son de cinta.** Es lo que más se repite, incluso en reseñas de 4 y 5 estrellas: "lástima que las líneas son cintas y no es pintado".
+- **Bisagras.** Un comprador de 2 estrellas cuenta que le vino con 3 bisagras cuando la mesa tiene agujeros para 6, y que las patas se le iban abriendo. Revisala apenas llega.
+- **Terminación.** Otra reseña de 2 estrellas la define como "safa para chicos, pero tiene varios problemas de terminación".
+- **No trae paletas ni pelotas**, y la entrega se acuerda con el vendedor: no figura con envío gratis.
+
+## Para quién es, y para quién no
+
+Es para vos si tenés poco lugar, querés jugar de a dos de forma casual y no querés gastar de más. No es para vos si querés practicar en serio o aprender a jugar con la medida que vas a encontrar en un club: para eso, la Piramydes Global de 2,74 m. Si además necesitás paletas y que la puedan usar chicos más chicos, mirá la Sensei de esta comparativa, que trae el set completo y altura regulable.`,
+    faq: [
+      { question: "¿Qué medida tiene la mini mesa SurGame?", answer: "Abierta mide 1,82 m de largo, 0,90 m de ancho y 74 cm de alto. Plegada, 95 x 93 cm y 10 cm de espesor, según la ficha técnica." },
+      { question: "¿Sirve para jugar en serio?", answer: "Para jugar casual de a dos, sí. Para practicar en serio, no: una mesa reglamentaria mide 2,74 x 1,52 m, y esta tiene menos de la mitad de superficie. El juego es más corto y de reflejos." },
+      { question: "¿Se puede jugar de a cuatro?", answer: "Un comprador lo responde directo: es para jugar de a dos, de a cuatro se chocan." },
+      { question: "¿Trae paletas y pelotas?", answer: "No. Trae red y soportes. Las paletas y pelotas se compran aparte. Si querés el set incluido, la Sensei de esta comparativa viene con 2 paletas y 3 pelotas." },
+      { question: "¿Cuánto pesa?", answer: "24 kg según la publicación. Es liviana para una mesa de ping pong." },
+      { question: "¿Las líneas están pintadas?", answer: "No. La publicación habla de líneas ploteadas, pero varios compradores aclaran que son de cinta." },
+    ],
+  },
+  {
+    id: "MLAU2045380864",
+    title: "Mesa Ping Pong Double Fish Profesional Plegable 15mm Ruedas",
+    canonicalName: "Double Fish Profesional Plegable 15 mm",
+    brand: "Double Fish",
+    price: 855560,
+    originalPrice: 1293804,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_747831-MLA108368693661_032026-F.webp",
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/mesa-ping-pong-double-fish-profesional-plegable-15mm-ruedas/up/MLAU2045380864",
+    affiliateUrl: "https://meli.la/1YQ3yeX",
+    condition: "new",
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 6,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 5,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Mesa de ping pong de medida reglamentaria (2,74 x 1,525 m), tablero de MDF de 15 mm con marco perimetral, líneas pintadas, ruedas y modo frontón. Muy pocas reseñas todavía en MercadoLibre.",
+    seoTitle: "Double Fish Profesional 15 mm: ¿vale el doble que una Piramydes?",
+    metaDescription: "Mesa de ping pong Double Fish reglamentaria a {{precio:MLAU2045380864}}: líneas pintadas, marco perimetral y frontón, pero solo {{reviews:MLAU2045380864}} opiniones. Qué tiene de más, qué no y por qué no la ponemos primera.",
+    pros: [
+      "Medida reglamentaria: 2,74 x 1,525 m y 76 cm de alto",
+      "Líneas pintadas y pintura laqueada según la publicación (en las mesas más baratas de esta lista las líneas son de cinta)",
+      "Marco perimetral de 30 mm debajo del tablero: el vendedor declara un espesor total de 45 mm en el borde",
+      "Se usa como frontón: plegás una mitad y jugás solo contra la tabla",
+      "Ruedas reforzadas según el vendedor, y envío gratis",
+    ],
+    cons: [
+      "Solo {{reviews:MLAU2045380864}} opiniones en MercadoLibre: su {{rating:MLAU2045380864}} es perfecto, pero con una base tan chica no alcanza para saber si tiene problemas poco frecuentes",
+      "El tablero es de 15 mm, igual que el de la Piramydes Global, que cuesta la mitad: lo que pagás de más es terminación, no un tablero más grueso",
+      "La descripción del vendedor la nombra como marca \"ARD\", mientras el título y la ficha técnica dicen Double Fish: conviene preguntarle al vendedor qué marca te llega",
+      "\"Pintura oficial ITTF\" y \"medidas reglamentarias ITTF\" son declaraciones del vendedor que no pudimos verificar",
+      "La publicación avisaba \"últimas 4 unidades\" al revisarla",
+    ],
+    verdict: "Es la otra mesa reglamentaria de esta comparativa, y en el papel promete una terminación superior a la Piramydes Global: líneas pintadas, marco perimetral, ruedas que el vendedor dice reforzadas y modo frontón, a {{precio:MLAU2045380864}}. Pero hay que decirlo claro: tiene **solo {{reviews:MLAU2045380864}} opiniones**, su tablero es de 15 mm como el de la Piramydes (no más grueso) y su descripción nombra otra marca (ARD). Su {{rating:MLAU2045380864}} es bueno, pero no alcanza para decirte que sea más confiable que una mesa con cientos de reseñas, y lo de las ruedas reforzadas es una declaración del vendedor que no pudimos confirmar. Tiene sentido si las líneas pintadas y el frontón (confirmados en la ficha) valen para vos la diferencia de precio, no por una promesa de ruedas mejores que todavía no está probada.",
+    specs: [
+      { label: "Marca", value: "Double Fish Profesional (según título y ficha técnica; la descripción del vendedor la nombra como ARD)" },
+      { label: "Modelo", value: "Plegable 15 mm" },
+      { label: "Medidas abierta (largo x ancho x alto)", value: "2,74 m x 1,525 m x 76 cm (reglamentaria)" },
+      { label: "Espesor del tablero", value: "1,5 cm (15 mm)" },
+      { label: "Material del tablero", value: "MDF (según la descripción)" },
+      { label: "Marco perimetral", value: "30 mm; espesor total en el borde de 45 mm según el vendedor" },
+      { label: "Pintura y líneas", value: "Laqueada acrílica, líneas pintadas (según la descripción)" },
+      { label: "Estructura", value: "Metálica" },
+      { label: "Plegable", value: "Sí" },
+      { label: "Medidas plegada", value: "1,525 m de ancho x 1,90 m de alto x 0,52 m de profundidad (según la descripción)" },
+      { label: "Ruedas", value: "Sí (\"reforzadas\" según el vendedor)" },
+      { label: "Frontón", value: "Sí" },
+      { label: "Accesorios incluidos", value: "Red" },
+      { label: "Edad recomendada", value: "8 a 13 años según ficha técnica (edad mínima 6 años)" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 año", text: "Excelente. Muy linda. Parece pro." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", text: "Excelente!!. Práctica y ocupa muy poco espacio." },
+    ],
+    relatedProducts: ["MLA15276755", "MLA15259093", "MLA53396364"],
+    articleBody: `## Qué es esta mesa
+
+Es una mesa de ping pong de **medida reglamentaria** (2,74 x 1,525 m y 76 cm de alto), plegable, con ruedas y que se puede usar como frontón. Según la descripción, el tablero es de MDF de 15 mm con un marco perimetral de 30 mm debajo, pintura laqueada acrílica y líneas pintadas. Sale {{precio:MLAU2045380864}} en la tienda oficial GAMBETITA DEPORTES, con envío gratis.
+
+## Antes que nada: dos avisos honestos
+
+**Tiene muy pocas reseñas.** Al 11 de noviembre de 2026 sumaba {{reviews:MLAU2045380864}} opiniones, todas de 5 estrellas, y solo dos con comentario ("Excelente. Muy linda. Parece pro."). Un {{rating:MLAU2045380864}} perfecto con una base tan chica no dice mucho todavía: no alcanza para saber si tiene problemas poco frecuentes, como sí los conocemos en la Piramydes Global gracias a sus cientos de reseñas.
+
+**La marca no está del todo clara.** El título y la ficha técnica dicen Double Fish, que es una marca china conocida en el tenis de mesa. Pero la descripción del vendedor la presenta como "TENIS DE MESA PROFESIONAL IMPORTADA ARD" y habla de "la marca ARD". No sabemos cuál de las dos es la correcta: antes de comprar, preguntale al vendedor qué marca te llega.
+
+## Qué tiene de más frente a la Piramydes Global
+
+Ojo con un mito: el tablero **no es más grueso**. Es de 15 mm, exactamente igual al de la Piramydes, que cuesta la mitad. Lo que esta mesa promete de más es terminación:
+
+- **Líneas pintadas.** En la Piramydes, la SurGame y otras mesas de esta lista, las líneas son de cinta, y varios compradores se quejan de eso.
+- **Marco perimetral de 30 mm.** El vendedor declara 45 mm de espesor total en el borde. Eso suma rigidez al tablero, aunque la superficie donde pica la pelota sigue siendo de 15 mm.
+- **Ruedas reforzadas.** Es justo el punto débil más criticado de la Piramydes. Acá el vendedor dice que son reforzadas; con tan pocas reseñas, no lo podemos confirmar.
+- **Modo frontón.** Plegás una mitad y jugás solo, contra la tabla.
+
+La publicación habla también de "pintura oficial ITTF" (la federación internacional de tenis de mesa). Es una declaración del vendedor que no pudimos verificar, así que no la tomamos como certificación.
+
+## Para quién es, y para quién no
+
+Es para vos si querés una mesa de medida completa, te molestan las líneas de cinta y valorás el frontón (esto sí está confirmado en la ficha), y estás dispuesto a pagar el doble sabiendo que casi no tiene historial de compradores y que lo de las ruedas reforzadas es, por ahora, solo una promesa del vendedor. No es para vos si lo que buscás es la apuesta más segura: ahí la Piramydes Global tiene cientos de reseñas que ya te cuentan qué esperar, incluidas las malas.`,
+    faq: [
+      { question: "¿La Double Fish tiene un tablero más grueso que la Piramydes?", answer: "No. Las dos tienen tablero de 15 mm según sus publicaciones. Lo que la Double Fish suma es un marco perimetral de 30 mm, líneas pintadas y modo frontón." },
+      { question: "¿Es de medida reglamentaria?", answer: "Sí: según la ficha técnica mide 2,74 m de largo, 1,525 m de ancho y 76 cm de alto." },
+      { question: "¿Es confiable si tiene tan pocas reseñas?", answer: "Las que tiene son todas de 5 estrellas, pero son solo {{reviews:MLAU2045380864}}. Con una base tan chica no hay forma de saber todavía si tiene problemas poco frecuentes. No la consideramos más confiable que la Piramydes Global, que tiene cientos de opiniones." },
+      { question: "¿Es Double Fish o ARD?", answer: "El título y la ficha técnica dicen Double Fish, pero la descripción del vendedor la presenta como marca ARD. Preguntale al vendedor antes de comprar qué marca te llega." },
+      { question: "¿Tiene certificación ITTF?", answer: "La publicación habla de \"pintura oficial ITTF\" y \"medidas reglamentarias ITTF\". Las medidas coinciden con las reglamentarias, pero no pudimos verificar ninguna certificación, así que no la afirmamos." },
+      { question: "¿Se puede jugar solo?", answer: "Sí: se puede usar como frontón, plegando una mitad y jugando contra la tabla." },
+    ],
+  },
+  {
+    id: "MLA15259093",
+    title: "Mesa de Ping Pong Deportes Brienza Semi Profesional Melamina 18mm Azul",
+    canonicalName: "Deportes Brienza Semi Profesional 18 mm",
+    brand: "Deportes Brienza",
+    price: 260784,
+    originalPrice: 283000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_711155-MLA91515696758_092025-F.webp",
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15259093",
+    affiliateUrl: "https://meli.la/2ftrTR9",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 27,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 100,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Mesa de ping pong semi profesional de 1,85 x 1,10 m, tablero de melamina de 18 mm (el más grueso de esta comparativa) y patas de madera. No es plegable ni reglamentaria: es para dejarla armada.",
+    seoTitle: "Deportes Brienza Semi Profesional: la mesa de 18 mm para dejar armada",
+    metaDescription: "Mesa de ping pong Deportes Brienza de 1,85 x 1,10 m y 18 mm a {{precio:MLA15259093}}: {{rating:MLA15259093}} estrellas en {{reviews:MLA15259093}} opiniones. No es plegable: para quién sirve y qué dicen de las patas.",
+    pros: [
+      "El tablero más grueso de esta comparativa: melamina de 18 mm",
+      "Más ancha que las mini: 1,10 m contra 0,90 y 1,02 m, y 76 cm de alto como una reglamentaria",
+      "Incluye red y soporte de red, y envío gratis",
+      "{{rating:MLA15259093}} estrellas en {{reviews:MLA15259093}} opiniones, con compradores que la usan para jugar en familia",
+    ],
+    cons: [
+      "No es plegable ni tiene ruedas: una vez armada, queda armada",
+      "No es de medida reglamentaria: 1,85 x 1,10 m contra 2,74 x 1,52 m de una mesa de competición",
+      "Las patas son el punto débil: tres de las cuatro reseñas de 2 y 3 estrellas dicen que hubo que reforzarlas",
+      "No trae paletas ni pelotas",
+    ],
+    verdict: "Es una mesa reducida pensada para quedar armada en un lugar fijo, a {{precio:MLA15259093}}: la más ancha de las chicas y con el tablero más grueso de toda la comparativa (18 mm). Tiene {{rating:MLA15259093}} estrellas en {{reviews:MLA15259093}} opiniones, pero las críticas apuntan siempre a lo mismo: las patas, que varios compradores tuvieron que reforzar. Conviene si tenés un quincho o garage donde dejarla puesta y no te molesta ajustar la estructura. Si necesitás guardarla después de jugar, no es para vos: mirá la SurGame Mini o la Sensei, que se pliegan.",
+    specs: [
+      { label: "Marca", value: "Deportes Brienza" },
+      { label: "Modelo", value: "Semi profesional" },
+      { label: "Medidas (largo x ancho x alto)", value: "1,85 m x 1,10 m x 76 cm" },
+      { label: "Espesor del tablero", value: "1,8 cm (18 mm)" },
+      { label: "Material del tablero", value: "Melamina" },
+      { label: "Material de las patas", value: "Madera" },
+      { label: "Plegable", value: "No" },
+      { label: "Ruedas", value: "No" },
+      { label: "Accesorios incluidos", value: "Red y soporte de red" },
+      { label: "Ambiente", value: "Interior" },
+      { label: "Frontón", value: "No" },
+      { label: "Edad recomendada", value: "14 años o más según ficha técnica (edad mínima 5 años)" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 2 meses", text: "Excelente muy estable no se mueve con los toques o al apoyarse." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", text: "Muy buen producto fácil de armar, buenos materiales excelente para jugar en flia." },
+      { rating: 3, country: "Argentina", date: "hace más de 1 año", text: "Débil de patas. Hay que reforzarlas y también al marco de abajo. Lo demás, cumple suficientemente considerando que es una mesa de uso recreativo. Buena medida para chicos de hasta 12/13 años." },
+      { rating: 2, country: "Argentina", date: "hace 9 meses", text: "Tuve que reforzarla por todos lados muy baja la caldiad de los materiales." },
+    ],
+    relatedProducts: ["MLA53807662", "MLA53396364", "MLA15276755"],
+    articleBody: `## Qué es la Deportes Brienza Semi Profesional
+
+Es una mesa de ping pong reducida de **1,85 m de largo por 1,10 m de ancho** y 76 cm de alto, con tablero de melamina de 18 mm y patas de madera. Ojo con dos datos que el título no aclara: **no es plegable y no tiene ruedas**. Es una mesa para armar una vez y dejarla en su lugar. Sale {{precio:MLA15259093}} en la tienda oficial Deportes Brienza, con envío gratis.
+
+## Lo que tiene de bueno
+
+- **El tablero más grueso de la comparativa.** 18 mm, contra 15 mm de las reglamentarias y 12 a 16 mm de las otras mini. En tenis de mesa, un tablero más grueso tiende a dar un pique más parejo.
+- **La más ancha de las reducidas.** 1,10 m de ancho, contra 0,90 m de la SurGame y 1,02 m de la Sensei, y la altura de una reglamentaria (76 cm).
+- **Estable para jugar.** Un comprador de 5 estrellas dice que "no se mueve con los toques o al apoyarse", y varios la recomiendan para jugar en familia.
+
+## Lo flojo, sin vueltas
+
+Las críticas apuntan casi todas a lo mismo: **las patas**. De las cuatro reseñas de 2 y 3 estrellas, tres hablan de reforzarlas: "Débil de patas. Hay que reforzarlas y también al marco de abajo" y "Tuve que reforzarla por todos lados". Es un patrón claro, aunque convive con compradores que la encontraron estable. Si la comprás, revisá y ajustá la estructura al armarla.
+
+Tampoco trae paletas ni pelotas, y no es de medida reglamentaria: el mismo comprador de 3 estrellas la ubica como "buena medida para chicos de hasta 12/13 años".
+
+## Para quién es, y para quién no
+
+Es para vos si tenés un lugar fijo donde dejarla armada (un quincho, un garage, un cuarto de juegos), querés algo más ancho que una mini y no te asusta ajustar la estructura. No es para vos si la vas a tener que guardar después de cada partido: para eso, la SurGame Mini o la Sensei, que se pliegan. Y si tenés lugar para una mesa de medida completa, la Piramydes Global cuesta más, pero es reglamentaria y se pliega.`,
+    faq: [
+      { question: "¿La Deportes Brienza es plegable?", answer: "No. Según la ficha técnica no es plegable ni tiene ruedas: se arma y queda armada." },
+      { question: "¿Qué medida tiene?", answer: "1,85 m de largo, 1,10 m de ancho y 76 cm de alto, según la ficha técnica. No es de medida reglamentaria (2,74 x 1,52 m)." },
+      { question: "¿De qué espesor es el tablero?", answer: "18 mm de melamina, el más grueso de las cinco mesas de nuestra comparativa." },
+      { question: "¿Es firme?", answer: "Las opiniones están divididas: un comprador dice que no se mueve al apoyarse, pero tres de las reseñas más bajas cuentan que hubo que reforzar las patas. Conviene revisar la estructura al armarla." },
+      { question: "¿Trae paletas?", answer: "No. Trae red y soporte de red. Las paletas y pelotas se compran aparte." },
+      { question: "¿Se puede usar afuera?", answer: "No. La ficha técnica la indica para interior y la melamina se hincha con la humedad." },
+    ],
+  },
+  {
+    id: "MLA53807662",
+    title: "Mini Mesa Ping Pong Sensei Plegable + 2 Paletas + 3 Pelotas Color Azul 180 x 102 cm",
+    canonicalName: "Sensei Mini Mesa de Ping Pong con Paletas",
+    brand: "Sensei",
+    price: 330484,
+    originalPrice: 446600,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_982861-MLA96893116126_112025-F.webp",
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA53807662",
+    affiliateUrl: "https://meli.la/16M4tpc",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 24,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 50,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Mini mesa de ping pong de 1,80 x 1,02 m, plegable como un maletín, con altura regulable (76 o 65 cm) y set de 2 paletas y 3 pelotas incluido. La única de esta comparativa que viene lista para jugar.",
+    seoTitle: "Sensei Mini con paletas: la mesa de ping pong lista para jugar, ¿vale la pena?",
+    metaDescription: "Mini mesa de ping pong Sensei a {{precio:MLA53807662}} con 2 paletas, 3 pelotas y altura regulable para chicos: {{rating:MLA53807662}} estrellas en {{reviews:MLA53807662}} opiniones. Lo bueno, lo flojo y el tamaño real.",
+    pros: [
+      "La única de esta comparativa que trae todo para jugar: 2 paletas y 3 pelotas incluidas",
+      "Altura regulable a 76 o 65 cm, para que la usen adultos y chicos (ninguna otra de la lista lo ofrece)",
+      "Se pliega como un maletín, con manija de transporte y trabas de seguridad según la publicación",
+      "{{rating:MLA53807662}} estrellas en {{reviews:MLA53807662}} opiniones: la nota más alta entre las mesas de esta lista con más de un puñado de reseñas",
+      "Patas con topes de goma y estructura de acero con pintura epoxi, según la publicación",
+    ],
+    cons: [
+      "No es de medida reglamentaria: 1,80 x 1,02 m, \"aprox. dos tercios de una reglamentaria\" de largo según el propio vendedor",
+      "El tablero más fino de la comparativa: MDF de 12 mm",
+      "Un comprador de 3 estrellas encontró las patas muy débiles y el caño fino, y le pareció cara para su tamaño",
+      "Plegada es pesada para una persona: un comprador recomienda moverla de a dos (pesa 23 kg según la publicación)",
+    ],
+    verdict: "Es la mesa para el que quiere abrir la caja y jugar: trae 2 paletas y 3 pelotas, se regula a la altura de un chico y se pliega como un maletín, a {{precio:MLA53807662}}. Tiene {{rating:MLA53807662}} estrellas en {{reviews:MLA53807662}} opiniones, y la crítica que aparece es puntual: un comprador encontró las patas débiles. No es para practicar en serio (mide 1,80 x 1,02 m y el tablero es de 12 mm). Si tenés chicos que arrancan o no tenés paletas en casa, es la opción más práctica. Si ya tenés paletas y querés gastar menos, la SurGame Mini es más barata.",
+    specs: [
+      { label: "Marca", value: "Sensei" },
+      { label: "Modelo", value: "Mini mesa" },
+      { label: "Medidas (largo x ancho x alto)", value: "1,80 m x 1,02 m x 76 cm" },
+      { label: "Altura regulable", value: "76 cm o 65 cm (según la descripción)" },
+      { label: "Espesor del tablero", value: "1,2 cm (12 mm)" },
+      { label: "Material del tablero", value: "MDF laminado azul (según la descripción)" },
+      { label: "Estructura", value: "Tubular de acero con pintura epoxi anticorrosiva" },
+      { label: "Peso", value: "23 kg (según la descripción)" },
+      { label: "Plegable", value: "Sí, tipo maletín, con bisagras reforzadas, trabas y manija de transporte" },
+      { label: "Patas", value: "Con topes de goma" },
+      { label: "Ruedas", value: "No" },
+      { label: "Incluye", value: "Red, 2 paletas de madera con goma lisa y 3 pelotas de 40 mm" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 2 meses", text: "Excelente la mesa para que los niños comiencen a jugar al ping pong ya que inclusive se puede poner en dos alturas diferentes. El tamaño permite que se pueda colocar donde una mesa tradicional no entraría." },
+      { rating: 5, country: "Argentina", date: "hace 4 meses", text: "Es excelente calidad. Igual que las paletas. Super contentos con la compra. Cuando se cierra para moverla es pesada, es mejor moverla de a 2. La atención fue muy buena. Todo bien con la entrega." },
+      { rating: 5, country: "Argentina", date: "hace 1 mes", text: "Es espectacular! súper firme! chicos y grandes contentos." },
+      { rating: 3, country: "Argentina", date: "hace 2 meses", text: "Es mini la mesa , aunque para los peques no precisas mucho. Me parecieron muy débiles las patas y el caño de las mismas fino. Espero amortizsr el gasto, ya que no salió nada barata." },
+    ],
+    relatedProducts: ["MLA53396364", "MLA15259093", "MLA15276755"],
+    articleBody: `## Qué es la Sensei Mini
+
+Es una mini mesa de ping pong de **1,80 m de largo por 1,02 m de ancho**, con tablero de MDF de 12 mm, estructura de acero y altura regulable. La diferencia con cualquier otra mesa de esta comparativa está en la caja: **trae 2 paletas y 3 pelotas**, así que llega y se juega. Sale {{precio:MLA53807662}} en la tienda oficial SENSEI STAR, con envío gratis.
+
+## Lo que la hace distinta
+
+- **El set completo.** 2 paletas de madera con goma lisa y 3 pelotas de 40 mm. Un comprador dice que las paletas son de "excelente calidad", igual que la mesa. Para nivel recreativo, alcanza; si jugás seguido, vas a querer paletas mejores con el tiempo.
+- **Altura regulable: 76 o 65 cm.** 76 cm es la altura reglamentaria; 65 cm es para chicos. Ninguna otra mesa de esta lista lo ofrece, y es lo que destaca la reseña más completa: "Excelente la mesa para que los niños comiencen a jugar al ping pong ya que inclusive se puede poner en dos alturas diferentes".
+- **Se pliega como un maletín**, con manija de transporte y trabas de seguridad, según la publicación.
+
+## El tamaño: una mini, con todo lo que eso implica
+
+El mismo vendedor la describe como "aprox. dos tercios de una reglamentaria" en largo. Es un poco más ancha que la SurGame Mini (1,02 m contra 0,90 m), pero sigue siendo una mesa para jugar cerca, de reflejos, no para pelotear largo como en un club.
+
+## Lo flojo, sin vueltas
+
+- **Un comprador encontró las patas débiles.** La única reseña por debajo de 4 estrellas dice: "Me parecieron muy débiles las patas y el caño de las mismas fino", y que no le pareció barata para ser mini. Es una sola opinión entre {{reviews:MLA53807662}}, pero vale tenerla en cuenta.
+- **Pesa para moverla plegada.** 23 kg según la publicación. Un comprador conforme igual avisa: "Cuando se cierra para moverla es pesada, es mejor moverla de a 2".
+- **El tablero es el más fino de la comparativa**: 12 mm de MDF. Para jugar casual no se nota tanto; para un pique parejo y firme, un tablero más grueso juega mejor.
+
+## Para quién es, y para quién no
+
+Es para vos si tenés chicos que están arrancando, si no tenés paletas en casa y no querés comprar todo por separado, o si buscás una mesa que entre en un departamento y se guarde rápido. No es para vos si ya tenés paletas y querés gastar lo menos posible (la SurGame Mini es más barata) ni si querés practicar con la medida completa (para eso, la Piramydes Global).`,
+    faq: [
+      { question: "¿Qué trae la mesa Sensei?", answer: "La mesa con su red, 2 paletas de madera con goma lisa y 3 pelotas de 40 mm, según la publicación." },
+      { question: "¿Se puede bajar la altura para chicos?", answer: "Sí: según la descripción, la altura se regula a 76 cm (la reglamentaria) o a 65 cm, para que jueguen chicos." },
+      { question: "¿Qué medida tiene?", answer: "1,80 m de largo por 1,02 m de ancho. No es de medida reglamentaria (2,74 x 1,52 m): el propio vendedor la describe como aproximadamente dos tercios de una reglamentaria en largo." },
+      { question: "¿Cuánto pesa?", answer: "23 kg según la descripción. Un comprador recomienda moverla de a dos cuando está plegada." },
+      { question: "¿Es firme?", answer: "La mayoría de los compradores la encuentra firme (\"súper firme\", dice uno), pero un comprador de 3 estrellas encontró las patas débiles y el caño fino." },
+      { question: "¿Se puede usar afuera?", answer: "Es de MDF, que con la humedad se hincha. Usala bajo techo y guardala plegada y tapada." },
+    ],
+  },
+];
+
+curatedProducts.push(...curatedProductsMesaPingPong);
+
 export const categoryPastels: Record<string, string> = {
   cocina: 'var(--pastel-coral)',
   hogar: 'var(--pastel-amber)',
