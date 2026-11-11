@@ -17,6 +17,7 @@ export type CardProduct = Pick<
   | "pastelColor"
   | "priceStatus"
   | "rating"
+  | "reviewCount"
   | "soldQuantity"
   | "freeShipping"
   | "brand"

@@ -9,8 +9,20 @@ import { formatPrice } from "@/lib/utils";
  * así que cuando cambia el precio en /producto/ se actualiza acá también.
  *
  *   {{precio:MLA18193159}}     → "$ 149.132"  (precio exacto, ideal para tablas)
- *   {{precio:MLA18193159:k}}   → "$ 149.000"  (redondeado al mil, para prosa
- *                                              tipo "alrededor de $149.000")
+ *   {{precio:MLA18193159:k}}   → "$ 149.000"  (redondeado al mil más cercano,
+ *                                              para prosa tipo "alrededor de
+ *                                              $149.000" — puede quedar por
+ *                                              ENCIMA del precio real)
+ *   {{precio:MLA18193159:kmax}} → "$ 150.000" (redondeado HACIA ARRIBA al mil,
+ *                                              el único seguro para "menos de
+ *                                              $X" o "por menos de $X": con
+ *                                              ":k" común, un precio como
+ *                                              $149.132 podía redondear a
+ *                                              $149.000, y entonces "menos de
+ *                                              $149.000" quedaba falso al lado
+ *                                              del propio botón de "Comprar a
+ *                                              $149.132" — bug real encontrado
+ *                                              en auditoría CRO, 2026-11-11)
  *
  * Para CLAIMS COMPARATIVOS ("es $16.274 más cara que...", "$9.000 menos que...")
  * usar el token de diferencia en vez de tipear el monto:
@@ -54,7 +66,7 @@ import { formatPrice } from "@/lib/utils";
  * vacío o equivocado. El script scripts/check-price-tokens.cjs valida todos los
  * tokens antes de publicar.
  */
-const PRICE_TOKEN_RE = /\{\{\s*precio:([A-Za-z0-9]+)(?::(k))?\s*\}\}/g;
+const PRICE_TOKEN_RE = /\{\{\s*precio:([A-Za-z0-9]+)(?::(k|kmax))?\s*\}\}/g;
 const PRICE_DIFF_TOKEN_RE = /\{\{\s*preciodif:([A-Za-z0-9]+):([A-Za-z0-9]+)\s*\}\}/g;
 const REVIEWS_TOKEN_RE = /\{\{\s*reviews:([A-Za-z0-9]+)\s*\}\}/g;
 const RATING_TOKEN_RE = /\{\{\s*rating:([A-Za-z0-9]+)\s*\}\}/g;
@@ -68,9 +80,12 @@ export function injectLivePrices(text: string): string {
   let out = text.replace(PRICE_TOKEN_RE, (whole, id: string, rounded?: string) => {
     const product = getProductById(id);
     if (!product || !product.price) return whole;
-    const value = rounded
-      ? Math.round(product.price / 1000) * 1000
-      : product.price;
+    const value =
+      rounded === "kmax"
+        ? Math.ceil(product.price / 1000) * 1000
+        : rounded === "k"
+          ? Math.round(product.price / 1000) * 1000
+          : product.price;
     return formatPrice(value, product.currency);
   });
 

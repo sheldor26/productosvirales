@@ -4,6 +4,7 @@ import type { GuideSection } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
+import { shouldShowSoldQuantity } from "@/lib/utils";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 
 /**
@@ -68,7 +69,7 @@ export function RichComparisonTable({ section }: { section: GuideSection }) {
                         <span className="font-semibold text-[var(--text-primary)] leading-snug">
                           {name}
                         </span>
-                        {product?.soldQuantity ? (
+                        {shouldShowSoldQuantity(product?.soldQuantity, product?.reviewCount) ? (
                           <span className="block text-[12px] text-[var(--text-muted)]">
                             +{product.soldQuantity.toLocaleString("es-AR")} vendidos
                           </span>

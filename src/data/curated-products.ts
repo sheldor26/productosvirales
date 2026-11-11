@@ -34823,28 +34823,26 @@ La AP152 es la pava de acero inoxidable completo más accesible del catálogo (l
     pastelColor: 'var(--pastel-coral)',
     description: 'Liliana Mateando: pava eléctrica con función mate confirmada en ficha, 2000W, 1.7L, filtro extraíble y lavable, doble visor de nivel de agua, base giratoria 360°, luz LED azul. El mayor volumen de reseñas del catálogo de pavas — {{reviews:MLA8933826}} calificaciones en MercadoLibre.',
     pros: [
-      '4.6⭐ con {{reviews:MLA8933826}} calificaciones — el mayor volumen del catálogo',
+      '{{rating:MLA8933826}}⭐ con {{reviews:MLA8933826}} calificaciones — el mayor volumen del catálogo',
       'Función mate CONFIRMADA en ficha técnica oficial',
       'Filtro extraíble y lavable incluido',
       '2.000W — potencia media-alta, hierve rápido',
       '1.7L de capacidad',
       'Doble visor de nivel de agua (ambos lados)',
       'Luz LED azul durante funcionamiento',
-      '40% OFF — de $74.999 a $44.599',
     ],
     cons: [
       'Cuerpo plástico — no acero inoxidable',
       'Sin pantalla digital ni lectura de temperatura en grados',
       'Solo 2 niveles (mate/hervir) — sin control continuo',
       'Sin keep warm',
-      '⚠️ Inconsistencia de modelo: spec dice AP175B, imagen dice AP975B',
     ],
     verdict: 'De todas las pavas del catálogo, la Liliana Mateando tiene el mayor volumen de reseñas: {{reviews:MLA8933826}} calificaciones y 2.177 comentarios. Con eso como base, el 4.6 que tiene en promedio dice más que un 4.8 con 80 reseñas. La función mate está confirmada en la ficha técnica (a diferencia del modelo AP152 donde hay inconsistencia). Si querés mate con filtro incluido y respaldo de compradores masivo, esta es la opción.',
     seoTitle: 'Liliana Mateando AP975B — pava con función mate y filtro',
     metaDescription: 'Pava eléctrica Liliana Mateando: función mate confirmada, 2000W, 1.7L, filtro extraíble, doble visor y luz LED azul. {{reviews:MLA8933826}} calificaciones en ML.',
     ogTitle: 'Liliana Mateando AP975B — pava con función mate y filtro',
-    ogDescription: 'Pava eléctrica Liliana Mateando: función mate confirmada, 2000W, 1.7L, filtro extraíble, doble visor y luz LED azul. 4.777 calificaciones. $44.599.',
-    h1: 'Liliana Mateando AP975B: pava eléctrica con función mate, filtro y 4.777 opiniones',
+    ogDescription: 'Pava eléctrica Liliana Mateando: función mate confirmada, 2000W, 1.7L, filtro extraíble, doble visor y luz LED azul. {{reviews:MLA8933826}} calificaciones a {{precio:MLA8933826}}.',
+    h1: 'Liliana Mateando AP975B: pava eléctrica con función mate, filtro y el mayor volumen de opiniones del catálogo',
     articleBody: `De todas las pavas del catálogo, la Liliana Mateando tiene el mayor volumen de reseñas: {{reviews:MLA8933826}} calificaciones y 2.177 comentarios. Con eso como base, el 4.6 que tiene en promedio dice más que un 4.8 con 80 reseñas — es el número que se construye con muchas experiencias reales de compra.
 
 La función mate está confirmada en la ficha técnica (a diferencia del modelo [AP152](/producto/liliana-ap152-pava-electrica-de-acero-con-selector-mate-mla61505857) del mismo sitio, donde la ficha dice "No" pero el manual muestra el botón). Tiene 2 niveles de temperatura: mate y hervir. El selector es una perilla física en la base.
@@ -34881,10 +34879,10 @@ La base giratoria es 360° y antideslizante. La tapa tiene sistema de apertura c
 
 ## El precio y el contexto en el catálogo
 
-A $44.599, la Mateando está en el rango medio del catálogo: más cara que la AP152 ($31.999) pero bastante más accesible que los modelos Philips y el [Peabody DK1850](/producto/peabody-pe-dk1850-pava-electrica-de-acero-con-4-niveles-mla14263533) ($55.900). Para alguien que quiere función mate confirmada, filtro incluido y plástico blanco (no acero), esta es la opción del catálogo con el mayor respaldo de compradores.`,
+A {{precio:MLA8933826}}, la Mateando está en el rango medio del catálogo: más cara que la AP152 ({{precio:MLA61505857}}) pero más accesible que los modelos Philips y el [Peabody DK1850](/producto/peabody-pe-dk1850-pava-electrica-de-acero-con-4-niveles-mla14263533) ({{precio:MLA14263533}}). Para alguien que quiere función mate confirmada, filtro incluido y plástico blanco (no acero), esta es la opción del catálogo con el mayor respaldo de compradores.`,
     specs: [
       { label: 'Marca', value: 'Liliana' },
-      { label: 'Modelo', value: 'AP975B (spec lista AP175B — verificar)' },
+      { label: 'Modelo', value: 'AP975B' },
       { label: 'Línea', value: 'Mateando' },
       { label: 'Color', value: 'Blanco + detalles ámbar' },
       { label: 'Material', value: 'Plástico' },
@@ -86400,7 +86398,7 @@ La opción más práctica si necesitás resolver cocina y baño juntos, con un c
     metaDescription: "Cesto de basura Hogar Actual 3L acero, cierre suave. {{reviews:MLA23516548}} opiniones a {{rating:MLA23516548}} estrellas, el más económico de la comparativa.",
     verdict: "Es la entrada más económica de esta comparativa, a {{precio:MLA23516548}}: 3 litros de acero inoxidable con pedal y cierre suave, pensado para baño (aunque también sirve como cesto chico de cocina). {{reviews:MLA23516548}} calificaciones reales a {{rating:MLA23516548}} estrellas, 10° en el ranking propio de MercadoLibre de toda la categoría, con un resumen de opiniones que destaca que no deja escapar olores. La honestidad que corresponde: al menos una reseña real avisa que le tocaron unidades con abolladuras de fábrica en más de una compra, así que vale la pena revisar el estado al recibirlo.",
     pros: [
-      "El más económico de esta comparativa, a menos de {{precio:MLA23516548:k}}",
+      "El más económico de esta comparativa, a menos de {{precio:MLA23516548:kmax}}",
       `{{reviews:MLA23516548}} calificaciones a {{rating:MLA23516548}} estrellas, 10° en el ranking propio de MercadoLibre de la categoría`,
       "Cierre suave y sellado que, según el resumen de reseñas, no deja escapar olores",
       "Tamaño chico ideal para baño, pero también sirve como cesto de cocina para residuos orgánicos",

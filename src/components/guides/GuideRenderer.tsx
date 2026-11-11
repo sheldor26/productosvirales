@@ -20,7 +20,7 @@ import { nextStepLinksForGuide, nextStepHeadingForGuide } from "@/lib/related-gu
 import { ensureSectionIds, getTocItems } from "@/lib/slug";
 import { getProductById } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
-import { formatPrice } from "@/lib/utils";
+import { formatPrice, shouldShowSoldQuantity } from "@/lib/utils";
 import { injectLivePrices } from "@/lib/price-token";
 import { analyzePriceHistory } from "@/lib/price-history";
 import { Stars } from "./Stars";
@@ -609,7 +609,7 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
                   <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
                 ) : null}
               </div>
-              {product.soldQuantity ? (
+              {shouldShowSoldQuantity(product.soldQuantity, product.reviewCount) ? (
                 <div className="text-[12px] text-[var(--text-muted)]">
                   +{product.soldQuantity.toLocaleString("es-AR")} vendidos
                 </div>

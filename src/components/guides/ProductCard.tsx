@@ -2,7 +2,7 @@ import Link from "next/link";
 import { Package, TrendingDown } from "lucide-react";
 import type { GuideSection, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
-import { formatPrice } from "@/lib/utils";
+import { formatPrice, shouldShowSoldQuantity } from "@/lib/utils";
 import { injectLivePrices } from "@/lib/price-token";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { CouponBadge } from "@/components/products/CouponBadge";
@@ -306,7 +306,7 @@ export function ProductCard({ section }: ProductCardProps) {
                   <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
                 ) : null}
               </span>
-              {product.soldQuantity ? (
+              {shouldShowSoldQuantity(product.soldQuantity, product.reviewCount) ? (
                 <span>+{product.soldQuantity.toLocaleString("es-AR")} vendidos</span>
               ) : null}
             </Link>

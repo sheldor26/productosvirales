@@ -18,6 +18,22 @@ export function formatDiscount(original: number, current: number): number | null
   return Math.round(((original - current) / original) * 100);
 }
 
+/**
+ * `reviewCount` es del catálogo de MercadoLibre (agrega varias publicaciones
+ * del mismo producto); `soldQuantity` es de UNA publicación puntual. Es común
+ * que el catálogo acumule más calificaciones que lo que vendió esa publicación
+ * específica, pero mostrar "4.867 calificaciones" al lado de "+4.777 vendidos"
+ * se lee como un dato armado (hallazgo de auditoría CRO, 2026-11-11) aunque los
+ * dos números sean reales. Se oculta "vendidos" en ese caso en vez de explicar
+ * la diferencia, que no le importa al lector.
+ */
+export function shouldShowSoldQuantity(
+  soldQuantity: number | undefined,
+  reviewCount: number | undefined
+): soldQuantity is number {
+  return !!soldQuantity && (!reviewCount || soldQuantity >= reviewCount);
+}
+
 export function getFullSizeImage(thumbnail: string): string {
   return thumbnail.replace(/-I\.jpg$/, "-O.jpg");
 }

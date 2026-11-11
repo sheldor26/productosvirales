@@ -47,6 +47,7 @@ export function toCardProduct(p: Product): CardProduct {
     pastelColor: p.pastelColor,
     priceStatus: p.priceStatus,
     rating: p.rating,
+    reviewCount: p.reviewCount,
     soldQuantity: p.soldQuantity,
     freeShipping: p.freeShipping,
     brand: p.brand,

@@ -34,7 +34,7 @@ import { StickyMobileCta } from "./StickyMobileCta";
 import { RecentlyViewed } from "./RecentlyViewed";
 import { RecentlyViewedRecorder } from "./RecentlyViewedRecorder";
 import { SaveHeartButton } from "./SaveHeartButton";
-import { formatPrice, formatDiscount } from "@/lib/utils";
+import { formatPrice, formatDiscount, shouldShowSoldQuantity } from "@/lib/utils";
 import { mostRecentPriceCheck } from "@/lib/price-freshness";
 import { renderInlineMarkdown } from "@/lib/inline-markdown";
 import { productHref } from "@/lib/product-url";
@@ -471,7 +471,7 @@ export function ProductDetail({
               <Shield size={14} />
               {product.condition === "new" ? "Nuevo" : "Usado"}
             </div>
-            {product.soldQuantity && (
+            {shouldShowSoldQuantity(product.soldQuantity, product.reviewCount) && (
               <div className="text-xs text-[var(--text-muted)]">
                 +{product.soldQuantity.toLocaleString("es-AR")} vendidos
               </div>

@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { X, Star, TrendingDown } from "lucide-react";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
-import { formatPrice, formatDiscount } from "@/lib/utils";
+import { formatPrice, formatDiscount, shouldShowSoldQuantity } from "@/lib/utils";
 import { productHref } from "@/lib/product-url";
 import type { CardProduct } from "@/lib/types";
 
@@ -119,7 +119,9 @@ export function ComparisonTable({ products, onRemove, onClear }: ComparisonTable
                       {p.rating.toFixed(1)}
                     </span>
                   )}
-                  {p.soldQuantity && <span>{p.soldQuantity.toLocaleString("es-AR")} vendidos</span>}
+                  {shouldShowSoldQuantity(p.soldQuantity, p.reviewCount) && (
+                    <span>{p.soldQuantity.toLocaleString("es-AR")} vendidos</span>
+                  )}
                 </div>
 
                 {p.priceStatus === "out_of_stock" ? (

@@ -48,6 +48,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const canonical = `https://productosvirales.com.ar${productHref(product)}`;
   const ogImage = `${canonical}/opengraph-image`;
+  // Mismo motivo que title/description arriba: ogTitle/ogDescription son campos
+  // manuales que pueden traer un token de precio/rating/reviews, y sin resolver
+  // salían literales ("{{reviews:MLA…}}") en la preview de Facebook/WhatsApp/X.
+  const ogTitle = product.ogTitle ? toPlainText(injectLivePrices(product.ogTitle)) : title;
+  const ogDescription = product.ogDescription
+    ? toPlainText(injectLivePrices(product.ogDescription))
+    : description;
 
   return {
     title: { absolute: title },
@@ -63,15 +70,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     openGraph: {
       ...baseOpenGraph,
-      title: product.ogTitle || title,
-      description: product.ogDescription || description,
+      title: ogTitle,
+      description: ogDescription,
       url: canonical,
       images: [{ url: ogImage, width: 1200, height: 630, alt: product.title }],
     },
     twitter: {
       card: "summary_large_image",
-      title: product.ogTitle || title,
-      description: product.ogDescription || description,
+      title: ogTitle,
+      description: ogDescription,
       images: [ogImage],
     },
   };

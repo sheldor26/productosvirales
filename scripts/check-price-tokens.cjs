@@ -56,8 +56,8 @@ const withRating = new Set();
   }
 }
 
-// Todos los tokens {{precio:ID}} o {{precio:ID:k}} usados en las guías.
-const tokenRe = /\{\{\s*precio:([A-Za-z0-9]+)(?::(k))?\s*\}\}/g;
+// Todos los tokens {{precio:ID}}, {{precio:ID:k}} o {{precio:ID:kmax}} usados en las guías.
+const tokenRe = /\{\{\s*precio:([A-Za-z0-9]+)(?::(k|kmax))?\s*\}\}/g;
 const used = [];
 let tm;
 while ((tm = tokenRe.exec(guidesSrc)) !== null) {

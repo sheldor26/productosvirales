@@ -7145,7 +7145,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ogTitle: `Pava eléctrica 2026: cuál comprar de verdad (sin pagar de más)`,
     ogDescription: `Mate sin quemar la yerba, agua sin gusto a plástico y cuánto conviene gastar realmente. La guía honesta de pavas eléctricas en Argentina.`,
     h1: `Mejores pavas eléctricas en Argentina: cuál comprar y cuánto cuesta [2026]`,
-    directAnswer: `Para la mayoría conviene la **Liliana Mateando AP975B** (alrededor de {{precio:MLA8933826:k}}): función mate, filtro y {{reviews:MLA8933826}} calificaciones, la más probada del país. Si sos fanático del mate, la de temperatura exacta evita quemar la yerba; y si querés interior de acero gastando poco, hay una con 4 niveles por menos de {{precio:MLA14263533:k}}.`,
+    directAnswer: `Para la mayoría conviene la **Liliana Mateando AP975B** (alrededor de {{precio:MLA8933826:k}}): función mate, filtro y {{reviews:MLA8933826}} calificaciones, la más probada del país. Si sos fanático del mate, la de temperatura exacta evita quemar la yerba; y si querés interior de acero gastando poco, hay una con 4 niveles por menos de {{precio:MLA14263533:kmax}}.`,
     publishedDate: "2026-06-21",
     updatedDate: "2026-09-18",
     hasDisclosure: true,
@@ -7154,7 +7154,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     quickPicks: [
       { productMlaId: "MLA8933826", label: "Mejor elección general", labelColor: "green", tagline: "Función mate y la más probada del país: {{reviews:MLA8933826}} calificaciones" },
       { productMlaId: "MLA47275624", label: "Mejor para mate", labelColor: "blue", tagline: "Temperatura exacta para no quemar la yerba — 4.9 estrellas" },
-      { productMlaId: "MLA14263533", label: "Mejor acero calidad-precio", labelColor: "purple", tagline: "Interior de acero y 4 niveles por menos de {{precio:MLA14263533:k}}" },
+      { productMlaId: "MLA14263533", label: "Mejor acero calidad-precio", labelColor: "purple", tagline: "Interior de acero y 4 niveles por menos de {{precio:MLA14263533:kmax}}" },
       { productMlaId: "MLA61505857", label: "Más económica", labelColor: "amber", tagline: "Pava de acero con selector mate a {{precio:MLA61505857}}" },
     ],
     intro: [
@@ -7169,7 +7169,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "list", items: [
         `**Mejor elección general:** [Liliana Mateando AP975B](https://meli.la/2qM28cx) — función mate y la pava más probada del país, con {{reviews:MLA8933826}} calificaciones.`,
         `**Mejor para mate:** [Peabody Digital 40-100°](https://meli.la/2cyQgD2) — temperatura exacta para no quemar la yerba, con el rating más alto de la categoría (4.9).`,
-        `**Mejor acero calidad-precio:** [Peabody PE-DK1850](https://meli.la/2T7Y1zd) — interior de acero y 4 niveles de temperatura por menos de {{precio:MLA14263533:k}}.`,
+        `**Mejor acero calidad-precio:** [Peabody PE-DK1850](https://meli.la/2T7Y1zd) — interior de acero y 4 niveles de temperatura por menos de {{precio:MLA14263533:kmax}}.`,
         `**Más económica:** [Liliana AP152](https://meli.la/1QMfKob) — pava de acero con selector mate a {{precio:MLA61505857}}.`,
       ] },
 
@@ -7212,7 +7212,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: `6. Oster con control de temperatura — mate + respaldo Oster` },
       { type: "product-card", productMlaId: "MLA11145436", label: "Alternativa con marca", labelColor: "blue", ranking: 6, description: `Control de temperatura, función mate, 1.7L. {{rating:MLA11145436}} estrellas en {{reviews:MLA11145436}} calificaciones, con la red de service de Oster.` },
       { type: "p", content: `Si te pesa la marca y el service, la Oster es la alternativa lógica a la Peabody Digital: control de temperatura, función mate y el respaldo de una marca con distribución oficial. {{rating:MLA11145436}} estrellas en {{reviews:MLA11145436}} calificaciones, una de las bases de opiniones más grandes de las pavas con temperatura.` },
-      { type: "p", content: `A {{precio:MLA11145436}} sale prácticamente lo mismo que la Peabody Digital, que tiene mejor rating ({{rating:MLA47275624}} vs {{rating:MLA11145436}}) y temperatura continua. Por eso la ponemos como alternativa: elegí Oster si la marca y el service te dan tranquilidad extra.` },
+      { type: "p", content: `A {{precio:MLA11145436}}, cuesta {{preciodif:MLA47275624:MLA11145436}} menos que la Peabody Digital, que tiene mejor rating ({{rating:MLA47275624}} vs {{rating:MLA11145436}}) y temperatura continua. Por eso la ponemos como alternativa: elegí Oster si preferís ahorrar esa diferencia y el respaldo de marca te da tranquilidad extra.` },
       { type: "callout", calloutVariant: "note", calloutTitle: "¿Buscás otra cosa?", content: `Si te interesa una pava [de vidrio](/guias/pava-electrica-vidrio) (se ve el agua) o una [chica para viaje o poco espacio](/guias/pava-electrica-pequena), tenemos guías dedicadas para cada una.` },
 
       { type: "h2", title: `Tabla comparativa: precio, temperatura y material`, id: "tabla-comparativa" },
@@ -8570,7 +8570,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     hasDisclosure: true,
     standfirst: "Comparamos las pavas eléctricas en Argentina por rango de precio: qué obtenés en cada escalón y cuál es la mejor compra dentro de cada presupuesto.",
     quickPicks: [
-      { productMlaId: "MLA20027329", label: "Rango económico", labelColor: "amber", tagline: "Lo mejor por menos de {{precio:MLA20027329:k}}" },
+      { productMlaId: "MLA20027329", label: "Rango económico", labelColor: "amber", tagline: "Lo mejor por menos de {{precio:MLA20027329:kmax}}" },
       { productMlaId: "MLA49199049", label: "Rango gama media-alta", labelColor: "green", tagline: "Interior de acero, marca argentina con service" },
       { productMlaId: "MLA24601443", label: "Rango gama alta", labelColor: "blue", tagline: "Acero completo, dura el doble" },
       { productMlaId: "MLA47275624", label: "Rango premium", labelColor: "purple", tagline: "Solo si necesitás control de temperatura" },
@@ -8585,7 +8585,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: "Resumen rápido: cuál comprar según tu presupuesto", id: "resumen-rapido" },
       { type: "list", items: [
-        "**Rango económico:** [Kanji KJH-PE15002M](https://meli.la/1f9jqdT) — lo mejor por menos de {{precio:MLA20027329:k}}.",
+        "**Rango económico:** [Kanji KJH-PE15002M](https://meli.la/1f9jqdT) — lo mejor por menos de {{precio:MLA20027329:kmax}}.",
         "**Rango gama media-alta:** [Atma PEAT1351](https://meli.la/1mMbqaY) — interior de acero, marca argentina con service, {{reviews:MLA49199049}} calificaciones.",
         "**Rango gama alta:** [Philips HD9350](https://meli.la/2kpg1Zr) — acero completo, dura el doble.",
         "**Rango premium:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — solo si necesitás control de temperatura.",
@@ -10821,7 +10821,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     standfirst: "Comparamos las pavas con control de temperatura que se consiguen hoy en Argentina: quién tiene niveles mecánicos, quién preset digital y quién control continuo, con precios reales y cuál es la mejor compra.",
     quickPicks: [
       { productMlaId: "MLA19589519", label: "Mejor relación control-precio", labelColor: "green", tagline: "6 niveles de temperatura al mejor precio de la comparativa" },
-      { productMlaId: "MLA8933826", label: "Más económica", labelColor: "amber", tagline: "Función mate por menos de {{precio:MLA8933826:k}}" },
+      { productMlaId: "MLA8933826", label: "Más económica", labelColor: "amber", tagline: "Función mate por menos de {{precio:MLA8933826:kmax}}" },
       { productMlaId: "MLA47275624", label: "Mejor para mate exigente", labelColor: "blue", tagline: "Control continuo 40-100°, el rating más alto (4.9)" },
       { productMlaId: "MLA14263533", label: "Mejor acero", labelColor: "purple", tagline: "Acero completo y 4 niveles de temperatura" },
       { productMlaId: "MLA67178981", label: "Presets por bebida", labelColor: "slate", tagline: "Mamadera, mate, café y hervir, sin calcular grados" },
@@ -10837,7 +10837,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: "Resumen rápido: cuál comprar según tu caso", id: "resumen-rapido" },
       { type: "list", items: [
         "**Mejor relación control-precio:** [Atma PE1821NAP](https://meli.la/2uprqZS) — 6 niveles de temperatura al mejor precio de la comparativa.",
-        "**Más económica:** [Liliana AP175B Mateando](https://meli.la/2qM28cx) — función mate por menos de {{precio:MLA8933826:k}}.",
+        "**Más económica:** [Liliana AP175B Mateando](https://meli.la/2qM28cx) — función mate por menos de {{precio:MLA8933826:kmax}}.",
         "**Mejor para mate exigente:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — control continuo 40-100°, el rating más alto de la comparativa (4.9).",
         "**Mejor acero:** [Peabody PE-DK1850](https://meli.la/2T7Y1zd) — acero completo y 4 niveles de temperatura.",
       ] },
@@ -19455,7 +19455,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ogTitle: `Robot aspiradora 2026: la guía honesta para no comprar mal`,
     ogDescription: `Cuál robot aspiradora conviene de verdad en Argentina, sin chamuyo: lo que cambia entre un LIDAR oficial y un modelo de entrada, y dónde poner la plata.`,
     h1: `Robot aspiradora en Argentina: guía completa y mejores modelos [2026]`,
-    directAnswer: `Para la mayoría conviene el **Gadnic AC800 LiDAR** (alrededor de {{precio:MLA62126950:k}}): mapeo láser y base autolimpiante a precio de gama media. Si querés LIDAR y autovaciado con el respaldo de una tienda oficial, el TP-Link Tapo RV30 Max Plus; si priorizás marca premium con service oficial, la Samsung; para alfombras y mascotas, la de 15.000 Pa de succión; y la más accesible es la nacional que aspira y trapea por menos de {{precio:MLA18642318:k}}.`,
+    directAnswer: `Para la mayoría conviene el **Gadnic AC800 LiDAR** (alrededor de {{precio:MLA62126950:k}}): mapeo láser y base autolimpiante a precio de gama media. Si querés LIDAR y autovaciado con el respaldo de una tienda oficial, el TP-Link Tapo RV30 Max Plus; si priorizás marca premium con service oficial, la Samsung; para alfombras y mascotas, la de 15.000 Pa de succión; y la más accesible es la nacional que aspira y trapea por menos de {{precio:MLA18642318:kmax}}.`,
     publishedDate: "2026-06-06",
     updatedDate: "2026-11-09",
     sitemapLastmod: "2026-11-09",
@@ -19475,9 +19475,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         `**LIDAR y autovaciado con tienda oficial:** [TP-Link Tapo RV30 Max Plus](https://meli.la/1WYYPbZ) — navegación dual LIDAR + IMU y base de autovaciado de 3L, vendido por la tienda oficial de TP-Link.`,
         `**Mejor premium con garantía oficial:** [Samsung Jetbot LIDAR](https://meli.la/15C617u) — marca con service en Argentina, SmartThings y estación de limpieza.`,
         `**Mejor succión bruta:** [Xiaomi Robot Vacuum S40 Pro](https://meli.la/117oW5y) — 15.000 Pa y brazos extensibles para zócalos y esquinas.`,
-        `**Mejor entrada al ecosistema Xiaomi:** [Xiaomi Robot Vacuum S40c](https://meli.la/16WtjsG) — mapeo y app Mi Home en español por menos de {{precio:MLA61420449:k}}.`,
+        `**Mejor entrada al ecosistema Xiaomi:** [Xiaomi Robot Vacuum S40c](https://meli.la/16WtjsG) — mapeo y app Mi Home en español por menos de {{precio:MLA61420449:kmax}}.`,
         `**Mejor para trapear:** [Gadnic AspiRob](https://meli.la/2mPhJwy) — aspirado + trapeado con mapeo y detección de obstáculos.`,
-        `**Más accesible nacional:** [Atma ATAR21C1DH](https://meli.la/1TWykcE) — marca argentina, 3 en 1 aspira y trapea simultáneo, por menos de {{precio:MLA18642318:k}}.`,
+        `**Más accesible nacional:** [Atma ATAR21C1DH](https://meli.la/1TWykcE) — marca argentina, 3 en 1 aspira y trapea simultáneo, por menos de {{precio:MLA18642318:kmax}}.`,
       ] },
   
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos 7 robots aspiradora que se venden hoy en MercadoLibre Argentina y los ordenamos por relación precio-prestaciones, no por marketing. Priorizamos cuatro cosas que cambian la experiencia real: tipo de navegación (LIDAR/láser vs giroscópica vs aleatoria), potencia de succión en Pascales (Pa), si trapea de verdad o solo arrastra un trapo húmedo, y —clave en Argentina— si hay garantía oficial y repuestos locales (cepillos, filtros, baterías). Cuando un producto tiene calificaciones públicas en MercadoLibre, las citamos tal cual; no inventamos números.` },
@@ -19511,18 +19511,18 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "p", content: `Es la mejor opción si tenés alfombras gruesas, mascotas que sueltan mucho pelo o pisos con mucho detalle de zócalos. Si te tira Xiaomi pero querés gastar menos, abajo está el S40c. Comparamos toda la línea en la [guía de robot aspiradora Xiaomi](/guias/robot-aspiradora-xiaomi).` },
   
       { type: "h3", title: `5. Xiaomi Robot Vacuum S40c — mejor entrada a Xiaomi` },
-      { type: "product-card", productMlaId: "MLA61420449", label: "Mejor entrada", labelColor: "green", ranking: 5, description: `Mapeo, WiFi y app Mi Home en español por menos de {{precio:MLA61420449:k}}. La puerta más barata al ecosistema Xiaomi, con {{rating:MLA61420449}} estrellas. Sin base de autovaciado, pero cumple.` },
-      { type: "p", content: `El [Xiaomi S40c](https://meli.la/16WtjsG) es la forma más accesible de entrar al ecosistema Xiaomi con mapeo real. Por menos de {{precio:MLA61420449:k}} tenés navegación inteligente, WiFi y la app **Mi Home** en español —la misma que ya usás si tenés una balanza o una lámpara Xiaomi—. Con **{{rating:MLA61420449}} estrellas**, es de los más elegidos en su rango de precio.` },
+      { type: "product-card", productMlaId: "MLA61420449", label: "Mejor entrada", labelColor: "green", ranking: 5, description: `Mapeo, WiFi y app Mi Home en español por menos de {{precio:MLA61420449:kmax}}. La puerta más barata al ecosistema Xiaomi, con {{rating:MLA61420449}} estrellas. Sin base de autovaciado, pero cumple.` },
+      { type: "p", content: `El [Xiaomi S40c](https://meli.la/16WtjsG) es la forma más accesible de entrar al ecosistema Xiaomi con mapeo real. Por menos de {{precio:MLA61420449:kmax}} tenés navegación inteligente, WiFi y la app **Mi Home** en español —la misma que ya usás si tenés una balanza o una lámpara Xiaomi—. Con **{{rating:MLA61420449}} estrellas**, es de los más elegidos en su rango de precio.` },
       { type: "p", content: `No trae base de autovaciado (vaciás el depósito a mano cada par de días) y la succión es menor que la del S40 Pro, pero para un departamento o una casa de pisos lisos cumple sobrado. Es el clásico "primer robot" sin arrepentimientos.` },
   
       { type: "h3", title: `6. Gadnic AspiRob — mejor trapeado` },
-      { type: "product-card", productMlaId: "MLA36838658", label: "Mejor para trapear", labelColor: "amber", ranking: 6, description: `Aspirado y trapeado con mapeo y detección de obstáculos, por menos de {{precio:MLA36838658:k}}. Con 4.8 estrellas, es la opción para quien quiere los pisos no solo sin polvo, sino repasados.` },
+      { type: "product-card", productMlaId: "MLA36838658", label: "Mejor para trapear", labelColor: "amber", ranking: 6, description: `Aspirado y trapeado con mapeo y detección de obstáculos, por menos de {{precio:MLA36838658:kmax}}. Con 4.8 estrellas, es la opción para quien quiere los pisos no solo sin polvo, sino repasados.` },
       { type: "p", content: `Si en tu casa el problema no es tanto el polvo sino el **piso pegajoso** (cocina, zonas de paso, mascotas), el [Gadnic AspiRob](https://meli.la/2mPhJwy) prioriza el trapeado sin resignar mapeo ni detección de obstáculos. Tiene **4.8 estrellas** y un precio de gama media-baja que lo hace muy fácil de justificar.` },
       { type: "p", content: `Ojo con la expectativa: ningún robot reemplaza un baldeo a fondo, pero para mantener los pisos repasados día a día rinde muy bien. Si el trapeado es tu prioridad absoluta, armamos un ranking dedicado en [mejores robot aspiradora trapeadora](/guias/mejores-robot-aspiradora-trapeadora).` },
   
       { type: "h3", title: `7. Atma ATAR21C1DH — más accesible nacional` },
-      { type: "product-card", productMlaId: "MLA18642318", label: "Mejor precio nacional", labelColor: "green", ranking: 7, description: `Marca argentina, 3 en 1 que aspira y trapea simultáneo, tanque de 450 ml y sistema antichoque, por menos de {{precio:MLA18642318:k}}. Para empezar sin gastar mucho.` },
-      { type: "p", content: `El [Atma ATAR21C1DH](https://meli.la/1TWykcE) es la entrada más sensata si tu presupuesto es ajustado y querés una **marca argentina** con respaldo conocido. Es un 3 en 1 que aspira y trapea al mismo tiempo, tiene tanque de 450 ml y sistema antichoque. Por menos de {{precio:MLA18642318:k}}, es difícil pedirle más.` },
+      { type: "product-card", productMlaId: "MLA18642318", label: "Mejor precio nacional", labelColor: "green", ranking: 7, description: `Marca argentina, 3 en 1 que aspira y trapea simultáneo, tanque de 450 ml y sistema antichoque, por menos de {{precio:MLA18642318:kmax}}. Para empezar sin gastar mucho.` },
+      { type: "p", content: `El [Atma ATAR21C1DH](https://meli.la/1TWykcE) es la entrada más sensata si tu presupuesto es ajustado y querés una **marca argentina** con respaldo conocido. Es un 3 en 1 que aspira y trapea al mismo tiempo, tiene tanque de 450 ml y sistema antichoque. Por menos de {{precio:MLA18642318:kmax}}, es difícil pedirle más.` },
       { type: "p", content: `No esperes mapeo ni app: este modelo navega por sensores y patrones, no arma un plano de tu casa. Pero para un ambiente o un departamento chico va sobrado, y el hecho de ser nacional simplifica la garantía. Es nuestro "no falla" para quien recién arranca.` },
   
       { type: "h2", title: `Tabla comparativa de los mejores modelos`, id: "tabla-comparativa" },
@@ -21087,7 +21087,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
   
         { type: "h3", title: `Navegación y mapeo` },
         { type: "p", content: `Acá las dos marcas pelean parejo, y eso es noticia. El [Gadnic AC800](https://meli.la/2UjN3FV) trae LiDAR real —un láser giratorio que arma el plano de tu casa y limpia ordenado por filas— por {{precio:MLA62126950}}. Del lado de Xiaomi, el LiDAR más accesible es el [Xiaomi S40c](https://meli.la/16WtjsG), a {{precio:MLA61420449}}. O sea: la puerta de entrada al mapeo láser es más barata en Xiaomi, pero el Gadnic suma autovaciado que el S40c no tiene.` },
-        { type: "product-card", productMlaId: "MLA61420449", label: "LiDAR más barato", labelColor: "green", description: `El láser más accesible de Xiaomi: mapea tu casa y limpia ordenado, con app Mi Home en español, por menos de {{precio:MLA61420449:k}}. Trae mopa de mantenimiento, batería justa y mide unos 10 cm de alto.` },
+        { type: "product-card", productMlaId: "MLA61420449", label: "LiDAR más barato", labelColor: "green", description: `El láser más accesible de Xiaomi: mapea tu casa y limpia ordenado, con app Mi Home en español, por menos de {{precio:MLA61420449:kmax}}. Trae mopa de mantenimiento, batería justa y mide unos 10 cm de alto.` },
 
         { type: "h3", title: `App y control` },
         { type: "p", content: `Acá Xiaomi gana sin discusión, y es lo que más pesa en el día a día. La app **Mi Home** está en español, traducida y mantenida, y es la misma que ya usás si tenés una balanza, una lámpara o una cámara Xiaomi. Programás horarios, marcás zonas prohibidas y mirás el mapa sin pelearte con el celular.` },
@@ -21107,7 +21107,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         { type: "h3", title: `Trapeado y mascotas` },
         { type: "p", content: `Las dos marcas trapean, pero con la misma advertencia de siempre: un robot arrastra un paño húmedo, no friega. Levanta polvo fino y marca de pisada fresca, no la mancha de salsa pegada del domingo. Dicho eso, hay diferencias. El [Xiaomi S20](https://meli.la/18CB1Wa) trae una **mopa simple no rotatoria** y un cepillo **sin sistema anti-enredo**, así que con pelo largo de mascota se enrosca y hay que limpiarlo seguido.` },
         { type: "product-card", productMlaId: "MLA44714806", label: "El más reseñado", labelColor: "blue", description: `El LiDAR más vendido de Xiaomi, con 3.820 opiniones: el respaldo de reseñas más grande del rango. Las contras a tener en cuenta: enchufe extranjero, mopa simple no rotatoria y cepillo sin anti-enredo, que sufre con pelo largo de mascota.` },
-        { type: "p", content: `Si en tu casa hay mascotas que sueltan mucho pelo, el factor que más pesa es la succión y el cepillo. Ahí el premium accesible de Xiaomi, el [S40 Pro](https://meli.la/117oW5y) con 15.000 Pa y brazo extensible, es lo más bestia del catálogo de ambas marcas. Del lado del trapeado equilibrado con mapeo, el [Gadnic AspiRob](https://meli.la/2mPhJwy) aspira y trapea con detección de obstáculos por menos de {{precio:MLA36838658:k}}, aunque sin autovaciado.` },
+        { type: "p", content: `Si en tu casa hay mascotas que sueltan mucho pelo, el factor que más pesa es la succión y el cepillo. Ahí el premium accesible de Xiaomi, el [S40 Pro](https://meli.la/117oW5y) con 15.000 Pa y brazo extensible, es lo más bestia del catálogo de ambas marcas. Del lado del trapeado equilibrado con mapeo, el [Gadnic AspiRob](https://meli.la/2mPhJwy) aspira y trapea con detección de obstáculos por menos de {{precio:MLA36838658:kmax}}, aunque sin autovaciado.` },
   
         { type: "h2", title: `Tabla comparativa lado a lado`, id: "tabla-comparativa" },
         { type: "table", headers: [`Criterio`, `Gadnic`, `Xiaomi`], rows: [
@@ -21320,7 +21320,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     readingTime: 12,
     standfirst: `Todo para elegir una cafetera express en Argentina sin gastar de más: ranking con precios reales de MercadoLibre, tabla comparativa, qué significan los bares de presión y cuál conviene según cuánto café tomás.`,
     quickPicks: [
-      { productMlaId: "MLA18562154", label: "Mejor elección general", labelColor: "green", tagline: "20 bares + cápsulas Nespresso por menos de {{precio:MLA18562154:k}}" },
+      { productMlaId: "MLA18562154", label: "Mejor elección general", labelColor: "green", tagline: "20 bares + cápsulas Nespresso por menos de {{precio:MLA18562154:kmax}}" },
       { productMlaId: "MLA23909880", label: "Mejor marca-precio", labelColor: "blue", tagline: "La Oster de entrada: espumador de leche con depósito" },
       { productMlaId: "MLA47077888", label: "Mejor con molinillo", labelColor: "purple", tagline: "Café recién molido sin pagar tope de gama" },
       { productMlaId: "MLA36409137", label: "Más barata", labelColor: "amber", tagline: "Espresso de 15 bares por {{precio:MLA36409137}}" },
@@ -22623,7 +22623,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "h2", title: `Cafetera express: para quien disfruta el ritual`, id: "express" },
       { type: "p", content: `La express empuja agua a presión a través de café molido compactado: es el único de los tres sistemas que hace espresso de verdad, con crema, y el que logra el costo por taza más bajo usando café molido. A cambio pide aprendizaje y limpieza diaria. En la [guía completa de cafeteras express](/guias/cafetera-express) está el ranking entero; acá va la que recomendamos a la mayoría.` },
       { type: "product-card", productMlaId: "MLA18562154", label: "El mejor espresso económico", labelColor: "green", description: `Smartlife SL-EC8501: bomba de 20 bares, espumador a vapor y dos portafiltros (café molido o cápsulas Nespresso). 4.6 estrellas en {{reviews:MLA18562154}} calificaciones por {{precio:MLA18562154}}.` },
-      { type: "p", content: `La [Smartlife SL-EC8501](https://meli.la/1QMpWAw) resume por qué la express dejó de ser un lujo: 20 bares, espumador de leche y hasta cápsulas Nespresso de respaldo por menos de {{precio:MLA18562154:k}}, con la base de opiniones más grande de la gama económica. Sus defectos están documentados y son de estreno: manual malo, un tapón de silicona escondido en el depósito y primeros cafés flojos hasta purgarla. Todo se resuelve el primer día.` },
+      { type: "p", content: `La [Smartlife SL-EC8501](https://meli.la/1QMpWAw) resume por qué la express dejó de ser un lujo: 20 bares, espumador de leche y hasta cápsulas Nespresso de respaldo por menos de {{precio:MLA18562154:kmax}}, con la base de opiniones más grande de la gama económica. Sus defectos están documentados y son de estreno: manual malo, un tapón de silicona escondido en el depósito y primeros cafés flojos hasta purgarla. Todo se resuelve el primer día.` },
       { type: "pull-quote", content: `"La compré para mi madre y no le tenía fe. Me sorprendió para bien. Es sencilla pero tiene todo."`, attribution: `Comprador verificado en MercadoLibre, febrero 2022` },
 
       { type: "h2", title: `Cafetera de cápsulas: para quien quiere café rico sin pensar`, id: "capsulas" },

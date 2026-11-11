@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { Guide, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
-import { formatPrice } from "@/lib/utils";
+import { formatPrice, shouldShowSoldQuantity } from "@/lib/utils";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { Stars } from "./Stars";
@@ -134,7 +134,7 @@ export function QuickPicks({ picks }: QuickPicksProps) {
                       <span>· {p.product.reviewCount.toLocaleString("es-AR")}</span>
                     ) : null}
                   </span>
-                  {p.product.soldQuantity ? (
+                  {shouldShowSoldQuantity(p.product.soldQuantity, p.product.reviewCount) ? (
                     <span>+{p.product.soldQuantity.toLocaleString("es-AR")} vendidos</span>
                   ) : null}
                 </Link>
