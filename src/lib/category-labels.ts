@@ -26,6 +26,7 @@ const ACCENTED_CATEGORY_NAMES: Record<string, string> = {
   "estabilizador-de-tension": "Estabilizador de Tensión",
   "estanterias-flotantes": "Estanterías Flotantes",
   "estufas-electricas": "Estufas Eléctricas",
+  "guante-de-arquero": "Guante de Arquero",
   "horno-electrico": "Horno Eléctrico",
   "hot-wheels-autos-coleccion": "Hot Wheels Autos Colección",
   "lamparas-de-pie": "Lámparas de Pie",

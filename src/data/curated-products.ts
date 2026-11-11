@@ -118478,6 +118478,524 @@ Es para vos si tenés chicos que están arrancando, si no tenés paletas en casa
 
 curatedProducts.push(...curatedProductsMesaPingPong);
 
+// ─────────────────────────────────────────────────────────
+// Guía nueva guante-de-arquero (silo fitness, igual que mesa-de-ping-pong;
+// no existe categoría "deportes"). 2026-11-11. 5 fichas nuevas: precio,
+// rating, reviewCount y "+N vendidos" leídos en vivo en MercadoLibre el
+// 2026-11-11 (Chrome de Juan). Specs SOLO de la ficha técnica y la
+// descripción de cada publicación. Reseñas citadas textuales, leídas el mismo
+// día con la fecha relativa que muestra ML. Imágenes 2X -F verificadas con
+// curl GET. Tres son de Reusch en tres escalones (Solid -> Storm Infinity ->
+// Gravity). Lo que las fichas SÍ permiten afirmar de la diferencia entre
+// escalones: Solid = palma de espuma sintética "Solid" (Reusch la declara para
+// durabilidad, principiantes y entrenamiento), corte Expanse; Storm Infinity =
+// palma de espuma de látex de 3 mm, corte Expanse; Gravity = palma de látex
+// "Infinity", corte negativo, modelo 2024. Nada más: no inventar diferencias.
+// Ojo:
+//  - El conteo de opiniones del Attrakt Solid (catálogo) incluye opiniones de
+//    Chile y Uruguay: ML lo aclara en la propia ficha.
+//  - El Vintage Crystal estaba en OFERTA RELÁMPAGO (vencía a las ~4 h). Su
+//    descripción habla de un diseño negro y verde flúo; las fotos y la
+//    variante a la venta son blancas con rosa y azul.
+//  - Un comprador del Reebok dice que el pulgar NO trae varilla; la
+//    publicación no aclara qué dedos la llevan.
+// ─────────────────────────────────────────────────────────
+const curatedProductsGuanteDeArquero: Product[] = [
+  {
+    id: "MLA56198738",
+    title: "Guantes De Arquero Attrakt Solid Reusch Futbol Profesional Color Amarillo Talle 10",
+    canonicalName: "Reusch Attrakt Solid",
+    brand: "Reusch",
+    price: 39305,
+    originalPrice: 43365,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_667032-MLA99989765155_112025-F.webp",
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA56198738",
+    affiliateUrl: "https://meli.la/2tAS6hW",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1732,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 100,
+    badge: "bestseller",
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Guante de arquero de la línea de entrada de Reusch: palma de espuma sintética Solid, que la marca declara pensada para durar y para entrenar, corte Expanse y dorso de PVC. 7° más vendido de la categoría Guantes de Arquero de MercadoLibre Argentina.",
+    seoTitle: "Reusch Attrakt Solid: el guante de arquero más vendido, ¿vale la pena?",
+    metaDescription: "Guante de arquero Reusch Attrakt Solid a {{precio:MLA56198738}}: {{rating:MLA56198738}} estrellas en {{reviews:MLA56198738}} opiniones, 7° en Guantes de Arquero. Para quién sirve, qué dicen del agarre y cómo elegir el talle.",
+    pros: [
+      "7° más vendido de toda la categoría Guantes de Arquero de MercadoLibre Argentina (noviembre 2026), con el sello de \"Más vendido\"",
+      "El más barato de esta comparativa, de Reusch, una marca alemana especializada en guantes de arquero",
+      "{{rating:MLA56198738}} estrellas en {{reviews:MLA56198738}} opiniones: la base más grande del grupo, por lejos (ML aclara que el conteo suma opiniones de Chile y Uruguay)",
+      "La palma Solid es espuma sintética que Reusch declara pensada para durar y para entrenar en todo tipo de superficie",
+      "Muchos compradores lo eligen para arrancar o para entrenar: \"Para empezar es muy bueno\", dice uno que lo usa en sintético",
+      "Lo vende la tienda REUSCHEXCLUSIVO, con envío Full gratis",
+    ],
+    cons: [
+      "El agarre es la queja más repetida en las reseñas de 1 a 3 estrellas: \"no tiene buena adherencia y se pone dura enseguida\"",
+      "Varios compradores cuentan que la palma se peló, se rajó o se descosió en pocos usos. Es lo que reportan algunos, no un ensayo, pero se repite",
+      "No tiene varillas: no protege los dedos de doblarse hacia atrás (un comprador de 2 estrellas lo marca)",
+      "Hay que lavarlo antes de estrenarlo: un comprador avisa que viene con un protector que, si no lo sacás, resbala",
+      "El talle genera dudas: hay compradores que tuvieron que cambiarlo o que dicen que les quedó grande",
+      "En talle 10 amarillo figuraba como última unidad al revisarlo: puede que tengas que elegir otro color",
+    ],
+    verdict: "Es el guante de arquero más vendido de esta comparativa y el más barato: {{precio:MLA56198738}}, de Reusch, con {{rating:MLA56198738}} estrellas en {{reviews:MLA56198738}} opiniones. Es nuestra elección para el que arranca, ataja en el papi con amigos o busca un par para entrenar sin gastar de más. Lo que tenés que saber antes: la palma Solid es espuma sintética que la marca piensa para durar, no para el máximo agarre, y la crítica más repetida en las reseñas es justamente el agarre. Si atajás seguido o en cancha de 11, el escalón de arriba de la misma marca, el Attrakt Storm Infinity con palma de látex, tiene más sentido.",
+    specs: [
+      { label: "Marca", value: "Reusch" },
+      { label: "Línea", value: "Attrakt" },
+      { label: "Modelo", value: "Solid" },
+      { label: "Material de la palma", value: "Solid: espuma sintética (según la descripción)" },
+      { label: "Material del dorso", value: "PVC" },
+      { label: "Corte", value: "Expanse" },
+      { label: "Tecnología", value: "Thumbflex, para el movimiento del pulgar (según la descripción)" },
+      { label: "Con varillas", value: "No" },
+      { label: "Uso declarado", value: "Entrenamiento y arqueros principiantes, todo tipo de superficie (según la descripción)" },
+      { label: "Año de lanzamiento", value: "2022" },
+      { label: "Edad", value: "Adultos" },
+      { label: "Talles", value: "8, 9, 10 y 11 en esta variante" },
+      { label: "Color", value: "Amarillo (hay otros colores según la variante)" },
+      { label: "Garantía", value: "30 días de fábrica (según la publicación)" },
+      { label: "Vendedor", value: "REUSCHEXCLUSIVO (MercadoLíder Platinum)" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 4 meses", useful: 3, text: "Para empezar es muy bueno y recomiendo comprar, lo use en cancha de césped sintético y la verdad todo muy bien." },
+      { rating: 4, country: "Argentina", date: "hace 3 meses", text: "Los usa mi hijo para entrenar y dice que andan bien ya que a veces entrena en césped y otras sobre tierra/gramilla, para jugar tiene otros con más gripe pero estos duran mucho más y son económicos." },
+      { rating: 4, country: "Argentina", date: "hace 1 mes", useful: 1, text: "Lo usé dos veces, me parecieron buenos en relación precio/calidad, quizá un talle más grande me hubiese resultado mejor(mi mano mide 20cm y compré talle 9)." },
+      { rating: 2, country: "Argentina", date: "hace 5 meses", text: "No es lo que esperaba , la palma no es buena , no tiene buena adherencia y se pone dura enseguida , hay que estar mojandolo constantemente para que mejore un poquito, esta lejos de ser un buen guante." },
+      { rating: 1, country: "Argentina", date: "hace 2 meses", text: "El producto no tiene un mes de uso y 5 entrenamientos infantil. Se empezó a pelar todo, por ende a rajar o cortar en zonas de agarre." },
+    ],
+    relatedProducts: ["MLA1427409577", "MLA57357956", "MLA618782735", "MLA1606096485"],
+    articleBody: `## Qué es el Reusch Attrakt Solid
+
+Es el guante de arquero de **entrada** de Reusch, la marca alemana especializada en guantes de arquero. Pertenece a la línea Attrakt y su palma es **Solid**, una espuma sintética que la propia marca describe como "super durable", pensada para arqueros principiantes y para entrenar en todo tipo de superficie. Corte Expanse, dorso de PVC y sin varillas. Al 11 de noviembre de 2026 era el **7° más vendido de toda la categoría Guantes de Arquero de MercadoLibre Argentina** y salía {{precio:MLA56198738}} en la tienda REUSCHEXCLUSIVO.
+
+## Por qué es nuestra elección
+
+Porque junta tres cosas que pocas veces van juntas: **marca especializada, el precio más bajo de esta comparativa y la base de opiniones más grande, por lejos**. {{rating:MLA56198738}} estrellas en {{reviews:MLA56198738}} opiniones es mucha gente contando cómo le fue (con una aclaración honesta: ML avisa que ese conteo incluye opiniones de Chile y Uruguay, porque la ficha de catálogo es compartida).
+
+Lo que más se repite en las reseñas buenas: que es cómodo, que el talle es el indicado y que para arrancar o entrenar cumple. "Para empezar es muy bueno y recomiendo comprar, lo use en cancha de césped sintético", dice un comprador. Otro, que lo compró para su hijo, lo compara con un guante de más agarre que tiene para los partidos: "estos duran mucho más y son económicos".
+
+## La palma Solid: qué esperar del agarre
+
+Acá está la clave para no llevarte una sorpresa. La palma Solid **no es de látex natural**: es espuma sintética, y Reusch la vende por su durabilidad. En guantes de arquero, el látex suele dar más agarre y gastarse más rápido; la espuma sintética, al revés. No es una regla de laboratorio, pero coincide con lo que cuentan los compradores: la queja más repetida en las reseñas de 1 a 3 estrellas es el agarre.
+
+- "La palma no es buena, no tiene buena adherencia y se pone dura enseguida [...] hay que estar mojandolo constantemente para que mejore un poquito."
+- "Están buenos pero si no lo mojas no tiene ni un poco de agarre."
+
+Un consejo que deja un comprador: lavalo antes de estrenarlo, porque viene con un protector que, si no lo sacás, hace que la pelota resbale. Ese mismo comprador actualizó su reseña a los tres meses para contar que la palma no se le rompió (dice "el látex", aunque como ya contamos es espuma sintética), pero que el agarre no lo convenció.
+
+## Lo flojo, sin vueltas
+
+- **El agarre**, como ya contamos: es la crítica número uno.
+- **La durabilidad está en discusión.** Hay compradores que dicen que duran mucho y otros que cuentan que la palma se peló o se descosió en pocos usos ("no tiene un mes de uso y 5 entrenamientos infantil. Se empezó a pelar todo"). Son experiencias puntuales, no un ensayo de resistencia, pero aparecen varias veces.
+- **Sin protección de dedos.** No tiene varillas. Si eso te preocupa, el Reebok de esta comparativa sí las tiene.
+- **El talle.** Varios compradores tuvieron que cambiarlo. Uno con la mano de 20 cm compró talle 9 y dice que un talle más le hubiera quedado mejor. Mirá la tabla de talles de la publicación antes de elegir.
+
+## Para quién es, y para quién no
+
+Es para vos si arrancás en el arco, si atajás en el papi o en fútbol 5 con amigos, si es para un chico que entrena o si querés un segundo par para entrenar y cuidar los buenos. No es para vos si atajás seguido en cancha de 11 y el agarre es lo primero: para eso, el Reusch Attrakt Storm Infinity, con palma de látex, es el escalón lógico dentro de la misma marca.`,
+    faq: [
+      { question: "¿El Reusch Attrakt Solid es bueno?", answer: "Para arrancar, entrenar o jugar con amigos, según la experiencia reportada, sí: tiene {{rating:MLA56198738}} estrellas en {{reviews:MLA56198738}} opiniones y es el 7° más vendido de la categoría. La queja que más se repite es el agarre, algo esperable en una palma de espuma sintética pensada para durar." },
+      { question: "¿La palma del Attrakt Solid es de látex?", answer: "No. Es Solid, una espuma sintética que Reusch describe como muy durable y pensada para principiantes y entrenamiento. Los Reusch Attrakt Storm Infinity y Attrakt Gravity de esta comparativa sí tienen palma de látex." },
+      { question: "¿Tiene protección para los dedos?", answer: "No: según la ficha técnica no tiene varillas. Si buscás protección de dedos, el Reebok Guakick de esta comparativa es el único que la trae." },
+      { question: "¿Qué talle de guante de arquero pido?", answer: "Mirá la tabla de talles de la publicación. Como referencia de un comprador: con la mano de 20 cm compró talle 9 y dice que un talle más grande le hubiera quedado mejor. Si estás entre dos talles, muchos arqueros prefieren el más grande." },
+      { question: "¿Hay que lavarlo antes de usarlo?", answer: "Un comprador lo recomienda: dice que viene con un protector que, si no lo sacás, hace que resbale. Lavalo con agua tibia, sin jabones fuertes, y dejalo secar a la sombra." },
+      { question: "¿Sirve para cancha de 11?", answer: "Sirve, pero no es su fuerte. Un comprador dice que para el papi es muy bueno y que para cancha de 11 preferiría uno más grueso. Si atajás seguido en cancha grande, mirá el Attrakt Storm Infinity." },
+    ],
+  },
+  {
+    id: "MLA57357956",
+    title: "Guante De Arquero Adulto Reebok Con Varillas - Guakick Full Color Negro Talle 10",
+    canonicalName: "Reebok Guakick con Varillas",
+    brand: "Reebok",
+    price: 65960,
+    originalPrice: 85000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_988768-MLA95979287822_102025-F.webp",
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA57357956",
+    affiliateUrl: "https://meli.la/2vn7zGF",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 682,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 100,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Guante de arquero Reebok modelo Kick con varillas en los dedos, palma de látex, dorso de PVC y corte negativo. El único de esta comparativa con protección de dedos.",
+    seoTitle: "Reebok Guakick con varillas: el guante de arquero con protección de dedos, ¿sirve?",
+    metaDescription: "Guante de arquero Reebok con varillas a {{precio:MLA57357956}}: {{rating:MLA57357956}} estrellas en {{reviews:MLA57357956}} opiniones. Qué hacen las varillas (y qué no), qué dicen de la palma y para quién conviene.",
+    pros: [
+      "El único de esta comparativa con varillas en los dedos: lo declaran el título y la ficha técnica",
+      "Compradores con lesiones previas cuentan que les da seguridad: \"tuve una fractura en el dedo meñique izquierdo y me brinda mucha seguridad\"",
+      "{{rating:MLA57357956}} estrellas en {{reviews:MLA57357956}} opiniones, la segunda base más grande del grupo",
+      "Según varios compradores, las varillas no molestan: \"las férulas no son nada incómodas\"",
+      "Palma de látex y corte negativo según la descripción, con envío gratis",
+    ],
+    cons: [
+      "La durabilidad de la palma es la queja más repetida en las reseñas bajas: varios cuentan que se peló o se descosió en pocos usos",
+      "Un comprador avisa que el pulgar no trae varilla, justo \"el dedo que más sufre los pelotasos\" (la publicación no aclara qué dedos la llevan)",
+      "Las varillas limitan cuánto se dobla el dedo hacia atrás, pero no garantizan que no te lesiones ni reemplazan una férula o un vendaje indicados por un médico",
+      "Terminaciones: un comprador de 4 estrellas marca el velcro mal cortado y el pulgar demasiado largo",
+      "Un comprador de 1 estrella dice que le llegaron usados: revisalos apenas llegan",
+    ],
+    verdict: "Es el guante para el que tiene miedo de doblarse un dedo o ya se lesionó alguno: el único de esta comparativa con varillas, de una marca reconocida como Reebok, con {{rating:MLA57357956}} estrellas en {{reviews:MLA57357956}} opiniones, a {{precio:MLA57357956}}. Las varillas son una protección pasiva: limitan que el dedo se vaya para atrás en un pelotazo, no son una garantía médica. Y ojo con la palma: varias reseñas bajas cuentan que se peló o se descosió rápido. Si los dedos no son tu preocupación, el Reusch Attrakt Solid cuesta bastante menos y tiene más historial.",
+    specs: [
+      { label: "Marca", value: "Reebok" },
+      { label: "Modelo", value: "Kick (Guakick Full)" },
+      { label: "Línea", value: "Adulto" },
+      { label: "Con varillas", value: "Sí (según título y ficha técnica)" },
+      { label: "Material de la palma", value: "Látex (según la descripción)" },
+      { label: "Material del dorso", value: "PVC (según la descripción)" },
+      { label: "Corte", value: "Negativo (según la descripción)" },
+      { label: "Color", value: "Negro" },
+      { label: "Talle", value: "10 en esta variante (hay otros talles)" },
+      { label: "Edad", value: "Adultos" },
+      { label: "Vendedor", value: "SPORTPLUS (MercadoLíder)" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 3, text: "Supero mis expectativas ,exelente calidad y buen precio mis esguinces de dedos están agradecidos." },
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 1, text: "Excelentes, buen agarre, las férulas no son nada incómodas. Muy buenos guantes." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 1, text: "Me gustaron mucho, resistentes al sintético, buen adherencia al fútbol, muy buenos. Lo único que en el dedo pulgar no trae varilla de contención y suele ser el dedo que más sufre los pelotasos." },
+      { rating: 3, country: "Argentina", date: "hace 1 año", useful: 1, text: "En poco uso se pelo la palma del guante." },
+      { rating: 1, country: "Argentina", date: "hace 7 meses", text: "Menos de 15 días que usa el guante y ya se rompió. Vengo comprando varios guantes de está marca y nunca se rompió a 10 días de su uso tiene uno ya hace casi un año y están mejores q este que los uso 5 días y se agujerio." },
+    ],
+    relatedProducts: ["MLA56198738", "MLA1427409577", "MLA618782735", "MLA1606096485"],
+    articleBody: `## Qué es el Reebok Guakick con varillas
+
+Es un guante de arquero para adultos, modelo Kick, con **varillas en los dedos**, palma de látex, dorso de PVC y corte negativo, según la descripción. Es el único de esta comparativa con protección de dedos, y eso lo declaran el título y la ficha técnica, no solo una frase de venta. Sale {{precio:MLA57357956}} en la tienda SPORTPLUS, con envío gratis.
+
+## Qué hacen las varillas, y qué no
+
+Las varillas (también les dicen férulas o "finger save") son unos soportes semirrígidos cosidos dentro de los dedos del guante. La idea es que el dedo se doble para adelante con normalidad, pero no se vaya para atrás cuando un pelotazo te agarra con la mano abierta. La publicación lo dice a su manera: aportan "soporte y estructura".
+
+Lo que **no** son: una garantía de que no te vas a lesionar, ni el reemplazo de una férula o un vendaje que te indique un médico. Son una protección pasiva, nada más. Y un dato que vale saber antes de comprar: **un comprador avisa que el pulgar no trae varilla**, "y suele ser el dedo que más sufre los pelotasos". La publicación no aclara qué dedos la llevan.
+
+## Lo que cuentan los compradores
+
+La protección es lo que más se valora, sobre todo entre los que ya tuvieron problemas en los dedos: "mis esguinces de dedos están agradecidos", dice uno; otro, que tuvo una fractura en el meñique, cuenta que le "brinda mucha seguridad". Y varios coinciden en algo que preocupa al que nunca usó varillas: que no molestan ("las férulas no son nada incómodas").
+
+## Lo flojo, sin vueltas
+
+- **La palma.** Es la queja más repetida en las reseñas de 1 a 3 estrellas: "En poco uso se pelo la palma del guante", "se empezaron a descocer en la unión de los dedos". Son experiencias de compradores puntuales, no un ensayo de resistencia, pero aparecen varias veces.
+- **El pulgar sin varilla**, según un comprador.
+- **Terminaciones.** Un comprador de 4 estrellas marca el velcro mal cortado, con material de más, y el pulgar casi tan largo como el índice.
+- **Un caso de producto usado.** Un comprador de 1 estrella dice que le llegaron usados. Revisalos apenas los recibís.
+
+## Para quién es, y para quién no
+
+Es para vos si ya te esguinzaste o fracturaste un dedo, si tenés miedo de lesionarte o si sos arquero amateur y querés esa protección extra sin gastar lo de un guante de gama alta. No es para vos si lo que más te importa es que la palma dure: ahí las reseñas no lo acompañan. Si los dedos no te preocupan, el Reusch Attrakt Solid es bastante más barato y tiene mucho más historial.`,
+    faq: [
+      { question: "¿Qué significa que un guante de arquero tenga varillas?", answer: "Que trae soportes semirrígidos dentro de los dedos. Dejan que el dedo se doble para adelante pero limitan que se vaya para atrás en un pelotazo. Es protección pasiva: ayuda, pero no garantiza que no te lesiones." },
+      { question: "¿Las varillas del Reebok molestan para atajar?", answer: "Según los compradores, no: \"las férulas no son nada incómodas\", dice uno, y otro cuenta que no molestan para nada. Como todo guante con varillas, conviene probarlo en un entrenamiento antes de un partido." },
+      { question: "¿El pulgar tiene varilla?", answer: "Un comprador dice que no, y la publicación no aclara qué dedos la llevan. Si el pulgar es tu preocupación, preguntale al vendedor antes de comprar." },
+      { question: "¿Sirve si ya me lesioné un dedo?", answer: "Varios compradores con esguinces o fracturas previas cuentan que les da seguridad. Pero no reemplaza lo que te indique un médico o un kinesiólogo: si estás en recuperación, consultá antes de volver al arco." },
+      { question: "¿La palma es de látex?", answer: "Sí, según la descripción. Varias reseñas bajas cuentan que se peló en pocos usos, así que cuidala: lavala después de usarla y no la dejes al sol." },
+      { question: "¿Es buen guante el Reebok Guakick?", answer: "Para el que busca protección de dedos, según la experiencia reportada, sí: tiene {{rating:MLA57357956}} estrellas en {{reviews:MLA57357956}} opiniones. La crítica que más se repite es la durabilidad de la palma." },
+    ],
+  },
+  {
+    id: "MLA1427409577",
+    title: "Guantes Arquero Reusch Attrakt Storm Infinity Profesional",
+    canonicalName: "Reusch Attrakt Storm Infinity",
+    brand: "Reusch",
+    price: 82500,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_628516-MLA114814010276_082026-F.webp",
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1427409577-guantes-arquero-reusch-attrakt-storm-infinity-profesional-_JM",
+    affiliateUrl: "https://meli.la/1QYm5o9",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 179,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 500,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Guante de arquero Reusch de la línea Attrakt con palma de espuma de látex de 3 mm, corte Expanse y dorso de PVC. El escalón intermedio de los tres Reusch de esta comparativa.",
+    seoTitle: "Reusch Attrakt Storm Infinity: el Reusch con palma de látex, ¿conviene?",
+    metaDescription: "Guante de arquero Reusch Attrakt Storm Infinity a {{precio:MLA1427409577}}: palma de látex de 3 mm, {{rating:MLA1427409577}} estrellas en {{reviews:MLA1427409577}} opiniones. Qué cambia frente al Attrakt Solid y qué dicen los compradores.",
+    pros: [
+      "Palma de espuma de látex de 3 mm según la descripción, en lugar de la espuma sintética del Attrakt Solid",
+      "El contador de vendidos más alto de esta comparativa: +500",
+      "{{rating:MLA1427409577}} estrellas en {{reviews:MLA1427409577}} opiniones, con muy pocas reseñas bajas con comentario",
+      "Muñequera elástica con abrojo y talles 8 a 11",
+      "Compradores lo describen como cómodo y con buen agarre para entrenar o jugar en la semana",
+      "Envío gratis",
+    ],
+    cons: [
+      "Cuesta {{preciodif:MLA1427409577:MLA56198738}} más que el Reusch Attrakt Solid",
+      "Algunos compradores lo sienten ancho en la muñeca u holgado",
+      "Un comprador de 4 estrellas cuenta que en tres partidos uno de los guantes perdió gran parte de la goma de la palma",
+      "No tiene varillas",
+      "La publicación avisaba \"últimas 3 unidades\" al revisarla",
+      "\"Utilizado por los arqueros profesionales\" es una frase del vendedor que no pudimos verificar para este modelo",
+    ],
+    verdict: "Es el punto medio dentro de Reusch: a {{precio:MLA1427409577}}, cambia la palma de espuma sintética del Attrakt Solid por espuma de látex de 3 mm, y tiene el contador de vendidos más alto de esta comparativa (+500) con {{rating:MLA1427409577}} estrellas en {{reviews:MLA1427409577}} opiniones. Conviene si ya atajás seguido y el agarre te importa más que la duración. Lo flojo: el látex tiende a gastarse antes que la espuma sintética, y un comprador cuenta que la palma de uno de sus guantes se fue en tres partidos. Si recién arrancás, el Attrakt Solid alcanza y cuesta mucho menos.",
+    specs: [
+      { label: "Marca", value: "Reusch" },
+      { label: "Línea", value: "Attrakt" },
+      { label: "Modelo", value: "Storm Infinity" },
+      { label: "Material de la palma", value: "Espuma de látex natural, 3 mm (según la descripción)" },
+      { label: "Material del dorso", value: "PVC" },
+      { label: "Corte", value: "Expanse" },
+      { label: "Cierre", value: "Muñequera elástica con ajuste de abrojo" },
+      { label: "Con varillas", value: "No" },
+      { label: "Año de lanzamiento", value: "2022" },
+      { label: "Talles", value: "8, 9, 10 y 11" },
+      { label: "Edad", value: "Adultos" },
+      { label: "Vendedor", value: "KADUR (MercadoLíder Platinum, según la publicación)" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 11 meses", text: "muy bueno para la relación precio-calidad, no son guantes premiun pero para entrenar o jugar al futbol en la semana son exelentes! la palma tienen buen agarre pero tambien tambien un desgaste aceptable a su espesor." },
+      { rating: 5, country: "Argentina", date: "hace 4 semanas", text: "Para uno que empieza , está muy bueno. Son cómodos y adaptables." },
+      { rating: 4, country: "Argentina", date: "hace más de 1 año", useful: 1, text: "Muy bueno lastima que en la parte de la muñeca es muy ancho." },
+      { rating: 4, country: "Argentina", date: "hace más de 1 año", text: "Van tres partidos y uno de los dos ya perdió una gran parte de la goma de la palma. Antes duraban mas sin dudas. Pero es cómodo, si." },
+      { rating: 1, country: "Argentina", date: "hace más de 1 año", text: "Horribles caros y se partieron en la primera postura no lo compren." },
+    ],
+    relatedProducts: ["MLA56198738", "MLA618782735", "MLA57357956", "MLA1606096485"],
+    articleBody: `## Qué es el Reusch Attrakt Storm Infinity
+
+Es un guante de arquero Reusch de la línea Attrakt, un escalón arriba del Attrakt Solid. Según la descripción, la palma es de **espuma de látex natural de 3 mm**, con corte Expanse, dorso de PVC y muñequera elástica con abrojo. Talles 8 a 11, sin varillas. Sale {{precio:MLA1427409577}} en la tienda KADUR, con envío gratis.
+
+## Qué cambia frente al Attrakt Solid
+
+Con lo que declaran las dos fichas, la diferencia concreta es **la palma**: el Solid usa espuma sintética, que Reusch vende por durabilidad y para principiantes; el Storm Infinity usa espuma de látex. El corte (Expanse) y el dorso (PVC) son los mismos.
+
+En guantes de arquero, el látex suele dar más agarre y gastarse antes que la espuma sintética. No lo medimos en laboratorio y no lo podemos prometer para cada par, pero ayuda a entender qué pagás: {{preciodif:MLA1427409577:MLA56198738}} más que el Solid, sobre todo por la palma.
+
+## Lo que cuentan los compradores
+
+Tiene +500 vendidos, el contador más alto de esta comparativa, y {{rating:MLA1427409577}} estrellas en {{reviews:MLA1427409577}} opiniones. Los comentarios hablan de comodidad y de un agarre que cumple: "no son guantes premiun pero para entrenar o jugar al futbol en la semana son exelentes! la palma tienen buen agarre". Las reseñas bajas con comentario son pocas.
+
+## Lo flojo, sin vueltas
+
+- **La palma se gasta.** Un comprador de 4 estrellas cuenta que en tres partidos uno de los dos guantes "ya perdió una gran parte de la goma de la palma". Es un caso puntual, pero es lo esperable de una palma de látex si no la cuidás.
+- **El calce en la muñeca.** Algunos compradores lo sienten ancho en la muñeca o más holgado que otros guantes.
+- **Sin varillas.** Si te preocupan los dedos, mirá el Reebok de esta comparativa.
+- **Stock.** La publicación avisaba "últimas 3 unidades" al revisarla.
+
+## Para quién es, y para quién no
+
+Es para vos si ya atajás seguido, el agarre de un guante de espuma sintética te quedó corto y querés seguir en Reusch sin irte a la gama alta. No es para vos si recién arrancás o si buscás que el guante dure mucho más que agarre: para eso, el Attrakt Solid cuesta bastante menos.`,
+    faq: [
+      { question: "¿Qué diferencia hay entre el Reusch Attrakt Solid y el Storm Infinity?", answer: "Según sus fichas, la palma: el Solid es de espuma sintética pensada para durar, el Storm Infinity es de espuma de látex de 3 mm. Los dos tienen corte Expanse y dorso de PVC." },
+      { question: "¿El Storm Infinity tiene más agarre que el Solid?", answer: "En general, el látex da más agarre que la espuma sintética, y los compradores del Storm Infinity hablan bien del agarre. No es una medición de laboratorio: es lo que se suele esperar del material y lo que reportan los compradores." },
+      { question: "¿Cuánto dura un guante con palma de látex?", answer: "Depende de cuánto lo uses, en qué cancha y cómo lo cuides. Un comprador cuenta que uno de sus guantes perdió buena parte de la palma en tres partidos; otro habla de un desgaste aceptable. Lavarlo después de usar y secarlo a la sombra ayuda." },
+      { question: "¿Tiene varillas?", answer: "No, según la ficha técnica. El único de esta comparativa con varillas es el Reebok Guakick." },
+      { question: "¿Qué talles hay?", answer: "8, 9, 10 y 11, según la descripción. La publicación recomienda ver la tabla de talles de las fotos." },
+    ],
+  },
+  {
+    id: "MLA618782735",
+    title: "Guantes Arquero Futbol Reusch Attrakt Gravity 2024",
+    canonicalName: "Reusch Attrakt Gravity 2024",
+    brand: "Reusch",
+    price: 134370,
+    originalPrice: 149300,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_699127-MLA97914794664_112025-F.webp",
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-618782735-guantes-arquero-futbol-reusch-attrakt-gravity-2024-_JM",
+    affiliateUrl: "https://meli.la/31NsT5w",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 42,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 100,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Guante de arquero Reusch Attrakt Gravity (modelo 2024) con palma de látex Infinity, corte negativo y dorso de PVC. El más caro de los tres Reusch de esta comparativa y el que tiene menos reseñas.",
+    seoTitle: "Reusch Attrakt Gravity 2024: la gama alta de Reusch, ¿vale lo que cuesta?",
+    metaDescription: "Guante de arquero Reusch Attrakt Gravity 2024 a {{precio:MLA618782735}}: palma de látex y corte negativo, {{rating:MLA618782735}} estrellas en solo {{reviews:MLA618782735}} opiniones. Qué cambia frente al Storm Infinity y para quién conviene.",
+    pros: [
+      "El modelo más nuevo de los tres Reusch: año de lanzamiento 2024 según la ficha técnica",
+      "Palma de látex Infinity, que la descripción presenta como un equilibrio entre agarre y durabilidad, para césped sintético o natural",
+      "Corte negativo: el único Reusch de esta comparativa con ese corte, que en general queda más ceñido a la mano",
+      "Compradores destacan el agarre y la comodidad: \"Impecables. Agarre perfecto y super comodos.\"",
+      "Envío gratis y talles 8 a 11",
+    ],
+    cons: [
+      "La base de reseñas más chica de los tres Reusch: {{reviews:MLA618782735}} opiniones, contra {{reviews:MLA1427409577}} del Storm Infinity y {{reviews:MLA56198738}} del Attrakt Solid",
+      "Casi todos los comentarios son cortos y genéricos, y la mayoría tiene más de un año",
+      "Un comprador de 5 estrellas igual avisa: \"Para entrenar están bien. Para partidos tienen muy poco agarre.\"",
+      "Cuesta {{preciodif:MLA618782735:MLA1427409577}} más que el Storm Infinity, y las dos fichas declaran palma de látex: lo que sí cambia según la ficha es el corte (negativo contra Expanse) y el año del modelo",
+      "No tiene varillas",
+      "\"Pensados para los arqueros que entrenan y compiten al máximo nivel\" es una frase del vendedor, no una certificación",
+    ],
+    verdict: "Es la gama alta de Reusch en esta comparativa: a {{precio:MLA618782735}}, el modelo 2024 con palma de látex Infinity y corte negativo. Tiene {{rating:MLA618782735}} estrellas, pero en solo {{reviews:MLA618782735}} opiniones, la base más chica de los tres Reusch, y con comentarios mayormente cortos. Con lo que declaran las fichas, lo que pagás de más frente al Storm Infinity es sobre todo el corte negativo y un modelo más nuevo, no una palma distinta comprobada. Tiene sentido si atajás seguido, preferís un guante bien ceñido y el presupuesto no te aprieta; si no, el Storm Infinity también trae palma de látex por bastante menos.",
+    specs: [
+      { label: "Marca", value: "Reusch" },
+      { label: "Línea", value: "Attrakt" },
+      { label: "Modelo", value: "Attrakt Gravity Infinity" },
+      { label: "Año de lanzamiento", value: "2024" },
+      { label: "Material de la palma", value: "Látex, palma Infinity Grip (según ficha técnica y descripción)" },
+      { label: "Material del dorso", value: "PVC" },
+      { label: "Corte", value: "Negativo" },
+      { label: "Superficie declarada", value: "Todo tipo de cancha, césped sintético o natural (según la descripción)" },
+      { label: "Con varillas", value: "No" },
+      { label: "Talles", value: "8, 9, 10 y 11" },
+      { label: "Edad", value: "Adultos" },
+      { label: "Vendedor", value: "KADUR (MercadoLíder Platinum, según la publicación)" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 2 meses", text: "Impecables. Agarre perfecto y super comodos." },
+      { rating: 5, country: "Argentina", date: "hace 3 meses", text: "Excelente calidad. Muy livianos." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", text: "Excelente guante. Es muy comodo y el grip es muy bueno. Apto para futbol 5 y futbol sala." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", text: "Para entrenar están bien. Para partidos tienen muy poco agarre." },
+      { rating: 1, country: "Argentina", date: "hace más de 1 año", useful: 1, text: "No es lo que quería." },
+    ],
+    relatedProducts: ["MLA1427409577", "MLA56198738", "MLA57357956", "MLA1606096485"],
+    articleBody: `## Qué es el Reusch Attrakt Gravity 2024
+
+Es el más caro de los tres Reusch de esta comparativa: modelo 2024 de la línea Attrakt, con **palma de látex Infinity**, **corte negativo** y dorso de PVC, según la ficha técnica y la descripción. La publicación lo declara para todo tipo de cancha. Talles 8 a 11, sin varillas. Sale {{precio:MLA618782735}} en la tienda KADUR, con envío gratis.
+
+## Qué cambia frente al Storm Infinity
+
+Acá conviene ser preciso, porque es fácil suponer más de lo que dicen las fichas. **Las dos declaran palma de látex.** Lo que sí cambia, según lo publicado:
+
+- **El corte.** El Gravity es de corte negativo, con las costuras hacia adentro; en general queda más ceñido a la mano y da más sensación de contacto con la pelota. El Storm Infinity es de corte Expanse.
+- **El año del modelo.** El Gravity es 2024; el Storm Infinity, 2022.
+
+No encontramos en las publicaciones un dato técnico que muestre que la palma del Gravity agarra más que la del Storm Infinity. Por eso no lo afirmamos: lo que pagás de más ({{preciodif:MLA618782735:MLA1427409577}}) es, con lo que sabemos, sobre todo el corte y un modelo más nuevo.
+
+## Lo que cuentan los compradores
+
+Los comentarios hablan bien del agarre y la comodidad ("Impecables. Agarre perfecto y super comodos.", "Excelente guante. Es muy comodo y el grip es muy bueno. Apto para futbol 5 y futbol sala."). Pero hay dos salvedades honestas:
+
+- **La base es chica.** {{reviews:MLA618782735}} opiniones, la más chica de los tres Reusch, aunque la publicación figure con +100 vendidos. Vendidos no es lo mismo que opiniones: mucha gente compra y no califica.
+- **Los comentarios son cortos y la mayoría tiene más de un año.** Casi ninguno dice cuánto duró el guante con meses de uso.
+
+Y hay un comprador que le pone 5 estrellas pero avisa: "Para entrenar están bien. Para partidos tienen muy poco agarre."
+
+## Para quién es, y para quién no
+
+Es para vos si atajás seguido, preferís un guante de corte negativo bien ceñido y querés el modelo más nuevo de Reusch de esta lista. No es para vos si buscás la apuesta con más historial (el Storm Infinity tiene muchas más opiniones y también es de látex) ni si recién arrancás (el Attrakt Solid cuesta una fracción).`,
+    faq: [
+      { question: "¿Qué diferencia hay entre el Reusch Attrakt Gravity y el Storm Infinity?", answer: "Según sus fichas, los dos tienen palma de látex y dorso de PVC. Lo que cambia es el corte (negativo en el Gravity, Expanse en el Storm Infinity) y el año del modelo (2024 contra 2022). No encontramos un dato que pruebe que la palma del Gravity agarre más." },
+      { question: "¿Qué es el corte negativo?", answer: "Es un corte con las costuras hacia adentro del guante. En general queda más ceñido a la mano y da más sensación de contacto con la pelota. A algunos arqueros les resulta más ajustado, así que conviene ser preciso con el talle." },
+      { question: "¿Por qué tiene pocas opiniones si dice +100 vendidos?", answer: "Porque vender no es lo mismo que recibir una calificación: mucha gente compra y no opina. Tiene {{reviews:MLA618782735}} opiniones, la base más chica de los tres Reusch de esta comparativa." },
+      { question: "¿El más caro agarra mejor?", answer: "No necesariamente. El precio y la marca indican qué materiales declara el fabricante, no garantizan un desempeño. De hecho, un comprador de este modelo dice que para partidos le resultó con poco agarre." },
+      { question: "¿Qué talles hay?", answer: "8, 9, 10 y 11, según la descripción." },
+    ],
+  },
+  {
+    id: "MLA1606096485",
+    title: "Guante De Arquero Profesional Crystal Vintage Importado",
+    canonicalName: "Vintage Crystal",
+    brand: "Vintage",
+    price: 68267,
+    originalPrice: 79999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_744142-MLA100969461987_122025-F.webp",
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1606096485-guante-de-arquero-profesional-crystal-vintage-importado-_JM",
+    affiliateUrl: "https://meli.la/21pYKGz",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 18,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 100,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Guante de arquero Vintage Crystal (importado, modelo 2025): palma de látex Soft Grip, dorso de PU, corte híbrido y muñequera envolvente con velcro. Diseño blanco con detalles rosa y azul. Con muy pocas reseñas todavía.",
+    seoTitle: "Vintage Crystal: el guante de arquero más vistoso, ¿es confiable?",
+    metaDescription: "Guante de arquero Vintage Crystal a {{precio:MLA1606096485}}: palma de látex y diseño blanco con rosa y azul, pero solo {{reviews:MLA1606096485}} opiniones. Lo bueno, lo que no sabemos y para quién es.",
+    pros: [
+      "El diseño más vistoso de esta comparativa: blanco con detalles en rosa y azul",
+      "Palma de látex, dorso de PU y corte híbrido según la ficha técnica; modelo 2025",
+      "Muñequera envolvente con correa elástica y velcro, y zonas de malla para ventilar, según la descripción",
+      "Los comentarios que tiene son de 4 y 5 estrellas, y varios destacan la comodidad (\"muy comodos\")",
+      "Envío Full gratis",
+    ],
+    cons: [
+      "Solo {{reviews:MLA1606096485}} opiniones pese a figurar con \"+100 vendidos\": vendidos no es lo mismo que opiniones, y con una base tan chica no alcanza para conocer los problemas poco frecuentes",
+      "Apenas la mitad de esas calificaciones trae comentario, todos cortos (\"Muy buenos\", \"Hermoso\") y casi todos de las últimas semanas: no dicen nada de cómo aguanta con meses de uso",
+      "No es el más barato del grupo: al revisarlo estaba en oferta relámpago, y sin ella su precio de lista era bastante más alto",
+      "Talles limitados en blanco: al revisarlo solo había 7, 9 y 11",
+      "La descripción habla de un diseño negro y verde flúo, distinto al blanco de las fotos y de la variante a la venta: confirmá con el vendedor qué te llega",
+      "No tiene varillas, y \"Profesional\" en el título es una palabra del vendedor",
+    ],
+    verdict: "Es el más lindo de la comparativa y tiene palma de látex, a {{precio:MLA1606096485}}. Pero tiene solo {{reviews:MLA1606096485}} opiniones pese a figurar con \"+100 vendidos\", y sus pocos comentarios son cortos y recientes: es un guante del que todavía se sabe poco. Además, al revisarlo estaba en oferta relámpago y aun así no era el más barato del grupo. Si el diseño te enamoró, es una compra razonable; si buscás la apuesta más segura, el Reusch Attrakt Solid o el Storm Infinity tienen mucho más historial.",
+    specs: [
+      { label: "Marca", value: "Vintage" },
+      { label: "Modelo", value: "Crystal (la ficha técnica lo escribe \"Crystral\")" },
+      { label: "Año de lanzamiento", value: "2025" },
+      { label: "Material de la palma", value: "Látex (Soft Grip, según la descripción)" },
+      { label: "Material del dorso", value: "PU" },
+      { label: "Corte", value: "Híbrido" },
+      { label: "Cierre", value: "Muñequera envolvente con correa elástica y velcro (según la descripción)" },
+      { label: "Ventilación", value: "Zonas de malla en el dorso (según la descripción)" },
+      { label: "Con varillas", value: "No" },
+      { label: "Color", value: "Blanco con detalles rosa y azul" },
+      { label: "Talles disponibles", value: "7, 9 y 11 al 11/11/2026" },
+      { label: "Edad", value: "Adultos" },
+      { label: "Origen", value: "Importado" },
+      { label: "Vendedor", value: "TODO SPORTS" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 2 semanas", text: "Muy buena calidad más que contento mi hijo. Recomiendo volveré a comprar." },
+      { rating: 5, country: "Argentina", date: "hace 2 días", text: "La verdad muy bueno y son muy comodos." },
+      { rating: 4, country: "Argentina", date: "hace 6 días", text: "Colores vivos, comodos." },
+      { rating: 5, country: "Argentina", date: "hace 3 semanas", text: "Excelentes, súper cómodos para mí hijo." },
+    ],
+    relatedProducts: ["MLA56198738", "MLA1427409577", "MLA57357956", "MLA618782735"],
+    articleBody: `## Qué es el Vintage Crystal
+
+Es un guante de arquero importado de la marca Vintage, modelo Crystal 2025, con **palma de látex** ("Soft Grip", según la descripción), dorso de PU, corte híbrido y muñequera envolvente con correa elástica y velcro. Lo primero que se ve es el diseño: blanco con detalles en rosa y azul, el más llamativo de esta comparativa. Sale {{precio:MLA1606096485}} en la tienda TODO SPORTS, con envío Full gratis.
+
+## Antes que nada: lo que todavía no sabemos
+
+**Tiene muy pocas opiniones.** Al 11 de noviembre de 2026 sumaba {{reviews:MLA1606096485}}, aunque la publicación figura con "+100 vendidos". No es una contradicción: vender no es lo mismo que recibir una calificación, y mucha gente compra y no opina. Pero el resultado es que hay poca información de compradores.
+
+Y la que hay dice poco. Apenas la mitad de las calificaciones trae comentario, todos de 4 y 5 estrellas, todos cortos ("Muy buenos", "Hermoso", "Colores vivos, comodos") y casi todos de las últimas semanas. Ninguno cuenta cómo aguanta la palma con meses de uso, que es justo lo que más importa en un guante de látex.
+
+## Lo que sí se puede decir
+
+- **Comodidad.** Es lo que más repiten los comentarios: "muy comodos", "súper cómodos para mí hijo".
+- **Materiales declarados.** Palma de látex, dorso de PU, corte híbrido y zonas de malla para ventilar, según la ficha y la descripción.
+- **Un detalle a confirmar.** La descripción habla de un diseño "negro, verde flúo", pero las fotos y la variante a la venta son blancas con rosa y azul. Parece un texto genérico del vendedor; preguntá antes de comprar si te importa el color.
+
+## Precio y talles
+
+No es el más barato del grupo: al revisarlo estaba en **oferta relámpago**, y aun así quedaba por encima del Reusch Attrakt Solid. Sin la oferta, su precio de lista era bastante más alto. En blanco, al revisarlo, solo había talles 7, 9 y 11.
+
+## Para quién es, y para quién no
+
+Es para vos si el diseño pesa en tu elección (pasa mucho con chicos y adolescentes que arrancan) y aceptás comprar algo con poco historial. No es para vos si buscás la apuesta más segura: el Reusch Attrakt Solid y el Storm Infinity tienen muchas más opiniones que ya te cuentan qué esperar, incluidas las malas.`,
+    faq: [
+      { question: "¿El guante Vintage Crystal es bueno?", answer: "Los comentarios que tiene son buenos y hablan de comodidad, pero son pocos y cortos: tiene {{reviews:MLA1606096485}} opiniones. Todavía no hay información suficiente para saber cómo aguanta la palma con meses de uso." },
+      { question: "¿Por qué tiene tan pocas opiniones si dice +100 vendidos?", answer: "Porque vender no es lo mismo que recibir una calificación: mucha gente compra y nunca opina. Por eso, con este guante hay poca experiencia de compradores para contrastar." },
+      { question: "¿De qué es la palma?", answer: "De látex, según la ficha técnica (\"Soft Grip\", según la descripción). El dorso es de PU y el corte es híbrido." },
+      { question: "¿De qué color es?", answer: "La variante a la venta es blanca con detalles en rosa y azul. La descripción menciona un diseño negro y verde flúo, que parece un texto genérico: si el color te importa, confirmalo con el vendedor." },
+      { question: "¿Tiene protección para los dedos?", answer: "No: la ficha técnica indica que no tiene varillas." },
+    ],
+  },
+];
+
+curatedProducts.push(...curatedProductsGuanteDeArquero);
+
 export const categoryPastels: Record<string, string> = {
   cocina: 'var(--pastel-coral)',
   hogar: 'var(--pastel-amber)',
