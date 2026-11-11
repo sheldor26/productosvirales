@@ -1106,3 +1106,49 @@ puesto casi siempre aparece repetido con redacción distinta en más de un lugar
 **Por qué pasó:** una ficha técnica de ML mezcla datos objetivos verificables (medidas, peso, material) con frases de marketing del vendedor (certificaciones, "apto para X", comparaciones). Traté ambos tipos de dato con el mismo nivel de confianza solo porque venían del mismo campo de la publicación, sin preguntarme si "homologado por IATA" era algo que IATA efectivamente otorga a productos comerciales — un hecho verificable con una búsqueda de 30 segundos que nunca hice hasta que un auditor externo insistió.
 
 **Cómo aplicar:** cuando una ficha de ML invoca el nombre de una entidad externa (una norma, un organismo, una certificación — IATA, ISO, IRAM, ANMAT, etc.) como respaldo de una característica, verificar con una búsqueda rápida qué es lo que esa entidad realmente certifica o permite antes de repetir la frase del vendedor como si fuera un hecho. La frase correcta casi siempre es "la ficha/el vendedor declara que cumple con X", nunca "está certificado/homologado/aprobado por X" sin esa verificación — la segunda forma presenta como un hecho del sitio algo que puede ser simple marketing. Y si el diferenciador central de una ficha/guía depende de esa certificación, esta verificación hay que hacerla ANTES de escribir, no después de que un auditor la cuestione 4 rondas seguidas.
+
+## 2026-11-10 — Chequeo de stock de caros: armé la ruta con el `id` en vez del `path` del permalink
+
+**Qué pasó:** compacté la lista del script `list-productos-caros.cjs` a solo IDs y reconstruí cada
+ruta como `/p/` + `id`. En 13 de los 319 productos el ID del permalink no coincide con el `id` del
+catálogo (ej. iPhone 18 Pro `MLAU5324238070` es `/p/MLA1077872085`, monitor Gigabyte `MLA28853185` es
+`/p/MLA57658338`). Salieron 404 falsos (4 iPhone, entre otros) y un falso "no disponible" en el
+Gigabyte. Lo detecté antes de avisarle a Juan.
+
+**Regla:** la ruta de cada producto sale SIEMPRE del campo `path` que imprime el script, nunca del
+`id`. Si se compacta la lista, guardar el path real (`/p/…` o `/up/…`), no solo el ID.
+Y todo 404 o "no disponible" se confirma abriendo la ficha real antes de avisar.
+
+## 2026-11-10 — Threads de la noche: la terminal se comió el "$9" y la Mac durmió el temporizador
+
+**Qué pasó:** armé la cadena de publicación nocturna con un script que le pasaba el texto de la
+pregunta en un `node ... "Tenés $900.000 ..."`. En bash, `$9` dentro de comillas dobles es el noveno
+parámetro posicional (vacío) y el post salió como "Tenés 00.000 para entretenimiento". Además la cadena
+usaba `sleep 1560` entre posts y la Mac se suspendió: la pregunta, prevista para las 20:34, salió a
+las 22:44 (fuera de la ventana buena). Se corrigió el texto desde la web de Threads con "Editar" a
+los 2 minutos de publicado (la edición está disponible 15 minutos). Antes de eso, Threads tuvo un hueco
+de 8 horas hoy (último post 11:15, siguiente 19:16) porque me enfoqué en el anuncio de X.
+
+**Regla:** (1) texto con `$` para Threads/X va SIEMPRE en un archivo con heredoc de comillas simples
+(`<<'EOF'`) o con comillas simples, nunca en comillas dobles; revisar el texto publicado contra el
+original apenas sale. (2) No usar `sleep` largo en una cadena: la Mac se duerme y el reloj se atrasa;
+programar con la hora real de cada post (`waituntil.sh`/`waitreal.sh`) y verificar la hora de
+publicación en la API. (3) Cuando hay un proyecto largo en paralelo (anuncios, WhatsApp), mirar el
+conteo de posts de Threads del día cada ~2 horas y no dejarlo parado.
+
+## 2026-11-11 — Rutina de cupones: `git stash pop` sin haber hecho el `stash push` (variable vacía)
+
+**Qué pasó:** corrí la rutina de commit+push del runbook como una sola cadena con `&&`. Otra sesión ya
+había commiteado y pusheado exactamente los mismos cupones del 11.11 (`fc414da`, 06:44), así que
+`git commit` falló con "nada para commitear" y cortó la cadena antes de calcular `HAS_WIP`. Pero el
+`if [ "$HAS_WIP" != "0" ]; then git stash pop` del final corrió igual (con `HAS_WIP` vacío, y
+`"" != "0"` es verdadero) y trató de restaurar un stash viejo de otra sesión
+(`stash@{0}: proyector-portatil-isolation-check`). El pop falló por conflicto y no aplicó nada
+(los 8 stashes siguen intactos y mis 5 archivos modificados eran los mismos), pero pudo haber
+mezclado cambios ajenos con los míos.
+
+**Regla:** (1) antes de commitear cupones, `git fetch` + `git log -3` + `git diff HEAD --stat --
+src/data/coupons.ts`: si no hay diferencia, otra sesión ya lo cargó y no hay nada que hacer.
+(2) El `stash pop` solo se ejecuta si el `stash push` de ESTA corrida salió bien: guardar el estado
+en una variable (`PUSHED=1`) y chequearla; nunca depender de `HAS_WIP` si se cortó la cadena antes.
+(3) No encadenar la rutina entera con `&&` y `;` mezclados: separarla en pasos y verificar cada uno.

@@ -159,6 +159,28 @@ otro subdominio, no cubiertos por este método todavía):** 26 con alguna señal
 
 **Tercera corrida (2026-11-09, 306 de 317, otra vez sin los 11 de `articulo.mercadolibre.com.ar`):** 0 errores 404, 0 "Publicación pausada", 0 "no está disponible por el momento", 0 captcha. **Ningún producto sin stock.** Corrió de madrugada y con la conexión de Juan lenta: la primera pasada con 12 pedidos en paralelo dejó 133 timeouts, se reintentaron con 4 en paralelo y 60 s de espera y quedaron los 306 verificados (~25 min en total). 26 salieron sin precio extraíble: 18 son los ya revisados el 11/07-11/08 ("elige otra variante", precio oculto hasta elegir variante), GTA VI sigue siendo preventa agotada, y 9 nuevos (Fika Nex, Xiaomi Vacuum X20 Max, Nespresso Essenza Mini, Cinta Randers ARG-409, Planchita Philips 5000, Babyliss Optima 3000, Karcher Práctica Black, Xiaomi G20 Lite, Galaxy Watch7 44 mm) que **sí tienen precio en la página** (cambió el contenedor del precio: etiqueta "pesos argentinos" en lugar del selector habitual), sin señales de falta de stock. Lección: en el loop, si no hay precio con `.ui-pdp-price__second-line .andes-money-amount`, buscar también cualquier `.andes-money-amount` antes de marcar sospechoso.
 
+**Cuarta corrida (2026-11-10, 319 de 330, sin los 11 de `articulo.mercadolibre.com.ar`):** 0 errores
+de red. **ERROR MÍO de método, ya corregido:** armé la ruta de cada producto como `/p/` + `id`, pero
+el script usa el ID del `permalink`, que en 13 de los 319 es distinto (ej. iPhone 18 Pro `id`
+MLAU5324238070 es `/p/MLA1077872085`; monitor Gigabyte `id` MLA28853185 es `/p/MLA57658338`). Eso dio
+404 falsos y un falso "no disponible" en el Gigabyte. **Regla: la ruta sale SIEMPRE de `path` del
+script, nunca del `id`.** Repetidas esas 13 con la ruta real, resultado verdadero:
+- **404 real: GoPro HERO 2024 (MLA50182399, $459.999 en el sitio)**, "Parece que esta página no
+  existe" (confirmado a ojo).
+- **Sin stock real: Calefón eléctrico Euterma Digital Hadron 8 kW (MLAU311032832, `/up/`)**, "no está
+  disponible por el momento".
+- **8 fichas sin precio ni botón de compra** ("Ver opciones de compra", el catálogo no tiene
+  ganador de compra): Galaxy Watch7 44 mm (MLA38058572, `/p/MLA37897247`, "3 opciones desde $250.000"),
+  Squier Sonic HSS (MLA23305108, "2 opciones desde $1.152.000" contra $609.899 del sitio), Nespresso
+  Essenza Mini rojo (MLA24730361), Xiaomi Vacuum X20 Max (MLA44235159), Philips 5000 BHS515
+  (MLA44124334), Babyliss Optima 3000 (MLA24016915), Karcher Practica Black (MLA58515674), Xiaomi G20
+  Lite (MLA36681158). **Sin resolver:** no se sabe si es falta de stock real o cambio de estructura
+  de ML; falta ver a qué lleva el link de afiliado de cada una.
+- Sin novedad: las 18 de "elegir variante" de siempre; los 4 iPhone 18 con stock (+25/+50); Amazfit
+  Helio Ring y Aspiradora Xiaomi S40c "últimas 3 unidades"; Estufa Patagónica, Gigabyte GS34WQC
+  ($799.999, +5) y el resto con precio y botón. GTA VI caja física (MLA74108173) sigue como preventa
+  agotada.
+
 **Cadencia real:** este chequeo necesita el Chrome real de Juan conectado a una sesión activa de
 Claude Code — no puede correr desapercibido en segundo plano como el workflow de Bright Data.
 Juan pidió que se corra **al arrancar cada sesión** de trabajo en este repo, no como cron
@@ -279,3 +301,8 @@ Las 3 fichas nuevas siguen el proceso completo de `docs/fichas.md`: ficha técni
 
 Ver `docs/productos-backlog.md` para la lista completa (rechazos del Programa de Afiliados,
 descartes editoriales, etc.). No se duplican acá para no tener dos fuentes de verdad.
+
+**Quinta corrida (2026-11-11, 319 de 330, sin los 11 de `articulo.mercadolibre.com.ar`, rutas sacadas del `path` del script):** 0 errores de red, 0 captchas, 0 "Publicación pausada", 0 "no está disponible por el momento", 0 "Elige otra variante". Solo dos señales, ambas ya conocidas:
+- **404 real: GoPro HERO 2024 (MLA50182399, $459.999 en el sitio)** sigue igual que ayer. Pendiente la decisión de swap o deprioritized.
+- **GTA VI caja física (MLA74108173)** sigue como preventa agotada (sin acción).
+- **Resueltos solos desde ayer:** el Calefón Euterma Digital Hadron 8 kW (MLAU311032832) volvió a mostrar precio y botón de compra, y las 8 fichas que ayer figuraban sin precio ni botón (Galaxy Watch7, Squier Sonic, Nespresso Essenza Mini, Xiaomi Vacuum X20 Max, Philips 5000, Babyliss Optima 3000, Karcher Practica Black, Xiaomi G20 Lite) hoy tienen precio. No se hizo ningún cambio al catálogo.
