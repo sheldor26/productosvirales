@@ -3945,3 +3945,32 @@ Origen: siguiente guía de la cola "nunca tocada" (2.490 impresiones/28 días, 1
 **Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde, `npm run build` OK, diff de `product-slug-map.json` verificado (0 cambios). Deploy de Vercel a READY (commit `a0072d1`). IndexNow enviado (sitemap completo, 1.336 URLs).
 
 Re-medir: ~2026-12-10 (4 semanas).
+
+## `casco-bicicleta` — segunda pasada el mismo día, diagnóstico de caída de posición + auditoría exhaustiva (esfuerzo alto) — 2026-11-11
+
+**Origen:** Juan notó que la posición promedio en GSC de esta guía empeoró de 7,14 a 12,03 entre el 9/11 y el 10/11 (impresiones 101→62), justo el día después del refresh de precios de la entrada anterior (commit `a0072d1`). Pidió investigar a fondo con el trío auditor, Codex esta vez en esfuerzo **alto** (pedido explícito), y aplicar todos los arreglos reales que salieran.
+
+**Diagnóstico de la caída (alta confianza: NO la causó el refresh de ayer):**
+1. El commit se integró a las 18:57 ART (21:57 UTC) del 10/11. GSC agrupa los días por horario del Pacífico, así que la mayor parte de lo que GSC cuenta como "10/11" ya había pasado ANTES de que el cambio estuviera en vivo.
+2. La keyword principal ("casco para bicicleta") solo cayó 0,66 posiciones ese día (6,17→6,83) — insignificante. La baja grande del promedio (7,14→12,03) es sobre todo un efecto de **mezcla de consultas**: entraron/salieron queries de cola larga con 1-8 impresiones cada una, que mueven mucho un promedio ponderado sin que ninguna búsqueda real haya empeorado.
+3. Sitio completo: de 111 guías con tráfico comparable esos 2 días, la mediana de cambio de posición fue -0,15 (prácticamente nada). No hubo caída sistemática.
+4. Densidad de la keyword principal, canibalización interna y problemas de schema por la suba de precios: las 3 hipótesis se **descartaron** con evidencia concreta (conteo de apariciones idéntico antes/después, ninguna otra guía compite por el tema, Google no penaliza fluctuaciones de precio en ARS).
+
+**Hallazgos reales encontrados al auditar a fondo (sin relación con la caída de posición):**
+- **La ficha del Abus Viantor Mips declaraba "Usos recomendados: MTB" sin que la publicación real de MercadoLibre lo diga.** Verificado en vivo con el Chrome real: la ficha de ML no tiene ese campo. Se corrigió a "No declarado en la ficha" y se agregó contexto honesto (no tiene visera extraíble, a diferencia de los cascos MTB de esta guía, lo que sugiere ruta/urbano antes que MTB).
+- **Precio del Abus:** se verificó en vivo y hoy tiene un descuento flash del 47% (todos los 4 cascos de la guía mostraban descuentos similares, probablemente una promoción de MercadoLibre del día 11.11) — se mantuvo el precio de lista ($179.464) como canónico, coherente con el criterio usado toda la sesión (no usar descuentos temporales de cupón como precio base).
+- **"Por lejos" el más reseñado (Dakota) era exagerado:** le gana a SLP por apenas ~10% en reseñas (3.337 vs 3.015), no "por lejos". Corregido en guía y ficha, con la comparación exacta vía tokens.
+- **Cita de comprador duplicada:** el mismo texto literal ("el casco estándar de calidad media a un precio de remate") estaba atribuido a dos productos distintos (SLP y Casco deportivo). Se quitó del Casco deportivo, dejándolo solo en SLP (la versión con más contexto, probablemente la original).
+- **Faltaba `priceVerifiedAt`** en las 4 fichas pese a que el precio se verificó a mano ayer y hoy — agregado para que no se lo pise un script automático dentro de los 7 días.
+- **Tabla comparativa y lista de precios** quedaron en un orden (SLP-Deportivo-Dakota-Abus) que no coincidía ni con el ranking editorial ni con el precio real — reordenadas.
+- **"Cómo elegir"** reordenado: talle/ajuste primero, después uso (urbano/MTB/ruta), reseñas al final como apoyo (no como prueba de seguridad comparativa, que no lo son).
+
+**Contenido nuevo agregado:** guía de talle con rangos en cm (S 51-55, M 55-59, L 59-63) + qué hacer si tu medida cae entre dos talles; FAQ sobre cuándo reemplazar un casco (tras cualquier golpe fuerte, aunque no se vea roto, porque el EPS se comprime una sola vez; o cada 3-5 años por degradación del material); sección "Urbano, MTB o ruta" explicando las diferencias; cita del artículo 40 bis de la Ley 24.449 en el FAQ legal; link cruzado nuevo desde `monopatin-electrico` hacia esta guía. 4 guiones largos sueltos corregidos (preexistentes, no introducidos en el refresh de ayer).
+
+**Punto aparte, NO tocado, para hablar con Juan:** Codex marcó un posible problema de datos estructurados más amplio — usar 4 entidades `Product` en una página comparativa (Google recomienda `Article`+`ItemList` para comparativas, reservando `Product` para fichas individuales) y reproducir el `aggregateRating` de MercadoLibre como si fuera una valoración propia del sitio. Si es un patrón del renderer, podría afectar a las ~300 guías del sitio, no solo esta — queda pendiente de decisión, no se tocó código del renderer sin acuerdo previo.
+
+**Trío auditor:** Codex en esfuerzo **alto** (pedido explícito de Juan) dio un diagnóstico muy completo en una sola pasada, con 13 hallazgos de calidad separados del diagnóstico de posición. Gemini/agy corrió dos veces: la primera (modo headless normal) falló con el mismo error de permisos recurrente de esta sesión; la segunda, con `--dangerously-skip-permissions` (autorizado por Juan, que pidió dejarlo habilitado de forma permanente para Gemini de ahora en más), SÍ completó y corroboró de forma independiente la mayoría de los hallazgos de Codex (más 2 ángulos propios: pérdida de keywords long-tail de "más barato" en el SLP, y redundancia de "Dakota es el más barato Y el más elegido" repetida 7 veces). Se verificó con `git status`/`git diff` después de esa corrida que Gemini no escribió ningún archivo, solo auditó y reportó, como corresponde.
+
+**Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (sin deuda nueva), `npm run build` OK, diff de `product-slug-map.json` verificado (0 cambios, no se tocó ningún `title`/slug), página verificada en vivo contra el servidor local antes de commitear. Deploy de Vercel a READY (commit `ec13529`). IndexNow enviado (sitemap completo, 1.336 URLs).
+
+Re-medir: ~2026-11-18 (una semana, más corto que lo habitual, específicamente para confirmar si la posición se recuperó tras el ruido del 10/11).
