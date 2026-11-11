@@ -7189,4 +7189,94 @@ export const socialPosts: SocialPost[] = [
     offPct: "0",
     postedAt: "2026-11-06T10:35:23-03:00",
   },
+  {
+    title: "Smart TV Samsung 55\" QLED Q6F 4K",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_840312-MLA108249322714_032026-F.webp",
+    affiliateUrl: "https://meli.la/2GdMxYx",
+    newPrice: "811999",
+    oldPrice: "1099999",
+    offPct: "26",
+    postedAt: "2026-11-10T19:16:49-03:00",
+  },
+  {
+    title: "Meta Quest 3s 128GB Realidad Mixta",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_901655-MLA94134417812_102025-F.webp",
+    affiliateUrl: "https://meli.la/1cTtpdH",
+    newPrice: "888284",
+    oldPrice: "1327002",
+    offPct: "33",
+    postedAt: "2026-11-10T19:43:20-03:00",
+  },
+  {
+    title: "Smart TV Samsung 50\" UHD 4K 50U8000F",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_813072-MLA115849865992_092026-F.webp",
+    affiliateUrl: "https://meli.la/2qa9jL5",
+    newPrice: "719999",
+    oldPrice: "917999",
+    offPct: "21",
+    postedAt: "2026-11-10T20:09:46-03:00",
+  },
+  {
+    title: "Smart TV TCL 55\" 55C6K Mini LED QLED 4K 144Hz Game Master",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_826843-MLA115291503609_072026-F.webp",
+    affiliateUrl: "https://meli.la/1NUgnvd",
+    newPrice: "1299999",
+    oldPrice: "1299999",
+    offPct: "0",
+    postedAt: "2026-11-11T07:35:40-03:00",
+  },
+  {
+    title: "PC Gamer AMD Ryzen 7 5700 32GB SSD 1TB RTX 5060",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_663379-MLA99504065230_112025-F.webp",
+    affiliateUrl: "https://meli.la/2B9VmzP",
+    newPrice: "1901088",
+    oldPrice: "2189399",
+    offPct: "13",
+    postedAt: "2026-11-11T08:05:32-03:00",
+  },
+  {
+    title: "Volante Logitech G29 con Pedalera PS5 PS4 PC",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_789821-MLA99726889699_112025-F.webp",
+    affiliateUrl: "https://meli.la/1a2ntCN",
+    newPrice: "502298",
+    oldPrice: "502298",
+    offPct: "0",
+    postedAt: "2026-11-11T08:35:29-03:00",
+  },
+  {
+    title: "Monitor Xiaomi A27Qi 27\" 2K 120Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_867676-MLA111041191241_042026-F.webp",
+    affiliateUrl: "https://meli.la/1uJ1iiz",
+    newPrice: "299999",
+    oldPrice: "412999",
+    offPct: "27",
+    postedAt: "2026-11-11T09:01:14-03:00",
+  },
+  {
+    title: "Monitor Gamer Asus TUF Gaming VG34VQL3A 34\" 2K UWQHD Curvo 180Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_682053-MLA96076033449_102025-F.webp",
+    affiliateUrl: "https://meli.la/1K8xPpe",
+    newPrice: "983040",
+    oldPrice: "1799999",
+    offPct: "45",
+    postedAt: "2026-11-11T09:35:35-03:00",
+  },
+  {
+    title: "Notebook Acer Aspire Go 15 Ryzen 7 7730U 16GB/512GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_876025-MLA111198115363_052026-F.webp",
+    affiliateUrl: "https://meli.la/1LvTEMc",
+    newPrice: "1279999",
+    oldPrice: "2102097",
+    offPct: "39",
+    postedAt: "2026-11-11T10:05:40-03:00",
+  },
 ];

@@ -1152,3 +1152,19 @@ src/data/coupons.ts`: si no hay diferencia, otra sesión ya lo cargó y no hay n
 (2) El `stash pop` solo se ejecuta si el `stash push` de ESTA corrida salió bien: guardar el estado
 en una variable (`PUSHED=1`) y chequearla; nunca depender de `HAS_WIP` si se cortó la cadena antes.
 (3) No encadenar la rutina entera con `&&` y `;` mezclados: separarla en pasos y verificar cada uno.
+
+## 2026-11-11 — Cadena de Threads de la mañana: un post bloqueado por el espaciado y un `waituntil` que se cortó a las 2 h
+
+**Qué pasó:** armé la tanda de la mañana con la primera publicación a las 07:05, pero la placa de
+cupones había salido a las 06:44 y `publicar-threads.cjs` exige 25 minutos entre posts con imagen, así
+que bloqueó el monitor Asus (21 min) y `pub.sh` imprimió "NO PUBLICADO"; el resto de la cadena siguió y
+el post quedó sin salir sin que nadie se enterara hasta verificar. Además `waituntil.sh` espera como
+máximo 2 h por corrida (imprime `TIMEOUT-PARCIAL` y sigue): la segunda cadena arrancó a las 07:03 y
+tenía el primer post a las 09:35, así que a las 09:00 salió el Xiaomi (35 min antes) pegado a la
+pregunta de las 09:05. Se reintentó el Asus a las 09:35 con el espaciado correcto.
+
+**Regla:** (1) la primera publicación de una cadena va ≥ 25 min después del último post con imagen del
+día (placa de cupones incluida). (2) Una cadena que arranca más de ~1 h 50 min antes de su primer post
+tiene que dividirse: lanzarla más cerca de la hora, o encadenar dos `waituntil` intermedios. (3) Una
+cadena no debe seguir si un paso devolvió "NO PUBLICADO": cortar con `|| exit 1` y avisar. (4) Verificar
+siempre contra la API (`me/threads`) que cada post salió, no confiar en el log.
