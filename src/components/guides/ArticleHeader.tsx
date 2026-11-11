@@ -3,16 +3,10 @@ import type { Guide } from "@/lib/types";
 import { calcReadingTime } from "@/lib/reading-time";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import { ShareButtons } from "@/components/widgets/ShareButtons";
+import { getCategoryName } from "@/lib/category-labels";
 
 interface ArticleHeaderProps {
   guide: Guide;
-}
-
-function formatCategory(slug: string): string {
-  return slug
-    .split("-")
-    .map((w) => w.toUpperCase())
-    .join(" ");
 }
 
 function formatDate(iso: string): string {
@@ -29,7 +23,7 @@ function formatDate(iso: string): string {
 export function ArticleHeader({ guide }: ArticleHeaderProps) {
   const readingTime = calcReadingTime(guide);
   const standfirst = guide.standfirst || guide.intro[0];
-  const categoryLabel = formatCategory(guide.category);
+  const categoryLabel = getCategoryName(guide.category).toUpperCase();
   const hasUpdate = guide.updatedDate && guide.updatedDate !== guide.publishedDate;
 
   return (

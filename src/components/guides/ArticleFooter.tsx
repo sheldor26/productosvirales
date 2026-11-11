@@ -4,16 +4,10 @@ import { getRelatedGuides } from "@/data/guides";
 import { guideHref } from "@/lib/guide-url";
 import { calcReadingTime } from "@/lib/reading-time";
 import { NewsletterForm } from "./NewsletterForm";
+import { getCategoryName } from "@/lib/category-labels";
 
 interface ArticleFooterProps {
   guide: Guide;
-}
-
-function formatCategory(slug: string): string {
-  return slug
-    .split("-")
-    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
-    .join(" ");
 }
 
 function formatDate(iso: string): string {
@@ -29,7 +23,7 @@ function formatDate(iso: string): string {
 
 export function ArticleFooter({ guide }: ArticleFooterProps) {
   const related = getRelatedGuides(guide, 4);
-  const categoryLabel = formatCategory(guide.category);
+  const categoryLabel = getCategoryName(guide.category);
   const hasUpdate = guide.updatedDate && guide.updatedDate !== guide.publishedDate;
 
   return (

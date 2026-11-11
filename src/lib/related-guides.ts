@@ -2,6 +2,7 @@ import type { Guide, Product } from "@/lib/types";
 import { getPublishedGuides, getRelatedGuides } from "@/data/guides";
 import { guideHref } from "@/lib/guide-url";
 import { injectLivePrices } from "@/lib/price-token";
+import { getCategoryName } from "@/lib/category-labels";
 
 // Enlazado interno automático (hub-and-spoke). Con DA1 la autoridad se gana
 // concentrando enlaces internos en los pilares, no dispersándolos: cada guía y
@@ -38,11 +39,6 @@ function toLink(g: Guide, isPillar: boolean): RelatedGuideLink {
     isPillar,
     subtitle: cleanTokens(g.standfirst || g.metaDescription).slice(0, 110) || undefined,
   };
-}
-
-/** Etiqueta legible de una categoría (slug → texto). Ej: "freidoras-de-aire" → "freidoras de aire". */
-export function categoryLabel(category: string): string {
-  return category.replace(/-/g, " ");
 }
 
 /** Guía pilar (hub/ranking) publicada de una categoría. */
@@ -101,8 +97,8 @@ export function nextStepHeadingForGuide(guide: Guide): string {
   const hayHermanas = getPublishedGuides().some(
     (g) => g.category === guide.category && g.slug !== guide.slug
   );
-  if (hayHermanas) return `Más sobre ${categoryLabel(guide.category)}`;
-  return guide.silo ? `Más sobre ${categoryLabel(guide.silo)}` : "Más guías";
+  if (hayHermanas) return `Más sobre ${getCategoryName(guide.category)}`;
+  return guide.silo ? `Más sobre ${getCategoryName(guide.silo)}` : "Más guías";
 }
 
 // ── Índice inverso producto → guías que lo mencionan (se calcula una sola vez) ──
@@ -171,7 +167,7 @@ export function nextStepLinksForProduct(product: Product, limit = 4): RelatedGui
   if (featuring.length === 0) {
     return [
       {
-        title: `Ver más de ${categoryLabel(product.categorySlug)}`,
+        title: `Ver más de ${getCategoryName(product.categorySlug)}`,
         href: `/categoria/${product.categorySlug}`,
         isPillar: false,
       },
