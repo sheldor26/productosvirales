@@ -80,8 +80,8 @@ export function SeguirMlBanner({ show, onClose }: { show: boolean; onClose: () =
           onClose();
         }}
         aria-label="Cerrar aviso"
-        className={`absolute right-2 top-2 flex h-6 w-6 items-center justify-center rounded-full bg-[var(--bg-primary)]/85 text-[var(--text-secondary)] hover:bg-[var(--border)] hover:text-[var(--text-primary)] ${
-          show ? "" : "pointer-events-none"
+        className={`absolute -right-1 -top-1 flex h-11 w-11 items-center justify-center rounded-full bg-[var(--bg-primary)]/85 text-[var(--text-secondary)] transition-opacity duration-300 hover:bg-[var(--border)] hover:text-[var(--text-primary)] ${
+          show ? "opacity-100" : "opacity-0 invisible pointer-events-none"
         }`}
       >
         <X size={12} />
