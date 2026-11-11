@@ -16846,12 +16846,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "Lattafa, Afnan y Rasasi se hicieron virales en Argentina y con eso llegó más oferta y más riesgo. Las señales claras que separan un original de una imitación.",
     h1: "Perfumes árabes originales: cómo reconocerlos antes de comprar (2026)",
     publishedDate: "2026-05-26",
-    updatedDate: "2026-09-28",
+    updatedDate: "2026-11-11",
+    sitemapLastmod: "2026-11-11",
     hasDisclosure: true,
     intro: [
       "Los perfumes árabes se volvieron masivos en Argentina, y eso trajo dos cosas al mismo tiempo: mejores precios y más riesgo de comprar mal. Cuando un Lattafa, un Afnan o un Rasasi se hace viral, aparecen publicaciones dudosas, cajas raras, precios demasiado bajos y vendedores que no explican de dónde sale el producto.",
       "La buena noticia es que no hace falta ser coleccionista para filtrar bastante. Hay señales simples: QR oficial, caja, batch code, reputación del vendedor, rango de precio y estado del producto cuando llega. Esta guía es para revisar todo eso antes de poner plata.",
-      "La idea no es asustarte. La mayoría de las compras sale bien si elegís con criterio. Pero en perfumes conviene mirar un poco más que en otros productos: si abriste el frasco y lo usaste, resolver una mala compra puede ser más complicado."
+      "La idea no es asustarte. La mayoría de las compras sale bien si elegís con criterio. Pero en perfumes conviene mirar un poco más que en otros productos: si abriste el frasco y lo usaste, resolver una mala compra puede ser más complicado.",
+      "Si todavía no elegiste cuál comprar, mejor arrancá por [los mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre) o [los mejores femeninos](/guias/perfumes-arabes-mujer): ahí ya filtramos por reputación de vendedor y volumen de reseñas, así que el riesgo de caer en una publicación dudosa es bajo. Si ya tenés la publicación elegida y solo querés confirmar que es legítima antes de pagar, seguí leyendo."
     ],
     sections: [
       {
@@ -17823,9 +17825,15 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     h1: "Perfumes árabes por color del envase: encontrá el frasco viral por su color (2026)",
     directAnswer: `Si viste un perfume árabe **blanco con detalles dorados**, casi siempre es uno de dos: el **Lattafa Yara Moi**, frasco blanco entero con tapa y detalles metalizados, o el **Lattafa Her Confession**, que se reconoce al toque porque **lleva un busto dorado arriba del frasco**. Si el frasco es **dorado entero**, lo más probable es el Fakhar Gold. Si es **azul**, el Rasasi Hawas Ice. Si es **negro** (muchos lo recuerdan como "azul oscuro"), el Armaf Club de Nuit Intense Man. Abajo está cada color con su nombre exacto, en qué se diferencian los parecidos y el precio de hoy en Argentina.`,
     publishedDate: "2026-06-01",
-    updatedDate: "2026-09-07",
-    sitemapLastmod: "2026-09-07",
+    updatedDate: "2026-11-11",
+    sitemapLastmod: "2026-11-11",
     hasDisclosure: true,
+    quickPicks: [
+      { productMlaId: "MLA39865991", label: "Más buscado", labelColor: "green", tagline: "Rosa intenso con detalles dorados: el color más buscado en perfumes árabes femeninos." },
+      { productMlaId: "MLA41304983", label: "Blanco con dorado", labelColor: "purple", tagline: "Se reconoce al toque: lleva un busto dorado arriba del frasco." },
+      { productMlaId: "MLA16122300", label: "Negro", labelColor: "slate", tagline: "Muchos lo recuerdan como \"azul oscuro\", pero el frasco real es negro. El dupe clásico del Creed Aventus." },
+      { productMlaId: "MLA29780185", label: "Celeste", labelColor: "blue", tagline: "Envase celeste cristal, el dupe del Paco Rabanne Invictus. Para primavera y verano." },
+    ],
     intro: [
       "Pasa todo el tiempo: ves un perfume árabe en un reel de TikTok, te llama la atención, pero no escuchaste bien el nombre. Lo único que recordás es el color del envase. Rosa pastel, dorado intenso, azul cristal, marrón café. Esta guía resuelve exactamente ese problema.",
       "Listamos los perfumes árabes más buscados en Argentina ordenados por color del frasco, con su nombre exacto, perfil olfativo, precio y link directo a la ficha. Cubrimos los seis colores que más se buscan en Google según datos reales: rosa, dorado, azul, marrón, rojo y blanco, más algunas variantes menos comunes."
@@ -19248,11 +19256,13 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       "Locales físicos en CABA, importadores AMBA y entrega exprés. La guía local de Buenos Aires para conseguir Lattafa, Afnan y Rasasi sin esperar envíos del interior.",
     h1: "Dónde comprar perfumes árabes en Buenos Aires: guía local CABA y GBA (2026)",
     publishedDate: "2026-06-13",
-    updatedDate: "2026-07-03",
+    updatedDate: "2026-11-11",
+    sitemapLastmod: "2026-11-11",
     hasDisclosure: true,
     intro: [
       "Vivir en Buenos Aires tiene una ventaja concreta para comprar perfumes árabes: tenés acceso a los cuatro canales del mercado al mismo tiempo, y todos te entregan en 24-72 horas. Eso no se replica en Mendoza, Salta o Misiones. Pero también significa que conviene saber qué canal usar según lo que querés hacer: probar antes de comprar, conseguir el mejor precio, recibir el frasco hoy, o conseguir un perfume específico que no se ve en MercadoLibre.",
-      "Esta guía cubre las opciones reales en CABA y GBA en 2026: perfumerías físicas con sección árabe, locales especializados por zona, importadores con domicilio AMBA y los canales online con entrega Full que llegan al día siguiente. Si estás en Buenos Aires, esta es tu guía. Si estás en el interior del país, mejor [dónde comprar perfumes árabes en Argentina](/guias/donde-comprar-perfumes-arabes-argentina)."
+      "Esta guía cubre las opciones reales en CABA y GBA en 2026: perfumerías físicas con sección árabe, locales especializados por zona, importadores con domicilio AMBA y los canales online con entrega Full que llegan al día siguiente. Si estás en Buenos Aires, esta es tu guía. Si estás en el interior del país, mejor [dónde comprar perfumes árabes en Argentina](/guias/donde-comprar-perfumes-arabes-argentina).",
+      "Si ya decidiste que MercadoLibre con envío Full es tu canal (llega al día siguiente en casi todo el AMBA) y lo que te falta es elegir el perfume, andá directo a [los mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre) o a [los mejores femeninos](/guias/perfumes-arabes-mujer)."
     ],
     sections: [
       {
