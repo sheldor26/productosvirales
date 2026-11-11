@@ -7,7 +7,8 @@
 export const goLinks: Record<string, string> = {
   // Anuncio X (campaña "Test 1"): PS5 Digital + Astro Bot + GT7, etiqueta de ML `productosviralesx`.
   ps5: "https://meli.la/1rvzYxs",
-  // Anuncio X de los cupones del día: lleva al perfil social de ML (jm159) con la etiqueta de
-  // seguimiento `productosviralesx`, la misma que resuelve meli.la/1rvzYxs.
-  cupones: "https://www.mercadolibre.com.ar/social/jm159?matt_word=productosviralesx&matt_tool=12465328",
+  // Anuncio X de los cupones del día: link oficial de ML generado con "Compartir lista" de la
+  // lista "Cupon MELIDOBLEON" del perfil social (jm159). Es una herramienta de monetización
+  // generada por ML (lleva matt_tool); NO armar URLs de afiliado a mano.
+  cupones: "https://meli.la/1jKpgEV",
 };
