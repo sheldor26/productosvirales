@@ -117319,6 +117319,671 @@ Es para vos si querés la mayor cantidad de funciones y diseños de puntada posi
 
 curatedProducts.push(...curatedProductsMaquinaDeCoser);
 
+// ─────────────────────────────────────────────────────────
+// Guía nueva casco-de-moto (silo movilidad). 2026-11-11.
+// 7 fichas nuevas: precio, rating, reviewCount y "+N vendidos" leídos en
+// vivo en MercadoLibre el 2026-11-11 (Chrome de Juan). Specs SOLO de la
+// ficha técnica de cada publicación (nada de fabricante: no se inventa
+// certificación). Reseñas citadas textuales, leídas el mismo día, con la
+// fecha relativa que muestra ML. Imágenes 2X -F verificadas con curl GET.
+// Ojo: la ficha técnica de ML usa "Normas de seguridad" solo en Pro Tork
+// (DOT) y Gekko (CHAS, DOT); en el resto no declara ninguna, así que no se
+// afirma norma para esos.
+// ─────────────────────────────────────────────────────────
+const curatedProductsCascoDeMoto: Product[] = [
+  {
+    id: "MLA27964984",
+    title: "Casco para moto integral Vertigo V32 Vanguard Negro M",
+    canonicalName: "Vertigo V32 Vanguard Integral",
+    brand: "Vertigo",
+    price: 78831,
+    originalPrice: 82980,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_693543-MLA94918271234_102025-F.webp",
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA27964984",
+    affiliateUrl: "https://meli.la/1sVY4zu",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 7028,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 5000,
+    badge: "bestseller",
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Casco integral de ABS con cierre micrométrico y forro desmontable. El segundo casco más vendido de toda la categoría Cascos de MercadoLibre Argentina, con {{reviews:MLA27964984}} calificaciones.",
+    seoTitle: "Vertigo V32 Vanguard: el casco integral más elegido de MercadoLibre, ¿vale la pena?",
+    metaDescription: "Casco integral Vertigo V32 Vanguard a {{precio:MLA27964984}}: {{rating:MLA27964984}} estrellas en {{reviews:MLA27964984}} opiniones, 2° más vendido de Cascos en MercadoLibre. Lo bueno, lo flojo (visor que se raya) y el talle.",
+    pros: [
+      "2° casco más vendido de toda la categoría Cascos de MercadoLibre Argentina (noviembre 2026), con más de 5 mil vendidos",
+      "{{rating:MLA27964984}} estrellas sobre {{reviews:MLA27964984}} opiniones: ningún otro casco de esta comparativa tiene una base de reseñas parecida",
+      "Integral: cubre mentón y cara, que es justo la zona que un casco abierto deja expuesta",
+      "Cierre micrométrico (se ajusta con una mano y con guantes) y forro desmontable para lavarlo",
+      "Visor con protección UV y resistente a los arañazos según la ficha técnica",
+    ],
+    cons: [
+      "Varias reseñas de 1 a 3 estrellas dicen que el visor se raya rápido, aun cuidándolo",
+      "Algunas quejas de terminación: plástico que se siente frágil, y un par de unidades que llegaron con marcas de pintura o golpes disimulados",
+      "Un comprador de 3 estrellas lo resume bien: \"ni de asomo se compara con un casco de primeras marcas\", se siente liviano y ruidoso a velocidad",
+      "La ficha técnica no declara ninguna norma de seguridad puntual",
+    ],
+    verdict: "Es el casco integral con más respaldo real de MercadoLibre: {{reviews:MLA27964984}} opiniones y {{rating:MLA27964984}} estrellas, a {{precio:MLA27964984}}. Para ciudad y rutas cortas cumple de sobra y por eso es nuestra elección. Lo que no es: un casco de primera marca. Si hacés ruta larga seguido o querés menos ruido y una marca con más trazabilidad de fabricante, el salto es al LS2 de esta comparativa, que cuesta varias veces más (aunque su publicación tampoco detalla un número de norma).",
+    specs: [
+      { label: "Marca", value: "Vertigo" },
+      { label: "Modelo", value: "V32 Vanguard" },
+      { label: "Tipo de casco", value: "Integral" },
+      { label: "Material exterior", value: "ABS" },
+      { label: "Material interior", value: "Set de poliéster" },
+      { label: "Tipo de cierre", value: "Micrométrico" },
+      { label: "Forro desmontable", value: "Sí" },
+      { label: "Ventilación", value: "Inferior" },
+      { label: "Visor", value: "Simple (la ficha lo carga como \"fume\")" },
+      { label: "Visor con protección UV", value: "Sí" },
+      { label: "Visor resistente a arañazos", value: "Sí (según ficha; ver contras)" },
+      { label: "Forro transpirable / hipoalergénico", value: "Sí / Sí" },
+      { label: "Talle de la publicación", value: "M (58 cm de circunferencia); hay otros talles y colores" },
+      { label: "Bluetooth", value: "No" },
+      { label: "Normas de seguridad declaradas", value: "No figuran en la ficha técnica" },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "hace más de 1 año", useful: 287, text: "Es tan bueno que lo compré y al otro día me robaron la moto pero me dejaron el casco." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 70, text: "Salvó a mi amigo de romperse la cabeza. Totalmente recomendado!." },
+      { rating: 3, country: "Argentina", date: "hace más de 1 año", text: "Para el precio esta bien, pero ni de asomo se compara con un casco de primeras marcas. Estéticamente es hermoso, pero se siente liviano y ruidoso para andar." },
+      { rating: 3, country: "Argentina", date: "hace 8 meses", text: "Visor: lo tengo hace dos meses y ya está rayado, y soy bastante cuidadoso. Aislamiento: el material es bastante liviano y blandito. Precio calidad: 3/5 es económico y safa." },
+    ],
+    relatedProducts: ["MLA79292757", "MLA79597758", "MLAU4459400679", "MLA79273612"],
+    articleBody: `## Qué es el Vertigo V32 Vanguard
+
+Es un casco integral (cubre cabeza, mentón y cara) de carcasa ABS, con cierre micrométrico y forro desmontable. Al 11 de noviembre de 2026 era el **segundo casco más vendido de toda la categoría Cascos de MercadoLibre Argentina**, no solo entre los integrales, con más de 5 mil vendidos y {{reviews:MLA27964984}} opiniones. Sale {{precio:MLA27964984}} en la tienda de NEOLANDMOTOS.
+
+## Por qué es nuestra elección
+
+Por una sola razón, pero de peso: es el casco con más gente que lo usó y contó cómo le fue. {{rating:MLA27964984}} estrellas sobre {{reviews:MLA27964984}} opiniones es una base que ningún otro casco de esta comparativa se acerca a tener. Eso habla de experiencia de uso (calce, comodidad, ruido, visor), no de protección ante un impacto, que ninguna reseña puede medir. Y en esa experiencia, lo que más se repite son las quejas que vemos abajo.
+
+La reseña más votada es un chiste ("me robaron la moto pero me dejaron el casco", 287 votos útiles). Hay también una que cuenta algo más serio: **"Salvó a mi amigo de romperse la cabeza"**. Es el relato real de un comprador, no un ensayo de impacto ni algo que podamos verificar nosotros — lo citamos porque es parte de lo que la gente cuenta de este casco, no como garantía de protección.
+
+## Lo flojo, sin vueltas
+
+- **El visor se raya.** Es la queja que más se repite entre las reseñas de 1 a 3 estrellas: "lo tengo hace dos meses y ya está rayado, y soy bastante cuidadoso".
+- **Terminación de casco económico.** Hay compradores que lo sienten liviano, ruidoso a velocidad y de plástico frágil. Un par de unidades llegaron con marcas de pintura o con un golpe disimulado: si te pasa, devolvelo, MercadoLibre lo cubre.
+- **No declara norma.** La ficha técnica de la publicación no menciona ninguna norma de seguridad. No quiere decir que no la tenga; quiere decir que no la podemos afirmar.
+
+## El talle
+
+La publicación de referencia es talle M (58 cm de circunferencia de cabeza), y hay otros talles y colores. Medí tu cabeza con un centímetro de costura, a la altura de la frente, un dedo arriba de las cejas, y elegí por ese número, no por tu talle de ropa.
+
+## Para quién es, y para quién no
+
+Es para vos si querés un integral para ir y venir todos los días, ciudad o ruta corta, y querés comprar lo que ya probaron miles. No es para vos si hacés ruta larga seguido y te molesta el ruido de viento (ahí conviene el LS2 MX702 de esta comparativa, de otro segmento de precio), ni si querés poder levantar la mentonera para hablar o cargar nafta (para eso, un rebatible como el Phoenix 815 o el Vertigo Crux).`,
+    faq: [
+      { question: "¿Es bueno el casco Vertigo V32?", answer: "Para su precio, sí según la experiencia reportada: tiene {{rating:MLA27964984}} estrellas sobre {{reviews:MLA27964984}} opiniones y es el 2° casco más vendido de la categoría en MercadoLibre. Las quejas que se repiten son el visor que se raya y la terminación. Eso habla de la experiencia de uso, no de un ensayo de impacto." },
+      { question: "¿El visor es oscuro o transparente?", answer: "La ficha técnica lo carga como visor simple \"fume\", pero hay compradores que lo describen \"clarito, parece un vidrio\". Si vas a andar de noche, confirmá el tono del visor de la variante antes de comprar." },
+      { question: "¿Qué talle me compro?", answer: "Medí la circunferencia de tu cabeza a la altura de la frente. La publicación de referencia es M para 58 cm. Buscá tu medida en la tabla de talles del vendedor: el casco tiene que quedar ajustado sin apretar, porque uno flojo se mueve y protege peor. Ante la duda entre dos talles, no elijas el más grande por las dudas." },
+      { question: "¿Tiene certificación?", answer: "La ficha técnica de la publicación no declara ninguna norma puntual, así que no lo afirmamos. El LS2 MX702 de esta comparativa es de una marca internacional con más trazabilidad de fabricante, aunque su publicación de MercadoLibre tampoco detalla un número de norma: la diferencia es la marca y su historial, no un dato de certificación que podamos verificar acá." },
+      { question: "¿Se puede lavar el interior?", answer: "Sí, el forro es desmontable según la ficha técnica." },
+      { question: "¿Trae Bluetooth?", answer: "No, no trae intercomunicador." },
+    ],
+  },
+  {
+    id: "MLA79597758",
+    title: "Casco Moto Rebatible Vertigo Crux Ventilaciones Visor Fume Color Negro Brillante Diseño Solid Tamaño del casco XL",
+    canonicalName: "Vertigo Crux Rebatible",
+    brand: "Vertigo",
+    price: 99750,
+    originalPrice: 108865,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_678666-MLA117888767317_092026-F.webp",
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA79597758",
+    affiliateUrl: "https://meli.la/2sMQBnc",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 48,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 100,
+    badge: "bestseller",
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Casco rebatible (la mentonera se levanta) con visor fume, ventilación superior e inferior y cierre micrométrico. 3° más vendido de la categoría Cascos de MercadoLibre Argentina.",
+    seoTitle: "Vertigo Crux rebatible: el modular top 3 de MercadoLibre, con un ojo en el visor fume",
+    metaDescription: "Casco rebatible Vertigo Crux a {{precio:MLA79597758}}: {{rating:MLA79597758}} estrellas en {{reviews:MLA79597758}} opiniones, 3° más vendido de Cascos en MercadoLibre. Cómodo y liviano según compradores; el visor oscuro complica de noche.",
+    pros: [
+      "3° casco más vendido de toda la categoría Cascos de MercadoLibre Argentina (noviembre 2026)",
+      "Rebatible: levantás la mentonera para hablar, cargar nafta o tomar aire sin sacarte el casco",
+      "Compradores lo describen liviano, cómodo y con buen aislamiento del viento con el visor cerrado",
+      "Ventilación superior e inferior, cierre micrométrico y forro desmontable",
+      "Visor con protección UV, resistente a arañazos y forro hipoalergénico según la ficha técnica",
+    ],
+    cons: [
+      "El visor fume (ahumado) complica de noche: \"Solo se puede usar de día\", dice una reseña de 1 estrella, y otra de 5 lo marca como su único pero",
+      "Base de reseñas chica ({{reviews:MLA79597758}} opiniones) comparada con el V32 de la misma marca",
+      "Un comprador reciente reporta que llegó con olor fuerte, casco y bolsa",
+      "La ficha técnica no declara ninguna norma de seguridad puntual",
+    ],
+    verdict: "Si querés un rebatible y andás sobre todo de día, es la opción con más tracción del momento: 3° más vendido de la categoría, {{rating:MLA79597758}} estrellas y a {{precio:MLA79597758}}. El dato que no hay que pasar por alto es el visor fume: varios compradores coinciden en que de noche se ve poco. Si manejás mucho de noche, confirmá que la variante traiga visor transparente o mirá el Phoenix 815, que viene con doble visor.",
+    specs: [
+      { label: "Marca", value: "Vertigo" },
+      { label: "Modelo", value: "Crux" },
+      { label: "Tipo de casco", value: "Rebatible (modular)" },
+      { label: "Material exterior", value: "ABS High Impact" },
+      { label: "Material interior", value: "Doble frontura y cuerina plástica, set de poliéster" },
+      { label: "Tipo de cierre", value: "Micrométrico" },
+      { label: "Forro desmontable", value: "Sí" },
+      { label: "Ventilación", value: "Superior e inferior" },
+      { label: "Visor", value: "Fume (ahumado) según el título; la ficha técnica marca \"doble\"" },
+      { label: "Material del visor", value: "Policarbonato" },
+      { label: "Visor con protección UV", value: "Sí" },
+      { label: "Forro transpirable / hipoalergénico", value: "Sí / Sí" },
+      { label: "Talle de la publicación", value: "XL (62 cm de circunferencia); hay otros talles" },
+      { label: "Estilo", value: "Urbano" },
+      { label: "Bluetooth", value: "No" },
+      { label: "Normas de seguridad declaradas", value: "No figuran en la ficha técnica" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 6 meses", useful: 5, text: "Comodidad: de 10. Aislamiento: con visor cerrado aísla todo ruido de viento. Lo amé. No solo es facherisimo sino que cubre bien toda la cabeza. Es liviano y cómodo. Lo único que si andas de noche el visor oscuro la complica un poco pero fuera de eso, un 10." },
+      { rating: 5, country: "Argentina", date: "hace 2 meses", useful: 2, text: "Comprenlo tranquilos que es recontra precio/calidad, me lo regaló mí viejo porque estaba cansado de verme sin casco, ya había tenido un accidente por otro casco y perdí tres dientes, compren tranquilos es un casco robusto y cómodo." },
+      { rating: 1, country: "Argentina", date: "hace 4 meses", text: "Solo se puede usar de día." },
+    ],
+    relatedProducts: ["MLAU4459400679", "MLA27964984", "MLA1540807481"],
+    articleBody: `## Qué es el Vertigo Crux
+
+Es un casco rebatible, también llamado modular o "flip up": la mentonera completa se levanta hacia arriba. Cerrado se usa como un integral (aunque una mentonera móvil no necesariamente resiste igual que la carcasa fija de un integral); abierto, te deja la cara libre para hablar, cargar nafta o tomar aire en un semáforo sin sacarte el casco, con la protección de un abierto mientras esté levantada. Al 11 de noviembre de 2026 era el **3° casco más vendido de toda la categoría Cascos de MercadoLibre Argentina**, y sale {{precio:MLA79597758}} en la tienda oficial GRAVEDAD X.
+
+## Lo que dicen los compradores
+
+Tiene {{rating:MLA79597758}} estrellas sobre {{reviews:MLA79597758}} opiniones. Lo que más se repite: liviano, cómodo y buen aislamiento del viento con el visor cerrado. Una de las reseñas más claras: **"Con visor cerrado aísla todo ruido de viento. [...] Es liviano y cómodo. Lo único que si andas de noche el visor oscuro la complica un poco"**.
+
+Otra, de alguien que ya había perdido tres dientes en un accidente con otro casco, lo define como "robusto y cómodo".
+
+## El dato honesto: el visor de noche
+
+El título de la publicación lo vende con **visor fume**, o sea ahumado. De día es cómodo (te saca reflejos), pero de noche se ve menos. No es una queja aislada: una reseña de 1 estrella dice literalmente "Solo se puede usar de día", y la de 5 estrellas de arriba lo marca como su único pero. La ficha técnica carga el visor como "doble", pero ninguna reseña confirma que venga un segundo visor transparente, así que si manejás de noche seguido, preguntale al vendedor antes de comprar.
+
+Además, la base de reseñas es chica comparada con el V32 de la misma marca: hay menos margen para detectar fallas poco frecuentes.
+
+## Rebatible: lo que ganás y lo que pagás
+
+Lo que ganás es comodidad: no te sacás el casco cada vez que parás. Lo que pagás es una bisagra y un mecanismo más, que es un punto que un integral cerrado no tiene, y un poco más de precio que un integral básico.
+
+## Para quién es, y para quién no
+
+Es para vos si hacés muchas paradas cortas (delivery, trámites, ciudad) y manejás mayormente de día. No es para vos si andás mucho de noche y no podés confirmar visor transparente: ahí el Phoenix 815 de esta comparativa, con doble visor, es más seguro de elegir.`,
+    faq: [
+      { question: "¿El Vertigo Crux trae visor transparente?", answer: "El título lo vende con visor fume (ahumado). La ficha técnica marca visor doble, pero ninguna reseña confirma un segundo visor transparente. Si manejás de noche, consultalo con el vendedor antes de comprar." },
+      { question: "¿Qué es un casco rebatible?", answer: "Un casco cuya mentonera se levanta: cerrado se usa como un integral, abierto te deja la cara libre para hablar o cargar nafta sin sacártelo. Con la mentonera levantada protege como un casco abierto, sin mentón ni mandíbula." },
+      { question: "¿Es pesado?", answer: "Según las reseñas, no: es de los que más se describen como livianos y cómodos." },
+      { question: "¿Es ruidoso?", answer: "Con el visor cerrado, compradores dicen que aísla bien el viento." },
+      { question: "¿Qué talle tiene la publicación?", answer: "La de referencia es XL, para 62 cm de circunferencia de cabeza. Hay otros talles en la misma publicación." },
+      { question: "¿Qué diferencia hay con el Phoenix 815?", answer: "Los dos son rebatibles. El Crux tiene visor fume y más ventas en el ranking general de la categoría; el Phoenix 815 viene con doble visor (uno oscuro y uno transparente según sus compradores), mejor para quien maneja de noche." },
+    ],
+  },
+  {
+    id: "MLA1540807481",
+    title: "Casco Moto Protork Abierto New Liberty 3 Elite Visor Cristal",
+    canonicalName: "Pro Tork New Liberty 3 Elite Abierto",
+    brand: "Pro Tork",
+    price: 64454,
+    originalPrice: 71616,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_759630-MLA93109941413_092025-F.webp",
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1540807481-casco-moto-protork-abierto-new-liberty-3-elite-visor-cristal-_JM",
+    affiliateUrl: "https://meli.la/23b24He",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 260,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 1000,
+    badge: "bestseller",
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Casco abierto (tipo jet, sin mentonera) con visor de policarbonato transparente de 2 mm. La ficha técnica declara norma DOT. El jet más vendido de esta comparativa.",
+    seoTitle: "Pro Tork New Liberty 3 Elite: el casco abierto más vendido, con sus contras reales",
+    metaDescription: "Casco abierto Pro Tork New Liberty 3 Elite a {{precio:MLA1540807481}}: {{rating:MLA1540807481}} estrellas en {{reviews:MLA1540807481}} opiniones, más de 1000 vendidos. Fresco y liviano para ciudad; el visor y el talle, lo flojo.",
+    pros: [
+      "El casco abierto (jet) más vendido de esta comparativa, con más de 1000 vendidos y {{reviews:MLA1540807481}} opiniones",
+      "Liviano y fresco: varios compradores lo recomiendan para verano y trayectos cortos",
+      "Visión amplia (\"tenés visión 360\", dice una reseña) porque no tiene mentonera",
+      "La ficha técnica declara norma de seguridad DOT, cierre micrométrico y forro desmontable",
+      "Visor de policarbonato de 2 mm, resistente a arañazos según la ficha",
+    ],
+    cons: [
+      "No cubre el mentón ni la cara: en una caída, esa zona queda expuesta (es el límite de cualquier casco abierto)",
+      "El visor es su punto débil según reseñas de 3 estrellas: traba que se vuela, visor que se sale, y uno que lo compara con \"mirar a través de una botella de gaseosa\"",
+      "Calza chico: un comprador recomienda pedir un talle más",
+      "Terminaciones dispares: alguien compró dos y \"uno vino lindo y el otro horrible armado\"",
+      "El visor no tiene protección UV según la ficha técnica",
+    ],
+    verdict: "Si querés un casco abierto para ciudad, motos chicas y calor, es el más elegido de esta comparativa: {{rating:MLA1540807481}} estrellas, más de 1000 vendidos y a {{precio:MLA1540807481}}. Fresco, liviano y con la norma DOT declarada en su ficha. Pero que quede claro lo que es: un jet no protege la cara, y su visor es lo más flojo según los propios compradores. Si vas a hacer ruta o velocidad, andá a un integral.",
+    specs: [
+      { label: "Marca", value: "Pro Tork" },
+      { label: "Línea / Modelo", value: "New Liberty Three / Elite" },
+      { label: "Tipo de casco", value: "Abierto (jet)" },
+      { label: "Material exterior", value: "ABS" },
+      { label: "Material interior", value: "Espuma de alta densidad" },
+      { label: "Tipo de cierre", value: "Micrométrico" },
+      { label: "Forro desmontable", value: "Sí" },
+      { label: "Visor", value: "Simple, policarbonato transparente (\"cristal\")" },
+      { label: "Espesor del visor", value: "2 mm" },
+      { label: "Visor con protección UV", value: "No" },
+      { label: "Visor resistente a arañazos", value: "Sí" },
+      { label: "Preparado para Pinlock", value: "No" },
+      { label: "Forro transpirable / hipoalergénico", value: "Sí / Sí" },
+      { label: "Normas de seguridad declaradas", value: "DOT (según ficha técnica de ML)" },
+      { label: "Bluetooth", value: "No" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 11 meses", text: "Le pones el visor fume oscuro y queda un lujo,la verdad muy bonito y los talles d10, facha ni te cuento, lo compré para mi novia porque ella no tenía y la verdad me parece que lo voy a usar mucho más" },
+      { rating: 5, country: "Argentina", date: "hace 7 meses", text: "Buenisimo, tenes visión 360. Está perfecto. Recomendable." },
+      { rating: 3, country: "Argentina", date: "hace 1 año", text: "Relación precio calidad está bastante aceptable. Para ahora el verano es un 10 xq es cómodo y ligero. Refachero! si laburas con la moto o recorrés distancias cortas. Está más que perfecto." },
+      { rating: 3, country: "Argentina", date: "hace 11 meses", text: "La segunda vez que lo use baje el visor y se voló la traba qué lleva, me quede sin traba y ahora no puedo usar el visor." },
+    ],
+    relatedProducts: ["MLA27964984", "MLA79597758", "MLAU4459400679"],
+    articleBody: `## Qué es el Pro Tork New Liberty 3 Elite
+
+Es un casco abierto, también llamado jet o "tres cuartos": protege cráneo, nuca y los costados de la cabeza, pero no tiene mentonera. Trae un visor de policarbonato transparente ("cristal") de 2 mm que se levanta. Tiene más de 1000 vendidos, {{reviews:MLA1540807481}} opiniones con {{rating:MLA1540807481}} estrellas, y sale {{precio:MLA1540807481}} en la tienda de NEOLANDMOTOS. Es el jet más vendido de esta comparativa.
+
+## Lo bueno según quienes lo usan
+
+- **Fresco y liviano.** "Para ahora el verano es un 10 xq es cómodo y ligero", dice un comprador que lo usa para laburar con la moto.
+- **Visión amplia.** Sin mentonera, el campo visual es enorme: "tenés visión 360".
+- **Norma declarada.** Es uno de los dos cascos de esta comparativa cuya ficha técnica de MercadoLibre declara una norma de seguridad (DOT).
+
+## Lo flojo, sin vueltas
+
+**El visor.** Es el punto débil que más se repite. Un comprador cuenta que la segunda vez que lo bajó "se voló la traba" y se quedó sin poder usarlo; otro, que el visor se le salió a los dos días; y otro lo compara con "mirar a través de una botella de gaseosa". Además, según la ficha técnica, el visor no tiene protección UV.
+
+**El talle.** Un comprador avisa que es "bastante más chico" que otros cascos del mismo talle que tiene, y recomienda pedir uno más.
+
+**La terminación.** Alguien compró dos y le llegó uno bien y otro mal armado. Revisalo apenas llega.
+
+## El límite de cualquier casco abierto
+
+Esto no es un defecto del Pro Tork, es del tipo de casco: un jet no protege el mentón ni la cara. En una caída de frente, esa zona queda expuesta. Por eso conviene para ciudad, poca velocidad y trayectos cortos, no para ruta.
+
+## Para quién es, y para quién no
+
+Es para vos si andás en ciudad, en moto de baja cilindrada o scooter, sufrís el calor con un integral, y querés el abierto que más gente eligió. No es para vos si hacés ruta o andás rápido: ahí un integral como el Vertigo V32 de esta comparativa protege mucho más por un precio parecido.`,
+    faq: [
+      { question: "¿Es seguro un casco abierto?", answer: "Protege cráneo, nuca y los costados, pero no el mentón ni la cara. Para ciudad y poca velocidad es una opción válida; para ruta, conviene un integral." },
+      { question: "¿Tiene norma de seguridad?", answer: "La ficha técnica de la publicación en MercadoLibre declara norma DOT." },
+      { question: "¿El visor es transparente?", answer: "Sí, viene con visor de policarbonato transparente (\"cristal\") de 2 mm. Según la ficha técnica, no tiene protección UV." },
+      { question: "¿Calza grande o chico?", answer: "Un comprador avisa que es bastante más chico que otros cascos del mismo talle y recomienda pedir uno más. Medí tu cabeza antes de elegir." },
+      { question: "¿Sirve para el verano?", answer: "Sí, es su fuerte: varios compradores lo destacan por fresco y liviano para el calor." },
+      { question: "¿Se puede usar con antiparras?", answer: "Un comprador cuenta que lo usa combinado con una máscara y queda bien." },
+    ],
+  },
+  {
+    id: "MLAU4459400679",
+    title: "Casco Moto Rebatible Phoenix 815 Flip Up Doble Visor",
+    canonicalName: "Phoenix 815 Rebatible Doble Visor",
+    brand: "Phoenix",
+    price: 87299,
+    originalPrice: 109999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_671894-MLA121298283485_112026-F.webp",
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/casco-moto-rebatible-phoenix-815-flip-up-doble-visor/up/MLAU4459400679",
+    affiliateUrl: "https://meli.la/1G3VmKF",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 232,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 1000,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Casco rebatible (flip up) con doble visor: la mentonera se levanta, así que sirve como integral cerrado o con la cara libre. Más de 1000 vendidos.",
+    seoTitle: "Phoenix 815 rebatible doble visor: el 2 en 1 que sirve de día y de noche",
+    metaDescription: "Casco rebatible Phoenix 815 a {{precio:MLAU4459400679}}: {{rating:MLAU4459400679}} estrellas en {{reviews:MLAU4459400679}} opiniones, más de 1000 vendidos. Doble visor y mentonera que se levanta; calza chico según sus compradores.",
+    pros: [
+      "Rebatible: lo usás cerrado como un integral o con la mentonera arriba, con la cara libre para las paradas",
+      "Doble visor: compradores mencionan uno oscuro y uno transparente, algo clave si manejás de día y de noche",
+      "Más de 1000 vendidos y {{rating:MLAU4459400679}} estrellas sobre {{reviews:MLAU4459400679}} opiniones",
+      "Tienda oficial Phoenix y forro desmontable",
+    ],
+    cons: [
+      "Calza chico: dos compradores recomiendan pedir uno o dos talles más (\"yo en teoría era L pero pedí XL y salió justo\")",
+      "Ruido de viento: una reseña de 3 estrellas dice que a partir de 40 km/h \"silba por todos lados\"",
+      "Una reseña de 1 estrella reporta un problema con el mecanismo rebatible al recibirlo",
+      "La ficha técnica no declara ninguna norma de seguridad puntual ni el tipo de cierre",
+    ],
+    verdict: "Es el rebatible más fácil de recomendar si manejás de día y de noche: doble visor, más de 1000 vendidos y {{rating:MLAU4459400679}} estrellas, a {{precio:MLAU4459400679}}. Dos cosas a saber antes: calza chico (en este modelo, sus compradores recomiendan un talle más que tu medida) y no es silencioso a velocidad. Para ciudad y delivery, cumple muy bien.",
+    specs: [
+      { label: "Marca", value: "Phoenix" },
+      { label: "Modelo", value: "815" },
+      { label: "Tipo de casco", value: "Rebatible (modular, flip up)" },
+      { label: "Material exterior", value: "Termoplástico ABS" },
+      { label: "Material interior", value: "Poliestireno" },
+      { label: "Forro desmontable", value: "Sí" },
+      { label: "Visor", value: "Doble" },
+      { label: "Talle de la publicación", value: "M (58 cm de circunferencia); hay otros talles" },
+      { label: "Estilo", value: "Urbano" },
+      { label: "Bluetooth", value: "No" },
+      { label: "Normas de seguridad declaradas", value: "No figuran en la ficha técnica" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 2 meses", useful: 10, text: "Ventilación: muy bueno. Visor: excelente por precio muy bueno. Siempre pedir 1 talle mas del q debería ser por su mayo comodidad, yo en teoría era l pero pedí xl y salio justo." },
+      { rating: 5, country: "Argentina", date: "hace 2 meses", useful: 4, text: "Está increíble." },
+      { rating: 3, country: "Argentina", date: "hace 1 semana", text: "Ventilación: muy ruidoso apartir de 40 km por hora. Silva por todos lados. Visor: el negro es claro. Anda bien. El otro transparente aún no lo probe. Casco medio pelo." },
+    ],
+    relatedProducts: ["MLA79597758", "MLA27964984", "MLA79292757"],
+    articleBody: `## Qué es el Phoenix 815
+
+Es un casco rebatible (modular o "flip up"): la mentonera completa se levanta. Cerrado, te cubre cara y mentón como un integral; abierto, te deja la cara libre como un jet, y mientras está levantada protege como uno (sin mentón ni mandíbula). Es el "2 en 1" de esta comparativa por flexibilidad de uso: cerrado para circular, abierto para las paradas. Lo que no te podemos asegurar es que cerrado proteja igual que un integral fijo: una mentonera móvil no necesariamente resiste lo mismo que una carcasa de una pieza, y no hay ensayos de este modelo que lo confirmen. Tiene más de 1000 vendidos, {{reviews:MLAU4459400679}} opiniones con {{rating:MLAU4459400679}} estrellas, y sale {{precio:MLAU4459400679}} en la tienda oficial de Phoenix.
+
+## El doble visor, explicado
+
+La publicación lo vende con doble visor, y un comprador lo confirma: menciona uno negro ("es claro, anda bien") y otro transparente. En la práctica es lo que más importa de este casco frente al Vertigo Crux, el otro rebatible de esta comparativa: el Crux viene con visor ahumado y varios compradores dicen que de noche se complica. Con el 815 tenés las dos opciones.
+
+## Lo flojo, sin vueltas
+
+- **Calza chico.** Es el aviso más repetido: "Siempre pedir 1 talle mas [...] yo en teoría era L pero pedí XL y salio justo". Otro comprador fue dos talles arriba para no sentir presión en las mejillas.
+- **Ruido.** Una reseña de 3 estrellas dice que a partir de 40 km/h "silba por todos lados". No es un casco para ruta larga.
+- **El mecanismo.** Un rebatible tiene una bisagra que un integral no tiene, y una reseña de 1 estrella reporta un problema con esa parte al recibirlo. Probá que sube, baja y traba bien apenas te llega.
+- **Ficha técnica incompleta.** No declara norma de seguridad ni tipo de cierre.
+
+## Para quién es, y para quién no
+
+Es para vos si hacés ciudad o delivery, parás seguido, y manejás tanto de día como de noche. No es para vos si buscás silencio a velocidad o ruta larga (el LS2 de esta comparativa es otra categoría), ni si querés el casco más simple y robusto posible (un integral cerrado como el Vertigo V32 tiene menos partes móviles).`,
+    faq: [
+      { question: "¿El Phoenix 815 sirve como casco integral?", answer: "Cerrado, cubre cara y mentón como un integral, pero eso no garantiza la misma protección: la mentonera móvil no necesariamente resiste igual que la carcasa fija de un integral, y no tenemos ensayos de este modelo. Con la mentonera levantada protege como un casco abierto, sin mentón ni mandíbula. Tiene una bisagra que un integral fijo no tiene, por eso conviene revisar que trabe bien al recibirlo y nunca circular a medio cerrar." },
+      { question: "¿Qué talle me compro?", answer: "Uno más que tu medida. Varios compradores coinciden en que calza chico: uno que era L tuvo que ir a XL." },
+      { question: "¿Trae visor transparente?", answer: "Sí, es doble visor: un comprador menciona uno negro y uno transparente." },
+      { question: "¿Es ruidoso?", answer: "A velocidad sí: una reseña dice que a partir de 40 km/h silba. Para ciudad no es un problema." },
+      { question: "¿Qué diferencia hay con el Vertigo Crux?", answer: "Los dos son rebatibles. El 815 trae doble visor y es más barato; el Crux viene con visor fume y está más arriba en el ranking general de ventas de la categoría." },
+    ],
+  },
+  {
+    id: "MLA79292757",
+    title: "Casco Integral Phoenix 812 Para Moto, Negro Mate Talla L",
+    canonicalName: "Phoenix 812 Integral Negro Mate",
+    brand: "Phoenix",
+    price: 49469,
+    originalPrice: 59999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_987764-MLA117589586793_092026-F.webp",
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA79292757",
+    affiliateUrl: "https://meli.la/2UwAqm8",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 173,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 100,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Casco integral liso negro mate, con interior de espuma EPS y visor de policarbonato con protección UV. El integral más barato de esta comparativa.",
+    seoTitle: "Phoenix 812: el casco integral más barato de la comparativa, ¿qué resignás?",
+    metaDescription: "Casco integral Phoenix 812 a {{precio:MLA79292757}}: {{rating:MLA79292757}} estrellas en {{reviews:MLA79292757}} opiniones. El integral más barato de esta comparativa con reseñas reales; el visor y el talle, lo que hay que mirar.",
+    pros: [
+      "El integral más barato de esta comparativa, a {{precio:MLA79292757}}, con {{rating:MLA79292757}} estrellas en {{reviews:MLA79292757}} opiniones",
+      "Integral: cubre mentón y cara por menos de lo que cuesta el abierto más vendido",
+      "Interior de espuma EPS y visor de policarbonato con protección UV, según la ficha técnica",
+      "Ventilación superior e inferior; tienda oficial Phoenix",
+    ],
+    cons: [
+      "El visor es lo flojo: \"se dobla de nada\" y la traba es dura, según reseñas de 3 estrellas",
+      "No cubre bien el aire desde abajo, dice un comprador",
+      "Quejas de talle: \"Los talles no están bien logrados\" (1 estrella) y \"el tamaño no era como esperaba\"",
+      "Forro no desmontable y cierre a broche (no micrométrico), según la ficha técnica",
+      "La ficha técnica no declara ninguna norma de seguridad puntual",
+    ],
+    verdict: "Si tenés el presupuesto justo y querés un integral, no un abierto, es el que conviene de esta comparativa: {{precio:MLA79292757}}, {{rating:MLA79292757}} estrellas y reseñas que coinciden en \"muy buena calidad para su precio\". Lo que resignás frente al V32: forro desmontable, cierre micrométrico y una base de reseñas mucho más grande. Y el visor es claramente de casco económico.",
+    specs: [
+      { label: "Marca", value: "Phoenix" },
+      { label: "Modelo", value: "812" },
+      { label: "Tipo de casco", value: "Integral" },
+      { label: "Material exterior", value: "Plástico ABS" },
+      { label: "Material interior", value: "Espuma EPS" },
+      { label: "Tipo de cierre", value: "Broche" },
+      { label: "Forro desmontable", value: "No" },
+      { label: "Ventilación", value: "Superior e inferior" },
+      { label: "Visor", value: "Simple, policarbonato" },
+      { label: "Visor con protección UV", value: "Sí" },
+      { label: "Visor resistente a arañazos", value: "Sí (según ficha)" },
+      { label: "Forro transpirable / hipoalergénico", value: "Sí / Sí" },
+      { label: "Acabado", value: "Negro mate, liso" },
+      { label: "Talle de la publicación", value: "L (60 cm de circunferencia)" },
+      { label: "Bluetooth", value: "No" },
+      { label: "Normas de seguridad declaradas", value: "No figuran en la ficha técnica" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 2 meses", text: "Está muy buena calidad para su precio y llegó en perfectas condiciones." },
+      { rating: 5, country: "Argentina", date: "hace 1 mes", text: "Visor: claro. Comodidad: super comodo. Excelente calidad precio ahora a darle uso." },
+      { rating: 3, country: "Argentina", date: "hace 6 días", text: "Cumple, lo unico medio trucho es el visor que se dobla de nada pero por lo que sale el casco se la dejamos pasar." },
+      { rating: 3, country: "Argentina", date: "hace 3 semanas", text: "Es muy liviano. No cubre el aire desde abajo y el visor de traba es demasiado duro no se puede mover así nomás creería que en breve se puede quebrar xq hay que hacer demasiada fuer[za]" },
+    ],
+    relatedProducts: ["MLA27964984", "MLA1540807481", "MLAU4459400679"],
+    articleBody: `## Qué es el Phoenix 812
+
+Es un casco integral liso, negro mate, con carcasa de ABS, interior de espuma EPS y visor de policarbonato con protección UV. Sale {{precio:MLA79292757}} en la tienda oficial de Phoenix, con {{rating:MLA79292757}} estrellas sobre {{reviews:MLA79292757}} opiniones. No es el casco más barato de MercadoLibre, pero sí el integral más barato de esta comparativa entre los que tienen reseñas reales para respaldarlo.
+
+## Por qué está en la comparativa
+
+Porque resuelve un dilema muy común: "tengo poca plata, ¿me compro un abierto?". Por menos de lo que sale el abierto más vendido de esta comparativa, tenés un integral que te cubre mentón y cara. Las reseñas de 5 estrellas repiten lo mismo: **"muy buena calidad para su precio"**, cómodo y liviano.
+
+## Lo flojo, sin vueltas
+
+- **El visor.** "Lo único medio trucho es el visor que se dobla de nada", dice una reseña de 3 estrellas. Otra cuenta lo contrario en un punto: la traba del visor es tan dura que teme que se quiebre.
+- **Entra aire por abajo.** Un comprador dice que no cubre el aire desde abajo. En invierno se nota.
+- **El talle.** Hay dos quejas de tamaño ("los talles no están bien logrados"). Medí tu cabeza antes de elegir; la publicación de referencia es L para 60 cm.
+- **Lo que no tiene.** Según la ficha técnica, el forro no es desmontable (no lo podés lavar aparte) y el cierre es a broche, no micrométrico. Tampoco declara norma de seguridad.
+
+## Para quién es, y para quién no
+
+Es para vos si tenés el presupuesto justo y no querés resignar la protección de un integral. No es para vos si podés estirarte un poco: el Vertigo V32 de esta comparativa cuesta más, trae forro desmontable y cierre micrométrico, y tiene miles de reseñas más.`,
+    faq: [
+      { question: "¿Es bueno un casco integral tan barato?", answer: "Las reseñas coinciden en que cumple muy bien para su precio. Lo que resignás es terminación: el visor es lo más flojo, y el forro no es desmontable." },
+      { question: "¿Qué talle me compro?", answer: "Medí la circunferencia de tu cabeza. La publicación de referencia es L para 60 cm. Hay quejas de talle, así que no te guíes por tu talle de ropa." },
+      { question: "¿El forro se puede sacar?", answer: "No, según la ficha técnica el forro no es desmontable." },
+      { question: "¿Tiene protección UV el visor?", answer: "Sí, según la ficha técnica." },
+      { question: "¿Qué diferencia hay con el Vertigo V32?", answer: "El V32 cuesta más, pero trae cierre micrométrico, forro desmontable y una base de reseñas muchísimo más grande. El 812 es la opción si el presupuesto es lo primero." },
+    ],
+  },
+  {
+    id: "MLAU3904611632",
+    title: "Casco Integral Gekko Spektor Doble Visor Colores Marelli",
+    canonicalName: "Gekko Spektor Integral Doble Visor",
+    brand: "Gekko",
+    price: 189101,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_819066-MLA110379140973_042026-F.webp",
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/casco-integral-gekko-spektor-doble-visor-colores-marelli/up/MLAU3904611632",
+    affiliateUrl: "https://meli.la/2TfN1aU",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 29,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 100,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Casco integral de estética deportiva, con doble visor y colores llamativos. La ficha técnica declara normas CHAS y DOT. Pocas reseñas todavía.",
+    seoTitle: "Gekko Spektor: el integral más vistoso de la comparativa, con pocas reseñas todavía",
+    metaDescription: "Casco integral Gekko Spektor a {{precio:MLAU3904611632}}: {{rating:MLAU3904611632}} estrellas pero solo {{reviews:MLAU3904611632}} opiniones. Look deportivo, doble visor y normas CHAS y DOT declaradas en su ficha.",
+    pros: [
+      "El look más deportivo de esta comparativa: colores llamativos y estética de competición",
+      "Doble visor según la publicación",
+      "La ficha técnica declara normas de seguridad CHAS y DOT",
+      "Las reseñas que hay destacan comodidad, buena ventilación y buen aislamiento",
+    ],
+    cons: [
+      "Solo {{reviews:MLAU3904611632}} opiniones: el {{rating:MLAU3904611632}} se apoya en una base muy chica, no se puede comparar con las miles del Vertigo V32",
+      "Una reseña de 3 estrellas dice que se siente bastante pesado",
+      "Cuesta más del doble que el integral más vendido de esta comparativa, y gran parte de esa diferencia es estética",
+    ],
+    verdict: "Es el integral para quien quiere que el casco se vea: estética deportiva, doble visor y normas CHAS y DOT declaradas en su ficha, a {{precio:MLAU3904611632}}. Lo que no hay que perder de vista: tiene solo {{reviews:MLAU3904611632}} opiniones. El {{rating:MLAU3904611632}} es bueno, pero con tan pocas reseñas no podemos decir que sea más confiable que el Vertigo V32, que cuesta menos de la mitad y tiene miles.",
+    specs: [
+      { label: "Marca", value: "Gekko" },
+      { label: "Modelo", value: "Spektor" },
+      { label: "Tipo de casco", value: "Integral" },
+      { label: "Material exterior", value: "HPPT (según ficha técnica)" },
+      { label: "Material interior", value: "Hipoalergénico" },
+      { label: "Visor", value: "Doble (según la publicación)" },
+      { label: "Color de la publicación", value: "Rojo, acabado brillante" },
+      { label: "Talle de la publicación", value: "XL" },
+      { label: "Estilo", value: "Urbano" },
+      { label: "Normas de seguridad declaradas", value: "CHAS, DOT (según ficha técnica de ML)" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 5 meses", text: "Aislamiento: 10 de 10 herméticamente. Ventilación: buena circulación de aire. Muy recomendable, es económico y muy buena calidad." },
+      { rating: 5, country: "Argentina", date: "hace 5 meses", text: "No se puede amar tanto un casco , la facha qué tiene es increíble. Además súper cómodo, ingresa bien el aire, el visor es espectacular." },
+      { rating: 3, country: "Argentina", date: "hace 5 meses", text: "Se siente bastante pesado." },
+    ],
+    relatedProducts: ["MLA27964984", "MLA79273612", "MLA79292757"],
+    articleBody: `## Qué es el Gekko Spektor
+
+Es un casco integral de estética deportiva, estilo réplica de competición, con colores llamativos y doble visor según la publicación. Lo vende la tienda oficial MARELLISPORTS a {{precio:MLAU3904611632}}. Es uno de los dos cascos de esta comparativa cuya ficha técnica de MercadoLibre declara normas de seguridad: **CHAS y DOT**.
+
+## Lo primero que tenés que saber: pocas reseñas
+
+Tiene {{rating:MLAU3904611632}} estrellas, pero sobre solo **{{reviews:MLAU3904611632}} opiniones**. Eso no es malo en sí, pero cambia cómo hay que leer el número: con tan pocas reseñas, no hay base suficiente todavía para saber si existen problemas poco frecuentes. El Vertigo V32 de esta comparativa tiene una nota parecida sobre miles de opiniones; ese número pesa mucho más.
+
+## Lo que dicen los que lo compraron
+
+Lo que hay es positivo y coincide: facha, comodidad y ventilación. "No se puede amar tanto un casco, la facha qué tiene es increíble. Además súper cómodo, ingresa bien el aire". Otro le pone 10 al aislamiento. La única reseña tibia (3 estrellas) dice que **se siente bastante pesado**.
+
+## Qué estás pagando
+
+Cuesta más del doble que el integral más vendido de esta comparativa. Parte de esa diferencia es el doble visor y las normas declaradas en la ficha, y otra parte, honestamente, es el diseño. No hay nada de malo en pagar por un casco que te guste: si te gusta cómo se ve, lo vas a usar siempre, que es lo que importa.
+
+## Para quién es, y para quién no
+
+Es para vos si querés un integral vistoso, con doble visor y normas declaradas, y te importa la estética tanto como la función. No es para vos si querés lo más probado por la mayor cantidad de gente (el Vertigo V32), ni si buscás una marca internacional con más trazabilidad de fabricante (el LS2 MX702, en otro rango de precio, aunque su publicación tampoco detalla un número de norma).`,
+    faq: [
+      { question: "¿Es confiable el Gekko Spektor?", answer: "Las reseñas que tiene son buenas, pero son solo {{reviews:MLAU3904611632}}: es una base chica para sacar conclusiones fuertes. Su ficha técnica declara normas CHAS y DOT." },
+      { question: "¿Trae dos visores?", answer: "La publicación lo vende como doble visor. Confirmá con el vendedor qué combinación trae la variante de color que elijas." },
+      { question: "¿Es pesado?", answer: "Una reseña de 3 estrellas dice que se siente bastante pesado. El resto no lo menciona." },
+      { question: "¿Qué normas de seguridad tiene?", answer: "Según la ficha técnica de la publicación en MercadoLibre, CHAS y DOT." },
+      { question: "¿Por qué cuesta más que el Vertigo V32?", answer: "Por el doble visor, las normas declaradas y el diseño deportivo. En reseñas, el V32 tiene muchísimo más respaldo." },
+    ],
+  },
+  {
+    id: "MLA79273612",
+    title: "Casco Integral Ls2 Mx702 Pioneer Ii Solid Negro Mate Tamaño del casco S",
+    canonicalName: "LS2 MX702 Pioneer II",
+    brand: "LS2",
+    price: 536500,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_626100-MLA117574318009_092026-F.webp",
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA79273612",
+    affiliateUrl: "https://meli.la/1jCwnmo",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 89,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 50,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Casco doble propósito (adventure) de LS2, marca internacional especializada en cascos: visera tipo motocross, doble visor, preparado para Pinlock (la lámina no viene incluida) y cierre doble D. Otro segmento de precio que el resto de la comparativa.",
+    seoTitle: "LS2 MX702 Pioneer II: por qué cuesta varias veces más que un casco común",
+    metaDescription: "Casco LS2 MX702 Pioneer II desde {{precio:MLA79273612}}: {{rating:MLA79273612}} estrellas en {{reviews:MLA79273612}} opiniones. Doble propósito para ruta y ripio, cierre doble D y preparado para Pinlock (no incluido). Por qué cuesta lo que cuesta, y cuándo vale la pena.",
+    pros: [
+      "LS2 es una marca internacional especializada en cascos, con una trayectoria más larga y documentada que el resto de la comparativa",
+      "Doble propósito: visera larga tipo motocross más visor, para ruta y algo de tierra o ripio",
+      "Doble visor, visor preparado para Pinlock (antiempañante) y cierre doble D, el de competición",
+      "Compradores destacan buena acústica, que no vibra con el viento y que el visor no se raya",
+      "{{rating:MLA79273612}} estrellas sobre {{reviews:MLA79273612}} opiniones",
+    ],
+    cons: [
+      "Cuesta varias veces más que cualquier otro casco de esta comparativa (entre casi 3 y 11 veces, según con cuál lo compares)",
+      "Calza chico: dos compradores avisan que los LS2 hay que comprarlos un talle más",
+      "Trae preparación para Pinlock, pero el Pinlock no viene incluido",
+      "La página de catálogo agrupa varios vendedores con precios distintos para el mismo modelo: mirá el precio final antes de comprar",
+      "Es un casco de aventura: para uso solo urbano es más casco (y más precio) del que necesitás",
+    ],
+    verdict: "No tenemos forma de comparar su diseño o ingeniería contra el resto: es otro segmento. LS2 es una marca internacional especializada en cascos, con una trayectoria más larga y documentada que el resto de esta comparativa, y eso es lo que se paga. Para uso urbano cotidiano, los demás cumplen según la experiencia de sus compradores, que no es un ensayo de impacto. Si hacés ruta larga, aventura o ripio, o simplemente querés la tranquilidad de una marca reconocida, es la opción: {{rating:MLA79273612}} estrellas en {{reviews:MLA79273612}} opiniones, desde {{precio:MLA79273612}}. Pedilo un talle más.",
+    specs: [
+      { label: "Marca", value: "LS2" },
+      { label: "Modelo", value: "MX702 Pioneer II" },
+      { label: "Tipo de casco", value: "Doble propósito / adventure (la ficha lo carga como Off-Road)" },
+      { label: "Material exterior", value: "KPA (según ficha técnica)" },
+      { label: "Material interior", value: "Poliestireno" },
+      { label: "Tipo de cierre", value: "Doble D" },
+      { label: "Forro desmontable", value: "Sí" },
+      { label: "Ventilación", value: "Superior" },
+      { label: "Visor", value: "Doble, policarbonato" },
+      { label: "Visor con protección UV", value: "Sí" },
+      { label: "Visor resistente a arañazos", value: "Sí" },
+      { label: "Preparado para Pinlock", value: "Sí (el Pinlock no viene incluido, según un comprador)" },
+      { label: "Forro transpirable / hipoalergénico", value: "Sí / Sí" },
+      { label: "Talle de la publicación", value: "S; hay otros talles" },
+      { label: "Bluetooth", value: "No" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 4 meses", text: "Aislamiento: acústica buena y no vibra con el viento. Visor: vision perfecta y no se raya. Calidad premium al ser el modelo medio de la marca muy buena acústica" },
+      { rating: 5, country: "Argentina", date: "hace 10 meses", text: "La verdad q me costó mucho largar tanta plata en un casco xq me cuesta mucho ganarme el dinero. Pero la verdad q cuando lo resivi al casco valió la pena [...]" },
+      { rating: 4, country: "Argentina", date: "hace 10 meses", text: "10 puntos precio - calidad, unico detalle no trae pinlock, pero si trae para poner el pinlock." },
+      { rating: 3, country: "Argentina", date: "hace 11 meses", text: "El casco es muy recomendable, el tamaño de los ls2 a tener en cuenta siempre es uno mas, no comprar numero justo" },
+    ],
+    relatedProducts: ["MLA27964984", "MLAU3904611632", "MLAU4459400679"],
+    articleBody: `## Qué es el LS2 MX702 Pioneer II
+
+Es un casco de doble propósito, también llamado adventure o trail: mezcla un integral de calle con la visera larga de un casco de motocross. Trae doble visor de policarbonato según la ficha técnica, está preparado para Pinlock (la lámina antiempañante) y cierra con doble D, el sistema de anillas que se usa en competición. Sirve para ruta y para algo de tierra o ripio. Lo fabrica LS2, una marca internacional especializada en cascos, y sale desde {{precio:MLA79273612}} en MercadoLibre.
+
+## Por qué cuesta tanto más que el resto
+
+Es la pregunta obvia: cuesta entre casi 3 y 11 veces más que los otros cascos de esta comparativa, según con cuál lo compares. La respuesta honesta no es "porque es más lindo" ni "porque los otros son peligrosos".
+
+La diferencia es de **segmento de marca**. Vertigo, Phoenix, Pro Tork y Gekko venden mucho, sus compradores los usan a diario en la ciudad, y algunas declaran normas en su ficha técnica. LS2 es una marca especializada en cascos (también hace indumentaria y accesorios de moto), con una trayectoria internacional más larga y documentada. Lo que pagás es esa trazabilidad de fabricante: una marca con historial reconocido detrás del producto. Su publicación de MercadoLibre tampoco detalla un número de norma, así que la diferencia es la marca, no un dato de certificación que podamos verificar acá.
+
+Lo que **no** vamos a hacer es inventarte números de ensayos o certificaciones que no figuran en la publicación. La ficha técnica de MercadoLibre de este modelo no lista normas, así que no te las afirmamos.
+
+## Lo que dicen los compradores
+
+{{rating:MLA79273612}} estrellas sobre {{reviews:MLA79273612}} opiniones. Lo que se repite: buena acústica, que **no vibra con el viento**, y un visor que "no se raya", justo la queja más común de los cascos baratos de esta comparativa. Y una reseña que resume a quién le habla este casco: "me costó mucho largar tanta plata en un casco [...] Pero cuando lo recibí valió la pena".
+
+## Lo que hay que saber antes
+
+- **Calza chico.** Dos compradores avisan que los LS2 hay que comprarlos un talle más que tu medida.
+- **El Pinlock no viene.** El visor está preparado para ponerlo, pero se compra aparte.
+- **Varios vendedores, varios precios.** La página de catálogo agrupa vendedores distintos para el mismo modelo, con precios que pueden variar bastante. Mirá el precio final y el vendedor antes de comprar.
+
+## Para quién es, y para quién no
+
+Es para vos si hacés ruta larga, viajes en moto, aventura o ripio, o si querés pagar por la tranquilidad de una marca con trayectoria. No es para vos si tu uso es ir y venir por la ciudad: para eso, el Vertigo V32 de esta comparativa cumple perfectamente y la diferencia de plata te alcanza para varias otras cosas.`,
+    faq: [
+      { question: "¿Por qué el LS2 es tanto más caro?", answer: "Porque es otro segmento: LS2 es una marca internacional especializada en cascos (también hace indumentaria y accesorios), con una trayectoria más larga y documentada que el resto de esta comparativa. Su publicación tampoco detalla un número de norma: lo que se paga es la marca y su historial. No significa que los cascos más baratos no sirvan para el uso urbano cotidiano." },
+      { question: "¿Sirve para ciudad?", answer: "Sirve, pero es más casco del que necesitás para uso urbano. Está pensado para ruta, aventura y algo de tierra o ripio." },
+      { question: "¿Qué talle me compro?", answer: "Uno más que tu medida: dos compradores avisan que los LS2 calzan chico." },
+      { question: "¿Trae Pinlock?", answer: "El visor está preparado para Pinlock, pero según un comprador, la lámina no viene incluida." },
+      { question: "¿Qué es un casco doble propósito?", answer: "Un casco que mezcla el integral de calle con la visera larga del motocross. Sirve para ruta y para caminos de tierra o ripio, y se puede usar con visor o con antiparras." },
+      { question: "¿Por qué el precio varía entre vendedores?", answer: "Porque la página de catálogo de MercadoLibre agrupa varios vendedores del mismo modelo, cada uno con su precio. El que mostramos es el de referencia al momento de revisarlo." },
+    ],
+  },
+];
+
+curatedProducts.push(...curatedProductsCascoDeMoto);
+
 export const categoryPastels: Record<string, string> = {
   cocina: 'var(--pastel-coral)',
   hogar: 'var(--pastel-amber)',

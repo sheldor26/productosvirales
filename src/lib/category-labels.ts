@@ -14,6 +14,7 @@ const ACCENTED_CATEGORY_NAMES: Record<string, string> = {
   "botellas-termicas": "Botellas Térmicas",
   "calefones-electricos": "Calefones Eléctricos",
   "camaras-deportivas": "Cámaras Deportivas",
+  "casco-de-moto": "Casco de Moto",
   "camaras-instantaneas": "Cámaras Instantáneas",
   "camaras-vlog": "Cámaras Vlog",
   "cochecito-de-bebe": "Cochecito de Bebé",
