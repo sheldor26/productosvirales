@@ -40948,11 +40948,11 @@ El Qaed Al Fursan cumple bien lo que promete el propio vendedor: una fragancia f
     tiktokViews: "15M+",
     badge: "bestseller",
     pastelColor: "var(--pastel-amber)",
-    description: "Eau de Parfum masculino de Lattafa, amaderado-especiado con apertura de pimienta negra y piña, corazón de pachulí y café, y fondo de vainilla y ámbar. El perfume árabe más validado de Argentina, con {{reviews:MLA19715215}} calificaciones y rating 4.7.",
+    description: "Eau de Parfum masculino de Lattafa, amaderado-especiado con apertura de pimienta negra y piña, corazón de pachulí y café, y fondo de vainilla y ámbar. El perfume árabe más validado de Argentina, con {{reviews:MLA19715215}} calificaciones y {{rating:MLA19715215}} de rating.",
 
     // ── Pros / Cons / Verdict (visible en página individual) ──
     pros: [
-      "{{reviews:MLA19715215}} reseñas con rating 4.6 — el perfume árabe más validado de Argentina",
+      "{{reviews:MLA19715215}} reseñas con {{rating:MLA19715215}} de rating — el perfume árabe más validado de Argentina",
       "Proyección alta desde los primeros minutos — 3 sprays alcanzan",
       "Duración real de 6-10 horas en piel con permanencia en ropa al día siguiente",
       "Alternativa accesible al Dior Sauvage Elixir — precio 10 veces menor",
@@ -40967,10 +40967,10 @@ El Qaed Al Fursan cumple bien lo que promete el propio vendedor: una fragancia f
       "No incluye estuche adicional",
     ],
     verdict:
-      "El perfume árabe masculino por excelencia del mercado argentino. Con {{reviews:MLA19715215}} reseñas, rating 4.6 y proyección brutal, es la puerta de entrada más segura al nicho árabe para hombre. Ideal para noche y eventos; evitalo en verano.",
+      "El perfume árabe masculino por excelencia del mercado argentino. Con {{reviews:MLA19715215}} reseñas, {{rating:MLA19715215}} de rating y proyección brutal, es la puerta de entrada más segura al nicho árabe para hombre. Ideal para noche y eventos; evitalo en verano.",
 
     // ── Article body (mini-review editorial) ────────────
-    articleBody: `Asad Intense es el perfume árabe masculino más vendido de Argentina y el más validado por la comunidad: 7.245 calificaciones en Mercado Libre con rating 4.6. En el nicho árabe local no hay otro producto con ese volumen de respaldo comunitario.
+    articleBody: `Asad Intense es el perfume árabe masculino más vendido de Argentina y el más validado por la comunidad: {{reviews:MLA19715215}} calificaciones en Mercado Libre con {{rating:MLA19715215}} de rating. En el nicho árabe local no hay otro producto con ese volumen de respaldo comunitario.
 
 La pirámide olfativa es amaderada-especiada con toques gourmand: apertura con pimienta negra, piña y tabaco; corazón con pachulí, café e iris; fondo con vainilla, ámbar, madera seca, benjuí y ládano. En términos simples: arranca frutal y picante, se vuelve cálido y terroso en el desarrollo, y termina en un fondo dulce-amaderado que proyecta fuerte durante varias horas.
 
