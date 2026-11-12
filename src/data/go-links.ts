@@ -22,4 +22,13 @@ export const goLinks: Record<string, string> = {
   colchon: "https://meli.la/2PN1ifQ", // Colchon Calm 1 plaza (MLA18635355), 15%
   zapatillas: "https://meli.la/2CwBLzb", // Puma Flexfocus Lite Modern (MLAU3175612911), 15%
   aire: "https://meli.la/1LczACS", // Aire Philco Split Inverter frio/calor (MLA63226247), 7%
+  // Segunda ronda de pruebas en X (2026-11-12): una etiqueta de ML por producto (xcaminadora,
+  // xrobot, xhidro, xtv) para medir cada anuncio por separado en el panel de afiliados. Cada
+  // meli.la lo generó el linkbuilder oficial con su etiqueta y se verificó que resuelve con
+  // matt_word=<etiqueta> y el matt_tool de Juan.
+  caminadora: "https://meli.la/1UHKUA3", // Caminadora Enerfit T2000a (MLA46209019), 15%, etiqueta xcaminadora
+  robot: "https://meli.la/25KGqEk", // Robot aspiradora Gadnic 5000 Pa LIDAR (MLA62127506), 7%, etiqueta xrobot
+  hidrogamma: "https://meli.la/2micgVH", // Hidrolavadora Gamma Pro Wash 2000 (MLA23772846), 15%, etiqueta xhidro
+  tv55: "https://meli.la/1aWHttb", // Smart TV Samsung 55 QLED 4K (MLA66850209), 7%, etiqueta xtv
+  iphone: "https://meli.la/2KB3pL1", // iPhone 18 Pro Max 256 GB Borgoña, Tienda oficial de Apple (MLA1077855480, item MLA4018945000), 7%, etiqueta xiphone
 };
