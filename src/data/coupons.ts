@@ -1,51 +1,38 @@
 import type { Coupon } from "@/lib/types";
 
-// Fecha doble 11.11 (miércoles 11/11): los tres escalones del día, más ONCEDELONCE
-// que llegó a la tarde y se SUMA (no reemplaza). `getApplicableCoupon` se queda
-// con el que más descuento da para cada precio:
-//   >= $500.000      -> MELIDOBLEON ($45.000)
-//   $250k a $500k    -> 11FECHADOBLE26 ($20.000)
-//   $150k a $250k    -> 11X11MELI ($10.000)
-//   $100k a $150k    -> ONCEDELONCE ($10.000), solo de 14:30 a 16:45
+// Jueves 12/11, despues del 11.11: tres cupones "exclusivos para afiliados" con tramos nuevos
+// (mas bajos que los del Doble 11). Se sacan los vencidos del 11/11.
+// `getApplicableCoupon` se queda con el que mas descuento da para cada precio:
+//   >= $300.000      -> MELIOFF25 ($25.000)
+//   $200k a $300k    -> AFILIMELI18 ($18.000)
+//   $100k a $200k    -> MELIAFF8 ($8.000)
 //   menos de $100k   -> sin badge
-//
-// ONCEDELONCE tiene la misma plata que 11X11MELI pero una mínima más baja
-// ($100.000) y una ventana corta. Entre $150.000 y $250.000 empatan en monto y
-// el badge muestra el que figura primero en este arreglo (11X11MELI).
-//
-// Los tres escalones no dan hora de cierre: se asume 23:59 de hoy, el corte de
-// siempre. Si el 11.11 se extiende a mañana, subir validUntil.
+// Vigencia: el mensaje dice "12/11 de 9:00 a 23:59 hs".
+// Ojo: por ser cupones exclusivos para afiliados puede que ML los limite a "productos seleccionados"
+// (pasó con ONCEDELONCE); el badge no lo distingue, el carrito manda.
 export const activeCoupons: Coupon[] = [
   {
-    code: "11X11MELI",
-    discountAmount: 10000,
-    minPurchase: 150000,
-    validFrom: "2026-11-11T00:00:00-03:00",
-    validUntil: "2026-11-11T23:59:00-03:00",
-    active: true,
-  },
-  {
-    code: "11FECHADOBLE26",
-    discountAmount: 20000,
-    minPurchase: 250000,
-    validFrom: "2026-11-11T00:00:00-03:00",
-    validUntil: "2026-11-11T23:59:00-03:00",
-    active: true,
-  },
-  {
-    code: "MELIDOBLEON",
-    discountAmount: 45000,
-    minPurchase: 500000,
-    validFrom: "2026-11-11T00:00:00-03:00",
-    validUntil: "2026-11-11T23:59:00-03:00",
-    active: true,
-  },
-  {
-    code: "ONCEDELONCE",
-    discountAmount: 10000,
+    code: "MELIAFF8",
+    discountAmount: 8000,
     minPurchase: 100000,
-    validFrom: "2026-11-11T14:30:00-03:00",
-    validUntil: "2026-11-11T16:45:00-03:00",
+    validFrom: "2026-11-12T09:00:00-03:00",
+    validUntil: "2026-11-12T23:59:00-03:00",
+    active: true,
+  },
+  {
+    code: "AFILIMELI18",
+    discountAmount: 18000,
+    minPurchase: 200000,
+    validFrom: "2026-11-12T09:00:00-03:00",
+    validUntil: "2026-11-12T23:59:00-03:00",
+    active: true,
+  },
+  {
+    code: "MELIOFF25",
+    discountAmount: 25000,
+    minPurchase: 300000,
+    validFrom: "2026-11-12T09:00:00-03:00",
+    validUntil: "2026-11-12T23:59:00-03:00",
     active: true,
   },
 ];
