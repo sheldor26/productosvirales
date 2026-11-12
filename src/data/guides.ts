@@ -39481,6 +39481,8 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       `Dos aclaraciones honestas antes de seguir. Ninguna de estas cinco tiene una base grande de opiniones (la que más tiene ronda las 50), así que las reseñas dicen poco todavía, y la cantidad de vendidos o de calificaciones habla de cuánta gente la compró, no de cuánto dura. Y varias fichas dejan datos importantes sin aclarar: cuando pasa, lo decimos en vez de completar el hueco.`,
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_782383-MLA99453483506_112025-O.webp", alt: `Chopera a hielo con serpentina de Brewery Supplies, color azul, la elegida de esta comparativa en MercadoLibre Argentina`, imageSize: "hero" },
+
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** recorrimos las publicaciones de choperas de MercadoLibre Argentina el 12 de noviembre de 2026 y elegimos 5 que cubren los tipos que más se buscan: chopera a hielo con serpentina, chopera portátil a batería, torre de dos canillas, chopera decorativa de madera y dispenser de cerveza por gravedad. De cada una leímos la ficha técnica y la descripción del vendedor, y cuando un dato no está claro lo marcamos como tal. No probamos ninguna de estas choperas: lo que sabemos sale de lo que declara cada vendedor y de las opiniones de los compradores, no de una prueba propia. Los precios se revisan contra MercadoLibre varias veces por semana.` },
 
       { type: "h2", title: `Primero: qué tipo de chopera necesitás`, id: "tipos" },
@@ -39612,6 +39614,8 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       `Dos aclaraciones honestas antes de seguir. La primera: no probamos físicamente ninguno de estos pañales. Cuando una publicación dice "super absorbente", es lo que declara el vendedor, no una medición nuestra, y ninguna de las cuatro dice cuánto líquido absorbe ni cuántas horas aguanta. La segunda: un pañal es una ayuda de higiene, no un tratamiento. Si tu perro empezó a tener pérdidas de golpe, si la incontinencia no se corta o si el celo viene con mucho sangrado, la consulta con el veterinario va primero.`,
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_618481-MLA119038632526_112026-O.webp", alt: `Pañal bombacha reutilizable Terrapet para perra, la lavable más vendida de esta comparativa en MercadoLibre Argentina`, imageSize: "hero" },
+
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** recorrimos la categoría Pañales para perros de MercadoLibre Argentina el 12 de noviembre de 2026 y nos quedamos con 4 en stock: dos descartables y dos bombachas lavables, una pensada para hembra y otra de uso general. De cada uno leímos la publicación (título, fotos, talles, vendedor) y anotamos su puesto en el ranking de más vendidos, su nota y cuántas opiniones tiene. Ventas y opiniones son señal de cuánta gente lo compró y de la confianza en el vendedor, **no prueba de que no gotee, no se corra o no irrite la piel**. Lo que dice el vendedor ("super absorbente", "gel súper absorbente") lo citamos como lo que es: una declaración del vendedor. Los precios se revisan contra MercadoLibre varias veces por semana.` },
 
       { type: "h2", title: `Primero lo importante: descartable o lavable`, id: "descartable-o-lavable" },
