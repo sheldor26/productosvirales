@@ -18,7 +18,7 @@ Rankeable ya, sin depender de autoridad de dominio nueva.
 | Chopera | 3.600-5.400 | 6 | $200k-600k | 🟡 STAGED (slug `chopera`, publishedDate 2026-11-20, commit local, pendiente flip+push) |
 | Estufa a pellets | 3.600-12.100 (pico invierno) | 6 | $300k-900k | — |
 | Casco de moto | 6.600-8.100 | 6 | Medio | Ítem de seguridad, buen ángulo honesto |
-| Bicicleta BMX | 3.600-4.400 | 6 | Medio | Distinta de bici fija/reclinada ya cubiertas |
+| Bicicleta BMX | 3.600-4.400 | 6 | Medio | 🟡 STAGED (slug `bicicleta-bmx`, publishedDate 2026-11-20, commit local, pendiente flip+push) |
 | Grabadora láser | 4.400-6.600 | 6 | Alto (máquina CNC) | — |
 | Palo de hockey | 4.400-9.900 (pico marzo) | 7 | Alto (carbono/fibra) | 🟡 STAGED (slug `palo-de-hockey`, publishedDate 2026-11-20, commit local, pendiente flip+push) |
 | Pelota de rugby | 2.900-5.400 | 7 | Medio | — |
