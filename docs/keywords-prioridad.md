@@ -39,7 +39,7 @@ Rankeable ya, sin depender de autoridad de dominio nueva.
 | Mochila maternal | 5.400-8.100 | 9 | Medio | 🟡 STAGED (slug `mochila-maternal`, publishedDate 2026-11-20, commit local, pendiente flip+push) |
 | Andador para bebé | 2.400-3.600 | 9 | Bajo-medio | Distinto de "andador para adultos" (descartado) |
 | ~~Guitarra acústica~~ | ~~9.900~~ | ~~9~~ | — | ❌ **ELIMINADA (2026-11-09, confirmado en MercadoLibre):** es el mismo catálogo que `guitarra-criolla-precio` — el breadcrumb de ML dice "Guitarras > Acústicas" y los productos dicen "Guitarra Criolla" en el título. No sourcear: en cambio, sumar "guitarra acústica" como sinónimo en título/meta de la guía existente |
-| Cama de pilates (reformer) | 2.900-8.100 | 10 | Alto | Varios cientos de miles de $ |
+| Cama de pilates (reformer) | 2.900-8.100 | 10 | Alto | 🟡 STAGED (slug `cama-de-pilates-reformer`, publishedDate 2026-11-20, commit local, pendiente flip+push) |
 | Soldadora MIG | 5.400-9.900 | 10 | Medio-alto | — |
 | Estabilizador de tensión | 14.800 | 10 | $80k-250k | Muy relevante por cortes de luz en AR |
 
