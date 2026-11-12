@@ -1,15 +1,16 @@
 import type { Coupon } from "@/lib/types";
 
-// Jueves 12/11, despues del 11.11: tres cupones "exclusivos para afiliados" con tramos nuevos
-// (mas bajos que los del Doble 11). Se sacan los vencidos del 11/11.
-// `getApplicableCoupon` se queda con el que mas descuento da para cada precio:
+// Jueves 12/11, despues del 11.11: "CUPONES EXCLUSIVOS PARA AFILIADOS", tres escalones,
+// vigentes de 9:00 a 23:59. `getApplicableCoupon` se queda con el que mas descuento da
+// para cada precio:
 //   >= $300.000      -> MELIOFF25 ($25.000)
 //   $200k a $300k    -> AFILIMELI18 ($18.000)
 //   $100k a $200k    -> MELIAFF8 ($8.000)
 //   menos de $100k   -> sin badge
-// Vigencia: el mensaje dice "12/11 de 9:00 a 23:59 hs".
-// Ojo: por ser cupones exclusivos para afiliados puede que ML los limite a "productos seleccionados"
-// (pasó con ONCEDELONCE); el badge no lo distingue, el carrito manda.
+//
+// El mensaje los llama "exclusivos para afiliados" y no trae links _Container_ ni
+// restricciones de producto: se cargan como sitio completo, igual que los de siempre.
+// Si resulta que un comprador comun no puede usarlos, hay que bajarlos.
 export const activeCoupons: Coupon[] = [
   {
     code: "MELIAFF8",
