@@ -11,6 +11,7 @@ const ACCENTED_CATEGORY_NAMES: Record<string, string> = {
   "anafe-electrico": "Anafe Eléctrico",
   "arrocera-electrica": "Arrocera Eléctrica",
   "bicicletas-electricas": "Bicicletas Eléctricas",
+  "bomba-de-agua": "Bomba de Agua",
   "botellas-termicas": "Botellas Térmicas",
   "calefones-electricos": "Calefones Eléctricos",
   "camaras-deportivas": "Cámaras Deportivas",

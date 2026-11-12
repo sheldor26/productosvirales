@@ -118996,6 +118996,575 @@ Es para vos si el diseño pesa en tu elección (pasa mucho con chicos y adolesce
 
 curatedProducts.push(...curatedProductsGuanteDeArquero);
 
+// ─────────────────────────────────────────────────────────
+// Guía nueva bomba-de-agua (silo hogar-jardin, igual que hidrolavadora).
+// 2026-11-11. 5 fichas nuevas, una por TIPO de bomba (presurizadora,
+// centrífuga, sumergible de desagote, centrífuga "elevadora", periférica con
+// control de flujo). Precio, rating, reviewCount y "+N vendidos" leídos en
+// vivo en MercadoLibre el 2026-11-11 (Chrome de Juan); los precios con
+// centavos se guardan redondeados al peso, igual que el resto del catálogo.
+// Specs SOLO de la ficha técnica y la descripción de cada publicación; si las
+// dos se contradicen, se dice (no se elige el número más lindo). Reseñas
+// citadas textuales, leídas el mismo día con la fecha relativa que muestra
+// ML. Imágenes 2X -F verificadas con curl GET (43-93 KB contra ~1,2-1,7 KB
+// de la -R). Ojo, cosas que NO coincidían con el brief inicial:
+//  - Pektra sumergible: el cable es de 10 m según ficha y descripción (el
+//    "8M" del título es la altura máxima, no el cable).
+//  - Pektra elevadora: el título dice "turbina bronce" pero la descripción
+//    dice "material del impulsor: cobre"; la ficha técnica no lo declara. No
+//    tiene sello "Más vendido" (figura como "Popular").
+//  - Lüsqtoff: es una bomba periférica Garden Plus BP150G-7 + un sensor de
+//    flujo MPS. Un comprador dice que el regulador le llegó marca Daewoo.
+//  - Vasser QC150: la vende TECNOSIM, no una tienda oficial de Vasser.
+// Reseñas/ventas = experiencia reportada, nunca prueba de durabilidad, de
+// caudal real ni de protección contra trabajo en seco. Ninguna publicación
+// declara "apta para consumo humano": "agua limpia" = sin sólidos/no cloacal.
+// ─────────────────────────────────────────────────────────
+const curatedProductsBombaDeAgua: Product[] = [
+  {
+    id: "MLAU3019799311",
+    title: "Bomba Presurizadora Vasser Pre1 120w Para 1-2 Baños",
+    canonicalName: "Vasser Pre1 (presurizadora 120 W)",
+    brand: "Vasser",
+    mpn: "H.VA.2.0001.M",
+    price: 54999,
+    originalPrice: 81186,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_728550-MLA101084281275_122025-F.webp",
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/bomba-presurizadora-vasser-pre1-120w-para-1-2-banos/up/MLAU3019799311",
+    affiliateUrl: "https://meli.la/1T2c2Mr",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 3539,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 10000,
+    badge: "bestseller",
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Bomba presurizadora de 120 W para 1 o 2 baños: se instala debajo del tanque elevado (o en la entrada del calefón o termotanque) y arranca sola cuando abrís una canilla. 1° más vendida en Bombas Presurizadoras de MercadoLibre Argentina.",
+    seoTitle: "Vasser Pre1: la bomba presurizadora más vendida, ¿vale la pena?",
+    metaDescription: "Bomba presurizadora Vasser Pre1 de 120 W a {{precio:MLAU3019799311}}: {{rating:MLAU3019799311}} estrellas en {{reviews:MLAU3019799311}} opiniones, 1° en Bombas Presurizadoras. Para qué casa sirve, para cuál no y qué dicen los compradores.",
+    pros: [
+      "1° más vendida de toda la categoría Bombas Presurizadoras de MercadoLibre Argentina (noviembre 2026), con +10 mil vendidos",
+      "{{rating:MLAU3019799311}} estrellas en {{reviews:MLAU3019799311}} opiniones: la base de reseñas más grande de todas las bombas de esta comparativa",
+      "Automática por flujo: según la publicación, arranca cuando abrís una canilla y se apaga cuando la cerrás, y no deja la cañería presurizada",
+      "Chica y liviana (3 kg según la ficha), pensada para instalarse debajo del tanque elevado o en la entrada del calefón",
+      "Varios compradores cuentan que les cambió la presión de la casa y que mejoró el encendido del calefón",
+      "La más barata de esta comparativa, con 12 meses de garantía de fábrica y envío Full",
+    ],
+    cons: [
+      "No sirve para sacar agua de un pozo, una cisterna o un tanque en el piso: la línea declarada es \"Presurizadora Tanque Elevado\"",
+      "La presión máxima que declara la ficha es de 0,8 bar: varios compradores con ducha monocomando o escocesa dicen que les mejoró poco",
+      "La falla más repetida en las reseñas bajas es el automático: que deja de cortar o que solo anda en manual",
+      "Hay reportes de unidades que dejaron de andar a los días, semanas o meses. Es lo que cuentan algunos compradores, no un ensayo, pero aparece varias veces",
+      "Temperatura máxima de entrada de agua declarada: 35 °C. Va en la entrada de agua fría, no a la salida del termotanque",
+      "Con 2 baños en simultáneo, un comprador dice que la presión no alcanza",
+    ],
+    verdict: "Es la bomba más vendida de esta comparativa y la que resuelve el problema más común en las casas argentinas: tenés tanque elevado, pero el agua sale con poca fuerza. Sale {{precio:MLAU3019799311}}, tiene {{rating:MLAU3019799311}} estrellas en {{reviews:MLAU3019799311}} opiniones y arranca sola cuando abrís una canilla. Antes de comprarla tenés que saber dos cosas: solo sirve si el agua ya baja de un tanque elevado (no saca agua de abajo), y su presión máxima declarada es modesta, de 0,8 bar. Para una ducha común o el encendido del calefón, la mayoría de los compradores está conforme; si tenés una ducha monocomando exigente o dos baños abiertos a la vez, puede quedarte corta.",
+    specs: [
+      { label: "Marca", value: "Vasser (Motorarg)" },
+      { label: "Modelo", value: "PRE 1" },
+      { label: "Tipo", value: "Presurizadora automática por flujo, para tanque elevado" },
+      { label: "Potencia", value: "120 W" },
+      { label: "Voltaje", value: "220 V, monofásica" },
+      { label: "Caudal máximo", value: "1.800 l/h" },
+      { label: "Altura máxima de elevación", value: "8 m según la ficha técnica (la descripción dice 9 m)" },
+      { label: "Presión máxima", value: "0,8 bar" },
+      { label: "Temperatura máxima de entrada de agua", value: "35 °C" },
+      { label: "Conexiones", value: "3/4\" en el cuerpo, conectores a 1/2\" (según la descripción)" },
+      { label: "Instalación", value: "Debajo del tanque elevado (mínimo 50 cm), o en la entrada del calefón o termotanque (según la descripción)" },
+      { label: "Uso declarado", value: "1 baño, o 2 baños (uno en planta baja y otro en planta alta)" },
+      { label: "Peso", value: "3 kg" },
+      { label: "Certificación eléctrica", value: "M 8681/5 (IQC S.A.)" },
+      { label: "Garantía", value: "12 meses de fábrica" },
+      { label: "Vendedor", value: "Pideweb (tienda oficial), envío Full" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 5 meses", useful: 101, text: "Muy notable como cambió la presión del agua en toda la casa. Ahora mí señora puede lavar los platos sin que le grite al aguaaa 😂." },
+      { rating: 5, country: "Argentina", date: "hace 5 meses", useful: 19, text: "La compramos para la entrada del calefón y realmente funciona muy bien, súper recomendable, saludos." },
+      { rating: 2, country: "Argentina", date: "hace 7 meses", text: "Eleva muy poco la presión, para una ducha tipo escocesa o duchas de monocomando no mejora mucho." },
+      { rating: 3, country: "Argentina", date: "hace 3 meses", text: "La bomba es silenciosa. Si el hogar tiene 2 baños la presión de agua no logra ser suficiente." },
+      { rating: 1, country: "Argentina", date: "hace 4 meses", text: "Anduvo dos dias y luego no le funciono mas el automático, queda andando sin parar. La verdad no sirve." },
+    ],
+    relatedProducts: ["MLAU153477485", "MLA22966173", "MLA19569423", "MLA46094229"],
+    articleBody: `## Qué es la Vasser Pre1
+
+Es una **bomba presurizadora** de 120 W. No saca agua de ningún lado: se instala en la cañería, **debajo del tanque elevado**, y empuja con más fuerza el agua que ya baja por gravedad. Según la publicación, arranca sola cuando abrís una canilla, se apaga cuando la cerrás y no deja la cañería presurizada, algo que el fabricante destaca para instalaciones viejas. Al 11 de noviembre de 2026 era la **1° más vendida de toda la categoría Bombas Presurizadoras de MercadoLibre Argentina**, con +10 mil vendidos, y salía {{precio:MLAU3019799311}}.
+
+## Para qué casa sirve (y para cuál no)
+
+Sirve si tenés **tanque elevado y el agua sale con poca fuerza**: la ducha que gotea en vez de mojar, la canilla de la cocina floja, el calefón que no prende porque no le llega presión. La publicación la recomienda para 1 baño, o para 2 baños si uno está en planta baja y el otro en planta alta, y también para la entrada del calefón o el termotanque.
+
+No sirve si el agua está **abajo**: un pozo, una cisterna, un tanque en el piso. La ficha técnica la clasifica como "Presurizadora Tanque Elevado", y un comprador lo aprendió a la fuerza: la compró para subir agua desde tanques al ras del piso hasta un termotanque a 2 metros y dice que no le sirvió. Para eso hace falta otro tipo de bomba (en esta comparativa, la Pektra elevadora o la Lüsqtoff periférica).
+
+## Qué dicen los compradores
+
+Lo que más se repite en las reseñas buenas es el cambio de presión en toda la casa y el calefón que vuelve a encender bien. "Muy notable como cambió la presión del agua en toda la casa", dice la reseña más votada. Otro la puso en la entrada del calefón: "realmente funciona muy bien".
+
+## Lo flojo, sin vueltas
+
+- **La presión tiene techo.** La ficha declara una presión máxima de 0,8 bar. Para una ducha común alcanza, según la mayoría; para una ducha monocomando o escocesa, varios compradores dicen que mejoró poco ("Eleva muy poco la presión"). Con dos baños abiertos a la vez, uno dice que no alcanza.
+- **El automático.** Es la falla más repetida en las reseñas de 1 a 3 estrellas: que deja de cortar y queda andando, o que solo funciona en manual.
+- **Durabilidad en discusión.** Hay compradores que cuentan que dejó de andar a los días o a los pocos meses, y otros que la tienen hace tiempo sin problemas. Son experiencias reportadas, no un ensayo, pero las quejas aparecen varias veces.
+- **Agua caliente, no.** La temperatura máxima de entrada declarada es de 35 °C: va en la entrada de agua fría del calefón o termotanque, no a la salida.
+
+## Veredicto
+
+Si tu problema es poca presión con tanque elevado, es la compra más lógica: la más vendida de su categoría, la más barata de esta comparativa y la que más opiniones tiene. Instalala respetando el sentido del agua y la distancia mínima de 50 cm debajo del tanque que pide la publicación. Si tu agua está en una cisterna o un pozo, esta no es tu bomba.`,
+    faq: [
+      { question: "¿La Vasser Pre1 sirve para sacar agua de un pozo o una cisterna?", answer: "No. Es una presurizadora para tanque elevado: aumenta la presión del agua que ya baja por gravedad, no aspira agua desde abajo. Para un pozo o una cisterna hace falta una bomba centrífuga o periférica." },
+      { question: "¿Cuántos baños abastece?", answer: "La publicación la recomienda para 1 baño, o para 2 baños si uno está en planta baja y el otro en planta alta. Un comprador con 2 baños dice que la presión no le alcanzó." },
+      { question: "¿Sirve para una ducha monocomando?", answer: "Depende de la ducha. Su presión máxima declarada es de 0,8 bar, y varios compradores con duchas monocomando o escocesas dicen que la mejora fue poca. Para una ducha común, la mayoría está conforme." },
+      { question: "¿Se prende sola?", answer: "Sí, según la publicación: arranca cuando detecta que abriste una canilla y se apaga cuando la cerrás. La falla más reportada en las reseñas bajas es justamente ese automático." },
+      { question: "¿Se puede poner a la salida del termotanque?", answer: "La ficha declara una temperatura máxima de entrada de agua de 35 °C, así que va en la entrada de agua fría del calefón o termotanque, como indica la publicación, no en la salida de agua caliente." },
+      { question: "¿Qué garantía tiene?", answer: "12 meses de garantía de fábrica, según la publicación de la tienda oficial Pideweb." },
+    ],
+  },
+  {
+    id: "MLA19569423",
+    title: "Bomba Centrífuga Agua Qc150 Vasser Motorarg 1 1/2 hp 1,5 hp Monofásica",
+    canonicalName: "Vasser QC150 (centrífuga 1,5 HP)",
+    brand: "Vasser",
+    price: 150908,
+    originalPrice: 217972,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_784267-MLA104431654912_012026-F.webp",
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19569423",
+    affiliateUrl: "https://meli.la/2YLU2vW",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1043,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 5000,
+    badge: "bestseller",
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Bomba centrífuga de superficie de 1,5 HP, monofásica, con cuerpo de hierro fundido: la de más potencia declarada de esta comparativa (no la de más caudal: eso lo tiene la sumergible Pektra, pensada para otro uso), para riego, llenado de tanques altos y trasvase de agua limpia. 7° más vendida en Bombas Centrífugas de MercadoLibre Argentina.",
+    seoTitle: "Vasser QC150 1,5 HP: bomba centrífuga para riego y tanques, ¿vale la pena?",
+    metaDescription: "Bomba centrífuga Vasser QC150 de 1,5 HP a {{precio:MLA19569423}}: {{rating:MLA19569423}} estrellas en {{reviews:MLA19569423}} opiniones, 7° en Bombas Centrífugas. Para qué sirve, qué declara la ficha y la queja que más se repite.",
+    pros: [
+      "7° más vendida de la categoría Bombas Centrífugas de MercadoLibre Argentina (noviembre 2026), con +5 mil vendidos",
+      "La de más potencia declarada de esta comparativa: 1,5 HP y 86,7 l/min (unos 5.200 l/h) según la ficha — no es la de mayor caudal del grupo, eso lo declara la sumergible Pektra con 11.000 l/h, pensada para otro uso",
+      "Altura máxima de elevación declarada de 36 m, para tanques altos o riego con varios aspersores",
+      "Cuerpo de hierro fundido, eje de acero inoxidable y bobinado de cobre, según la ficha técnica; la descripción declara protector térmico",
+      "Compradores que la usan para riego la recomiendan: uno riega 3 circuitos con 5 picos cada uno y otro un jardín con 7 aspersores",
+      "{{rating:MLA19569423}} estrellas en {{reviews:MLA19569423}} opiniones",
+    ],
+    cons: [
+      "La queja más repetida: varios compradores dicen que no rinde como esperaban de una 1,5 HP (\"tira agua como si fuera una motorarg de 1hp\")",
+      "Es la más cara de esta comparativa, y el precio que vimos era de oferta por tiempo limitado: puede volver a uno más alto",
+      "Altura máxima de succión declarada de solo 4 m: no es para sacar agua de un pozo profundo",
+      "El impulsor es de plástico, según la ficha técnica",
+      "Hay reportes de pérdidas por el sello, carcasa rajada y ruido de rodamientos después de un tiempo. Son experiencias reportadas, no un ensayo",
+      "Puede ser ruidosa: un comprador que la usa para llenar el tanque dice que \"hace un quilombo bárbaro\" (otros dicen que es silenciosa)",
+    ],
+    verdict: "Es la bomba de esta comparativa para mover mucha agua: riego con varios aspersores, llenar un tanque alto rápido, trasvasar de cisterna a tanque. Declara 1,5 HP y 36 m de altura máxima (las más altas del grupo; su caudal de 86,7 l/min no es el mayor, eso lo tiene la sumergible Pektra), y sale {{precio:MLA19569423}} con {{rating:MLA19569423}} estrellas en {{reviews:MLA19569423}} opiniones. Lo que tenés que saber: la queja que más se repite es que rinde menos de lo que uno espera de 1,5 HP, su succión declarada es de solo 4 m, y no es la bomba chica que se pone sola debajo del tanque para mejorar la ducha. Para eso, la Vasser Pre1 resuelve con mucho menos.",
+    specs: [
+      { label: "Marca", value: "Vasser (Motorarg)" },
+      { label: "Modelo", value: "QC 150" },
+      { label: "Tipo", value: "Centrífuga de superficie" },
+      { label: "Potencia", value: "1,5 HP" },
+      { label: "Voltaje", value: "220 V, monofásica, 50 Hz" },
+      { label: "Caudal máximo", value: "86,7 l/min según la ficha técnica (la descripción dice 5.200 l/h)" },
+      { label: "Altura máxima de elevación", value: "36 m (altura manométrica total declarada: 33 m)" },
+      { label: "Altura máxima de succión", value: "4 m" },
+      { label: "Presión de trabajo", value: "3,3 bar" },
+      { label: "Material del cuerpo", value: "Hierro fundido" },
+      { label: "Material del impulsor", value: "Plástico" },
+      { label: "Eje", value: "Acero inoxidable" },
+      { label: "Bobinado", value: "Cobre" },
+      { label: "Protector térmico", value: "Sí, según la descripción" },
+      { label: "Entrada y salida", value: "1\" (2,54 cm)" },
+      { label: "Apta para agua sucia", value: "No (uso exclusivo con agua limpia)" },
+      { label: "Peso", value: "10,6 kg" },
+      { label: "Vendedor", value: "TECNOSIM, envío Full" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 11 meses", text: "Muy buena hasta ahora. El terreno tiene 800 mt2. Tengo 3 circuitos con 5 picos de riego cada uno. Solo la usamos para el riego. Y tiene muy buena presión. La recomiendo. Gracias." },
+      { rating: 4, country: "Argentina", date: "hace más de 1 año", text: "Es un avión! la uso como remplazo de bombeador y llena el tanque de 1000 litros a 9 mts de altura en 30 minutos clavados. Le doy cuatro estrellas porque, cómo buen avión, hace un quilombo bárbaro." },
+      { rating: 5, country: "Argentina", date: "hace 6 meses", text: "Riego todo el jardín, 7 aspersores eco hunter, vino golpeada pero no afecta su funcionamiento." },
+      { rating: 3, country: "Argentina", date: "hace 1 año", text: "La bomba anda excelente, pero la potencia es mentirosa. La vasser de 1. 5hp tira agua como si fuera una motorarg de 1hp." },
+      { rating: 1, country: "Argentina", date: "hace 9 meses", text: "Compré dos unidades y las dos fallaron. Se raja la carcaza y pierde por el sello." },
+    ],
+    relatedProducts: ["MLA22966173", "MLAU153477485", "MLAU3019799311", "MLA46094229"],
+    articleBody: `## Qué es la Vasser QC150
+
+Es una **bomba centrífuga de superficie** de 1,5 HP: queda afuera del agua, aspira por una manguera o caño y empuja el agua hacia donde la necesites. Según su publicación está pensada para agua limpia en casas y obras: subir agua de una cisterna a un tanque elevado, riego de jardines y sistemas presurizadores. Al 11 de noviembre de 2026 era la **7° más vendida de la categoría Bombas Centrífugas de MercadoLibre Argentina**, con +5 mil vendidos, y salía {{precio:MLA19569423}} en oferta por tiempo limitado.
+
+## Qué declara la ficha
+
+Es la bomba con la mayor potencia y altura máxima de esta comparativa: **1,5 HP** y **36 m de altura máxima de elevación**, con una presión de trabajo de 3,3 bar. Su caudal máximo declarado es de **86,7 l/min** (la descripción lo pasa a 5.200 l/h), que no es el más alto del grupo: la sumergible Pektra declara bastante más, pensada para otro uso. Cuerpo de hierro fundido, eje de acero inoxidable, bobinado de cobre e impulsor de plástico, todo según la ficha técnica. La descripción agrega protector térmico.
+
+Un dato que conviene mirar antes de comprar: la **altura máxima de succión es de 4 m**. Es decir, la bomba puede empujar el agua muy alto, pero no la puede chupar desde muy abajo. Si el nivel del agua de tu pozo está más profundo que eso, no es tu bomba.
+
+## Qué dicen los compradores
+
+Los conformes la usan sobre todo para **riego** y para **llenar tanques**. Uno riega un terreno de 800 m² con 3 circuitos de 5 picos cada uno; otro, un jardín con 7 aspersores. Otro cuenta que le llena un tanque de 1.000 litros a 9 metros de altura en 30 minutos, aunque avisa que hace mucho ruido. Son experiencias de uso, no una medición, pero dan una idea del rango de trabajo.
+
+## Lo flojo, sin vueltas
+
+- **La potencia percibida.** Es la crítica más repetida en las reseñas de 1 a 3 estrellas: varios compradores dicen que no rinde como esperaban de 1,5 HP ("la potencia es mentirosa"; "No parece de 1,5"). Uno dice que una de 1/2 HP que tenía antes le daba más fuerza. No lo medimos, pero aparece varias veces.
+- **Pérdidas y ruidos con el uso.** Hay reportes de carcasa rajada, pérdidas por el sello y ruido de rodamientos después de un tiempo.
+- **El precio.** Es la más cara del grupo, y lo que vimos era una oferta por tiempo limitado: puede volver a un precio más alto.
+- **No es una presurizadora de enchufar y listo.** La publicación la lista también para sistemas presurizadores, pero para eso en general hace falta sumarle un control automático aparte y una instalación más grande. Si tu problema es poca presión en la ducha con tanque elevado, la Vasser Pre1 lo resuelve con mucho menos.
+
+## Veredicto
+
+Tiene sentido si tenés que mover mucha agua: riego con varios aspersores, llenar un tanque alto rápido o trasvasar de una cisterna. Si lo tuyo es subir agua de una cisterna o de un pozo poco profundo a un tanque sin tanto caudal, la Pektra centrífuga elevadora de esta comparativa sale menos y declara más succión.`,
+    faq: [
+      { question: "¿Para qué sirve una bomba centrífuga de 1,5 HP?", answer: "Para mover bastante agua limpia de un punto a otro: riego con varios aspersores, subir agua de una cisterna a un tanque elevado o trasvasar. La Vasser QC150 declara 86,7 l/min de caudal máximo y 36 m de altura máxima de elevación." },
+      { question: "¿Sirve para sacar agua de un pozo?", answer: "Solo si el nivel del agua está cerca: su altura máxima de succión declarada es de 4 m. Para un pozo más profundo no alcanza." },
+      { question: "¿Rinde lo que dice?", answer: "La ficha declara 1,5 HP y 86,7 l/min, pero varios compradores dicen que rinde menos de lo que esperaban de esa potencia. Otros la usan para riego y llenado de tanques y están conformes. No hicimos una medición propia." },
+      { question: "¿Sirve para aumentar la presión de la ducha?", answer: "No es su uso más directo. La publicación la menciona para sistemas presurizadores, pero eso en general requiere un control automático aparte. Para poca presión con tanque elevado, una presurizadora como la Vasser Pre1 es más simple." },
+      { question: "¿Tiene protección térmica?", answer: "Según la descripción de la publicación, sí, trae protector térmico. Es lo que declara el vendedor, no algo que hayamos probado." },
+      { question: "¿Es apta para agua sucia o de pileta con hojas?", answer: "No. La ficha técnica indica que no es apta para agua sucia: es de uso exclusivo con agua limpia." },
+    ],
+  },
+  {
+    id: "MLA46094229",
+    title: "Bomba Sumergible 550w 3/4hp 8M Pektra Agua Limpia 11000l/h",
+    canonicalName: "Pektra PKSCP550K (sumergible 550 W)",
+    brand: "Pektra",
+    mpn: "PKSCP550K",
+    price: 75083,
+    originalPrice: 99999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_985833-MLA113038117830_072026-F.webp",
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA46094229",
+    affiliateUrl: "https://meli.la/1S3fZh5",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 772,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 1000,
+    badge: "bestseller",
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Bomba sumergible de desagote de 550 W para agua limpia: se mete directo en el agua y trae interruptor flotante que la prende y la apaga sola según el nivel. Para sacar agua de lluvia del cobertor de la pileta, un patio inundado o un sótano. 2° más vendida en Bombas Sumergibles de MercadoLibre Argentina.",
+    seoTitle: "Pektra sumergible 550 W: para inundaciones y cobertores, ¿vale la pena?",
+    metaDescription: "Bomba sumergible Pektra de 550 W a {{precio:MLA46094229}}: {{rating:MLA46094229}} estrellas en {{reviews:MLA46094229}} opiniones, 2° en Bombas Sumergibles. Para qué sirve, el caudal real que reportan los compradores y por qué no es para agua sucia.",
+    pros: [
+      "2° más vendida de la categoría Bombas Sumergibles de MercadoLibre Argentina (noviembre 2026), con +1000 vendidos",
+      "Trae interruptor flotante: según la publicación, se prende y se apaga sola según el nivel del agua",
+      "La descripción declara protección para funcionamiento en seco y contra sobrecarga",
+      "Cable de 10 m según la ficha técnica, para llegar a un enchufe alejado",
+      "Muchos compradores la usan para sacar agua de lluvia del cobertor de la pileta o de un patio inundado y están conformes",
+      "Tienda oficial Hidroal, 12 meses de garantía de fábrica y envío Full",
+    ],
+    cons: [
+      "El caudal es la queja que más se repite: varios compradores dicen que rinde muy por debajo de los 11.000 l/h del título (uno estima 3.500)",
+      "Es para agua limpia: la ficha dice que no es apta para agua sucia y la descripción limita los sólidos a 5 mm de grano",
+      "Tiene que estar sumergida del todo para chupar, avisa un comprador",
+      "Un comprador no pudo vaciar del todo su pileta de lona con ella (otro dice que saca hasta la última gota)",
+      "Hay reportes de unidades que se quemaron o entraron en corto. Son experiencias reportadas, no un ensayo",
+      "No es una bomba de pozo profundo: su inmersión máxima declarada es de 7 m",
+    ],
+    verdict: "Es la bomba para cuando el agua está donde no la querés: el cobertor de la pileta después de una tormenta, el patio que se inunda, un sótano. Se mete directo en el agua y el flotante la prende y la apaga sola, según la publicación. Sale {{precio:MLA46094229}} con {{rating:MLA46094229}} estrellas en {{reviews:MLA46094229}} opiniones. Lo que tenés que saber: el caudal real que reportan los compradores está muy por debajo de los 11.000 l/h del título, es para agua limpia (no barro ni aguas servidas) y no es una bomba para abastecer la casa desde un pozo.",
+    specs: [
+      { label: "Marca", value: "Pektra" },
+      { label: "Modelo", value: "PKSCP550K" },
+      { label: "Tipo", value: "Sumergible de desagote (drenaje)" },
+      { label: "Potencia", value: "550 W (3/4 HP según el título)" },
+      { label: "Voltaje", value: "220 V" },
+      { label: "Caudal máximo declarado", value: "11.000 l/h (183,33 l/min)" },
+      { label: "Altura máxima", value: "8 m (según la descripción)" },
+      { label: "Presión máxima", value: "0,8 bar (según la descripción)" },
+      { label: "Inmersión máxima", value: "7 m" },
+      { label: "Tamaño máximo de partícula", value: "5 mm (según la descripción)" },
+      { label: "Apta para agua sucia", value: "No" },
+      { label: "Encendido automático", value: "Interruptor flotante incluido" },
+      { label: "Protecciones declaradas", value: "Funcionamiento en seco y sobrecarga (según la descripción)" },
+      { label: "Grado de protección", value: "IPX8 (según la descripción)" },
+      { label: "Cable", value: "10 m" },
+      { label: "Temperatura máxima del agua", value: "35 °C (según la descripción)" },
+      { label: "Incluye", value: "Flotante, conector plástico recto y conector plástico doblado" },
+      { label: "Garantía", value: "12 meses de fábrica" },
+      { label: "Vendedor", value: "Hidroal (tienda oficial), envío Full" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 10 meses", text: "Muy conforme con el producto en relación precio/ calidad. Fácil de usar y anda muy bien para la finalidad que lo compré. , y es de sacar el agua de lluvia de la lona o cobertor de piscina." },
+      { rating: 5, country: "Argentina", date: "hace 4 meses", text: "Muy buen producto se ve de buena calidad. Lo usé mucho en lluvias torrenciales se me inundaba el patio, los desagües no daban a basto y la verdad la bomba funciona de 10 solucionó el problema." },
+      { rating: 5, country: "Argentina", date: "hace 3 meses", text: "Yo la uses para sacar agua de arriba del cobertor de la pileta, hay que tener en cuenta que la bomba debe de estar toda sumergible, porque si no no chupa." },
+      { rating: 3, country: "Argentina", date: "hace 9 meses", text: "Ni a palos tira 12000 litros hora, con toda la furia 3500. Pero anda bien." },
+      { rating: 3, country: "Argentina", date: "hace 11 meses", text: "Buena! pero debería haber comprado para agua sucia." },
+    ],
+    relatedProducts: ["MLA22966173", "MLA19569423", "MLAU3019799311", "MLAU153477485"],
+    articleBody: `## Qué es la Pektra sumergible
+
+Es una **bomba sumergible de desagote**: a diferencia de las otras bombas de esta comparativa, que quedan afuera y aspiran por una manguera, esta **se mete directo en el agua**. Motor de 550 W, interruptor flotante incluido (la prende y la apaga sola según el nivel, según la publicación) y cable de 10 m. Al 11 de noviembre de 2026 era la **2° más vendida de la categoría Bombas Sumergibles de MercadoLibre Argentina** y salía {{precio:MLA46094229}} en la tienda oficial Hidroal.
+
+## Para qué sirve
+
+Para **sacar agua de donde se acumuló**: lluvia sobre el cobertor de la pileta, un patio que se inunda, un sótano, vaciar una pileta o un tanque. La propia publicación la presenta para retirar agua de lluvia acumulada en cobertores o piletas y para elevarla desde sótanos o niveles inferiores.
+
+No sirve para **agua sucia**: la ficha técnica dice que no es apta, y la descripción limita los sólidos a partículas de 5 mm. Un comprador lo resume: "debería haber comprado para agua sucia". Tampoco es una bomba para abastecer la casa desde un pozo: su inmersión máxima declarada es de 7 m y está clasificada como de desagote.
+
+## El caudal: el número del título y lo que cuentan los compradores
+
+El título dice 11.000 l/h. Es el **caudal máximo declarado**, y en las bombas ese número suele medirse sin altura: cuanto más alto tenés que subir el agua, menos caudal sale. La crítica más repetida en las reseñas de 1 a 3 estrellas va justamente por ahí: "Ni a palos tira 12000 litros hora, con toda la furia 3500", dice uno; otro calcula que hace "el 20% de esa capacidad". No lo medimos nosotros, pero conviene comprarla sabiendo que el número del título es un máximo, no lo que vas a ver en tu patio.
+
+## Qué dicen los compradores conformes
+
+Que para el cobertor de la pileta y el agua de lluvia cumple: "anda muy bien para la finalidad que lo compré", y otro cuenta que le resolvió el patio inundado en lluvias torrenciales. Un consejo práctico que deja un comprador: **tiene que estar sumergida del todo**, "porque si no no chupa".
+
+## Lo flojo, sin vueltas
+
+- **El caudal real**, como ya contamos.
+- **Vaciado completo, en discusión.** Un comprador dice que no le sirvió para vaciar del todo su pileta de lona; otro, que saca "hasta la última gota". Depende de cómo y dónde la apoyes.
+- **Durabilidad.** Hay reportes de una unidad que se quemó a los 4 meses y otra que entró en corto al primer uso. Son experiencias puntuales, no un ensayo.
+- **Trabajo en seco.** La descripción declara protección para funcionamiento en seco y el flotante está pensado para apagarla cuando baja el nivel. Es lo que dice el fabricante, no algo que hayamos probado: si la usás, no la dejes andando sin mirar.
+
+## Veredicto
+
+Si se te junta agua de lluvia en el cobertor, el patio o el sótano, es la bomba correcta de esta comparativa, con flotante y cable largo. Comprala esperando menos caudal que el del título y solo para agua limpia.`,
+    faq: [
+      { question: "¿La Pektra sumergible sirve para agua sucia?", answer: "No. La ficha técnica indica que no es apta para agua sucia y la descripción limita los sólidos a partículas de 5 mm. Es para agua limpia, como la de lluvia." },
+      { question: "¿Tira de verdad 11.000 litros por hora?", answer: "Es el caudal máximo declarado, que en general se mide sin altura. Varios compradores dicen que el caudal real fue bastante menor; uno lo estima en 3.500 l/h. No lo medimos nosotros." },
+      { question: "¿Se apaga sola cuando no hay más agua?", answer: "Trae un interruptor flotante que, según la publicación, la prende y la apaga según el nivel del agua, y la descripción declara protección para funcionamiento en seco. Es lo que declara el fabricante, no algo que hayamos probado." },
+      { question: "¿Sirve para sacar agua de un pozo para la casa?", answer: "No está pensada para eso: es una bomba de desagote, con inmersión máxima declarada de 7 m. Para abastecer una casa desde un pozo hace falta otro tipo de bomba." },
+      { question: "¿Sirve para el agua de lluvia del cobertor de la pileta?", answer: "Es uno de los usos que declara la publicación y el más repetido entre los compradores conformes. Un comprador avisa que tiene que estar sumergida del todo para chupar." },
+      { question: "¿El agua que saca sirve para tomar?", answer: "La publicación dice \"agua limpia\", que significa sin sólidos ni barro, no apta para consumo humano. Ninguna parte de la publicación dice que la bomba sea apta para agua potable." },
+    ],
+  },
+  {
+    id: "MLA22966173",
+    title: "Bomba Pektra Centrifuga Elevadora 3/4 Hp Turbina Metálica 1 Pulgada",
+    canonicalName: "Pektra PKCPM146 (centrífuga elevadora 3/4 HP)",
+    brand: "Pektra",
+    mpn: "PKCPM146",
+    price: 115235,
+    originalPrice: 149399,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_793470-MLA115384245163_072026-F.webp",
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA22966173",
+    affiliateUrl: "https://meli.la/1BGKJVK",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 479,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 1000,
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Bomba centrífuga de superficie de 3/4 HP que Pektra publica como \"elevadora\": para subir agua limpia desde una cisterna, un aljibe o un pozo poco profundo hasta un tanque elevado. Declara 22 m de altura máxima y 8 m de succión, la más alta de esta comparativa.",
+    seoTitle: "Pektra centrífuga elevadora 3/4 HP: para subir agua al tanque, ¿vale la pena?",
+    metaDescription: "Bomba Pektra centrífuga elevadora de 3/4 HP a {{precio:MLA22966173}}: {{rating:MLA22966173}} estrellas en {{reviews:MLA22966173}} opiniones. Para subir agua de cisterna o pozo al tanque: qué declara la ficha y qué cuentan los compradores.",
+    pros: [
+      "Altura máxima de succión declarada de 8 m, la más alta de esta comparativa (la Vasser QC150 declara 4 m)",
+      "Altura máxima de elevación declarada de 22 m, para subir agua a un tanque elevado",
+      "Impulsor de metal según la publicación (el título dice bronce, la descripción cobre), contra el impulsor de plástico de la Vasser QC150",
+      "Dos compradores que venían de una bomba periférica cuentan que les sube el agua más rápido",
+      "Tienda oficial Pektra, +1000 vendidos, 12 meses de garantía de fábrica y envío gratis",
+      "{{rating:MLA22966173}} estrellas en {{reviews:MLA22966173}} opiniones",
+    ],
+    cons: [
+      "El material de la turbina no está claro: el título dice bronce, la descripción dice cobre y la ficha técnica no lo declara",
+      "Un comprador dice que no le alcanzó para subir agua de su cisterna, y otro que no le rinde los 87 l/min que esperaba",
+      "Ruido: varios compradores la describen como ruidosa o cuentan un zumbido de rodamientos (otros dicen que es silenciosa)",
+      "Hay reportes de óxido: uno dice que tira óxido después de unas horas y otro que el eje se oxidó en meses. Son experiencias reportadas, no un ensayo",
+      "Un comprador cuenta que se le rajó en la primera helada fuerte: si queda a la intemperie en invierno, protegela",
+      "La ficha técnica y la descripción no coinciden en el caudal: 80 l/min contra 4.800 l/h (unos 80 l/min) y 86,66 l/min",
+    ],
+    verdict: "Es la bomba de esta comparativa para el caso clásico de casa con cisterna o pozo poco profundo: subir el agua hasta el tanque elevado. Declara 3/4 HP, 22 m de altura máxima y 8 m de succión, la más alta del grupo, y sale {{precio:MLA22966173}} con {{rating:MLA22966173}} estrellas en {{reviews:MLA22966173}} opiniones. Lo que tenés que saber: el material de la turbina no es consistente en la publicación, hay compradores que la encuentran ruidosa y reportes de óxido con el uso. Si necesitás más potencia para riego grande, la Vasser QC150 declara el doble de HP (el caudal real que vas a mover depende también de la instalación, no solo de la potencia del motor).",
+    specs: [
+      { label: "Marca", value: "Pektra" },
+      { label: "Modelo", value: "PKCPM146" },
+      { label: "Tipo", value: "Centrífuga de superficie (publicada como elevadora)" },
+      { label: "Potencia", value: "0,75 HP (3/4 HP)" },
+      { label: "Voltaje", value: "220 V, monofásica, 50 Hz" },
+      { label: "Consumo", value: "2,6 A (según la descripción)" },
+      { label: "Caudal máximo", value: "80 l/min según la ficha técnica (la descripción dice 4.800 l/h y también 86,66 l/min)" },
+      { label: "Altura máxima de elevación", value: "22 m" },
+      { label: "Altura máxima de succión", value: "8 m" },
+      { label: "Presión de trabajo", value: "2,2 bar" },
+      { label: "Velocidad", value: "3.450 rpm (según la descripción)" },
+      { label: "Turbina", value: "Bronce según el título; la descripción dice cobre" },
+      { label: "Entrada y salida", value: "1\"" },
+      { label: "Apta para agua sucia", value: "No (ideal para agua limpia)" },
+      { label: "Peso", value: "10,5 kg" },
+      { label: "Certificación eléctrica", value: "M 10002/1 (IQC S.A.)" },
+      { label: "Garantía", value: "12 meses de fábrica" },
+      { label: "Vendedor", value: "Pektra (tienda oficial)" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", text: "Espectacular, tenía una periférica de 1/2hp que en lo que duró subía bien el agua. , pero ésta sube el agua que se re contra caga de rápido." },
+      { rating: 5, country: "Argentina", date: "hace 6 meses", text: "La conecte para probarla y anda muy bien se acortó el tiempo de carga con respecto a la (bomba periférica) ahorrando tiempo y costo energético, bastante silenciosa. ( recomendable )." },
+      { rating: 4, country: "Argentina", date: "hace 5 meses", text: "Se siente un equipo robusto, funcionó de forma silenciosa. El único punto negativo que puedo comentar es que la tercera vez que arrancó se escucha un zumbido de rodamientos. En general esta funcionando bien." },
+      { rating: 1, country: "Argentina", date: "hace más de 1 año", text: "No tiene fuerza para levantar agua de la cisterna, la puse desde la red de agua y de ahí subre un poco. Desde la cisterna nada!!." },
+      { rating: 3, country: "Argentina", date: "hace 10 meses", text: "El eje no es de acero inoxidable y en meses se óxido y la turbina no gira xq se óxido donde apreta la tuerca y los últimos hilos se borraron haciendo q gire loco y no tira agua." },
+    ],
+    relatedProducts: ["MLA19569423", "MLAU153477485", "MLA46094229", "MLAU3019799311"],
+    articleBody: `## Qué es la Pektra centrífuga elevadora
+
+Es una **bomba centrífuga de superficie** de 3/4 HP que Pektra publica como "elevadora": queda afuera del agua, aspira desde abajo y la empuja hacia arriba. Su uso típico es el de muchas casas argentinas con **cisterna, aljibe o pozo poco profundo**: subir el agua hasta el tanque elevado. La vende la tienda oficial Pektra, con +1000 vendidos, y al 11 de noviembre de 2026 salía {{precio:MLA22966173}}.
+
+## En qué se diferencia de la otra centrífuga de esta comparativa
+
+Hay que ser precisos: la Pektra y la Vasser QC150 son **el mismo tipo de bomba** (centrífugas de superficie) y las dos se publican para subir agua de una cisterna a un tanque. "Elevadora" es cómo la llama el fabricante, no una categoría técnica distinta. Lo que cambia, según sus fichas:
+
+- **Succión:** la Pektra declara 8 m; la Vasser, 4 m. Si el agua está más abajo, la Pektra declara llegar más lejos.
+- **Potencia y altura:** la Vasser declara el doble de potencia (1,5 HP contra 3/4 HP) y más altura (36 m contra 22 m).
+- **Impulsor:** la Vasser declara impulsor de plástico; la Pektra, de metal (bronce según el título, cobre según la descripción).
+
+Ojo con el pozo: una centrífuga de superficie no saca agua de cualquier profundidad. Si el nivel del agua está más abajo que la succión declarada, hace falta otra solución (una bomba sumergible de pozo profundo, que no está en esta comparativa).
+
+## Centrífuga o periférica: lo que dice el propio fabricante
+
+En su publicación, Pektra explica que las dos sirven para la misma tarea, con diferencias: las **periféricas** tiran más altura pero menos caudal (recomienda una periférica si el tanque está a más de 14 m), y si se usan poco pueden juntar sarro en la turbina y quemarse. Es la opinión del fabricante, pero coincide con lo que cuentan dos compradores que pasaron de una periférica a esta: "se acortó el tiempo de carga".
+
+## Lo flojo, sin vueltas
+
+- **La turbina.** El título dice bronce, la descripción dice cobre y la ficha técnica no lo declara. Si es decisivo para vos, preguntale al vendedor.
+- **No a todos les alcanza.** Un comprador dice que no pudo levantar agua de su cisterna, y otro que no le rinde los 87 l/min. Instalación, altura real y largo de cañería pesan mucho.
+- **Ruido y rodamientos.** Varios la encuentran ruidosa, y hay quien escucha un zumbido de rodamientos al poco tiempo. Otros dicen que es silenciosa.
+- **Óxido y helada.** Hay reportes de óxido en el eje con los meses y de una bomba que se rajó en la primera helada fuerte. Son experiencias reportadas, no un ensayo: si va a la intemperie, protegela del frío.
+
+## Veredicto
+
+Para subir agua de una cisterna o un pozo poco profundo al tanque elevado, es la opción de esta comparativa que más succión declara, a un precio intermedio. Si necesitás más potencia, mirá la Vasser QC150 (declara el doble de HP, aunque su caudal declarado es similar); si querés que la bomba arranque sola al abrir la canilla, la Lüsqtoff periférica con sensor de flujo.`,
+    faq: [
+      { question: "¿Qué significa que una bomba sea \"elevadora\"?", answer: "En esta publicación, es cómo Pektra llama a una bomba centrífuga de superficie pensada para subir agua desde abajo (cisterna, aljibe, pozo poco profundo) hasta un tanque elevado. No es una categoría técnica distinta de la centrífuga." },
+      { question: "¿Desde qué profundidad puede sacar agua?", answer: "La ficha técnica declara una altura máxima de succión de 8 m. Si el nivel del agua está más abajo, una bomba de superficie no alcanza." },
+      { question: "¿La turbina es de bronce?", answer: "El título dice bronce, pero la descripción dice \"material del impulsor: cobre\" y la ficha técnica no lo declara. Si es importante para vos, consultalo con el vendedor antes de comprar." },
+      { question: "¿Hace ruido?", answer: "Las opiniones están divididas: varios compradores la describen como ruidosa o cuentan un zumbido de rodamientos, y otros dicen que es silenciosa." },
+      { question: "¿Se prende sola cuando baja el tanque?", answer: "No trae automático. Para que arranque y pare sola hace falta sumarle un control (un flotante eléctrico en el tanque o un control de presión). La propia descripción recomienda un control de presión si se usa para presurizar desde un tanque." },
+      { question: "¿Qué garantía tiene?", answer: "12 meses de garantía de fábrica, según la publicación de la tienda oficial Pektra." },
+    ],
+  },
+  {
+    id: "MLAU153477485",
+    title: "Bomba Agua Periferica Inteligente + Sensor Automatico Flujo",
+    canonicalName: "Lüsqtoff Garden Plus BP150G-7 + sensor de flujo",
+    brand: "Lüsqtoff",
+    price: 65892,
+    originalPrice: 87624,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_699119-MLA120234796823_102026-F.webp",
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/bomba-agua-periferica-inteligente-sensor-automatico-flujo/up/MLAU153477485",
+    affiliateUrl: "https://meli.la/1YWjjbZ",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 513,
+    reviewsSampledAt: "2026-11-11",
+    soldQuantity: 1000,
+    badge: "bestseller",
+    visibility: "normal",
+    priceUpdated: "2026-11-11",
+    priceLastChecked: "2026-11-11",
+    priceStatus: "fresh",
+    description: "Kit de bomba periférica Lüsqtoff Garden Plus de 1/2 HP con sensor automático de flujo: según la publicación, arranca sola cuando abrís una canilla y se apaga cuando la cerrás, sin tanque de presión aparte, y puede tomar agua desde una cisterna. 2° más vendida en Bombas Centrífugas de MercadoLibre Argentina.",
+    seoTitle: "Lüsqtoff periférica con sensor de flujo: bomba automática, ¿vale la pena?",
+    metaDescription: "Bomba periférica Lüsqtoff con sensor automático de flujo a {{precio:MLAU153477485}}: {{rating:MLAU153477485}} estrellas en {{reviews:MLAU153477485}} opiniones. Cómo funciona el automático, para qué casa sirve y la queja del ruido.",
+    pros: [
+      "2° más vendida de la categoría Bombas Centrífugas de MercadoLibre Argentina (noviembre 2026), con +1000 vendidos",
+      "Viene con sensor de flujo: según la publicación, arranca en 2 o 3 segundos al abrir una canilla y se apaga al cerrarla, sin tanque de presión aparte",
+      "Según la publicación, si no hay agua en la red el sensor no la deja arrancar, para que no trabaje en seco; además declara protector térmico",
+      "Puede tomar agua desde una cisterna (succión declarada de 6 m), a diferencia de una presurizadora de tanque elevado",
+      "Impulsor de bronce y cuerpo de hierro fundido según la ficha técnica; certificación eléctrica IRAM",
+      "Un comprador destaca que el automático ya viene instalado al motor",
+    ],
+    cons: [
+      "El ruido es la queja más repetida: varios compradores la describen como muy ruidosa (\"un ruido que volvería loca a cualquier persona\")",
+      "Hay reportes de que el sensor o presostato dejó de andar al mes y de unidades que se quemaron en pocas semanas. Son experiencias reportadas, no un ensayo",
+      "Caudal máximo declarado modesto: 16 l/min (960 l/h), con 10 m de altura máxima",
+      "Si la usás para llenar un tanque, un comprador avisa que no para cuando el tanque se llena: el sensor detecta flujo, no nivel",
+      "Garantía de fábrica de 6 meses, la más corta de esta comparativa",
+      "Un comprador dice que el regulador le llegó de otra marca (Daewoo), no Lüsqtoff",
+    ],
+    verdict: "Es la opción de esta comparativa para quien quiere una bomba que arranque y pare sola al abrir y cerrar la canilla, y que además pueda tomar agua de una cisterna. Trae una periférica de 1/2 HP con su sensor de flujo, sale {{precio:MLAU153477485}} y tiene {{rating:MLAU153477485}} estrellas en {{reviews:MLAU153477485}} opiniones. Lo que tenés que saber: la queja número uno es el ruido, así que pensá bien dónde la vas a instalar; el caudal declarado es modesto, y hay reportes de sensores que fallaron al mes. Si ya tenés tanque elevado y solo te falta presión, la Vasser Pre1 es más barata y más simple.",
+    specs: [
+      { label: "Marca", value: "Lüsqtoff" },
+      { label: "Modelo", value: "Garden Plus BP150G-7 + sensor de flujo MPS" },
+      { label: "Tipo", value: "Periférica, con control automático por flujo" },
+      { label: "Potencia", value: "1/2 HP (370 W según la descripción)" },
+      { label: "Voltaje", value: "220 V, monofásica, 50 Hz" },
+      { label: "Caudal máximo", value: "16 l/min (960 l/h)" },
+      { label: "Altura máxima de elevación", value: "10 m" },
+      { label: "Altura máxima de succión", value: "6 m" },
+      { label: "Material del cuerpo", value: "Hierro fundido" },
+      { label: "Material del impulsor", value: "Bronce" },
+      { label: "Protector térmico", value: "Sí, según la descripción" },
+      { label: "Sensor de flujo", value: "Arranca al detectar flujo y corta al cerrar la canilla; sin flujo no arranca. Presión máx. de trabajo 10 bar, IP65 (según la descripción)" },
+      { label: "Conexiones", value: "1\"" },
+      { label: "Temperatura máxima del agua", value: "35 °C" },
+      { label: "Apta para agua sucia", value: "No" },
+      { label: "Certificación eléctrica", value: "62408 (IRAM)" },
+      { label: "Garantía", value: "6 meses de fábrica" },
+      { label: "Vendedor", value: "Pideweb (tienda oficial), envío Full" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 10 meses", text: "Tenía problemas con el agua,poca presión y caudal en la línea. Coloqué la bomba con el regulador automático de presión. Ahora tengo buena presión y caudal de agua." },
+      { rating: 5, country: "Argentina", date: "hace 2 semanas", text: "Muy buen producto. Hace lo que diceee. Lo mejor de todo que el automático ya viene instalado al motor. Te ahorras meterle mano para esos que no entienden." },
+      { rating: 5, country: "Argentina", date: "hace 3 semanas", text: "Excelente calidad la conecté abri el agua y empezó a funcionar cerré el agua y se apagó!! 👍 muy recomendable 👌 👍." },
+      { rating: 1, country: "Argentina", date: "hace 1 año", text: "Instale la bomba en el piso de abajo y se escucha un ruido que volvería loca a cualquier persona, no la recomiendo salvo que tengan un baldío donde no moleste, muy ruidosa, demasiado." },
+      { rating: 1, country: "Argentina", date: "hace más de 1 año", text: "Malísimo. La bomba funcionó un mes. Luego comenzó a fallar el presostato. Hoy ya no funciona más. Cero recomendable. Plata tirada a la basura." },
+    ],
+    relatedProducts: ["MLAU3019799311", "MLA22966173", "MLA19569423", "MLA46094229"],
+    articleBody: `## Qué es la Lüsqtoff periférica con sensor de flujo
+
+Es un kit de dos piezas: una **bomba periférica** Lüsqtoff Garden Plus de 1/2 HP y un **sensor automático de flujo**. Según la publicación, al abrir una canilla el sensor detecta que corre agua y arranca la bomba en 2 o 3 segundos; al cerrarla, la apaga. Así no hace falta un tanque de presión aparte. Al 11 de noviembre de 2026 era la **2° más vendida de la categoría Bombas Centrífugas de MercadoLibre Argentina** (ML agrupa ahí a las periféricas) y salía {{precio:MLAU153477485}}.
+
+## En qué se diferencia de la presurizadora Vasser Pre1
+
+Las dos arrancan solas al abrir una canilla, pero no son lo mismo:
+
+- **De dónde toma el agua.** La Pre1 está pensada para instalarse debajo de un tanque elevado: necesita que el agua le llegue por gravedad. La Lüsqtoff declara 6 m de succión y la publicación dice que se puede instalar tomando agua desde una cisterna.
+- **Potencia.** La Lüsqtoff es una periférica de 1/2 HP; la Pre1, una presurizadora de 120 W. La Lüsqtoff declara más altura (10 m contra 8 m), pero no medimos la presión real de ninguna de las dos.
+- **Precio y garantía.** La Pre1 es más barata y tiene 12 meses de garantía; la Lüsqtoff, 6.
+
+## Qué es una bomba periférica
+
+Es una bomba de superficie con una turbina chica que, en general, da más altura y menos caudal que una centrífuga del mismo tamaño. Pektra lo explica así en su propia publicación, y agrega una advertencia: si una periférica se usa poco, puede juntar sarro en la turbina. En el caso de la Lüsqtoff, la ficha declara 16 l/min de caudal máximo y 10 m de altura máxima.
+
+## Trabajo en seco: lo que declara la publicación
+
+Según la descripción, si no hay agua en la red, al abrir la canilla no hay flujo y el sensor no arranca la bomba, para que no trabaje en seco y se queme. Además declara protector térmico. Es lo que dice el fabricante, no algo que hayamos probado. Un comprador recomienda **purgar la bomba** (sacarle el aire) antes de ponerla a funcionar.
+
+## Lo flojo, sin vueltas
+
+- **El ruido.** Es la queja número uno: varios compradores dicen que es muy ruidosa, sobre todo si queda cerca de los dormitorios. Pensá dónde la vas a poner.
+- **El sensor.** Hay reportes de que el presostato dejó de andar al mes y de unidades que se quemaron en pocas semanas. Son experiencias reportadas, no un ensayo, pero aparecen varias veces.
+- **No corta por nivel.** El sensor detecta flujo, no nivel: un comprador que la usa para llenar tanques avisa que no para cuando se llenan.
+- **Garantía corta**, de 6 meses, y un comprador dice que el regulador le llegó de otra marca.
+
+## Veredicto
+
+Tiene sentido si querés automatismo y tu agua está en una cisterna o un tanque bajo, o si la presión de la red es floja. Si ya tenés tanque elevado y solo te falta fuerza en la ducha, la Vasser Pre1 resuelve lo mismo por menos plata y con más garantía.`,
+    faq: [
+      { question: "¿Cómo funciona el sensor automático de flujo?", answer: "Según la publicación, cuando abrís una canilla el sensor detecta que corre agua y arranca la bomba en 2 o 3 segundos; cuando la cerrás, la apaga. Por eso no necesita un tanque de presión aparte." },
+      { question: "¿Se quema si no hay agua?", answer: "Según la descripción, si no hay agua en la red no hay flujo y el sensor no arranca la bomba, para protegerla de trabajar en seco; también declara protector térmico. Es lo que declara el fabricante, no algo que hayamos probado." },
+      { question: "¿Hace mucho ruido?", answer: "Es la queja más repetida en las reseñas bajas: varios compradores la describen como muy ruidosa. Conviene instalarla lejos de los dormitorios." },
+      { question: "¿Sirve para llenar un tanque elevado?", answer: "Puede subir agua hasta 10 m según la ficha, pero el sensor corta por flujo, no por nivel: un comprador avisa que no para cuando el tanque se llena. Para eso hace falta un flotante eléctrico en el tanque." },
+      { question: "¿Qué diferencia tiene con una presurizadora como la Vasser Pre1?", answer: "Las dos arrancan solas al abrir una canilla, pero la Pre1 necesita que el agua le llegue de un tanque elevado y la Lüsqtoff puede tomarla de una cisterna (6 m de succión declarada). La Pre1 es más barata y tiene más garantía." },
+      { question: "¿Qué garantía tiene?", answer: "6 meses de garantía de fábrica, según la publicación." },
+    ],
+  },
+];
+
+curatedProducts.push(...curatedProductsBombaDeAgua);
+
 export const categoryPastels: Record<string, string> = {
   cocina: 'var(--pastel-coral)',
   hogar: 'var(--pastel-amber)',
