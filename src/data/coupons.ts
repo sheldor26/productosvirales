@@ -10,6 +10,8 @@ import type { Coupon } from "@/lib/types";
 //
 // El mensaje los llama "exclusivos para afiliados" y no trae links _Container_ ni
 // restricciones de producto: se cargan como sitio completo, igual que los de siempre.
+// Ojo: por ser cupones exclusivos para afiliados puede que ML los limite a "productos
+// seleccionados" (paso con ONCEDELONCE); el badge no lo distingue, el carrito manda.
 // Si resulta que un comprador comun no puede usarlos, hay que bajarlos.
 export const activeCoupons: Coupon[] = [
   {
