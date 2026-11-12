@@ -6,6 +6,45 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-11-11
+
+- **MLA23305108** — Guitarra Eléctrica Fender Squier Stratocaster Sonic HSS: $609.899 → $1.582.299 (+159%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA23305108
+  - Sitio: https://productosvirales.com.ar/producto/MLA23305108
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $293.000 → $135.093 (-54%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA24556041** — Pava Eléctrica Telefunken Pe800 Jarra Vidrio 1.8lt Mate Cafe: $135.000 → $2.217.739 (+1543%)
+  - ML: https://www.mercadolibre.com.ar/pava-electrica-telefunken-pe800-jarra-vidrio-18lt-mate-cafe-color-transparentenegroplateado/p/MLA24556041
+  - Sitio: https://productosvirales.com.ar/producto/MLA24556041
+- **MLA50045029** — Termómetro Digital Infrarrojo Lepu LFR30B Frente Memoria Adultos Niños: $25.990 → $58.421 (+125%)
+  - ML: https://www.mercadolibre.com.ar/termometro-digital-infrarrojo-lepu-lfr30b-frente-memoria-adultos-ninos/p/MLA50045029
+  - Sitio: https://productosvirales.com.ar/producto/MLA50045029
+- **MLA69809119** — Zapateros Mueble Zapatos Organizador Zapatero De Metal Plateado De 8 Pisos: $59.999 → $21.688 (-64%)
+  - ML: https://www.mercadolibre.com.ar/zapateros-mueble-zapatos-organizador-zapatero-de-metal-plateado-de-8-pisos/p/MLA69809119
+  - Sitio: https://productosvirales.com.ar/producto/MLA69809119
+- **MLA57822248** — Freidora de Aire Kanji KJHAF1404 — 4 Litros, 1,4 kW, Digital: $76.000 → $199.999 (+163%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA57822248
+  - Sitio: https://productosvirales.com.ar/producto/MLA57822248
+- **MLA29597823** — Bombilla Mate El Santo Mate Hexagonal Acero Inoxidable Bronce Filtro Plano: $3.883 → $50.491 (+1200%)
+  - ML: https://www.mercadolibre.com.ar/bombilla-mate-el-santo-mate-hexagonal-acero-inoxidable-bronce-filtro-plano/p/MLA29597823
+  - Sitio: https://productosvirales.com.ar/producto/MLA29597823
+- **MLA45342519** — Ventilador De Techo Peabody PE-VTRDC410B — 42: $249.899 → $9.999.999 (+3902%)
+  - ML: https://www.mercadolibre.com.ar/ventilador-de-techo-peabody-pe-vtrdc410b-42-retractil-cantidad-de-aspas-4-estructura-blanco-aspas-blanco-diametro-1067-m-frecuencia-wats-material-de-las-aspas-acrilico/p/MLA45342519
+  - Sitio: https://productosvirales.com.ar/producto/MLA45342519
+- **MLA27293299** — Inflador De Neumaticos Inalambrico Mini Recargable Gadnic Compresor De Aire Portatil 150 PSI Pantalla Digital Compacto Boquillas Incluidas: $31.349 → $67.000 (+114%)
+  - ML: https://www.mercadolibre.com.ar/inflador-de-neumaticos-inalambrico-mini-recargable-gadnic-compresor-de-aire-portatil-150-psi-pantalla-digital-compacto-boquillas-incluidas/p/MLA27293299
+  - Sitio: https://productosvirales.com.ar/producto/MLA27293299
+- **MLA50578777** — Botas de Presoterapia Gadnic 9 Intensidades Temporizador Automático 15 Min Controlador Plantillas: $348.549 → $149.999 (-57%)
+  - ML: https://www.mercadolibre.com.ar/botas-de-presoterapia-gadnic-9-intensidades-temporizador-automatico-15-min-controlador-plantillas/p/MLA50578777
+  - Sitio: https://productosvirales.com.ar/producto/MLA50578777
+
 ## 2026-11-09
 
 - **MLA27036811** — Cámara Instantánea Híbrida Fujifilm Instax Mini Evo: $374.216 → $752.968 (+101%)
