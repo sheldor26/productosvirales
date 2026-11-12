@@ -20,11 +20,11 @@ Rankeable ya, sin depender de autoridad de dominio nueva.
 | Casco de moto | 6.600-8.100 | 6 | Medio | Ítem de seguridad, buen ángulo honesto |
 | Bicicleta BMX | 3.600-4.400 | 6 | Medio | Distinta de bici fija/reclinada ya cubiertas |
 | Grabadora láser | 4.400-6.600 | 6 | Alto (máquina CNC) | — |
-| Palo de hockey | 4.400-9.900 (pico marzo) | 7 | Alto (carbono/fibra) | Cultura de hockey fuerte en AR |
+| Palo de hockey | 4.400-9.900 (pico marzo) | 7 | Alto (carbono/fibra) | 🟡 STAGED (slug `palo-de-hockey`, publishedDate 2026-11-20, commit local, pendiente flip+push) |
 | Pelota de rugby | 2.900-5.400 | 7 | Medio | — |
 | Cortadora de fiambre | 8.100-9.900 | 8 | $150k-500k | 🟡 STAGED (slug `cortadora-de-fiambre`, publishedDate 2026-11-20, commit local, pendiente flip+push) |
 | Llave de impacto | 3.600-4.400 | 8 | Medio | 🟡 STAGED (slug `llave-de-impacto`, publishedDate 2026-11-20, commit local, pendiente flip+push) |
-| Amoladora de banco | 2.400-4.400 | 8 | Medio | SERP 100% real, sin un solo redirect |
+| Amoladora de banco | 2.400-4.400 | 8 | Medio | 🟡 STAGED (slug `amoladora-de-banco`, publishedDate 2026-11-20, commit local, pendiente flip+push) |
 | Martillo demoledor | 1.900-2.900 | 8 | Medio-alto | — |
 | Pinza amperométrica | 1.600-2.900 | 8 | Medio | — |
 | Pañales para perros | 2.400-5.400 | 8 | Bajo (recompra frecuente) | 🟡 STAGED (slug `panales-para-perros`, publishedDate 2026-11-20, commit local, pendiente flip+push) |
@@ -32,7 +32,7 @@ Rankeable ya, sin depender de autoridad de dominio nueva.
 | Mesa de ping pong | 5.400-8.100 (pico dic) | 9 | Medio-alto | — |
 | ~~Cámara instantánea~~ | ~~3.600-8.100~~ | ~~9~~ | — | ❌ **ELIMINADA (2026-11-09): ya existe** `camara-instantanea`, guía completa. Repetición del error de catálogo, detectada al responder la pregunta de Juan sobre categorías nuevas |
 | Torno para madera | 1.600-1.900 | 9 | Alto | — |
-| Cama para gatos | 3.600-8.100 (pico mayo) | 9 | Bajo-medio | — |
+| Cama para gatos | 3.600-8.100 (pico mayo) | 9 | Bajo-medio | 🟡 STAGED (slug `cama-para-gatos`, publishedDate 2026-11-20, commit local, pendiente flip+push) |
 | Plegadora de chapa | 1.900-2.400 | 9 | Alto (industrial) | CPC $1,03 — el más alto de toda la sesión |
 | Hormigonera | 6.600-9.900 | 9 | Alto | — |
 | Guantes de trabajo | 1.900-3.600 | 9 | Bajo | — |
