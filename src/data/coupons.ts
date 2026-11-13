@@ -1,15 +1,18 @@
 import type { Coupon } from "@/lib/types";
 
-// Viernes 13/11: "CUPONES EXCLUSIVOS PARA AFILIADOS", tres escalones. Se sacan los de ayer.
-// `getApplicableCoupon` se queda con el que mas descuento da para cada precio:
+// Viernes 13/11: vuelven los tres escalones de siempre del Cyber, con códigos
+// nuevos. Se sacan los cupones vencidos del 12/11. Son "exclusivos para
+// afiliados", como los de ayer.
+// `getApplicableCoupon` se queda con el que más descuento da para cada precio:
 //   >= $1.000.000    -> AFILIOFF80 ($80.000)
 //   $500k a $1.000k  -> MELIBENEF45 ($45.000)
 //   $250k a $500k    -> AFILIAHORRA20 ($20.000)
 //   menos de $250k   -> sin badge
 //
-// El mensaje no trae hora de vigencia: se asume hoy hasta las 23:59 (regla del runbook).
-// Ojo: por ser cupones exclusivos para afiliados puede que ML los limite a "productos
-// seleccionados" (paso con ONCEDELONCE); el badge no lo distingue, el carrito manda.
+// El mensaje dice solo "para hoy 13/11": no trae hora de inicio ni de cierre.
+// Se asume activo ya (validFrom null) y cierre hoy 23:59, el corte de siempre.
+// Ojo: por ser exclusivos para afiliados puede que ML los limite a "productos
+// seleccionados" (pasó con ONCEDELONCE); el badge no lo distingue, el carrito manda.
 export const activeCoupons: Coupon[] = [
   {
     code: "AFILIAHORRA20",
