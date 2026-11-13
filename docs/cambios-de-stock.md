@@ -7,6 +7,18 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-11-13
+
+- 🟢 VOLVIO EL STOCK — **MLAU264994773** Pesa Rusa 16kg Kettlebells Pvc
+  - ML: https://www.mercadolibre.com.ar/pesa-rusa-16kg-kettlebells-pvc/up/MLAU264994773
+  - Sitio: https://productosvirales.com.ar/producto/MLAU264994773
+- 🟢 VOLVIO EL STOCK — **MLA63590384** Bicicleta Eléctrica R29 350w Shimano 8 Velocidades Kroner Verde Lima
+  - ML: https://www.mercadolibre.com.ar/bicicleta-electrica-r29-350w-shimano-8-velocidades-kroner-verde-lima/p/MLA63590384
+  - Sitio: https://productosvirales.com.ar/producto/MLA63590384
+- 🟢 VOLVIO EL STOCK — **MLA62445462** Bicicleta Fija Spinning LEVELFIT Levspi200 — Reforzada 150 kg, Volante 4 kg
+  - ML: https://www.mercadolibre.com.ar/bicicleta-spinning-fija-estatica-levelfit-levspi200-150-kg-reforzada/p/MLA62445462
+  - Sitio: https://productosvirales.com.ar/producto/MLA62445462
+
 ## 2026-11-09
 
 - 🟢 VOLVIO EL STOCK — **MLA54267098** Proyector Portátil Gadnic FHD ATV 9000 Lúmenes Screen Mirroring 200 ANSI Enfoque Automático Rotación 270
