@@ -7279,4 +7279,74 @@ export const socialPosts: SocialPost[] = [
     offPct: "39",
     postedAt: "2026-11-11T10:05:40-03:00",
   },
+  {
+    title: "Cafetera Espresso Gadnic 20 bar panel tactil",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_713672-MLA120067515955_102026-F.webp",
+    affiliateUrl: "https://meli.la/2t5xGLd",
+    newPrice: "129649",
+    oldPrice: "129649",
+    offPct: "0",
+    postedAt: "2026-11-11T15:35:41-03:00",
+  },
+  {
+    title: "Aire Acondicionado Split BGH Inverter Frio/Calor 3000F",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_809747-MLA120735211877_112026-F.webp",
+    affiliateUrl: "https://meli.la/1FyXJuh",
+    newPrice: "809999",
+    oldPrice: "809999",
+    offPct: "0",
+    postedAt: "2026-11-11T18:05:40-03:00",
+  },
+  {
+    title: "Smart TV Samsung 43\" FHD 43F6000",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_781807-MLA95283852822_102025-F.webp",
+    affiliateUrl: "https://meli.la/2PgFpcG",
+    newPrice: "489999",
+    oldPrice: "489999",
+    offPct: "0",
+    postedAt: "2026-11-11T18:35:30-03:00",
+  },
+  {
+    title: "Deshumidificador Gadnic 12 L por dia",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_921242-MLA106539050018_022026-F.webp",
+    affiliateUrl: "https://meli.la/2PRdJQQ",
+    newPrice: "386299",
+    oldPrice: "386299",
+    offPct: "0",
+    postedAt: "2026-11-11T19:05:38-03:00",
+  },
+  {
+    title: "Nintendo Switch 2 + Mario Kart World",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_702013-MLA99442057204_112025-F.webp",
+    affiliateUrl: "https://meli.la/29WUKaF",
+    newPrice: "1395054",
+    oldPrice: "1395054",
+    offPct: "0",
+    postedAt: "2026-11-12T20:54:20-03:00",
+  },
+  {
+    title: "MSI GeForce RTX 5060 8GB Gaming OC",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_839183-MLA93704386442_102025-F.webp",
+    affiliateUrl: "https://meli.la/1EMqvDp",
+    newPrice: "1099999",
+    oldPrice: "1099999",
+    offPct: "0",
+    postedAt: "2026-11-12T21:19:55-03:00",
+  },
+  {
+    title: "Smart TV Samsung 65\" QLED 4K QN65Q6FAAGCZB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_986582-MLA113362216941_062026-F.webp",
+    affiliateUrl: "https://meli.la/2sq4PA4",
+    newPrice: "1298999",
+    oldPrice: "1298999",
+    offPct: "0",
+    postedAt: "2026-11-13T14:39:35-03:00",
+  },
 ];
