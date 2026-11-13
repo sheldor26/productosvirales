@@ -7349,4 +7349,24 @@ export const socialPosts: SocialPost[] = [
     offPct: "0",
     postedAt: "2026-11-13T14:39:35-03:00",
   },
+  {
+    title: "Kit Starlink Estándar V4 Internet Satelital",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_976904-MLA96137902943_102025-F.webp",
+    affiliateUrl: "https://meli.la/1zzE1Ja",
+    newPrice: "399999",
+    oldPrice: "399999",
+    offPct: "0",
+    postedAt: "2026-11-13T15:12:06-03:00",
+  },
+  {
+    title: "Smart TV Philips 50\" 4K Titan OS",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_912188-MLA116833018632_092026-F.webp",
+    affiliateUrl: "https://meli.la/1PtNNSn",
+    newPrice: "674999",
+    oldPrice: "674999",
+    offPct: "0",
+    postedAt: "2026-11-13T16:37:45-03:00",
+  },
 ];
