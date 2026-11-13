@@ -98,18 +98,33 @@ El comentario de cabecera del archivo explica en español rioplatense los escalo
 Hay otras sesiones trabajando en este mismo repo, por eso todo esto:
 
 1. `git branch --show-current` tiene que dar `master`. Otras sesiones dejan HEAD en otras ramas; si no es master, pasar a master y reaplicar el cambio ahí.
-2. **Stagear solo el archivo**: `git add src/data/coupons.ts`. NUNCA `git add -A` ni `git add .`: el árbol siempre tiene decenas de archivos ajenos sin commitear (una vez se barrieron 9.212). Chequear `git status --short src/data/coupons.ts` y que la primera columna sea `M`.
-3. Commit con mensaje tipo `cupones: <qué se cargó>` y un cuerpo corto con lo raro del día. No poner atribución a Claude.
-4. Push: el remoto casi siempre está adelantado y los cambios ajenos sin commitear bloquean el `pull --rebase`. Rutina:
+2. **Antes de stagear, mirar si otra sesión ya cargó el día.** Pasó varios días seguidos: mientras buildeás, otra sesión (Codex u otro chat de Claude) escribe, commitea y pushea los mismos cupones. Chequeo:
 
 ```bash
-HAS_WIP=$(git status --porcelain --untracked-files=no | wc -l | tr -d ' ')
-if [ "$HAS_WIP" != "0" ]; then git stash push -m "wip otras sesiones (auto, cupon)" -q; fi
-git pull --rebase -q && git push
-if [ "$HAS_WIP" != "0" ]; then git stash pop -q; fi
+git fetch -q origin master
+git log origin/master --format='%h %s' -1 -- src/data/coupons.ts
 ```
 
+   Si ese último commit es del día de hoy, comparar valores (código, monto, mínima, vigencia) contra tu archivo. Si coinciden, `git checkout -- src/data/coupons.ts` y NO commitear (solo cambia el comentario de cabecera, no vale la pena un commit duplicado). Si difieren, no pisar: avisarle a Juan. Si el archivo del árbol de trabajo ya cambió solo mientras estabas por escribirlo, otra sesión está en medio de la carga: esperar a que termine su build, no correr un segundo `npm run build` (se pelean por el lock de `.next`).
+
+3. **Stagear solo el archivo**: `git add src/data/coupons.ts`. NUNCA `git add -A` ni `git add .`: el árbol siempre tiene decenas de archivos ajenos sin commitear (una vez se barrieron 9.212). Chequear `git status --short src/data/coupons.ts` y que la primera columna sea `M`.
+4. Commit con mensaje tipo `cupones: <qué se cargó>` y un cuerpo corto con lo raro del día. No poner atribución a Claude. Si `git commit` responde "nothing to commit", parar ahí: no seguir con stash, pull ni push.
+5. Push: el remoto casi siempre está adelantado y los cambios ajenos sin commitear bloquean el `pull --rebase`. Rutina, en un bloque aparte del commit:
+
+```bash
+STASHED=0
+if [ -n "$(git status --porcelain --untracked-files=no)" ]; then
+  git stash push -m "wip otras sesiones (auto, cupon)" -q && STASHED=1
+fi
+git pull --rebase -q && git push
+if [ "$STASHED" = "1" ]; then git stash pop -q; fi
+```
+
+El `pop` corre SOLO si este mismo bloque hizo el `stash` (por eso la bandera `STASHED`). Nunca hacer un `git stash pop` suelto: la lista de stashes tiene entradas viejas de otras sesiones y un `pop` sin haber stasheado vos aplica la equivocada. No encadenar el commit con el stash y el `pop` en un solo `&&`: si el commit sale vacío, el resto se saltea de formas raras.
+
 No tocar ni commitear lo stasheado: el `pop` lo devuelve. Nunca `--force`. Si el `pop` da conflicto, no resolver adivinando: avisarle a Juan. Un `.git/index.lock` viejo solo se borra si `pgrep -fl git` no muestra ningún proceso git.
+
+El push también sube los commits locales de otras sesiones que estén sin pushear (por ejemplo guías marcadas STAGED). Mirá `git log origin/master..HEAD --format='%h %an %s'` antes de pushear y mencionalo en el reporte si hay algo que no sea de cupones.
 
 ## Verificar en /enlaces (cuando Juan lo pide)
 
