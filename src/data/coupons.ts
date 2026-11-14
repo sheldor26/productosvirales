@@ -1,46 +1,42 @@
 import type { Coupon } from "@/lib/types";
 
-// Viernes 13/11: cupones exclusivos para afiliados. Se sacan los cupones vencidos
-// del 12/11.
-//   >= $1.000.000    -> AFILIOFF80 ($80.000)
-//   $500k a $1.000k  -> MELIBENEF45 ($45.000)
-//   $250k a $500k    -> AFILIAHORRA20 ($20.000)
-//   menos de $250k   -> sin badge
+// Sabado 14/11: cupones nuevos para afiliados. Se sacan los del 13/11 (AFILIAHORRA20,
+// MELIBENEF45, AFILIOFF80), que vencieron ayer a las 23:59.
+//   >= $500.000    -> MELIAFF45 ($45.000)
+//   $250k a $500k  -> AFILIMAS25 ($20.000)
+//   $150k a $250k  -> MELIAHORRA10 ($10.000)
+//   menos de $150k -> sin badge
 //
-// NO volver a cargar MELIAFF8 / AFILIMELI18 / MELIOFF25: a media mañana llegó un
-// mensaje con esos tres códigos, sin fecha, y se cargaron. Juan los probó en la
-// ficha de ML y los tres dicen "El cupón ya no está vigente": era un reenvío de
-// los del 12/11. Se sacaron el mismo día. Si vuelven a aparecer sin fecha y con
-// los mismos códigos de ayer, probar uno en el carrito antes de cargarlos.
+// HOY NO HAY ESCALON DE $1.000.000: el mensaje trae solo tres cupones y el mas alto es
+// $45.000 desde $500.000 (ayer era $80.000 desde $1.000.000). Un producto de $2.600.000
+// recibe el mismo badge que uno de $500.000. No agregar un cupon mayor por costumbre.
 //
-// El mensaje de los tres vigentes dice solo "para hoy 13/11": no trae hora de
-// inicio ni de cierre. Se asume activo ya (validFrom null) y cierre hoy 23:59, el
-// corte de siempre. Por ser exclusivos para afiliados puede que ML los limite a
-// "productos seleccionados" (pasó con ONCEDELONCE); el badge no lo distingue, el
-// carrito manda.
+// El mensaje dice "hasta las 23:59 hs o hasta que se agote el stock": no trae hora de
+// inicio, se asume activo ya (validFrom null) y cierre hoy 23:59. El corte puede ser
+// antes si se agota el stock y el badge no lo sabe: el carrito manda.
 export const activeCoupons: Coupon[] = [
   {
-    code: "AFILIAHORRA20",
+    code: "MELIAHORRA10",
+    discountAmount: 10000,
+    minPurchase: 150000,
+    validFrom: null,
+    validUntil: "2026-11-14T23:59:00-03:00",
+    active: true,
+  },
+  {
+    code: "AFILIMAS25",
     discountAmount: 20000,
     minPurchase: 250000,
     validFrom: null,
-    validUntil: "2026-11-13T23:59:00-03:00",
+    validUntil: "2026-11-14T23:59:00-03:00",
     active: true,
   },
   {
-    code: "MELIBENEF45",
+    code: "MELIAFF45",
     discountAmount: 45000,
     minPurchase: 500000,
     validFrom: null,
-    validUntil: "2026-11-13T23:59:00-03:00",
-    active: true,
-  },
-  {
-    code: "AFILIOFF80",
-    discountAmount: 80000,
-    minPurchase: 1000000,
-    validFrom: null,
-    validUntil: "2026-11-13T23:59:00-03:00",
+    validUntil: "2026-11-14T23:59:00-03:00",
     active: true,
   },
 ];
