@@ -89201,11 +89201,19 @@ El único fogonero grande (55 cm) de esta comparativa, con un extra real (admite
     },
   },
   {
+    // SWAP 2026-11-15: "Este producto no está disponible por el momento",
+    // verificado en vivo (sexta corrida). Mismo modelo exacto (Qunuy
+    // Fogoneros, modelo Lanin, 36x45x36cm, 13kg, hierro) encontrado en la
+    // tienda oficial de Qunuy (otra publicación, mismo título). Más barato
+    // ($123.934 vs $125.186) y stock bajo ("Últimas 5" al verificar).
+    // reviewCount baja de 176 a 104 (publicación distinta, dato real de la
+    // nueva, no reciclado). Permalink viejo: "https://www.mercadolibre.com.ar/brasero-fogon-fogonero-con-parrilla-y-sop-disco-qunuy-lanin/up/MLAU185145351"
     id: "MLAU185145351",
     title: "Brasero Fogon Fogonero Con Parrilla Y Soporte Disco Qunuy Lanin",
     canonicalName: "Qunuy Lanin Brasero con Parrilla y Soporte Disco",
     brand: "Qunuy",
-    price: 125186,
+    price: 123934,
+    originalPrice: 143000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_857231-MLA102301014123_122025-O.webp",
     images: [
@@ -89213,12 +89221,12 @@ El único fogonero grande (55 cm) de esta comparativa, con un extra real (admite
     ],
     category: "Hogar, Muebles y Jardín",
     categorySlug: "hogar-jardin",
-    permalink: "https://www.mercadolibre.com.ar/brasero-fogon-fogonero-con-parrilla-y-sop-disco-qunuy-lanin/up/MLAU185145351",
-    affiliateUrl: "https://meli.la/1Eiskax",
+    permalink: "https://www.mercadolibre.com.ar/fogonero-fogon-brasero-con-parrilla-y-base-de-disco-lanin/p/MLA2121095037",
+    affiliateUrl: "https://meli.la/2AaH1He",
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 176,
+    reviewCount: 104,
     badge: "bestseller",
     pastelColor: "var(--pastel-coral)",
     specs: [
@@ -89228,18 +89236,18 @@ El único fogonero grande (55 cm) de esta comparativa, con un extra real (admite
       { label: "Incluye", value: "Parrilla desmontable y soporte para disco" },
       { label: "Combustible", value: "Leña o carbón" },
       { label: "Condición", value: "Nuevo" },
-      { label: "Vendedor", value: "Tienda oficial Qunuy, +5 mil ventas" },
+      { label: "Vendedor", value: "Tienda oficial Qunuy" },
     ],
     relatedProducts: ["MLA1106653702", "MLAU222441820", "MLAU189347906"],
-    priceUpdated: "2026-11-04", priceLastChecked: "2026-10-01", priceStatus: "fresh", reviewsSampledAt: "2026-10-01",
-    description: "Brasero Qunuy Lanin, con parrilla desmontable y soporte para disco. Es el más completo de esta comparativa: 5° en Braseros de MercadoLibre, {{reviews:MLAU185145351}} opiniones a {{rating:MLAU185145351}} estrellas.",
+    priceUpdated: "2026-11-15", priceLastChecked: "2026-11-15", priceVerifiedAt: "2026-11-15", priceStatus: "fresh", reviewsSampledAt: "2026-11-15",
+    description: "Brasero Qunuy Lanin, con parrilla desmontable y soporte para disco. Es el más completo de esta comparativa, vendido por la tienda oficial de Qunuy, con {{reviews:MLAU185145351}} opiniones a {{rating:MLAU185145351}} estrellas.",
     seoTitle: "Qunuy Lanin: el fogonero más completo de esta comparativa",
     metaDescription: "Brasero Qunuy Lanin con parrilla y soporte para disco, el más completo de esta comparativa. {{reviews:MLAU185145351}} opiniones a {{rating:MLAU185145351}} estrellas.",
-    verdict: "Es el fogonero más completo de esta comparativa: trae parrilla desmontable y soporte para disco de fábrica, con la insignia MÁS VENDIDO y 5° puesto en Braseros de MercadoLibre. {{reviews:MLAU185145351}} calificaciones reales a {{rating:MLAU185145351}} estrellas, a {{precio:MLAU185145351}}, el más caro de esta comparativa por lejos. Una reseña real recomienda untarlo con grasa antes del primer uso para evitar que se oxide, porque es hierro sin pintura. La contra real: con 13 kg es el más pesado, y la manija se calienta si no se le agrega una protección.",
+    verdict: "Es el fogonero más completo de esta comparativa: trae parrilla desmontable y soporte para disco de fábrica, vendido por la tienda oficial de Qunuy. {{reviews:MLAU185145351}} calificaciones reales a {{rating:MLAU185145351}} estrellas, a {{precio:MLAU185145351}}, el más caro de esta comparativa por lejos. Una reseña real recomienda untarlo con grasa antes del primer uso para evitar que se oxide, porque es hierro sin pintura. La contra real: con 13 kg es el más pesado, y la manija se calienta si no se le agrega una protección.",
     pros: [
       "El más completo de esta comparativa: trae parrilla desmontable y soporte para disco de fábrica",
-      "Insignia MÁS VENDIDO, 5° en Braseros de MercadoLibre",
-      "{{reviews:MLAU185145351}} calificaciones a {{rating:MLAU185145351}} estrellas, vendido por tienda oficial",
+      "Vendido por la tienda oficial de Qunuy",
+      "{{reviews:MLAU185145351}} calificaciones a {{rating:MLAU185145351}} estrellas",
       "Calidad constructiva sólida, según una reseña real",
     ],
     cons: [
@@ -89247,13 +89255,14 @@ El único fogonero grande (55 cm) de esta comparativa, con un extra real (admite
       "El más pesado (13 kg)",
       "La manija se calienta: una reseña real recomienda agregarle una protección casera",
       "Es hierro sin pintura: conviene untarlo con grasa antes del primer uso para evitar que se oxide",
+      "Al verificar en vivo quedaban pocas unidades: confirmá disponibilidad antes de ir directo a comprar",
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", date: "hace 1 semana", useful: 3, text: "Fogonero de calidad constructiva. Consejos, untar con grasa por todos sus lados antes del primer uso (evita que se oxide), a la manija se le puede realizar un agüero y añadir un corcho sujeto con un tornillo para no quemarse al abrir. No tengo puntos en contra sobre el producto. Saludos🔥." },
     ],
     articleBody: `## Qué es el brasero Qunuy Lanin
 
-Es un brasero de hierro de 13 kg que trae parrilla desmontable y soporte para disco incluidos de fábrica, algo que ninguna otra ficha de esta comparativa tiene. Cuesta {{precio:MLAU185145351}}, el más caro por lejos, y tiene la insignia MÁS VENDIDO, 5° puesto en la categoría Braseros de MercadoLibre, con {{reviews:MLAU185145351}} calificaciones reales a {{rating:MLAU185145351}} estrellas.
+Es un brasero de hierro de 13 kg que trae parrilla desmontable y soporte para disco incluidos de fábrica, algo que ninguna otra ficha de esta comparativa tiene. Cuesta {{precio:MLAU185145351}}, el más caro por lejos, vendido por la tienda oficial de Qunuy, con {{reviews:MLAU185145351}} calificaciones reales a {{rating:MLAU185145351}} estrellas.
 
 ## Lo que incluye, a diferencia del resto
 
@@ -89282,15 +89291,15 @@ El más completo y el más caro de esta comparativa: trae parrilla y soporte par
       brand: { "@type": "Brand", name: "Qunuy" },
       offers: {
         "@type": "Offer",
-        url: "https://www.mercadolibre.com.ar/brasero-fogon-fogonero-con-parrilla-y-sop-disco-qunuy-lanin/up/MLAU185145351",
+        url: "https://www.mercadolibre.com.ar/fogonero-fogon-brasero-con-parrilla-y-base-de-disco-lanin/p/MLA2121095037",
         priceCurrency: "ARS",
-        price: "143000",
+        price: "123934",
         availability: "https://schema.org/InStock",
       },
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.9",
-        reviewCount: "144",
+        reviewCount: "104",
       },
     },
   },

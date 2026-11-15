@@ -30778,8 +30778,8 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "p", content: `La contra real: tanto el vendedor en su propia descripción como una reseña real confirman que la pintura es estética, no de alta temperatura, y puede pelarse con el uso. No incluye ladrillos refractarios, y una reseña real avisa que los bordes son filosos.` },
 
       { type: "h3", id: "qunuy-lanin", bigNumber: true, title: `4. Qunuy Lanin, el más completo` },
-      { type: "product-card", productMlaId: "MLAU185145351", label: "El más completo", labelColor: "amber", ranking: 4, description: `Brasero de hierro con parrilla desmontable y soporte para disco. {{rating:MLAU185145351}} de puntaje sobre {{reviews:MLAU185145351}} opiniones, 5° en Braseros de MercadoLibre.` },
-      { type: "p", content: `Es el único de esta comparativa que trae parrilla desmontable y soporte para disco incluidos de fábrica. Tiene la insignia MÁS VENDIDO, 5° puesto en Braseros de MercadoLibre, y una reseña real destaca su calidad constructiva.` },
+      { type: "product-card", productMlaId: "MLAU185145351", label: "El más completo", labelColor: "amber", ranking: 4, description: `Brasero de hierro con parrilla desmontable y soporte para disco. {{rating:MLAU185145351}} de puntaje sobre {{reviews:MLAU185145351}} opiniones, vendido por la tienda oficial de Qunuy.` },
+      { type: "p", content: `Es el único de esta comparativa que trae parrilla desmontable y soporte para disco incluidos de fábrica, vendido por la tienda oficial de Qunuy, y una reseña real destaca su calidad constructiva.` },
       { type: "p", content: `La contra real: a {{precio:MLAU185145351:k}} es el más caro de esta comparativa por lejos, y con 13 kg el más pesado. Es hierro sin pintura (conviene untarlo con grasa antes del primer uso para evitar óxido), y la manija se calienta si no se le agrega una protección, según una reseña real.` },
 
       { type: "h2", id: "tabla", title: `Los 4 fogoneros comparados` },
@@ -30787,7 +30787,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         [`[Vitdeco de cemento a bioetanol](https://meli.la/21y9nEz)`, `{{precio:MLA1106653702}}`, `{{rating:MLA1106653702}}`, `{{reviews:MLA1106653702}}`, `Decorativo, para mesa`],
         [`[Brasero Kuttura](https://meli.la/2P5ktWm)`, `{{precio:MLAU222441820}}`, `{{rating:MLAU222441820}}`, `{{reviews:MLAU222441820}}`, `Asado, el más vendido`],
         [`[Fogón Vivenza](https://meli.la/2io6u6w)`, `{{precio:MLAU189347906}}`, `{{rating:MLAU189347906}}`, `{{reviews:MLAU189347906}}`, `Patio grande`],
-        [`[Qunuy Lanin](https://meli.la/1Eiskax)`, `{{precio:MLAU185145351}}`, `{{rating:MLAU185145351}}`, `{{reviews:MLAU185145351}}`, `Asado, el más completo`],
+        [`[Qunuy Lanin](https://meli.la/2AaH1He)`, `{{precio:MLAU185145351}}`, `{{rating:MLAU185145351}}`, `{{reviews:MLAU185145351}}`, `Asado, el más completo`],
       ]},
 
       { type: "h2", id: "como-elegir", title: `Cómo elegir sin equivocarte` },
