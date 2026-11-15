@@ -22954,26 +22954,34 @@ Enjuague con agua tibia. El acero inoxidable no absorbe olores. No uses esponjas
     relatedProducts: ['MLA2466154786'],
   },
   {
+    // SWAP DE VENDEDOR (2026-11-15): la publicación original se quedó sin
+    // stock (sexta corrida, ítem satélite sin guías). La reemplaza otra
+    // publicación del mismo producto exacto (Gadnic Mixer, mismo Modelo
+    // "Mixer" en la ficha técnica), vendida por la tienda oficial Bidcom
+    // (+1M ventas). Subió de precio ($31.717→$47.699). La tienda oficial
+    // Gadnic también vende este producto más barata ($21.199), pero esa
+    // publicación está excluida del Programa de Afiliados de ML (no generó
+    // link), así que se usó Bidcom.
     id: 'MLA3674559257',
     title: 'Mezclador De Ollas Gadnic Mixer 360° Salsas Automático',
     brand: "Gadnic",
-    price: 31717,
-    priceUpdated: "2026-10-07",
-    priceLastChecked: "2026-10-09",
+    price: 47699,
+    priceUpdated: "2026-11-15",
+    priceLastChecked: "2026-11-15",
+    priceVerifiedAt: "2026-11-15",
     priceStatus: "fresh",
-    originalPrice: undefined,
+    originalPrice: 79499,
     currency: 'ARS',
-    image: 'https://http2.mlstatic.com/D_NQ_NP_2X_705238-MLA101431807809_122025-F.webp',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_681409-MLA71454925164_092023-O.webp',
     images: [
-      'https://http2.mlstatic.com/D_NQ_NP_2X_705238-MLA101431807809_122025-F.webp',
-      'https://http2.mlstatic.com/D_NQ_NP_2X_705238-MLA101431807809_122025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_681409-MLA71454925164_092023-O.webp',
     ],
     category: 'Cocina',
     categorySlug: 'cocina',
-    permalink: 'https://www.mercadolibre.com.ar/mezclador-de-ollas-gadnic-mixer-360-salsas-automatico/up/MLAU3674559257',
-    affiliateUrl: 'https://meli.la/246bPFi',
+    permalink: 'https://www.mercadolibre.com.ar/mezclador-para-ollas-automatico-gadnic-mixer-360-cocina-pro/up/MLAU162207124',
+    affiliateUrl: 'https://meli.la/1zpbYss',
     condition: 'new',
-    freeShipping: false,
+    freeShipping: true,
     rating: undefined,
     soldQuantity: undefined,
     tiktokViews: '3.5M',
@@ -22984,7 +22992,7 @@ Enjuague con agua tibia. El acero inoxidable no absorbe olores. No uses esponjas
       'Rotación 360° — mezcla uniforme sin esfuerzo',
       'Marca argentina Gadnic con 12 meses de garantía',
       'Servicio técnico local — no es marca genérica',
-      '18% de descuento — de $40.000 a $32.671',
+      '40% de descuento sobre el precio de lista',
       'Se apoya solo en la olla — manos libres total',
     ],
     cons: [
@@ -23056,9 +23064,9 @@ No tiene mucho sentido comprarlo si solo cocinás salsas de vez en cuando o si y
       brand: { '@type': 'Brand', name: 'Gadnic' },
       offers: {
         '@type': 'Offer',
-        url: 'https://meli.la/246bPFi',
+        url: 'https://meli.la/1zpbYss',
         priceCurrency: 'ARS',
-        price: 32671,
+        price: 47699,
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre' },
       },
