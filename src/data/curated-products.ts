@@ -116528,12 +116528,20 @@ El único con tanque de acero inoxidable de esta comparativa, con una contra rea
     },
   },
   {
+    // SWAP 2026-11-15: la publicación de Casa Somoza quedó "no disponible
+    // por el momento" (recae: ya se había resuelto el 2026-11-11 y volvió a
+    // caerse). Mismo modelo exacto
+    // (Euterma, Línea Hadron Digital, Modelo "Hadron 8 Kw") encontrado en la
+    // tienda oficial San Martin (+10 mil ventas, 2 años de garantía vs los 12
+    // meses del vendedor anterior), más barato ($261.126 vs $299.000) y con
+    // más reseñas reales (104 vs 54). OJO: la publicación mostraba "¡Última
+    // unidad!" al momento de verificar — puede agotarse de nuevo pronto.
+    // Permalink viejo (Casa Somoza): "https://www.mercadolibre.com.ar/calefon-electrico-euterma-digital-hadron-8-kw-tipo-atmor/up/MLAU311032832"
     id: "MLAU311032832",
-    title: "Calefón Eléctrico Euterma Digital Hadron 8 Kw - Tipo Atmor",
+    title: "Calefón Eléctrico Euterma Hadron Digital de 8 kW en Acero Inoxidable",
     canonicalName: "Euterma Hadron 8kW Calefón Eléctrico Instantáneo",
     brand: "Euterma",
-    price: 299000,
-    originalPrice: 405000,
+    price: 261126,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_719051-MLA92217042275_092025-F.webp",
     images: [
@@ -116541,38 +116549,39 @@ El único con tanque de acero inoxidable de esta comparativa, con una contra rea
     ],
     category: "Climatización",
     categorySlug: "climatizacion",
-    permalink: "https://www.mercadolibre.com.ar/calefon-electrico-euterma-digital-hadron-8-kw-tipo-atmor/up/MLAU311032832",
-    affiliateUrl: "https://meli.la/1rmJSZf",
+    permalink: "https://www.mercadolibre.com.ar/calefon-electrico-euterma-hadron-digital-de-8-kw-en-acero-inoxidable/p/MLA17445692",
+    affiliateUrl: "https://meli.la/2brw2Kn",
     condition: "new",
     freeShipping: true,
     rating: 4.1,
-    reviewCount: 54,
+    reviewCount: 104,
     pastelColor: "var(--pastel-amber)",
     specs: [
       { label: "Marca", value: "Euterma" },
       { label: "Modelo", value: "Hadron 8kW" },
-      { label: "Vendedor", value: "Casa Somoza, especialistas en climatización desde 1976, San Justo, Bs. As." },
+      { label: "Vendedor", value: "Tienda oficial San Martin, +10 mil ventas" },
       { label: "Tipo", value: "Instantáneo, sin tanque (calienta al paso)" },
       { label: "Potencia", value: "8 kW" },
       { label: "Control", value: "Digital, temperatura regulable (4 niveles frío + 3 agua caliente, confirmado por reseñas reales)" },
-      { label: "Garantía", value: "12 meses de fábrica" },
+      { label: "Garantía", value: "2 años de fábrica" },
     ],
     relatedProducts: ["MLAU234621421", "MLA68940150", "MLAU197017324", "MLA60443688"],
-    priceUpdated: "2026-11-01", priceLastChecked: "2026-11-01", priceStatus: "fresh", reviewsSampledAt: "2026-11-01",
+    priceUpdated: "2026-11-15", priceLastChecked: "2026-11-15", priceVerifiedAt: "2026-11-15", priceStatus: "fresh", reviewsSampledAt: "2026-11-15",
     description: "Calefón eléctrico instantáneo Euterma Hadron, 8 kW, digital, sin tanque. El más accesible de los instantáneos de esta comparativa, {{reviews:MLAU311032832}} opiniones a {{rating:MLAU311032832}} estrellas.",
     seoTitle: "Calefón Eléctrico Euterma Hadron 8kW: instantáneo",
-    metaDescription: "Calefón eléctrico instantáneo Euterma Hadron 8kW, sin tanque, digital. {{reviews:MLAU311032832}} opiniones a {{rating:MLAU311032832}} estrellas, de Casa Somoza.",
-    verdict: "Es el calefón eléctrico instantáneo más accesible de esta comparativa, a {{precio:MLAU311032832}}, 26% off sobre su precio de lista. No tiene tanque: calienta el agua al paso, con control digital de temperatura (4 niveles de frío y 3 de agua caliente, confirmado por una reseña real). {{reviews:MLAU311032832}} calificaciones a {{rating:MLAU311032832}} estrellas. La contra real, según su reseña más votada: el caudal de agua caliente es bajo si abrís mucho la canilla. Al ser un equipo de 8 kW, como todo instantáneo de alta potencia conviene confirmar con un electricista la instalación eléctrica antes de comprar; ninguna reseña de este modelo en particular detalla ese punto.",
+    metaDescription: "Calefón eléctrico instantáneo Euterma Hadron 8kW, sin tanque, digital. {{reviews:MLAU311032832}} opiniones a {{rating:MLAU311032832}} estrellas, de la tienda oficial San Martin.",
+    verdict: "Es el calefón eléctrico instantáneo más accesible de esta comparativa, a {{precio:MLAU311032832}}. No tiene tanque: calienta el agua al paso, con control digital de temperatura (4 niveles de frío y 3 de agua caliente, confirmado por una reseña real). {{reviews:MLAU311032832}} calificaciones a {{rating:MLAU311032832}} estrellas. La contra real, según su reseña más votada: el caudal de agua caliente es bajo si abrís mucho la canilla. Al ser un equipo de 8 kW, como todo instantáneo de alta potencia conviene confirmar con un electricista la instalación eléctrica antes de comprar; ninguna reseña de este modelo en particular detalla ese punto.",
     pros: [
-      "El instantáneo más accesible de esta comparativa, 26% off sobre su precio de lista",
+      "El instantáneo más accesible de esta comparativa",
       "Control digital con temperatura regulable (4 niveles de frío y 3 de agua caliente, confirmado por reseñas reales)",
-      "Vendido por Casa Somoza, especialistas en climatización desde 1976",
+      "Vendido por la tienda oficial San Martin, +10 mil ventas, con 2 años de garantía de fábrica",
       "No ocupa lugar de tanque: ideal cuando el espacio de instalación es limitado",
     ],
     cons: [
       "Según su reseña más votada, el caudal de agua caliente es bajo si abrís mucho la canilla",
       "Al ser un equipo de 8 kW, es esperable que necesite una instalación eléctrica robusta, pero ninguna reseña de este modelo lo detalla (sí lo confirman, para un equipo similar, las reseñas del Oryx de esta comparativa)",
       "Rating más bajo de esta comparativa (4,1 estrellas)",
+      "Al verificar en vivo, la publicación mostraba \"¡Última unidad!\": puede agotarse de nuevo pronto",
     ],
     customerReviews: [
       { rating: 4, country: "Argentina", date: "hace 1 año", useful: 18, text: "Es de buena clidad. Solo otorga agua caliente con poco caudal. Si abris mucho la canilla, fuiste." },
@@ -116582,7 +116591,7 @@ El único con tanque de acero inoxidable de esta comparativa, con una contra rea
     ],
     articleBody: `## Qué es el calefón eléctrico Euterma Hadron
 
-A diferencia de los tres anteriores de esta comparativa, el Euterma Hadron no tiene tanque: calienta el agua al paso, de forma instantánea, con 8 kW de potencia y control digital. Cuesta {{precio:MLAU311032832}}, 26% off sobre su precio de lista, y lo vende Casa Somoza, especialistas en climatización desde 1976.
+A diferencia de los tres anteriores de esta comparativa, el Euterma Hadron no tiene tanque: calienta el agua al paso, de forma instantánea, con 8 kW de potencia y control digital. Cuesta {{precio:MLAU311032832}}, y lo vende la tienda oficial San Martin, con más de 10 mil ventas y 2 años de garantía de fábrica.
 
 ## Cómo funciona el control digital
 
@@ -116604,7 +116613,7 @@ El calefón eléctrico instantáneo más accesible de esta comparativa, con cont
       { question: "¿El caudal es un problema?", answer: "Según su reseña más votada, sí: otorga agua caliente con poco caudal, y si abrís mucho la canilla, no da abasto." },
       { question: "¿Qué instalación eléctrica necesita?", answer: "Ninguna reseña de este modelo lo detalla. Al ser un equipo de 8 kW, es razonable esperar que necesite un circuito eléctrico dedicado, como sí confirman las reseñas del Oryx OR-W01 de esta comparativa (un equipo similar); conviene confirmarlo con un electricista antes de comprar." },
       { question: "¿Tiene control de temperatura?", answer: "Sí, digital, con 4 niveles de frío y 3 de agua caliente, confirmado por una reseña real." },
-      { question: "¿Quién lo vende?", answer: "Casa Somoza, especialistas en climatización con trayectoria desde 1976, con sede en San Justo, Buenos Aires." },
+      { question: "¿Quién lo vende?", answer: "La tienda oficial San Martin, con más de 10 mil ventas y 2 años de garantía de fábrica." },
     ],
     structuredData: {
       "@context": "https://schema.org",
@@ -116615,15 +116624,15 @@ El calefón eléctrico instantáneo más accesible de esta comparativa, con cont
       brand: { "@type": "Brand", name: "Euterma" },
       offers: {
         "@type": "Offer",
-        url: "https://www.mercadolibre.com.ar/calefon-electrico-euterma-digital-hadron-8-kw-tipo-atmor/up/MLAU311032832",
+        url: "https://www.mercadolibre.com.ar/calefon-electrico-euterma-hadron-digital-de-8-kw-en-acero-inoxidable/p/MLA17445692",
         priceCurrency: "ARS",
-        price: "299000",
+        price: "261126",
         availability: "https://schema.org/InStock",
       },
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.1",
-        reviewCount: "53",
+        reviewCount: "104",
       },
     },
   },
@@ -116702,7 +116711,7 @@ Dos reseñas reales distintas coinciden en que hace falta cable de 6mm, con un d
 
 ## Para quién es, y para quién no
 
-Es para vos si podés hacer la instalación eléctrica dedicada que piden las reseñas, y buscás la ficha técnica más completa de esta comparativa. Si preferís una opción instantánea más barata y te alcanza con menos funciones declaradas, el [Euterma Hadron](/producto/calefon-electrico-euterma-digital-hadron-8-kw-tipo-atmor-mlau311032832) de esta comparativa cuesta bastante menos.
+Es para vos si podés hacer la instalación eléctrica dedicada que piden las reseñas, y buscás la ficha técnica más completa de esta comparativa. Si preferís una opción instantánea más barata y te alcanza con menos funciones declaradas, el [Euterma Hadron](/producto/calefon-electrico-euterma-hadron-digital-de-8-kw-en-acero-inoxidable-mlau311032832) de esta comparativa cuesta bastante menos.
 
 ## El veredicto
 
