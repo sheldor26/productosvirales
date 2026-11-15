@@ -89685,6 +89685,16 @@ El único formato mueble de esta comparativa, con guardado real además de la ta
   // interno).
   // ─────────────────────────────────────────────────────────
   {
+    // 2026-11-15: sin stock ("Este producto no está disponible por el
+    // momento", verificado en vivo). Búsqueda de "secador multifuncional
+    // giratorio silicona joybos" y "secador de piso silicona giratorio 40cm"
+    // (188 resultados entre las dos): cero publicaciones del modelo exacto de
+    // 40cm. Joybos (misma marca) sigue vendiendo un secador de silicona
+    // giratoria de 30cm ("Magic Broom H1", MLAU4048880934, ficha nueva más
+    // abajo): se migró el rol en la guía secador-de-piso. Cambios reales:
+    // 30cm en vez de 40cm, 9° en Secadores de Piso en vez de 1° (sigue con
+    // insignia MÁS VENDIDO), vendido vía Full Súper (no RLM Home). Documentado
+    // en docs/productos-sin-stock.md.
     id: "MLAU4034576283",
     title: "Secador Multifuncional Giratorio De Silicona 40cm",
     canonicalName: "Joybos Giratorio de Silicona (más vendido)",
@@ -89705,6 +89715,7 @@ El único formato mueble de esta comparativa, con guardado real además de la ta
     reviewCount: 18,
     badge: "bestseller",
     pastelColor: "var(--pastel-green)",
+    visibility: "deprioritized",
     specs: [
       { label: "Marca", value: "Joybos" },
       { label: "Modelo", value: "Secador multifuncional" },
@@ -89717,7 +89728,7 @@ El único formato mueble de esta comparativa, con guardado real además de la ta
       { label: "Vendedor", value: "RLM Home, MercadoLíder, +1000 ventas" },
     ],
     relatedProducts: ["MLAU164982964", "MLA43797993", "MLA47355221"],
-    priceUpdated: "2026-10-03", priceLastChecked: "2026-10-03", priceStatus: "fresh", reviewsSampledAt: "2026-10-03",
+    priceUpdated: "2026-11-15", priceLastChecked: "2026-11-15", priceStatus: "out_of_stock", reviewsSampledAt: "2026-10-03",
     description: "Secador giratorio de silicona Joybos, cabezal flexible. Es el más vendido de esta comparativa: insignia MÁS VENDIDO, 1° en Secadores de Piso de MercadoLibre, {{reviews:MLAU4034576283}} opiniones a {{rating:MLAU4034576283}} estrellas.",
     seoTitle: "Joybos: el secador de piso más vendido de esta comparativa",
     metaDescription: "Secador giratorio de silicona Joybos, 1° en Secadores de Piso de MercadoLibre. {{reviews:MLAU4034576283}} opiniones a {{rating:MLAU4034576283}} estrellas.",
@@ -89778,6 +89789,105 @@ El más vendido de esta comparativa, con un diseño distinto al resto (silicona 
     },
   },
   {
+    id: "MLAU4048880934",
+    title: "Secador De Piso De Silicona Premium Con Cabezal Giratorio",
+    canonicalName: "Joybos Magic Broom H1 (más vendido)",
+    brand: "Joybos",
+    price: 14000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_773131-MLA112650161541_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_773131-MLA112650161541_062026-O.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/secador-de-piso-de-silicona-premium-con-cabezal-giratorio/up/MLAU4048880934",
+    affiliateUrl: "https://meli.la/2m9pFmE",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.1,
+    reviewCount: 15,
+    reviewsSampledAt: "2026-11-15",
+    soldQuantity: 100,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-green)",
+    visibility: "normal",
+    priceUpdated: "2026-11-15",
+    priceLastChecked: "2026-11-15",
+    priceVerifiedAt: "2026-11-15",
+    priceStatus: "fresh",
+    specs: [
+      { label: "Marca", value: "Joybos" },
+      { label: "Modelo", value: "Magic Broom H1" },
+      { label: "Largo del secador", value: "30 cm" },
+      { label: "Color", value: "Gris" },
+      { label: "Materiales", value: "Silicona y acero inoxidable" },
+      { label: "Incluye cabo", value: "Sí" },
+      { label: "Largo del cabo", value: "130 cm" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "Full Súper (MercadoLibre), +100 ventas" },
+    ],
+    relatedProducts: ["MLAU164982964", "MLA43797993", "MLA47355221"],
+    description: "Secador giratorio de silicona Joybos (modelo Magic Broom H1), cabezal flexible. Es el más vendido de esta comparativa: insignia MÁS VENDIDO, 9° en Secadores de Piso de MercadoLibre, {{reviews:MLAU4048880934}} opiniones a {{rating:MLAU4048880934}} estrellas.",
+    seoTitle: "Joybos: el secador de piso más vendido de esta comparativa",
+    metaDescription: "Secador giratorio de silicona Joybos, MÁS VENDIDO en Secadores de Piso de MercadoLibre. {{reviews:MLAU4048880934}} opiniones a {{rating:MLAU4048880934}} estrellas.",
+    verdict: "Es el secador de piso más vendido de esta comparativa, con la insignia MÁS VENDIDO (9° puesto en la categoría Secadores de Piso de MercadoLibre): {{reviews:MLAU4048880934}} calificaciones reales a {{rating:MLAU4048880934}} estrellas, a {{precio:MLAU4048880934}}. Su goma de silicona flexible gira y se adapta a rincones y bordes, con un cabo de acero inoxidable de 130 cm incluido. La contra real: tiene pocas opiniones todavía, aunque todas positivas, y es el más chico de esta comparativa (30 cm).",
+    pros: [
+      "El más vendido de esta comparativa: insignia MÁS VENDIDO, 9° en Secadores de Piso de MercadoLibre",
+      "Cabezal giratorio de silicona, flexible, llega a rincones y bordes",
+      "Incluye cabo de acero inoxidable de 130 cm",
+      "{{reviews:MLAU4048880934}} calificaciones a {{rating:MLAU4048880934}} estrellas",
+    ],
+    cons: [
+      "Pocas opiniones todavía ({{reviews:MLAU4048880934}}), aunque todas positivas",
+      "Es el más chico de esta comparativa (30 cm, más chico que el modelo de 40 cm que reemplaza)",
+    ],
+    customerReviews: [
+      { rating: 5, date: "2026", country: "Argentina", useful: 0, text: "Muy buen producto, hermosa calidad, lo volvería a comprar." },
+    ],
+    articleBody: `## Qué es el secador Joybos
+
+Es un secador giratorio de silicona, con cabezal flexible que se adapta a distintas superficies. Mide 30 cm, con cabo de acero inoxidable de 130 cm incluido. Cuesta {{precio:MLAU4048880934}} y es, hoy, el secador de piso más vendido de esta comparativa: insignia MÁS VENDIDO (9° puesto) en la categoría Secadores de Piso de MercadoLibre, con {{reviews:MLAU4048880934}} calificaciones a {{rating:MLAU4048880934}} estrellas.
+
+## La silicona giratoria
+
+Según su descripción, el diseño giratorio permite acceder fácilmente a rincones y bordes, mientras que la goma flexible de silicona se adapta a distintas superficies sin dejar marcas. Según una reseña real, "muy buen producto, hermosa calidad, lo volvería a comprar".
+
+## Lo honesto: pocas opiniones
+
+Tiene {{reviews:MLAU4048880934}} calificaciones, la base más chica de esta comparativa, aunque todas son positivas ({{rating:MLAU4048880934}} estrellas). Es también el más chico de los 4 (30 cm).
+
+## El veredicto
+
+El más vendido de esta comparativa, con un diseño distinto al resto (silicona giratoria en vez de goma tradicional). La contra real es la base de opiniones todavía chica.`,
+    faq: [
+      { question: "¿Es el secador de piso más vendido de MercadoLibre?", answer: "De esta comparativa sí: tiene la insignia MÁS VENDIDO y el 9° puesto en la categoría Secadores de Piso." },
+      { question: "¿De qué está hecho?", answer: "Goma de silicona flexible con cabo de acero inoxidable." },
+      { question: "¿Incluye el cabo?", answer: "Sí, de 130 cm." },
+      { question: "¿Tiene muchas opiniones?", answer: "Todavía pocas ({{reviews:MLAU4048880934}}), pero todas positivas, con un promedio de {{rating:MLAU4048880934}} estrellas." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Joybos Magic Broom H1 (más vendido)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_773131-MLA112650161541_062026-O.webp"],
+      description: "Secador de piso giratorio de silicona Joybos, 30 cm, con cabo de acero inoxidable incluido.",
+      brand: { "@type": "Brand", name: "Joybos" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/secador-de-piso-de-silicona-premium-con-cabezal-giratorio/up/MLAU4048880934",
+        priceCurrency: "ARS",
+        price: "14000",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.1",
+        reviewCount: "15",
+      },
+    },
+  },
+  {
     id: "MLAU164982964",
     title: "Secador De Piso Musto 75cm Royco Doble Goma",
     canonicalName: "Royco Musto 75cm (doble goma)",
@@ -89808,7 +89918,7 @@ El más vendido de esta comparativa, con un diseño distinto al resto (silicona 
       { label: "Condición", value: "Nuevo" },
       { label: "Vendedor", value: "aycdistribuidores, MercadoLíder Platinum, +5 mil ventas" },
     ],
-    relatedProducts: ["MLAU4034576283", "MLA43797993", "MLA47355221"],
+    relatedProducts: ["MLAU4048880934", "MLA43797993", "MLA47355221"],
     priceUpdated: "2026-10-07", priceLastChecked: "2026-10-03", priceStatus: "fresh", reviewsSampledAt: "2026-10-03",
     description: "Secador de piso Royco Musto, 75 cm, doble goma. Es el único de doble goma de esta comparativa, con insignia MÁS VENDIDO: {{reviews:MLAU164982964}} opiniones a {{rating:MLAU164982964}} estrellas.",
     seoTitle: "Royco Musto 75cm: el único secador con doble goma",
@@ -89901,7 +90011,7 @@ El único de esta comparativa con doble goma, ideal para superficies grandes. La
       { label: "Condición", value: "Nuevo" },
       { label: "Vendedor", value: "OFFICE EME, MercadoLíder Platinum, +10 mil ventas" },
     ],
-    relatedProducts: ["MLAU4034576283", "MLAU164982964", "MLA47355221"],
+    relatedProducts: ["MLAU4048880934", "MLAU164982964", "MLA47355221"],
     priceUpdated: "2026-11-13", priceLastChecked: "2026-10-03", priceStatus: "fresh", reviewsSampledAt: "2026-10-03",
     description: "Secador de piso Romyl de aluminio, 1 metro, con cabo incluido. Es el más grande y el único de aluminio de esta comparativa: {{reviews:MLA43797993}} opiniones a {{rating:MLA43797993}} estrellas.",
     seoTitle: "Romyl Aluminio: el secador de piso de 1 metro de esta comparativa",
@@ -89993,7 +90103,7 @@ El más grande de esta comparativa, pensado para superficies amplias (patios, lo
       { label: "Condición", value: "Nuevo" },
       { label: "Vendedor", value: "Suministros Ya, MercadoLíder Platinum, +5 mil ventas" },
     ],
-    relatedProducts: ["MLAU4034576283", "MLAU164982964", "MLA43797993"],
+    relatedProducts: ["MLAU4048880934", "MLAU164982964", "MLA43797993"],
     priceUpdated: "2026-11-13", priceLastChecked: "2026-10-03", priceStatus: "fresh", reviewsSampledAt: "2026-10-03",
     description: "Secador de piso Romyl de goma negra con alma de acero, 80 cm. Es el más barato de esta comparativa, con insignia MÁS VENDIDO: {{reviews:MLA47355221}} opiniones a {{rating:MLA47355221}} estrellas.",
     seoTitle: "Romyl Goma Negro: el secador de piso más barato de esta comparativa",
