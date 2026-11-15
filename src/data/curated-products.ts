@@ -100041,6 +100041,12 @@ Es la más barata de esta comparativa y también la de menor potencia, con 500 W
     ],
   },
   {
+    // SIN STOCK desde 2026-11-15 (sexta corrida). Sin vendedor activo con el
+    // modelo exacto Kommberg KB-AA750 en ML (búsqueda "kommberg kb-aa750
+    // amoladora", 62 resultados, ninguno de ese modelo). Reemplazada por una
+    // ficha nueva (MLA22765820, Omaha AA-750) en el ranking de la guía
+    // `amoladora` — ver docs/productos-sin-stock.md. Se deja esta ficha
+    // intacta para consulta, no se borra.
     id: "MLA61451777",
     title: "Amoladora Angular Kommberg KB-AA750 — 750 W, con 5 Discos de Corte",
     canonicalName: "Kommberg KB-AA750",
@@ -100052,7 +100058,7 @@ Es la más barata de esta comparativa y también la de menor potencia, con 500 W
     permalink: "https://www.mercadolibre.com.ar/amoladora-angular-kommberg-115mm-750w-11000rpm-5-discos-de-corte-no-albanileria/p/MLA61451777",
     affiliateUrl: "https://meli.la/1u9D9xg",
     condition: "new", freeShipping: false, rating: 4.4, reviewCount: 503,
-    pastelColor: "var(--pastel-coral)",
+    pastelColor: "var(--pastel-coral)", visibility: "deprioritized",
     specs: [
       { label: "Marca", value: "Kommberg" },
       { label: "Modelo", value: "KB-AA750" },
@@ -100065,9 +100071,9 @@ Es la más barata de esta comparativa y también la de menor potencia, con 500 W
       { label: "Peso", value: "No declarado en la ficha" },
     ],
     relatedProducts: ["MLA47236999", "MLA15402820", "MLA6067073"],
-    priceUpdated: "2026-10-12", priceLastChecked: "2026-08-18", priceVerifiedAt: "2026-08-18",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-18",
-    description: "750 W y 5 discos de corte incluidos por debajo de los $50.000. Es la de nota más baja de nuestra comparativa, y una de sus propias opiniones explica por qué: se recalienta con uso sostenido.",
+    priceUpdated: "2026-11-15", priceLastChecked: "2026-11-15", priceVerifiedAt: "2026-11-15",
+    priceStatus: "out_of_stock", reviewsSampledAt: "2026-08-18",
+    description: "Hoy sin stock. Dejamos la ficha para consulta. En la guía de amoladoras fue reemplazada por la Omaha AA-750.",
     seoTitle: "Kommberg KB-AA750: 750 W con 5 discos",
     metaDescription: "Amoladora angular Kommberg KB-AA750 de 750 W con 5 discos incluidos. La nota más baja de la comparativa y la razón, contada en una de sus opiniones.",
     verdict: "Su argumento es concreto: **750 W y 5 discos de corte incluidos** por menos de lo que sale la Gamma de 750 W sola, que viene sin discos. Pero es **la de nota más baja de esta comparativa**, con {{rating:MLA61451777}}, y la razón la explica mejor que nadie una de sus propias opiniones: dice que **el ruido a engranajes y su facilidad para recalentarse** avisan que es para uso puntual, no sostenido. Ese es exactamente el límite a tener presente. Para trabajos cortos y espaciados rinde, y otra opinión cuenta que cortó un caño de hierro de 12 cm sin problema. Dos huecos de ficha: **no declara peso** ni **si trae protección contra sobrecarga**, así que en esos campos no se la puede comparar con el resto.",
@@ -100124,6 +100130,91 @@ Su argumento es concreto: 750 W y 5 discos de corte incluidos por menos de lo qu
     ],
   },
   {
+    id: "MLA22765820",
+    title: "Amoladora Angular Omaha AA-750 — 750 W, Tienda Oficial",
+    canonicalName: "Omaha AA-750",
+    mpn: "AA-750",
+    price: 51534, originalPrice: 75898, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_835367-MLA110384678055_042026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_835367-MLA110384678055_042026-O.webp"],
+    category: "Hogar y Jardín", categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/amoladora-angular-omaha-aa-750-roja-750w-disco-115mm-con-accesorios/p/MLA22765820",
+    affiliateUrl: "https://meli.la/2MK9jnu",
+    condition: "new", freeShipping: true, rating: 4.6, reviewCount: 844,
+    pastelColor: "var(--pastel-coral)",
+    specs: [
+      { label: "Marca", value: "Omaha" },
+      { label: "Modelo", value: "AA-750" },
+      { label: "Potencia", value: "750 W" },
+      { label: "Diámetro del disco", value: "115 mm, igual que las otras cinco" },
+      { label: "Velocidad", value: "10.000 rpm" },
+      { label: "Peso", value: "1,8 kg" },
+      { label: "Protección contra sobrecarga", value: "No" },
+      { label: "Antipolvo", value: "No" },
+      { label: "Mango anti-vibración", value: "No" },
+      { label: "Mango lateral", value: "Sí" },
+      { label: "Protector de disco", value: "Sí, incluido" },
+      { label: "Vendedor", value: "Central de Herramientas, tienda oficial, +50 mil ventas" },
+    ],
+    relatedProducts: ["MLA47236999", "MLA15402820", "MLA6067073"],
+    priceUpdated: "2026-11-15", priceLastChecked: "2026-11-15", priceVerifiedAt: "2026-11-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-15",
+    description: "750 W por {{precio:MLA22765820:k}}, la más barata de esta comparativa pese a tener más potencia que la Gamma de 500 W. Vendida por la tienda oficial Central de Herramientas, con {{reviews:MLA22765820}} opiniones de respaldo.",
+    seoTitle: "Omaha AA-750: 750 W al mejor precio",
+    metaDescription: "Amoladora angular Omaha AA-750 de 750 W, la más barata de la comparativa, con {{reviews:MLA22765820}} opiniones. Qué dice una reseña real sobre el recalentamiento.",
+    verdict: "Reemplaza en esta comparativa a la Kommberg KB-AA750, que se quedó sin stock. Su argumento es el precio: **750 W por {{precio:MLA22765820:k}}**, **la más barata de las seis** pese a tener más potencia que la Gamma de 500 W, que sale más cara. La vende la tienda oficial **Central de Herramientas** (+50 mil ventas), con **{{reviews:MLA22765820}} opiniones** y {{rating:MLA22765820}} de nota, un respaldo bastante más grande que el que tenía la Kommberg que reemplaza. Ahora lo honesto: su ficha declara **sin protección contra sobrecarga**, sin mango anti-vibración y sin ser antipolvo, y una reseña real avisa lo mismo que ya advertía la Kommberg: **se calienta rápido y tarda en enfriar**, así que es para uso puntual, no sostenido. Tampoco declara traer varios discos de corte incluidos como sí hacía la publicación que reemplaza, solo los accesorios básicos (protector, anillo de apoyo, llave, carbones de repuesto).",
+    pros: [
+      "750 W por {{precio:MLA22765820:k}}, la más barata de esta comparativa",
+      "Tienda oficial (Central de Herramientas, +50 mil ventas), 12 meses de garantía",
+      "{{reviews:MLA22765820}} opiniones de respaldo, bastante más que la publicación que reemplaza",
+      "Declara peso (1,8 kg) y protección contra sobrecarga explícitamente, dos campos que la ficha anterior no publicaba",
+    ],
+    cons: [
+      "Una reseña real avisa que se calienta rápido y tarda en enfriar: es para uso puntual, no sostenido",
+      "Su ficha declara que no trae protección contra sobrecarga, ni antipolvo ni mango anti-vibración",
+      "No declara traer varios discos de corte incluidos, solo los accesorios básicos",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "Tiene bastante fuerza. Lo que si se calienta muy rapido y mucho. Y tarda bastante en enfriarse. Para tener en cuenta si necesitas trabajo continuo. Sacando esto por ahora perfecto." },
+      { rating: 4, country: "Argentina", text: "Lo use 2 veces, para cortar las cabezas de 4 tornillos de 1/4 del manillar de una cortadora de cesped que se habian aflojado pero sus tuercas estaban pegadas y funciono 10 pts. No soy profesional, pero para su uso hogareño esta muy buena." },
+    ],
+    articleBody: `## Qué es y por qué reemplaza a la Kommberg
+
+La Omaha AA-750 entra a [nuestra comparativa de amoladoras angulares en Argentina](/guias/hogar-jardin/amoladora) en el lugar de la Kommberg KB-AA750, que se quedó sin stock. Cuesta {{precio:MLA22765820:k}} y tiene {{reviews:MLA22765820}} calificaciones con {{rating:MLA22765820}} estrellas en MercadoLibre Argentina, vendida por la tienda oficial Central de Herramientas.
+
+## La más barata de las seis, con más potencia que la Gamma de 500 W
+
+Su argumento es el precio: 750 W por {{precio:MLA22765820:k}}, la más barata de esta comparativa pese a declarar más potencia que la Gamma G1922AR de 500 W, que sale más cara.
+
+## Más respaldo que la publicación que reemplaza
+
+Con {{reviews:MLA22765820}} opiniones tiene un respaldo bastante más grande que el que tenía la Kommberg KB-AA750 en esta misma comparativa.
+
+## El mismo límite que ya advertía la Kommberg: se recalienta
+
+Esta es la advertencia honesta antes de comprar. Una reseña real avisa que se calienta rápido con uso continuo y tarda en enfriarse: es la misma limitación que ya tenía la publicación que reemplaza, así que sigue siendo para uso puntual, no sostenido.
+
+## Lo que no trae, declarado en su propia ficha
+
+Su ficha técnica declara expresamente que no trae protección contra sobrecarga, ni antipolvo, ni mango anti-vibración. Tampoco declara traer varios discos de corte incluidos como promocionaba la Kommberg: solo incluye los accesorios básicos (protector de disco, anillo de apoyo, llave de ajuste, carbones de repuesto).
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más barata de esta comparativa con el respaldo de una tienda oficial. No es para vos si necesitás uso sostenido: la misma reseña que la recomienda avisa que se calienta con trabajo continuo.
+
+## El veredicto
+
+Reemplaza a la Kommberg KB-AA750 en esta comparativa. Su argumento es el precio: la más barata de las seis pese a más potencia que la Gamma de 500 W, con mucho más respaldo de opiniones. Lo honesto: el mismo límite de recalentamiento que ya tenía la publicación anterior, y sin los discos de corte que esa sí incluía.`,
+    faq: [
+      { question: "¿Por qué reemplazó a la Kommberg KB-AA750 en esta comparativa?", answer: "Porque la publicación de la Kommberg se quedó sin stock y no encontramos ningún vendedor activo con ese modelo exacto. La Omaha AA-750 cubre el mismo rol (750 W, entrada de precio) con mucho más respaldo de opiniones." },
+      { question: "¿Trae varios discos de corte incluidos?", answer: "No lo declara. Solo incluye los accesorios básicos: protector de disco, anillo de apoyo, llave de ajuste y carbones de repuesto. La Kommberg que reemplaza sí incluía 5 discos." },
+      { question: "¿Se recalienta con uso prolongado?", answer: "Una reseña real lo advierte: se calienta rápido y tarda en enfriarse, así que conviene para uso puntual, no sostenido. Es la misma limitación que ya tenía la publicación anterior." },
+      { question: "¿Tiene protección contra sobrecarga?", answer: "No, su ficha lo declara expresamente, igual que no declara ser antipolvo ni traer mango anti-vibración." },
+      { question: "¿Cuánto pesa?", answer: "1,8 kg, según declara su ficha técnica." },
+      { question: "¿Es más barata que la Gamma G1922AR de 500 W?", answer: "Sí, y encima declara más potencia (750 W contra 500 W). Es la más barata de las seis de esta comparativa." },
+    ],
+  },
+  {
     id: "MLA15402820",
     title: "Amoladora Angular Gamma G1910KAR — 750 W, 1,5 Kilos",
     canonicalName: "Gamma G1910KAR",
@@ -100142,8 +100233,8 @@ Su argumento es concreto: 750 W y 5 discos de corte incluidos por menos de lo qu
       { label: "Potencia", value: "750 W" },
       { label: "Diámetro del disco", value: "115 mm, igual que las otras cinco" },
       { label: "Velocidad", value: "11.000 rpm" },
-      { label: "Peso", value: "1,5 kg. Es el más bajo de las cinco que declaran peso" },
-      { label: "Protección contra sobrecarga", value: "Sí. Es la única de las tres que declaran el campo que dice traerla" },
+      { label: "Peso", value: "1,5 kg. Es el más bajo de las seis que declaran peso" },
+      { label: "Protección contra sobrecarga", value: "Sí. Es la única de las cuatro que declaran el campo que dice traerla" },
       { label: "Bloqueo de disco", value: "Sí" },
       { label: "Mango anti-vibración", value: "No" },
       { label: "Protector de disco", value: "Sí, incluido" },
@@ -100151,13 +100242,13 @@ Su argumento es concreto: 750 W y 5 discos de corte incluidos por menos de lo qu
     relatedProducts: ["MLA6067073", "MLA19109935", "MLA47236999"],
     priceUpdated: "2026-11-11", priceLastChecked: "2026-08-18", priceVerifiedAt: "2026-08-18",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-18",
-    description: "1,5 kg declarados, el peso más bajo de las cinco que lo publican, y la única de las tres que declaran el campo que dice traer protección contra sobrecarga. Un comprador duda de que entregue los 750 W declarados.",
+    description: "1,5 kg declarados, el peso más bajo de las seis que lo publican, y la única de las cuatro que declaran el campo que dice traer protección contra sobrecarga. Un comprador duda de que entregue los 750 W declarados.",
     seoTitle: "Gamma G1910KAR: 750 W y 1,5 kilos",
-    metaDescription: "Amoladora angular Gamma G1910KAR de 750 W y 1,5 kg, el peso más bajo de las cinco que lo declaran. Qué dicen sus compradores sobre la potencia real.",
-    verdict: "Tiene dos argumentos que se notan en el uso: **1,5 kg**, el peso más bajo de las cinco que declaran peso, y es **la única de las tres que declaran el campo que dice traer protección contra sobrecarga**. En una herramienta que se sostiene con las dos manos a la altura del pecho, medio kilo menos que la más pesada del grupo cambia el cansancio de una tarde. Con **{{reviews:MLA15402820}} opiniones** tiene un respaldo intermedio y sólido. Ahora lo honesto, y sale de sus compradores: **una opinión duda de que entregue los 750 W declarados** y la compara contra otra marca de la misma potencia que le pareció más fuerte. Y otra avisa algo práctico: **no viene con los discos que se muestran en la foto**.",
+    metaDescription: "Amoladora angular Gamma G1910KAR de 750 W y 1,5 kg, el peso más bajo de las seis que lo declaran. Qué dicen sus compradores sobre la potencia real.",
+    verdict: "Tiene dos argumentos que se notan en el uso: **1,5 kg**, el peso más bajo de las seis que declaran peso, y es **la única de las cuatro que declaran el campo que dice traer protección contra sobrecarga**. En una herramienta que se sostiene con las dos manos a la altura del pecho, medio kilo menos que la más pesada del grupo cambia el cansancio de una tarde. Con **{{reviews:MLA15402820}} opiniones** tiene un respaldo intermedio y sólido. Ahora lo honesto, y sale de sus compradores: **una opinión duda de que entregue los 750 W declarados** y la compara contra otra marca de la misma potencia que le pareció más fuerte. Y otra avisa algo práctico: **no viene con los discos que se muestran en la foto**.",
     pros: [
-      "1,5 kg, el peso más bajo de las cinco que lo declaran",
-      "La única de las tres que declaran el campo que dice traer protección contra sobrecarga",
+      "1,5 kg, el peso más bajo de las seis que lo declaran",
+      "La única de las cuatro que declaran el campo que dice traer protección contra sobrecarga",
       "Trae bloqueo de disco y protector incluido",
       "{{reviews:MLA15402820}} opiniones de respaldo",
     ],
@@ -100176,7 +100267,7 @@ Es la amoladora angular más liviana de [nuestra comparativa de amoladoras angul
 
 ## 1,5 kg y la única con protección contra sobrecarga declarada
 
-Tiene dos argumentos que se notan en el uso: 1,5 kg, el peso más bajo de las cinco que declaran peso en esta comparativa, y es la única de las tres que declaran el campo que dice traer protección contra sobrecarga. En una herramienta que se sostiene con las dos manos a la altura del pecho, medio kilo menos que la más pesada del grupo cambia el cansancio de una tarde.
+Tiene dos argumentos que se notan en el uso: 1,5 kg, el peso más bajo de las seis que declaran peso en esta comparativa, y es la única de las cuatro que declaran el campo que dice traer protección contra sobrecarga. En una herramienta que se sostiene con las dos manos a la altura del pecho, medio kilo menos que la más pesada del grupo cambia el cansancio de una tarde.
 
 ## Respaldo intermedio y sólido
 
@@ -100196,10 +100287,10 @@ Es para vos si buscás la amoladora más liviana de esta comparativa y valorás 
 
 ## El veredicto
 
-Tiene dos argumentos que se notan en el uso: 1,5 kg, el peso más bajo de las cinco que declaran peso, y protección contra sobrecarga, algo que solo ella declara del grupo. Lo honesto: una opinión duda de que entregue los 750 W declarados, y otra avisa que no viene con los discos de la foto.`,
+Tiene dos argumentos que se notan en el uso: 1,5 kg, el peso más bajo de las seis que declaran peso, y protección contra sobrecarga, algo que solo ella declara del grupo. Lo honesto: una opinión duda de que entregue los 750 W declarados, y otra avisa que no viene con los discos de la foto.`,
     faq: [
-      { question: "¿Es liviana?", answer: "Sí, con 1,5 kg es la más liviana de las cinco amoladoras de esta comparativa que declaran peso, algo que se nota en el cansancio después de una tarde de uso." },
-      { question: "¿Tiene protección contra sobrecarga?", answer: "Sí, es la única de las tres amoladoras de esta comparativa que declaran ese campo específicamente." },
+      { question: "¿Es liviana?", answer: "Sí, con 1,5 kg es la más liviana de las seis amoladoras de esta comparativa que declaran peso, algo que se nota en el cansancio después de una tarde de uso." },
+      { question: "¿Tiene protección contra sobrecarga?", answer: "Sí, es la única de las cuatro amoladoras de esta comparativa que declaran ese campo específicamente." },
       { question: "¿Realmente entrega los 750 W declarados?", answer: "Una opinión duda de eso, comparándola contra otra marca de la misma potencia que le pareció más fuerte. Es una percepción de un comprador, no una medición confirmada." },
       { question: "¿Trae los discos que se muestran en la foto?", answer: "Un comprador avisa que no, así que conviene confirmar con el vendedor qué accesorios incluye exactamente antes de comprar." },
       { question: "¿Tiene mango anti-vibración?", answer: "No, según declara su ficha técnica." },
@@ -100227,7 +100318,7 @@ Tiene dos argumentos que se notan en el uso: 1,5 kg, el peso más bajo de las ci
       { label: "Diámetro del disco", value: "115 mm, igual que las otras cinco" },
       { label: "Velocidad", value: "11.000 rpm" },
       { label: "Peso", value: "1,75 kg" },
-      { label: "Antipolvo", value: "Sí. Es la única de las tres que declaran el campo que dice serlo" },
+      { label: "Antipolvo", value: "Sí. Es la única de las cuatro que declaran el campo que dice serlo" },
       { label: "Bloqueo de disco", value: "Sí" },
       { label: "Protección contra sobrecarga", value: "No" },
       { label: "Protector de disco", value: "Sí, incluido" },
@@ -100238,18 +100329,18 @@ Tiene dos argumentos que se notan en el uso: 1,5 kg, el peso más bajo de las ci
     description: "820 W, la potencia más alta de nuestra comparativa, y con {{reviews:MLA6067073}} opiniones. La Bosch más cara sale 19% más y declara 110 W menos.",
     seoTitle: "Black+Decker G720N: 820 W, la más potente",
     metaDescription: "Amoladora angular Black+Decker G720N de 820 W, la potencia más alta de la comparativa, con {{reviews:MLA6067073}} opiniones. Y sale menos que la Bosch más cara.",
-    verdict: "Es **la más potente de esta comparativa**, con **820 W**, y acá aparece el dato que más ordena la decisión: **la Bosch GWS 700 sale 19% más y declara 110 W menos**. O sea que la potencia no sigue al precio, y en este grupo la diferencia es a favor del que menos sale. Suma **{{reviews:MLA6067073}} opiniones**, el segundo respaldo más grande del grupo, con {{rating:MLA6067073}} de nota, y es **la única de las tres que declaran el campo que dice ser antipolvo**. Lo que no trae: **protección contra sobrecarga**, que su ficha declara expresamente como No. Una opinión con años de uso en carpintería y herrería sale al cruce de las reseñas negativas que hablan de poca durabilidad, y otra cuenta que el modelo anterior de la misma línea le duró unos 14 años.",
+    verdict: "Es **la más potente de esta comparativa**, con **820 W**, y acá aparece el dato que más ordena la decisión: **la Bosch GWS 700 sale 19% más y declara 110 W menos**. O sea que la potencia no sigue al precio, y en este grupo la diferencia es a favor del que menos sale. Suma **{{reviews:MLA6067073}} opiniones**, el segundo respaldo más grande del grupo, con {{rating:MLA6067073}} de nota, y es **la única de las cuatro que declaran el campo que dice ser antipolvo**. Lo que no trae: **protección contra sobrecarga**, que su ficha declara expresamente como No. Una opinión con años de uso en carpintería y herrería sale al cruce de las reseñas negativas que hablan de poca durabilidad, y otra cuenta que el modelo anterior de la misma línea le duró unos 14 años.",
     pros: [
       "820 W, la potencia más alta de esta comparativa",
       "La Bosch más cara sale 19% más, que declara 110 W menos",
       "{{reviews:MLA6067073}} opiniones, el segundo respaldo más grande del grupo",
-      "La única de las tres que declaran el campo que dice ser antipolvo",
+      "La única de las cuatro que declaran el campo que dice ser antipolvo",
       "Trae bloqueo de disco y protector incluido",
     ],
     cons: [
       "Su ficha declara que no trae protección contra sobrecarga",
       "No trae mango anti-vibración",
-      "1,75 kg, el segundo más bajo de las cinco que declaran peso",
+      "1,75 kg, el segundo más bajo de las seis que declaran peso",
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Es de excelente calidad. Esos comentarios negativos que tiene, de que duran 3 arrancadas, es de mala suerte. Estas máquinas duran un montón. En mi caso, que hago carpintería y herrería, las tengo hace años." },
@@ -100265,7 +100356,7 @@ Es la más potente de esta comparativa, con 820 W, y acá aparece el dato que m�
 
 ## Segundo respaldo más grande, y la única antipolvo
 
-Suma {{reviews:MLA6067073}} opiniones, el segundo respaldo más grande del grupo, y es la única de las tres amoladoras de esta comparativa que declaran el campo que dice ser antipolvo.
+Suma {{reviews:MLA6067073}} opiniones, el segundo respaldo más grande del grupo, y es la única de las cuatro amoladoras de esta comparativa que declaran el campo que dice ser antipolvo.
 
 ## Durabilidad real, según compradores de años
 
@@ -100281,14 +100372,14 @@ Es para vos si buscás la mayor potencia posible de esta comparativa a buen prec
 
 ## El veredicto
 
-Es la más potente de esta comparativa, con 820 W, y la Bosch GWS 700 sale 19% más declarando 110 W menos. Suma el segundo respaldo más grande del grupo y es la única antipolvo de las tres que declaran ese campo. Lo que no trae: protección contra sobrecarga ni mango anti-vibración.`,
+Es la más potente de esta comparativa, con 820 W, y la Bosch GWS 700 sale 19% más declarando 110 W menos. Suma el segundo respaldo más grande del grupo y es la única antipolvo de las cuatro que declaran ese campo. Lo que no trae: protección contra sobrecarga ni mango anti-vibración.`,
     faq: [
       { question: "¿Es más potente que la Bosch GWS 700?", answer: "Sí, con 820 W contra 710 W, y encima sale 19% menos que esa Bosch. Es el dato que más ordena la decisión en esta comparativa." },
       { question: "¿Es duradera?", answer: "Las reseñas con más historial la respaldan: un comprador de carpintería y herrería la usa hace años sin problemas, y otro reporta 14 años de uso del modelo anterior de la misma línea." },
       { question: "¿Tiene protección contra sobrecarga?", answer: "No, su ficha lo declara expresamente." },
-      { question: "¿Es antipolvo?", answer: "Sí, es la única de las tres amoladoras de esta comparativa que declaran ese campo específicamente." },
+      { question: "¿Es antipolvo?", answer: "Sí, es la única de las cuatro amoladoras de esta comparativa que declaran ese campo específicamente." },
       { question: "¿Tiene mango anti-vibración?", answer: "No. Si necesitás esa función, la Bosch GWS 700 de esta comparativa sí la declara." },
-      { question: "¿Cuánto pesa?", answer: "1,75 kg, el segundo más bajo de las cinco amoladoras de esta comparativa que declaran peso." },
+      { question: "¿Cuánto pesa?", answer: "1,75 kg, el segundo más bajo de las seis amoladoras de esta comparativa que declaran peso." },
     ],
   },
   {
@@ -100309,16 +100400,16 @@ Es la más potente de esta comparativa, con 820 W, y la Bosch GWS 700 sale 19% m
       { label: "Modelo", value: "GWS 770" },
       { label: "Potencia", value: "770 W" },
       { label: "Diámetro del disco", value: "115 mm, igual que las otras cinco" },
-      { label: "Peso", value: "2,1 kg. Es el más alto de las cinco que declaran peso" },
+      { label: "Peso", value: "2,1 kg. Es el más alto de las seis que declaran peso" },
       { label: "Velocidad", value: "Su ficha de MercadoLibre declara un valor imposible para una amoladora, así que no lo comparamos" },
     ],
     relatedProducts: ["MLA19109935", "MLA6067073", "MLA15402820"],
     priceUpdated: "2026-11-13", priceLastChecked: "2026-08-18", priceVerifiedAt: "2026-08-18",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-18",
-    description: "770 W de la marca de referencia, con {{reviews:MLA52713529}} opiniones. Es la más pesada de las cinco que declaran peso, y su ficha de ML tiene la velocidad mal cargada.",
+    description: "770 W de la marca de referencia, con {{reviews:MLA52713529}} opiniones. Es la más pesada de las seis que declaran peso, y su ficha de ML tiene la velocidad mal cargada.",
     seoTitle: "Bosch GWS 770: 770 W de la marca de referencia",
     metaDescription: "Amoladora angular Bosch GWS 770 de 770 W y disco de 115 mm. Qué ofrece frente a las más baratas y qué dato de su ficha no cierra.",
-    verdict: "Es la Bosch de entrada de esta comparativa y su argumento es el respaldo de marca más el historial: **{{reviews:MLA52713529}} opiniones** con {{rating:MLA52713529}}. Declara **770 W**, menos que la Black+Decker de 820 W que sale bastante menos, así que acá no se está comprando potencia. Con **2,1 kg** es **la más pesada de las cinco que declaran peso**. Un detalle de transparencia: **su ficha de MercadoLibre declara una velocidad imposible para una amoladora**, así que no la usamos para compararla y preferimos decirlo antes que publicar un número que no cierra. Una opinión cuenta que en su trabajo las usan de forma intensiva hace años sin problemas; otra, más dura y también publicada, relata que a los 19 días se le rompió un rodamiento y que le reembolsaron el 25%.",
+    verdict: "Es la Bosch de entrada de esta comparativa y su argumento es el respaldo de marca más el historial: **{{reviews:MLA52713529}} opiniones** con {{rating:MLA52713529}}. Declara **770 W**, menos que la Black+Decker de 820 W que sale bastante menos, así que acá no se está comprando potencia. Con **2,1 kg** es **la más pesada de las seis que declaran peso**. Un detalle de transparencia: **su ficha de MercadoLibre declara una velocidad imposible para una amoladora**, así que no la usamos para compararla y preferimos decirlo antes que publicar un número que no cierra. Una opinión cuenta que en su trabajo las usan de forma intensiva hace años sin problemas; otra, más dura y también publicada, relata que a los 19 días se le rompió un rodamiento y que le reembolsaron el 25%.",
     pros: [
       "{{reviews:MLA52713529}} opiniones con nota alta",
       "770 W de la marca de referencia del rubro",
@@ -100326,7 +100417,7 @@ Es la más potente de esta comparativa, con 820 W, y la Bosch GWS 700 sale 19% m
     ],
     cons: [
       "Declara menos potencia que la Black+Decker, que sale bastante menos",
-      "2,1 kg, el peso más alto de las cinco que lo declaran",
+      "2,1 kg, el peso más alto de las seis que lo declaran",
       "Su ficha de MercadoLibre trae la velocidad mal cargada",
       "Una opinión relata la rotura de un rodamiento a los 19 días de uso intensivo",
     ],
@@ -100352,7 +100443,7 @@ Otra opinión, más dura y también publicada, relata que a los 19 días se le r
 
 ## Es la más pesada del grupo, y su ficha tiene un error
 
-Con 2,1 kg es la más pesada de las cinco de esta comparativa que declaran peso. Un detalle de transparencia: su ficha de MercadoLibre declara una velocidad imposible para una amoladora, así que no la usamos para comparar y preferimos decirlo antes que publicar un número que no cierra.
+Con 2,1 kg es la más pesada de las seis de esta comparativa que declaran peso. Un detalle de transparencia: su ficha de MercadoLibre declara una velocidad imposible para una amoladora, así que no la usamos para comparar y preferimos decirlo antes que publicar un número que no cierra.
 
 ## Para quién es, y para quién no
 
@@ -100365,7 +100456,7 @@ Es la Bosch de entrada de esta comparativa y su argumento es el respaldo de marc
       { question: "¿Es más potente que la Black+Decker G720N?", answer: "No, declara 770 W contra los 820 W de esa Black+Decker de esta comparativa, que además sale bastante menos. Acá se compra respaldo de marca, no más potencia." },
       { question: "¿Es duradera?", answer: "Un comprador reporta uso intensivo de varios años sin problemas en albañilería y herrería. Otro tuvo una rotura de rodamiento a los 19 días, con reembolso parcial reconocido." },
       { question: "¿Cuál es su velocidad real?", answer: "Su ficha de MercadoLibre declara un valor imposible para una amoladora, así que no lo usamos para comparar contra el resto de esta comparativa." },
-      { question: "¿Es pesada?", answer: "Sí, con 2,1 kg es la más pesada de las cinco amoladoras de esta comparativa que declaran peso." },
+      { question: "¿Es pesada?", answer: "Sí, con 2,1 kg es la más pesada de las seis amoladoras de esta comparativa que declaran peso." },
       { question: "¿Tiene buen respaldo de reseñas?", answer: "Sí, {{reviews:MLA52713529}} opiniones con nota alta, uno de los historiales más sólidos de esta comparativa." },
       { question: "¿Vale la pena pagarla frente a opciones más baratas?", answer: "Si el respaldo de la marca Bosch es tu prioridad, sí. Si buscás más potencia por menos plata, la Black+Decker G720N de esta comparativa rinde más." },
     ],
@@ -100391,7 +100482,7 @@ Es la Bosch de entrada de esta comparativa y su argumento es el respaldo de marc
       { label: "Diámetro del disco", value: "115 mm, igual que las otras cinco" },
       { label: "Velocidad", value: "12.000 rpm. Es la más alta de las cinco con velocidad comparable" },
       { label: "Peso", value: "1,8 kg" },
-      { label: "Mango anti-vibración", value: "Sí. Es la única de las tres que declaran el campo que dice traerlo" },
+      { label: "Mango anti-vibración", value: "Sí. Es la única de las cuatro que declaran el campo que dice traerlo" },
       { label: "Bloqueo de disco", value: "Sí" },
       { label: "Protección contra sobrecarga", value: "No" },
       { label: "Protector de disco", value: "Sí, incluido" },
@@ -100402,12 +100493,12 @@ Es la Bosch de entrada de esta comparativa y su argumento es el respaldo de marc
     description: "La más elegida de nuestra comparativa por lejos, con {{reviews:MLA19109935}} opiniones y la nota más alta del grupo. También la más cara: sale el doble que la Gamma de 500 W.",
     seoTitle: "Bosch GWS 700: la amoladora más elegida",
     metaDescription: "Amoladora angular Bosch GWS 700 Professional de 710 W y 12.000 rpm, con {{reviews:MLA19109935}} opiniones y {{rating:MLA19109935}} de nota. Qué justifica el precio y qué no.",
-    verdict: "Es **la más elegida de esta comparativa por muchísima diferencia**: **{{reviews:MLA19109935}} opiniones** con **{{rating:MLA19109935}}**, la nota más alta de las seis. Ese respaldo es el argumento principal y no tiene comparación en el grupo. Suma **12.000 rpm**, la velocidad más alta de las cinco con dato comparable, y es **la única de las tres que declaran el campo que dice traer mango anti-vibración**, que en un uso largo es lo que decide cómo terminan las manos. Ahora lo honesto: es **la más cara de las seis**, sale **el doble que la Gamma de 500 W**, y declara **710 W**, menos que la Black+Decker de 820 W, sobre la que sale 19% más. Acá se paga marca, terminación y respaldo, no potencia. Una opinión con 4 de 5 apunta a un defecto concreto: el botón lateral es muy liviano y se apaga con cualquier toque, interrumpiendo el trabajo.",
+    verdict: "Es **la más elegida de esta comparativa por muchísima diferencia**: **{{reviews:MLA19109935}} opiniones** con **{{rating:MLA19109935}}**, la nota más alta de las seis. Ese respaldo es el argumento principal y no tiene comparación en el grupo. Suma **12.000 rpm**, la velocidad más alta de las cinco con dato comparable, y es **la única de las cuatro que declaran el campo que dice traer mango anti-vibración**, que en un uso largo es lo que decide cómo terminan las manos. Ahora lo honesto: es **la más cara de las seis**, sale **el doble que la Gamma de 500 W**, y declara **710 W**, menos que la Black+Decker de 820 W, sobre la que sale 19% más. Acá se paga marca, terminación y respaldo, no potencia. Una opinión con 4 de 5 apunta a un defecto concreto: el botón lateral es muy liviano y se apaga con cualquier toque, interrumpiendo el trabajo.",
     pros: [
       "La más elegida de esta comparativa, con {{reviews:MLA19109935}} opiniones",
       "La nota más alta de las seis",
       "12.000 rpm, la más alta de las cinco con velocidad comparable",
-      "La única de las tres que declaran el campo que dice traer mango anti-vibración",
+      "La única de las cuatro que declaran el campo que dice traer mango anti-vibración",
       "Trae bloqueo de disco y protector incluido",
     ],
     cons: [
@@ -100430,7 +100521,7 @@ Es la más elegida de esta comparativa por muchísima diferencia: {{reviews:MLA1
 
 ## La única con mango anti-vibración declarado
 
-Suma 12.000 rpm, la velocidad más alta de las cinco con dato comparable, y es la única de las tres amoladoras de esta comparativa que declaran el campo que dice traer mango anti-vibración, que en un uso largo es lo que decide cómo terminan las manos.
+Suma 12.000 rpm, la velocidad más alta de las cinco con dato comparable, y es la única de las cuatro amoladoras de esta comparativa que declaran el campo que dice traer mango anti-vibración, que en un uso largo es lo que decide cómo terminan las manos.
 
 ## Lo honesto: acá se paga marca, no potencia
 
