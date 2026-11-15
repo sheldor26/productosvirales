@@ -20717,24 +20717,29 @@ Si en cambio buscás algo discreto, sonido cuidado, cancelación de ruido o resi
   },
   // ─── Auriculares JBL + deportivos (satélites) — via API ML, links propios de Juan ───
   {
+    // SWAP DE VENDEDOR (2026-11-15): la publicación original dio 404 (sexta
+    // corrida). La reemplaza otra publicación del mismo modelo exacto
+    // (JBL Wave Beam 2, modelo detallado JBLWBEAM2BLK, negro, con ANC),
+    // vendida por LGM IMPORT SRL (MercadoLíder, +5mil ventas), badge "MÁS
+    // VENDIDO, 10° en Auriculares". rating/reviewCount actualizados a los
+    // reales de la nueva publicación (4.8★/8239, más que antes).
     id: "MLA53657592",
     title: "Auriculares Jbl Wave Beam 2 Tws In-ear Negro",
     canonicalName: "Auriculares JBL Wave Beam 2",
-    price: 119990,
+    price: 120999,
     currency: "ARS",
-    image: "https://http2.mlstatic.com/D_NQ_NP_826282-MLA99972049705_112025-F.jpg",
+    image: "https://http2.mlstatic.com/D_NQ_NP_914224-MLA83310376243_032025-O.webp",
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_826282-MLA99972049705_112025-F.jpg",
-      "https://http2.mlstatic.com/D_NQ_NP_839747-MLA89957416224_082025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_914224-MLA83310376243_032025-O.webp",
     ],
     category: "Auriculares",
     categorySlug: "audio",
-    permalink: "https://www.mercadolibre.com.ar/p/MLA53657592",
-    affiliateUrl: "https://meli.la/2nnvajF",
+    permalink: "https://www.mercadolibre.com.ar/auriculares-multipunto-jbl-wavebeam2-snoise-bluetooth-ip54-color-negro/p/MLA47410325",
+    affiliateUrl: "https://meli.la/2DmdJEq",
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 2195,
+    reviewCount: 8239,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
@@ -20751,15 +20756,17 @@ Si en cambio buscás algo discreto, sonido cuidado, cancelación de ruido o resi
       { label: "Códecs", value: "SBC y AAC" },
       { label: "Conexión", value: "Multipunto (2 dispositivos a la vez)" },
       { label: "App", value: "JBL Headphones (ecualizador y control de ANC)" },
+      { label: "Vendedor", value: "LGM IMPORT SRL (MercadoLíder, +5mil ventas)" },
     ],
     relatedProducts: ["MLA23997257", "MLA53285777"],
-    priceUpdated: "2026-11-04",
-    priceLastChecked: "2026-11-06",
+    priceUpdated: "2026-11-15",
+    priceLastChecked: "2026-11-15",
+    priceVerifiedAt: "2026-11-15",
     priceStatus: "fresh",
     description: "Auriculares JBL Wave Beam 2: in-ear inalámbricos con sonido JBL, para uso diario y llamadas. La entrada in-ear de la marca.",
     seoTitle: "JBL Wave Beam 2: review honesta del in-ear con ANC",
     metaDescription: "In-ear JBL con cancelación de ruido, 40 horas de batería y USB-C. Para uso diario y llamadas. Lo bueno, la contra real y para quién conviene.",
-    verdict: "Para uso diario, llamadas y algo de cancelación de ruido sin gastar de más, el Wave Beam 2 cumple: 40 horas de batería con el estuche, ANC, USB-C y 4.8 estrellas en 687 opiniones. Si buscás audio de alta fidelidad (aptX o LDAC) o que la cancelación te tape el subte entero, no es para vos: usa solo códecs estándar SBC y AAC y su ANC es de gama de entrada.",
+    verdict: "Para uso diario, llamadas y algo de cancelación de ruido sin gastar de más, el Wave Beam 2 cumple: 40 horas de batería con el estuche, ANC, USB-C y {{rating:MLA53657592}} estrellas en {{reviews:MLA53657592}} opiniones. Si buscás audio de alta fidelidad (aptX o LDAC) o que la cancelación te tape el subte entero, no es para vos: usa solo códecs estándar SBC y AAC y su ANC es de gama de entrada.",
     pros: [
       "Cancelación de ruido activa más modo Smart Ambient en un in-ear de precio accesible",
       "Batería real: 10 horas por carga y hasta 40 horas con el estuche (ANC apagado)",
@@ -20813,7 +20820,7 @@ No, si sos exigente con el audio (aptX/LDAC), querés aislarte por completo en l
 
 ## Veredicto
 
-El Wave Beam 2 es un in-ear de entrada bien resuelto: ANC, 40 horas de batería, USB-C, IP54 y multipunto, con el respaldo de JBL y 4.8 estrellas en 687 opiniones. La contra es clara y esperable al precio: códecs básicos, ANC moderado y sin extras premium. Si entendés que es un auricular de uso diario y no un equipo audiófilo, cumple lo que promete.`,
+El Wave Beam 2 es un in-ear de entrada bien resuelto: ANC, 40 horas de batería, USB-C, IP54 y multipunto, con el respaldo de JBL y {{rating:MLA53657592}} estrellas en {{reviews:MLA53657592}} opiniones. La contra es clara y esperable al precio: códecs básicos, ANC moderado y sin extras premium. Si entendés que es un auricular de uso diario y no un equipo audiófilo, cumple lo que promete.`,
     faq: [
       {
         question: "¿El JBL Wave Beam 2 tiene cancelación de ruido?",
