@@ -111772,15 +111772,23 @@ No es para vos si preferís la opción con más reseñas acumuladas y respaldo (
   },
 
   {
+    // 2026-11-15: sin stock ("Este producto no está disponible por el momento",
+    // verificado en vivo). Marca "Genérica"/modelo "Segura": no se encontró el
+    // mismo modelo exacto vendido por otro vendedor (buscado en ML, no aplica
+    // swap). Reemplazada en la guía cerradura-de-puerta y en los relatedProducts
+    // de las fichas vecinas (Kallay 4000, Trabex 1025, Inomax IM8006, Acytra 101)
+    // por la Cerradura Prive 101 (MLA19879681, ver ficha nueva más abajo), con
+    // precio más bajo ($11.000 vs $14.390) y base de reseñas comparable (1880 vs
+    // 1820). Documentado en docs/productos-sin-stock.md.
     id: 'MLAU139920880',
     title: 'Cerradura Reforzada Herrero Casa Puerta',
     canonicalName: 'Cerradura reforzada embutible',
     brand: 'Genérica',
     mpn: 'Segura',
     price: 14390,
-    priceUpdated: "2026-10-22",
-    priceLastChecked: "2026-10-22",
-    priceStatus: "fresh",
+    priceUpdated: "2026-11-15",
+    priceLastChecked: "2026-11-15",
+    priceStatus: "out_of_stock",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_731155-MLA113149619125_062026-O.webp',
     images: [
@@ -111797,7 +111805,7 @@ No es para vos si preferís la opción con más reseñas acumuladas y respaldo (
     reviewsSampledAt: '2026-10-22',
     badge: 'bestseller',
     pastelColor: 'var(--pastel-green)',
-    visibility: 'normal',
+    visibility: 'deprioritized',
     description: 'Cerradura embutible reforzada, marca genérica, modelo Segura. 2° más vendida en Manuales de MercadoLibre, con {{reviews:MLAU139920880}} calificaciones a {{rating:MLAU139920880}} estrellas: la más vendida de esta comparativa.',
     seoTitle: 'Cerradura reforzada embutible: la más vendida en Argentina',
     metaDescription: 'Cerradura reforzada embutible, 2° más vendida en Manuales de MercadoLibre. {{rating:MLAU139920880}}★ en {{reviews:MLAU139920880}} calificaciones por {{precio:MLAU139920880}}.',
@@ -111862,13 +111870,122 @@ No es para vos si necesitás doble perno para más seguridad (mirá la Kallay 40
         '@type': 'Offer',
         priceCurrency: 'ARS',
         price: '14390',
-        availability: 'https://schema.org/InStock',
+        availability: 'https://schema.org/OutOfStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
       },
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.5',
         reviewCount: '1820',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA19879681',
+    title: 'Cerradura Prive 101 Plateada para Puertas Abatibles',
+    canonicalName: 'Cerradura Prive 101',
+    brand: 'Prive',
+    mpn: '101 CUADRADO',
+    price: 11000,
+    priceUpdated: "2026-11-15",
+    priceLastChecked: "2026-11-15",
+    priceVerifiedAt: "2026-11-15",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_968511-MLA96137101655_102025-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_968511-MLA96137101655_102025-O.webp',
+    ],
+    category: 'Hogar y Jardín',
+    categorySlug: 'hogar-jardin',
+    permalink: 'https://www.mercadolibre.com.ar/cerradura-prive-101-plateada-para-puertas-abatibles/p/MLA19879681',
+    affiliateUrl: 'https://meli.la/1tgR3Wz',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 1880,
+    reviewsSampledAt: '2026-11-15',
+    soldQuantity: 10000,
+    badge: 'bestseller',
+    pastelColor: 'var(--pastel-green)',
+    visibility: 'normal',
+    description: 'Cerradura embutible Prive 101, de hierro, unidireccional, para puertas de 2,5 a 6cm de espesor. Etiqueta Más Vendido, 7° en Manuales de MercadoLibre, con {{reviews:MLA19879681}} calificaciones a {{rating:MLA19879681}} estrellas: la más vendida de esta comparativa.',
+    seoTitle: 'Cerradura Prive 101: la más vendida en Argentina',
+    metaDescription: 'Cerradura Prive 101, Más Vendido en Manuales de MercadoLibre. {{rating:MLA19879681}}★ en {{reviews:MLA19879681}} calificaciones por {{precio:MLA19879681}}.',
+    pros: [
+      'Etiqueta Más Vendido (7° en Manuales de MercadoLibre), con {{reviews:MLA19879681}} calificaciones a {{rating:MLA19879681}} estrellas: la base de reseñas más grande de esta comparativa',
+      'La más económica de las cinco opciones',
+      'Vendida por la tienda oficial HERRAJE MANIA, con más de 50 mil ventas históricas',
+      'Llega rápido: almacenada y enviada por FULL',
+    ],
+    cons: [
+      'Es unidireccional, no reversible como otras cerraduras de esta comparativa',
+      'Varias reseñas avisan que las unidades del mismo lote vienen con la misma llave y el mismo mecanismo: no es un problema para una sola puerta, pero sí si esperás llaves distintas entre varias unidades',
+      'Al menos una reseña reporta una unidad que no abría desde afuera con ninguna de las dos llaves (sí funcionaba desde adentro); el resto de las calificaciones no repite ese problema',
+    ],
+    verdict: 'Es la cerradura de puerta más vendida de esta comparativa: etiqueta Más Vendido y 7° en el ranking de Manuales de MercadoLibre, con {{reviews:MLA19879681}} calificaciones a {{rating:MLA19879681}} estrellas, la base más grande de las cinco. Es también la más económica. La contra real: viene con la misma llave en todas las unidades del mismo lote, algo a tener en cuenta si comprás más de una.',
+    articleBody: `## La cerradura de puerta más vendida de esta comparativa
+
+Con {{reviews:MLA19879681}} calificaciones a {{rating:MLA19879681}} estrellas, esta Prive 101 tiene la etiqueta Más Vendido y es 7° en el ranking de ventas de Manuales de MercadoLibre, la base de reseñas más grande de las cinco de esta guía. Es embutible, de hierro, y sirve para puertas de 2,5 a 6cm de espesor.
+
+## Lo que piden tener en cuenta las reseñas
+
+Una reseña real avisa: "Calidad excelente. Pedí varias y la llave de todas es igual. Como eran para interior no me molestó. Pero para tener en cuenta: todas tienen la misma llave y cerradura. Con la misma llave abrís todas las mañanas puertas". Es un dato real a considerar si pensás instalar más de una en distintos accesos esperando llaves diferentes. Otra reseña, también de 5 estrellas pero con un reclamo puntual, cuenta: "Tuve un problema, coloqué la cerradura y ninguna de las dos llaves la abre y la cierra de afuera. De adentro anda espectacular" — un caso aislado, no el patrón general del resto de las calificaciones.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la compra más económica y segura, para una puerta interior o exterior estándar.
+
+No es para vos si necesitás doble perno para más seguridad (mirá la Kallay 4000 de esta comparativa), si tu puerta es de vidrio Blindex (mirá la Inomax IM8006), o si vas a instalar varias unidades en distintos accesos esperando llaves diferentes.`,
+    specs: [
+      { label: 'Marca', value: 'Prive' },
+      { label: 'Modelo', value: '101 Cuadrado' },
+      { label: 'Color', value: 'Plateado' },
+      { label: 'Acabado', value: 'Zincado' },
+      { label: 'Tipo de instalación', value: 'Empotrable' },
+      { label: 'Tipo de apertura', value: 'Abatible' },
+      { label: 'Tipo de cerradura', value: 'Unidireccional' },
+      { label: 'Materiales', value: 'Hierro' },
+      { label: 'Materiales de la abertura compatible', value: 'Aluminio, madera' },
+      { label: 'Dirección', value: 'Derecha/Izquierda' },
+      { label: 'Cantidad de llaves', value: '1' },
+      { label: 'Espesor de puerta', value: '2,5 a 6 cm' },
+    ],
+    customerReviews: [
+      { rating: 5, date: '2025', country: 'Argentina', text: 'Calidad excelente. Pedí varias y la llave de todas es igual. Cómo eran para interior no me molestó. Pero para tener en cuenta. Todas tienen la misma llave y cerradura. Con la misma llave abrís todas las mañanas puertas.', useful: 6 },
+      { rating: 5, date: '2025', country: 'Argentina', text: 'Tube un problema coloque la cerradura y ninguna de las dos llaves la abre y la cierra de afuera. De adentro anda espectacular.', useful: 10 },
+    ],
+    faq: [
+      { question: '¿Por qué es la más vendida?', answer: 'Tiene la etiqueta Más Vendido y es 7° en el ranking de ventas de Manuales de MercadoLibre, con {{reviews:MLA19879681}} calificaciones, la base de reseñas más grande de esta comparativa.' },
+      { question: '¿Sirve para instalar en varias puertas con llaves distintas?', answer: 'No conviene asumirlo: varias reseñas avisan que las unidades del mismo lote vienen con la misma llave y el mismo mecanismo. Para una sola puerta no es un problema.' },
+      { question: '¿Para qué espesor de puerta sirve?', answer: 'Para puertas de 2,5 a 6cm de espesor, según su ficha técnica. Es unidireccional, no reversible.' },
+    ],
+    relatedProducts: ['MLA22736477', 'MLA45807139', 'MLA45982869'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cerradura Prive 101',
+      description: 'Cerradura embutible Prive 101, de hierro, unidireccional, para puertas de 2,5 a 6cm de espesor.',
+      brand: { '@type': 'Brand', name: 'Prive' },
+      model: '101 Cuadrado',
+      sku: 'MLA19879681',
+      category: 'Cerraduras',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_968511-MLA96137101655_102025-O.webp',
+      url: 'https://productosvirales.com.ar/producto/cerradura-prive-101-plateada-para-puertas-abatibles-mla19879681',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '11000',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '1880',
         bestRating: '5',
         worstRating: '1',
       },
@@ -111928,7 +112045,7 @@ Una reseña real resume la experiencia sin vueltas: "La mejor cerradura. Cerrar 
 
 Es para vos si tu puerta es exterior o un portón y priorizás más seguridad mecánica.
 
-No es para vos si buscás la opción más económica (mirá la cerradura reforzada embutible de esta comparativa) o si necesitás combinación configurable (mirá la Trabex 1025).`,
+No es para vos si buscás la opción más económica (mirá la Prive 101 de esta comparativa) o si necesitás combinación configurable (mirá la Trabex 1025).`,
     specs: [
       { label: 'Marca', value: 'Kallay' },
       { label: 'Modelo', value: '4000' },
@@ -111947,7 +112064,7 @@ No es para vos si buscás la opción más económica (mirá la cerradura reforza
       { question: '¿Sirve para puertas interiores?', answer: 'Sí, pero está pensada principalmente para puertas exteriores y portones, donde el refuerzo de doble perno tiene más sentido.' },
       { question: '¿Es fácil de instalar?', answer: 'Según compradores reales, sí: el pestillo reversible facilita la instalación y se adapta a distintos tipos de puerta.' },
     ],
-    relatedProducts: ['MLAU139920880', 'MLA45807139', 'MLA21414110'],
+    relatedProducts: ['MLA19879681', 'MLA45807139', 'MLA21414110'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
@@ -112047,7 +112164,7 @@ No es para vos si tu puerta no es de madera con el espesor adecuado (25 a 35mm) 
       { question: '¿Para qué tipo de puerta sirve?', answer: 'Para puertas de madera con un espesor de entre 25 y 35mm, según su ficha técnica.' },
       { question: '¿Cuántas llaves incluye?', answer: 'Incluye 2 llaves.' },
     ],
-    relatedProducts: ['MLAU139920880', 'MLA22736477', 'MLA21414110'],
+    relatedProducts: ['MLA19879681', 'MLA22736477', 'MLA21414110'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
@@ -112147,7 +112264,7 @@ No es para vos si tu puerta es de madera o metal estándar: ahí te sirven mejor
       { question: '¿Hay que perforar el vidrio para instalarla?', answer: 'No, se sujeta con tornillos que presionan el vidrio desde ambos lados, sin perforarlo.' },
       { question: '¿Cuántas llaves incluye?', answer: 'Incluye 3 llaves.' },
     ],
-    relatedProducts: ['MLAU139920880', 'MLA22736477', 'MLA45807139'],
+    relatedProducts: ['MLA19879681', 'MLA22736477', 'MLA45807139'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
@@ -112244,7 +112361,7 @@ No es para vos si buscás más seguridad mecánica al mejor precio: la Kallay 40
       { question: '¿Cuántas llaves incluye?', answer: 'Incluye 2 llaves.' },
       { question: '¿Es más segura que la Kallay 4000?', answer: 'No necesariamente. La Kallay 4000 de esta comparativa tiene doble perno (dos puntos de traba) a un precio menor. La Acytra 101 compite en acabado y marca, no en seguridad mecánica adicional.' },
     ],
-    relatedProducts: ['MLAU139920880', 'MLA22736477', 'MLA45807139'],
+    relatedProducts: ['MLA19879681', 'MLA22736477', 'MLA45807139'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
