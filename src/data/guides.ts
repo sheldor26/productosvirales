@@ -15711,9 +15711,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     category: "perfumes-arabes",
     title: "Perfumes árabes precio 2026: comparativa por marca Argentina",
     seoTitle: "Perfumes árabes precio 2026: cuánto sale cada marca",
-    metaDescription: "Qué sale un perfume árabe en Argentina: desde {{precio:MLA24605489:k}} hasta {{precio:MLA16122300:k}} los premium. Precio marca por marca, verificado.",
+    metaDescription: "Qué sale un perfume árabe en Argentina: desde {{precio:MLA53394464:k}} hasta {{precio:MLA16122300:k}} los premium. Precio marca por marca, verificado.",
     ogTitle: "Cuánto sale un perfume árabe en Argentina (2026): precios por marca",
-    ogDescription: "De {{precio:MLA24605489:k}} el frasco de entrada a {{precio:MLA16122300:k}} los premium. La comparativa de precios por marca y concentración, para no pagar de más en tu primer árabe.",
+    ogDescription: "De {{precio:MLA53394464:k}} el frasco de entrada a {{precio:MLA16122300:k}} los premium. La comparativa de precios por marca y concentración, para no pagar de más en tu primer árabe.",
     h1: "Perfumes árabes precio 2026: qué cuesta cada marca en Argentina",
     publishedDate: "2026-04-17",
     updatedDate: "2026-11-11",
@@ -15897,7 +15897,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "list",
         items: [
-          "[Al Wataniah Bareeq Al Dhahab](https://meli.la/1hq7XUU): {{precio:MLA24605489}}"
+          "[Al Wataniah Bareeq Al Dhahab](https://meli.la/1cZqkqN): {{precio:MLA24605489}}"
         ]
       },
       {
@@ -15914,7 +15914,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "**Entre $16.000 y $30.000 — probar sin compromiso**. Sets de descubrimiento. El [Set 4 unisex](https://meli.la/1T1B9sw) cuesta $16.745 y el [Kit 4 hombre](https://meli.la/2AWZpVQ) $16.104. Si querés un 100ml para arrancar, [Al Wataniah Bareeq](https://meli.la/1hq7XUU) está a $32.990."
+        content: "**Entre $16.000 y $30.000 — probar sin compromiso**. Sets de descubrimiento. El [Set 4 unisex](https://meli.la/1T1B9sw) cuesta $16.745 y el [Kit 4 hombre](https://meli.la/2AWZpVQ) $16.104."
       },
       {
         type: "product-card",
@@ -15938,7 +15938,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "**Entre $50.000 y $70.000 — un perfume con presencia**. [Yara Elixir](https://meli.la/2NrY6fF) ($68.000), [Her Confession](https://meli.la/1EBDqh9) ($65.000), [Khamrah Qahwa](https://meli.la/1B8Vwwf) ($47.846), [Habik](https://meli.la/1qWX1xU) ($65.799). Para masculino, [Bade'e Al Oud Noble Blush](https://meli.la/1GvwbnM) ($57.999). Acá empiezan los perfumes de referencia."
+        content: "**Entre $50.000 y $70.000 — un perfume con presencia**. [Yara Elixir](https://meli.la/2NrY6fF) ($68.000), [Her Confession](https://meli.la/1EBDqh9) ($65.000), [Khamrah Qahwa](https://meli.la/1B8Vwwf) ($47.846), [Habik](https://meli.la/1qWX1xU) ($65.799). Para masculino, [Bade'e Al Oud Noble Blush](https://meli.la/1GvwbnM) ($57.999) o [Al Wataniah Bareeq](https://meli.la/1cZqkqN) ($57.352). Acá empiezan los perfumes de referencia."
       },
       {
         type: "p",
