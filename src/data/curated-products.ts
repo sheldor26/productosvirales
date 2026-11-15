@@ -48360,6 +48360,13 @@ El Yara Moi es la versión más suave y de menor proyección de toda la línea Y
     relatedProducts: ["MLAU2983186467", "MLA40521028", "MLA39865991"],
   },
   {
+    // SWAP DE VENDEDOR (2026-11-15): la publicación original se quedó sin
+    // stock. La reemplaza otra publicación del mismo producto (Lattafa,
+    // línea/nombre Yara, versión "Original" según ML, 100mL, Género Mujer,
+    // mismo país de origen, vegano/libre de crueldad coinciden con lo que
+    // ya declaraba la ficha vieja). Es una publicación de un vendedor chico
+    // (+5 ventas), sin reseñas propias todavía — no se trasladó el
+    // rating/reviewCount viejo (4.6★/366).
     id: "MLAU2983186467",
     title: "Perfume De Mujer Lattafa Yara Edp 100 Ml Arabe Original",
     canonicalName: "Lattafa Yara EDP 100ml (original)",
@@ -48367,29 +48374,26 @@ El Yara Moi es la versión más suave y de menor proyección de toda la línea Y
     line: "Yara",
     version: "Original",
     perfumeType: "Eau de Parfum",
-    price: 93061,
-    priceUpdated: "2026-10-02",
-    priceLastChecked: "2026-10-02",
+    price: 57039,
+    priceUpdated: "2026-11-15",
+    priceLastChecked: "2026-11-15",
+    priceVerifiedAt: "2026-11-15",
     priceStatus: "fresh",
-    originalPrice: 100989,
+    originalPrice: 61999,
     currency: "ARS",
-    image: "https://http2.mlstatic.com/D_NQ_NP_931959-MLA91967799189_092025-O.webp",
+    image: "https://http2.mlstatic.com/D_NQ_NP_979597-MLA121523261389_112026-O.webp",
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_2X_931959-MLA91967799189_092025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_772717-MLA93314723531_092025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_843284-MLA83600671659_042025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_664582-MLA100106171664_122025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_877879-MLA83309427672_042025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_979597-MLA121523261389_112026-O.webp",
     ],
     category: "Belleza",
     categorySlug: "belleza",
-    permalink: "https://www.mercadolibre.com.ar/perfume-de-mujer-lattafa-yara-edp-100-ml-arabe-original/up/MLAU2983186467",
-    affiliateUrl: "https://meli.la/2nDMa11",
+    permalink: "https://www.mercadolibre.com.ar/perfume-mujer-lattafa-yara-edp-100-ml/up/MLAU5864283923",
+    affiliateUrl: "https://meli.la/1RH6pqK",
     condition: "new",
     freeShipping: true,
-    rating: 4.6,
-    reviewCount: 366,
-    reviewsSampledAt: "2026-07-09",
+    rating: 0,
+    reviewCount: 0,
+    reviewsSampledAt: "2026-11-15",
     pastelColor: "var(--pastel-pink)",
     olfactiveFamily: ["Oriental", "Ámbar-vainilla", "Floral gourmand"],
     notes: {
@@ -48418,49 +48422,46 @@ El Yara Moi es la versión más suave y de menor proyección de toda la línea Y
     h1: "Lattafa Yara: el perfume árabe femenino que se volvió obligatorio",
     description: "Eau de parfum oriental ámbar-vainilla para mujer con apertura de mandarina, heliotropo y orquídea, corazón de notas tropicales y acorde gourmand, y fondo cálido de vainilla, almizcle y sándalo. La versión 100ml original de la línea Yara de Lattafa, la más viral de la marca.",
     pros: [
-      "Rating 4.6 con {{reviews:MLAU2983186467}} calificaciones en esta publicación; las 5 reseñas reales disponibles coinciden en describirlo como dulce, elegante y duradero",
-      "Pirámide ámbar-vainilla confirmada por el sitio oficial de Lattafa, coincidente con la descripción completa del propio vendedor",
+      "Swap de vendedor por falta de stock en la publicación original: sigue vivo el punto de entrada clásico a la línea Yara",
+      "Pirámide ámbar-vainilla confirmada por el sitio oficial de Lattafa, coincidente con la descripción del vendedor anterior",
       "Es vegano y libre de crueldad animal según la ficha, algo que no comparten todas las variantes de la línea Yara (el Yara Moi, por ejemplo, no lo es)",
-      "El vendedor advierte de forma explícita sobre réplicas y explica cómo verificar el holograma y el QR del original",
-      "Envío gratis y +25 unidades disponibles al momento de esta revisión",
+      "Subió bastante menos de precio que otros swaps de esta ronda, prácticamente en línea con lo que costaba antes",
     ],
     cons: [
-      "Esta publicación puntual tiene bastantes menos reseñas (348) que otras variantes de la línea, como el Yara Moi (casi 5.000); puede deberse a la antigüedad del listado, no a la calidad del producto",
-      "La propia ficha es contradictoria en la duración: la tabla de características declara '1 días' (dato confuso), mientras la descripción del vendedor aclara 6-8 horas para la versión original",
+      "Es una publicación nueva (swap por falta de stock en la anterior, que tenía varios cientos de opiniones): todavía no tiene reseñas propias",
+      "Vendedor chico (pocas ventas registradas), a diferencia del historial más largo de la publicación anterior",
       "No es libre de alcohol",
-      "El propio vendedor dedica un párrafo entero a explicar cómo distinguir el original de una réplica, señal de que las falsificaciones de este perfume circulan con frecuencia",
-      "No es un clon exacto de ningún diseñador: las comparaciones con Lancôme La Vie Est Belle o Dior Poison Girl que circulan son percepciones de compradores y tiendas, no una fórmula idéntica",
+      "No es un clon exacto de ningún diseñador: las comparaciones con Lancôme La Vie Est Belle que circulan en el nicho son percepciones externas, no una fórmula idéntica",
     ],
-    verdict: "A $95.939, el Yara original es la puerta de entrada más lógica a la línea más viral de Lattafa: ámbar-vainilla dulce con mandarina, heliotropo y orquídea arriba, y fondo de vainilla, almizcle y sándalo, confirmado por el propio sitio de Lattafa. Es vegano y libre de crueldad, algo que no todas las variantes de la línea comparten. Compra con los ojos abiertos: la ficha de ML es contradictoria en la duración (la tabla dice '1 días', la descripción del vendedor aclara 6-8 horas) y el propio vendedor advierte que circulan réplicas con holograma idéntico, así que conviene verificar el QR al recibirlo.",
+    verdict: "A {{precio:MLAU2983186467:k}}, el Yara original sigue siendo el punto de entrada más clásico a la línea más viral de Lattafa: ámbar-vainilla dulce con mandarina, heliotropo y orquídea arriba, y fondo de vainilla, almizcle y sándalo, confirmado por el sitio oficial de Lattafa. Es vegano y libre de crueldad, algo que no todas las variantes de la línea comparten. Nota de honestidad: la publicación que seguíamos se quedó sin stock, y esta reemplazo es nueva, de un vendedor chico y todavía sin reseñas propias.",
     bestSeason: ["Otoño", "Invierno", "Primavera"],
     bestOccasion: ["Uso diario", "Salidas", "Cenas", "Citas"],
     notRecommendedFor: ["Verano muy caluroso (puede saturar)", "Quien busca florales austeros o cítricos limpios", "Quien busca un clon exacto de un perfume de diseñador puntual"],
     comparedTo: [
       { name: "Lancôme La Vie Est Belle", similarity: "Comparación externa citada por tiendas y reseñas internacionales por el fondo praliné-vainilla dulce; no es un clon exacto ni una declaración oficial de Lattafa." },
-      { name: "Dior Poison Girl", similarity: "Comparación de un comprador real de esta publicación ('imita al Poison Girl de un tal Dior, que sale 5 veces más'), percepción individual, no verificada por una fuente técnica." },
     ],
     duration: "6-8 horas según la descripción del vendedor",
     durationHours: 7,
     durationDisclaimer: "La tabla de características de Mercado Libre declara una 'Duración aproximada' de '1 días', un dato confuso que probablemente sea un error de carga (quiso decir 'dura todo el día'). La descripción completa del vendedor es más clara: aclara que la versión original, con 15% a 20% de aceites esenciales (concentración de Eau de Parfum), dura de 6 a 8 horas, mientras que las réplicas que circulan con el mismo frasco bajan a la concentración de una Eau de Toilette o Eau de Cologne (2% a 5% de aceites), con mucha menos duración. Ninguna de las 5 reseñas reales disponibles da un número exacto de horas, pero todas coinciden en describirlo como duradero, sin contradecir el rango de 6-8 horas.",
     projection: "Alta",
     projectionNote: "Varias reseñas describen que proyecta bastante; controlar dosis los primeros usos.",
-    articleBody: `El Yara original de Lattafa es el eau de parfum femenino que la casa emiratí lanzó en 2020 y que terminó siendo el punto de partida de toda una categoría: perfumes árabes virales de nicho accesible. En Mercado Libre Argentina esta publicación puntual tiene 4.6 estrellas en {{reviews:MLAU2983186467}} calificaciones y se vende a $95.939 con envío gratis.
+    articleBody: `El Yara original de Lattafa es el eau de parfum femenino que la casa emiratí lanzó en 2020 y que terminó siendo el punto de partida de toda una categoría: perfumes árabes virales de nicho accesible. En Mercado Libre Argentina se consigue a {{precio:MLAU2983186467}} con envío gratis. Esta es una publicación nueva, que reemplaza a otra con varios cientos de opiniones que se quedó sin stock, así que todavía no tiene reseñas propias.
 
 ## Qué dice el fabricante sobre las notas
 
-Lattafa declara en su sitio oficial (lattafa.com/product/yara) una pirámide de mandarina, heliotropo y orquídea de salida, notas tropicales y acorde gourmand en el corazón, y vainilla, sándalo y almizcle de fondo. La descripción larga del propio vendedor en Mercado Libre coincide nota por nota con esa pirámide. El problema está en la tabla de especificaciones técnicas de la ficha, que resume todo eso en una sola línea genérica: "almizcle, sándalo, vainilla", familia "Orientales". Es un dato real pero incompleto, solo describe el fondo. Acá usamos la pirámide completa, confirmada por dos fuentes independientes (Lattafa y el propio vendedor).
+Lattafa declara en su sitio oficial (lattafa.com/product/yara) una pirámide de mandarina, heliotropo y orquídea de salida, notas tropicales y acorde gourmand en el corazón, y vainilla, sándalo y almizcle de fondo. La descripción larga que traía la publicación anterior de este producto coincidía nota por nota con esa pirámide. El problema está en la tabla de especificaciones técnicas de la ficha, que resume todo eso en una sola línea genérica: "almizcle, sándalo, vainilla", familia "Orientales". Es un dato real pero incompleto, solo describe el fondo. Acá usamos la pirámide completa del sitio oficial de Lattafa.
 
 ## ¿Es un dupe de La Vie Est Belle?
 
-Es la pregunta que más se repite sobre este perfume. La respuesta corta: no es un clon exacto de nada, pero sí comparte familia con perfumes de nicho más caros. Varias tiendas y reseñas externas lo describen como una alternativa accesible a Lancôme La Vie Est Belle, por el fondo praliné-vainilla dulce que ambos comparten, aunque la salida frutal del Yara es más liviana y su base menos pesada en almizcle blanco. Entre las reseñas reales de esta publicación aparece otra comparación distinta: un comprador que lo regaló describe que "imita al poison girl de un tal dior, que sale 5 veces más". Ninguna de las dos comparaciones es una declaración oficial de Lattafa, son percepciones de compradores y de terceros, no una fórmula idéntica confirmada.
+Es la pregunta que más se repite sobre este perfume. La respuesta corta: no es un clon exacto de nada, pero sí comparte familia con perfumes de nicho más caros. Varias tiendas y reseñas externas lo describen como una alternativa accesible a Lancôme La Vie Est Belle, por el fondo praliné-vainilla dulce que ambos comparten, aunque la salida frutal del Yara es más liviana y su base menos pesada en almizcle blanco. No es una declaración oficial de Lattafa, es una percepción de terceros, no una fórmula idéntica confirmada.
 
 ## Duración: la ficha se contradice a sí misma
 
-Acá hay algo raro que vale la pena marcar. La tabla de características del producto declara una "Duración aproximada" de "1 días", un dato que no tiene mucho sentido tal cual está escrito (probablemente un error de carga que quiso decir "dura todo el día"). La descripción completa del vendedor es mucho más clara: explica que la versión original, con 15% a 20% de aceites esenciales, dura de 6 a 8 horas, mientras que las réplicas que circulan con el mismo frasco y holograma bajan a la concentración de una Eau de Toilette o Eau de Cologne (2% a 5% de aceites), con mucha menos duración. Ninguna de las 5 reseñas reales disponibles da un número exacto de horas, pero todas coinciden en describirlo como duradero, sin contradecir el rango de 6-8 horas que declara el propio vendedor.
+Acá hay algo raro que vale la pena marcar. La tabla de características del producto declara una "Duración aproximada" de "1 días", un dato que no tiene mucho sentido tal cual está escrito (probablemente un error de carga que quiso decir "dura todo el día"). La descripción que traía la publicación anterior era mucho más clara: explicaba que la versión original, con 15% a 20% de aceites esenciales, dura de 6 a 8 horas, mientras que las réplicas que circulan con el mismo frasco y holograma bajan a la concentración de una Eau de Toilette o Eau de Cologne (2% a 5% de aceites), con mucha menos duración. No pudimos confirmar si la publicación nueva repite esa misma aclaración.
 
 ## Cómo distinguir el original de una réplica
 
-El propio vendedor dedica buena parte de la descripción a advertir sobre esto: dice textual que "actualmente se ofrecen en el sitio réplicas con holograma, batch-code y contenedor idéntico al original". La señal de autenticidad que reportan las compradoras reales es el holograma 3D en la caja y el código QR, que redirige a una página de verificación (en inglés, según cuenta una compradora que no llegó a entenderla del todo). Si el frasco que llega no tiene holograma ni QR, o el aroma se siente mucho más liviano que lo descripto acá, es señal de que puede tratarse de una réplica y no del original con 15-20% de concentración.
+En el nicho de perfumes árabes circulan réplicas con holograma, batch-code y frasco muy parecidos al original. La publicación anterior de este producto advertía sobre esto de forma explícita, y las compradoras reales de esa publicación reportaban el holograma 3D en la caja y un código QR que redirige a una página de verificación (en inglés) como la señal de autenticidad. No pudimos confirmar si la publicación nueva trae la misma advertencia, así que recomendamos chequear igual el holograma y el QR al recibirlo.
 
 ## Yara original vs Moi, Tous, Candy y Elixir: cuál elegir
 
@@ -48472,7 +48473,7 @@ Es para vos si: nunca probaste un perfume árabe y querés el punto de entrada m
 
 ## En resumen
 
-El Yara original de Lattafa es un ámbar-vainilla dulce y con proyección alta, con una pirámide confirmada por el propio fabricante (mandarina, heliotropo, orquídea arriba; vainilla, almizcle, sándalo de fondo). Es vegano y libre de crueldad, un dato que no comparten todas las variantes de la línea. La ficha de Mercado Libre tiene una contradicción real en la duración (la tabla dice "1 días", la descripción aclara 6-8 horas) y el propio vendedor advierte sobre réplicas que circulan con holograma idéntico. No es un clon exacto de La Vie Est Belle ni del Poison Girl con los que lo comparan compradores y tiendas externas, pero para quien busca el ingreso más clásico a la línea más viral de Lattafa, sigue siendo la referencia. Para ver el resto de la familia comparada en detalle, está la [guía completa de la línea Yara Lattafa](/guias/yara-lattafa-guia-completa) o el ranking completo de la [guía de perfumes árabes para mujer](/guias/perfumes-arabes-mujer).`,
+El Yara original de Lattafa es un ámbar-vainilla dulce y con proyección alta, con una pirámide confirmada por el propio fabricante (mandarina, heliotropo, orquídea arriba; vainilla, almizcle, sándalo de fondo). Es vegano y libre de crueldad, un dato que no comparten todas las variantes de la línea. La ficha de Mercado Libre tiene una contradicción real en la duración (la tabla dice "1 días"). No es un clon exacto de La Vie Est Belle, con el que lo comparan tiendas externas, pero para quien busca el ingreso más clásico a la línea más viral de Lattafa, sigue siendo la referencia. La publicación vigente es nueva, de un swap por falta de stock, así que todavía no tiene reseñas propias. Para ver el resto de la familia comparada en detalle, está la [guía completa de la línea Yara Lattafa](/guias/yara-lattafa-guia-completa) o el ranking completo de la [guía de perfumes árabes para mujer](/guias/perfumes-arabes-mujer).`,
     specs: [
       { label: "Marca", value: "Lattafa" },
       { label: "Línea", value: "Yara" },
@@ -48496,20 +48497,15 @@ El Yara original de Lattafa es un ámbar-vainilla dulce y con proyección alta, 
     ],
     faq: [
       { question: "¿El Yara de Lattafa es un dupe de La Vie Est Belle?", answer: "No es un clon exacto. Varias tiendas y reseñas internacionales lo describen como una alternativa accesible a Lancôme La Vie Est Belle por el fondo praliné-vainilla dulce que comparten, aunque el Yara tiene una salida frutal más liviana. No es una declaración oficial de Lattafa, es una percepción externa." },
-      { question: "¿Cuánto dura el Yara original en la piel?", answer: "La ficha de ML es contradictoria: la tabla de características declara '1 días' (dato confuso, probablemente un error de carga), mientras que la descripción del vendedor aclara que la versión original, con 15-20% de aceites esenciales, dura de 6 a 8 horas. Las reseñas reales no dan un número exacto pero todas lo describen como duradero." },
+      { question: "¿Cuánto dura el Yara original en la piel?", answer: "La ficha de ML es contradictoria: la tabla de características declara '1 días' (dato confuso, probablemente un error de carga). La publicación anterior de este producto aclaraba que la versión original, con 15-20% de aceites esenciales, dura de 6 a 8 horas; no pudimos confirmar si la publicación nueva repite esa aclaración." },
       { question: "¿En qué se diferencia del Yara Moi?", answer: "El Yara Moi es la variante más suave y de menor proyección de toda la línea, pensada para uso diario en ambientes cerrados. Este Yara original tiene más presencia y proyección." },
       { question: "¿En qué se diferencia del Yara Tous y el Yara Candy?", answer: "El Yara Tous es la variante tropical-frutal (mango, coco, maracuyá), mejor para el verano. El Yara Candy profundiza el lado dulce-golosina, un perfil más polarizante según sus propias compradoras. El original es más equilibrado entre ambos." },
       { question: "¿Es vegano y libre de crueldad animal?", answer: "Sí, según la propia ficha del producto. Vale aclarar porque no todas las variantes de la línea Yara comparten esa certificación (el Yara Moi, por ejemplo, no es vegano ni libre de crueldad)." },
-      { question: "¿Cómo sé si el que compré es original y no una réplica?", answer: "El propio vendedor advierte que circulan réplicas con holograma, batch-code y frasco idénticos. La señal que reportan las compradoras reales es el holograma 3D en la caja y un código QR que lleva a una página de verificación. Si el frasco no trae ninguno de los dos, o el aroma se siente muy liviano, puede tratarse de una réplica." },
-      { question: "¿Cuántas reseñas tiene esta publicación?", answer: "{{reviews:MLAU2983186467}} calificaciones con 4.6 de rating al momento de esta revisión. Es un número bastante menor al de otras variantes de la línea (el Yara Moi acumula casi 5.000), lo que puede deberse a la antigüedad del listado y no necesariamente a la calidad del producto." },
+      { question: "¿Cómo sé si el que compré es original y no una réplica?", answer: "En el nicho de perfumes árabes circulan réplicas con holograma, batch-code y frasco muy parecidos al original. La publicación anterior de este producto traía esa advertencia explícita; no pudimos confirmar si esta publicación nueva la repite, así que recomendamos chequear el holograma 3D y el código QR de verificación en la caja al recibirlo." },
+      { question: "¿Cuántas reseñas tiene esta publicación?", answer: "Es una publicación nueva (swap por falta de stock en la anterior, que tenía varios cientos de opiniones): todavía no tiene reseñas propias. Si preferís un historial más largo dentro de la misma línea, el Yara Moi acumula casi 5.000 opiniones." },
       { question: "¿Es libre de alcohol?", answer: "No, según la propia ficha de especificaciones del producto." },
     ],
-    customerReviews: [
-      { rating: 5, date: "2025", text: "No soy mujer, lo compré para regalo. Lattafa rara vez decepciona. Es dulce y elegante. Duradero. Proyecta bastante. Vas a oler como la reina de arabia. Este en particular imita al poison girl de un tal dior, que sale 5 veces más. Excelente alternativa." },
-      { rating: 5, date: "2025", text: "Es original. Tiene buen duración en piel. Excelente." },
-      { rating: 5, date: "agosto 2025", text: "Producto original. Tiene holograma en su caja y por su duración en piel y ropa se nota original. Sexi y dulce. Vuelvo a comprar." },
-      { rating: 5, date: "noviembre 2025", text: "Morí de amor! me fascina su aroma, no entiendo mucho de perfumes pero les aseguro que es hermoso! es perdurable, hasta en la almohada quedó impregnado el olor, sin dudas es original, tiene el holograma y el qr te lleva a la página que por cierto está en ingles y no entendí nada. Excelente, es la primera vez que compro y estoy feliz con el yara." },
-    ],
+    customerReviews: [],
     relatedProducts: ["MLA32288168", "MLA40521028", "MLA39865991", "MLA60836327"],
   },
 
