@@ -1396,7 +1396,7 @@ export const guides: Guide[] = [
         [`[HERO13 Black](https://meli.la/2FcbDMF)`, `{{precio:MLA47374183}}`, `Sí`, `Sí`, `10 m`, `El que quiere el tope de la línea con telemetría`],
         [`[HERO12 Black](https://meli.la/2LwDkrh)`, `{{precio:MLA27104632}}`, `**No**`, `Sí`, `10 m`, `El que quiere la misma cámara sin pagar el GPS`],
         [`[MAX2](https://meli.la/2UFxMYf)`, `{{precio:MLA57726638}}`, `Sí`, `Sí`, `5 m, no apta bajo el agua`, `Grabar en 360 sin salir de GoPro`],
-        [`[HERO (2024)](https://meli.la/1QBoj7j)`, `{{precio:MLA50182399}}`, `No`, `**No, en la app**`, `5 m`, `Primera GoPro, paseos, bolsillo`],
+        [`[HERO (2024)](https://meli.la/1E88qmu)`, `{{precio:MLA50182399}}`, `No`, `**No, en la app**`, `5 m`, `Primera GoPro, paseos, bolsillo`],
         [`[LIT HERO](https://meli.la/1mSw7tg)`, `{{precio:MLA57723897}}`, `No`, `**No, en la app**`, `5 m`, `Filmar con poca luz sin llevar linterna`],
         [`[MISSION 1 PRO](https://meli.la/2wfoNsW)`, `{{precio:MLA70063378}}`, `Sí`, `Sí`, `20 m`, `Filmar en serio, no deporte`],
       ] },

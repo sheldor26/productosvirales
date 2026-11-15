@@ -1545,6 +1545,11 @@ Otra opinión real lo dice de frente: "se necesita su tiempo para ver todas las 
     relatedProducts: ["MLA47374183", "MLA50182399", "MLA57726638"],
   },
   {
+    // SWAP DE VENDEDOR (2026-11-15): la publicación original (otro vendedor)
+    // se quedó sin stock (404 real, sexta corrida). La reemplaza la tienda
+    // OFICIAL de GoPro en ML, mismo modelo exacto (CHDHF-131-AT, verificado
+    // en vivo), mismo precio ($459.999). Es una publicación nueva: rating y
+    // reviewCount pasan de 4.6/182 a 5.0/2 — no se trasladan los viejos.
     id: "MLA50182399",
     title: "Cámara Deportiva GoPro HERO 2024",
     canonicalName: "GoPro HERO (2024)",
@@ -1552,21 +1557,21 @@ Otra opinión real lo dice de frente: "se necesita su tiempo para ver todas las 
     mpn: "CHDHF-131",
     price: 459999,
     currency: "ARS",
-    image: "https://http2.mlstatic.com/D_NQ_NP_928940-MLA95635379046_102025-O.webp",
+    image: "https://http2.mlstatic.com/D_NQ_NP_695718-MLA107894828290_032026-O.webp",
     category: "Tech",
     categorySlug: "tech",
-    permalink: "https://www.mercadolibre.com.ar/p/MLA50182399",
-    affiliateUrl: "https://meli.la/1QBoj7j",
+    permalink: "https://www.mercadolibre.com.ar/camara-de-accion-gopro-hero-4k-negro/p/MLA66571682",
+    affiliateUrl: "https://meli.la/1E88qmu",
     condition: "new",
-    freeShipping: false,
-    rating: 4.6,
-    reviewCount: 182,
-    reviewsSampledAt: "2026-08-25",
-    soldQuantity: 500,
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 2,
+    reviewsSampledAt: "2026-11-15",
+    soldQuantity: 100,
     visibility: "normal",
-    priceUpdated: "2026-11-06",
-    priceLastChecked: "2026-11-06",
-    priceVerifiedAt: "2026-08-25",
+    priceUpdated: "2026-11-15",
+    priceLastChecked: "2026-11-15",
+    priceVerifiedAt: "2026-11-15",
     priceStatus: "fresh",
     seoTitle: "GoPro HERO 2024: precio en Argentina y la contra que no dice la ficha",
     metaDescription: "GoPro HERO (2024) a {{precio:MLA50182399}}, la más barata de las seis GoPro que comparamos. Pesa 86 gramos, pero el HyperSmooth se aplica recién en la app.",
@@ -1581,8 +1586,9 @@ Otra opinión real lo dice de frente: "se necesita su tiempo para ver todas las 
       "La batería viene integrada y no se puede sacar ni cambiar por una de repuesto",
       "No tiene GPS, y la ficha oficial de GoPro lo marca como no disponible de forma explícita",
       "Su sensor de 1/2,8 pulgadas es bastante más chico que el 1/1,9 de las Black",
+      "Es una publicación nueva de la tienda oficial de GoPro (swap por falta de stock en el vendedor anterior): todavía tiene muy pocas reseñas propias",
     ],
-    verdict: "Es la más barata y la más liviana de las seis GoPro que comparamos, y para filmar paseos o llevarla en el bolsillo cumple. Pero conviene comprarla sabiendo dos cosas que su publicación no aclara: no estabiliza sola, lo hace la app después, y la batería viene pegada, así que no existe llevar una de repuesto para un día largo.",
+    verdict: "Es la más barata y la más liviana de las seis GoPro que comparamos, y para filmar paseos o llevarla en el bolsillo cumple. Pero conviene comprarla sabiendo dos cosas que su publicación no aclara: no estabiliza sola, lo hace la app después, y la batería viene pegada, así que no existe llevar una de repuesto para un día largo. Nota de honestidad: la publicación que seguíamos se quedó sin stock y la reemplaza la tienda oficial de GoPro, con el mismo modelo y precio pero todavía con muy pocas reseñas propias.",
     specs: [
       { label: "Sensor", value: "CMOS de 1/2,8 pulgadas" },
       { label: "Resolución de video máxima", value: "4K a 30 cuadros por segundo" },
@@ -1596,6 +1602,7 @@ Otra opinión real lo dice de frente: "se necesita su tiempo para ver todas las 
       { label: "Pantalla", value: "Táctil trasera LCD de 1,76 pulgadas" },
       { label: "Modelo alfanumérico", value: "CHDHF-131-AT, según la ficha vigente de la publicación" },
       { label: "Garantía", value: "6 meses de fábrica, según la publicación vigente" },
+      { label: "Vendedor", value: "Tienda oficial GoPro en MercadoLibre" },
     ],
     relatedProducts: ["MLA57723897", "MLA27104632", "MLA47374183"],
     articleBody: `## Qué es la GoPro HERO (2024)
@@ -1630,6 +1637,10 @@ Cuesta {{preciodif:MLA27104632:MLA50182399}} menos que la [GoPro HERO12 Black](/
 
 Cuesta {{preciodif:MLA47374183:MLA50182399}} menos que la [GoPro HERO13 Black](/producto/camara-deportiva-gopro-hero13-black-mla47374183), la mejor elección general de esta comparativa.
 
+## Swap de vendedor: ahora la vende la tienda oficial de GoPro
+
+La publicación que seguíamos originalmente se quedó sin stock. La reemplaza la tienda oficial de GoPro en MercadoLibre, con el mismo modelo exacto y el mismo precio, pero al ser una publicación nueva todavía tiene muy pocas reseñas propias.
+
 ## Para quién es, y para quién no
 
 Es para vos si buscás la entrada más barata y liviana a la marca GoPro, y no te molesta procesar el video en la app para tener estabilización.
@@ -1644,6 +1655,7 @@ No es para vos si necesitás GPS, batería de repuesto para sesiones largas, o e
       { question: "¿Hasta qué profundidad es sumergible?", answer: "5 metros sin carcasa, la menor de esta comparativa." },
       { question: "¿Vale la pena pagar más por la HERO12 Black?", answer: "Si necesitás batería extraíble y estabilización en la cámara, sí: la HERO12 cuesta {{preciodif:MLA27104632:MLA50182399}} más y resuelve las dos contras principales de esta HERO (2024)." },
       { question: "¿Qué garantía tiene?", answer: "6 meses de fábrica, según la publicación vigente en MercadoLibre." },
+      { question: "¿Por qué tiene tan pocas reseñas?", answer: "La publicación que seguíamos se quedó sin stock. La reemplaza la tienda oficial de GoPro, con el mismo modelo y precio, pero al ser una publicación nueva todavía no acumuló muchas opiniones propias." },
     ],
   },
   {
