@@ -37157,6 +37157,14 @@ Ronda los $438.000, más de tres veces lo que cuesta un cervical Gadnic. Tiene u
     },
   },
   {
+    // La página de catálogo (/p/MLA19712537) está excluida del Programa de
+    // Afiliados ("no cumple con los requisitos"), mismo tipo de rechazo que
+    // otras fichas de este archivo. Resuelto el 2026-11-15: se generó el link
+    // desde la única publicación activa (MILUBO, item MLA1924852706, mismo
+    // $130.000, "última en stock", 0 ventas). affiliateUrl antes apuntaba
+    // directo a la URL de catálogo sin afiliar (perdía comisión en cada
+    // clic). rating/reviewCount ajustados a lo que muestra hoy esa
+    // publicación (656, antes 649 por drift normal).
     id: 'MLA19712537',
     title: "Asiento Masajeador Gadnic para Auto y Hogar con Calor Lumbar",
     price: 130000,
@@ -37168,16 +37176,17 @@ Ronda los $438.000, más de tres veces lo que cuesta un cervical Gadnic. Tiene u
     category: 'Belleza',
     categorySlug: 'belleza',
     visibility: "deprioritized",
-    permalink: 'https://www.mercadolibre.com.ar/p/MLA19712537',
-    affiliateUrl: 'https://www.mercadolibre.com.ar/p/MLA19712537',
+    permalink: 'https://articulo.mercadolibre.com.ar/MLA-1924852706-asiento-masajeador-gadnic-para-auto-y-hogar-con-calor-lumbar-negro-_JM',
+    affiliateUrl: 'https://meli.la/1SggsoG',
     condition: 'new',
     freeShipping: true,
     rating: 4.1,
-    reviewCount: 649,
+    reviewCount: 656,
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-blue)',
     priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-09-07",
+    priceLastChecked: "2026-11-15",
+    priceVerifiedAt: "2026-11-15",
     priceStatus: "fresh",
     pros: [
       '5 motores que cubren cuello, espalda, caderas y muslos',
@@ -37229,12 +37238,12 @@ Tiene el rating más bajo de la línea Gadnic (4.1 sobre {{reviews:MLA19712537}}
         price: '130000',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
-        url: 'https://www.mercadolibre.com.ar/p/MLA19712537',
+        url: 'https://meli.la/1SggsoG',
       },
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.1',
-        reviewCount: '649',
+        reviewCount: '656',
         bestRating: '5',
         worstRating: '1',
       },
