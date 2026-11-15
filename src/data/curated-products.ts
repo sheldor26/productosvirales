@@ -60423,7 +60423,7 @@ Un comprador real lo resume así: "valió cada centavo, el trípode lo compré a
       { question: '¿Cuánto dura la batería?', answer: 'Según una reseña real, dura "un montón" de horas de uso continuo. El kit incluye cargador, pero no indica con precisión cuándo llegó al 100% de carga.' },
       { question: '¿Sirve para centrar luminarias en el techo?', answer: 'Sí, es uno de los usos que mencionan compradores reales: la placa magnética y el imán facilitan fijarlo en el cielorraso para centrar spots o luminarias embutidas.' },
     ],
-    relatedProducts: ['MLA28034275', 'MLA66559596', 'MLA68265665'],
+    relatedProducts: ['MLA24741822', 'MLA66559596', 'MLA68265665'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
@@ -60454,6 +60454,16 @@ Un comprador real lo resume así: "valió cada centavo, el trípode lo compré a
   },
 
   {
+    // 2026-11-15: sin stock ("Este producto no está disponible por el
+    // momento", verificado en vivo). Búsqueda de "Dakota 25m" / "Dakota NLV25"
+    // en ML: cero publicaciones activas con el modelo exacto, de ningún
+    // vendedor. Dakota (misma tienda oficial, +250 mil ventas) sigue vendiendo
+    // niveles láser, pero rebrandeados como línea "Hamilton by Dakota": se
+    // migró el rol de esta ficha en la guía nivel-laser al Hamilton HNL50
+    // (MLA24741822, ficha nueva más abajo). OJO: el sucesor tiene menos
+    // reseñas (512 vs 2309) y NO incluye trípode/bolso, así que perdió el
+    // ángulo "la de más reseñas" — se reescribió el rol en la guía a "la de
+    // Dakota, con protección IP54". Documentado en docs/productos-sin-stock.md.
     id: 'MLA28034275',
     title: 'Nivel Láser Dakota 25m Autonivelante Con Trípode Y Bolso',
     canonicalName: 'Dakota NLV25',
@@ -60461,9 +60471,9 @@ Un comprador real lo resume así: "valió cada centavo, el trípode lo compré a
     mpn: 'NLV25',
     price: 70979,
     originalPrice: 142377,
-    priceUpdated: "2026-11-09",
-    priceLastChecked: "2026-11-13",
-    priceStatus: "fresh",
+    priceUpdated: "2026-11-15",
+    priceLastChecked: "2026-11-15",
+    priceStatus: "out_of_stock",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_653158-MLA99995624097_112025-O.webp',
     images: [
@@ -60482,7 +60492,7 @@ Un comprador real lo resume así: "valió cada centavo, el trípode lo compré a
     reviewsSampledAt: '2026-10-21',
     badge: 'bestseller',
     pastelColor: 'var(--pastel-blue)',
-    visibility: 'normal',
+    visibility: 'deprioritized',
     description: 'Nivel láser Dakota de 25m, autonivelante, con trípode y bolso incluidos. {{reviews:MLA28034275}} calificaciones a {{rating:MLA28034275}} estrellas: la base de reseñas más grande de esta comparativa.',
     seoTitle: 'Nivel láser Dakota 25m: {{reviews:MLA28034275}} calificaciones',
     metaDescription: 'Nivel láser Dakota 25m autonivelante, con trípode y bolso. {{rating:MLA28034275}}★ en {{reviews:MLA28034275}} calificaciones por {{precio:MLA28034275}}.',
@@ -60553,6 +60563,112 @@ Varias reseñas coinciden en el mismo punto débil: el trípode que trae la caja
         '@type': 'AggregateRating',
         ratingValue: '4.6',
         reviewCount: '2111',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA24741822',
+    title: 'Nivel Láser Autonivelante 30m Laser Verde Hnl50 Hamilton',
+    canonicalName: 'Hamilton HNL50 (Dakota)',
+    brand: 'Hamilton',
+    mpn: 'HNL50',
+    price: 57588,
+    originalPrice: 83336,
+    priceUpdated: "2026-11-15",
+    priceLastChecked: "2026-11-15",
+    priceVerifiedAt: "2026-11-15",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_770495-MLA99968238621_112025-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_770495-MLA99968238621_112025-O.webp',
+    ],
+    category: 'Hogar y Jardín',
+    categorySlug: 'hogar-jardin',
+    permalink: 'https://www.mercadolibre.com.ar/nivel-laser-autonivelante-30m-laser-verde-hnl50-hamilton/p/MLA24741822',
+    affiliateUrl: 'https://meli.la/1uTpqXF',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 512,
+    reviewsSampledAt: '2026-11-15',
+    soldQuantity: 1000,
+    pastelColor: 'var(--pastel-blue)',
+    visibility: 'normal',
+    description: 'Nivel láser Hamilton HNL50, de la tienda oficial de Dakota, autonivelante, con protección IP54 contra polvo y agua. {{reviews:MLA24741822}} calificaciones a {{rating:MLA24741822}} estrellas.',
+    seoTitle: 'Nivel láser Hamilton HNL50 (Dakota): protección IP54',
+    metaDescription: 'Nivel láser Hamilton HNL50 de Dakota, IP54. {{rating:MLA24741822}}★ en {{reviews:MLA24741822}} calificaciones por {{precio:MLA24741822}}.',
+    pros: [
+      'Vendido por la tienda oficial de Dakota, con más de 250 mil ventas históricas',
+      'Protección IP54 contra polvo y agua, según su ficha técnica',
+      'Autonivelante, con sistema de bloqueo de péndulo',
+      '{{reviews:MLA24741822}} calificaciones a {{rating:MLA24741822}} estrellas',
+    ],
+    cons: [
+      'No incluye trípode ni bolso (a diferencia de la publicación Dakota 25m que reemplaza en esta comparativa)',
+      'No incluye pilas (usa pilas AA)',
+      'Solo 2 líneas (vertical y horizontal), menos que el Hardest o el Isard de esta comparativa',
+      'Una reseña real avisa que el plástico de la carcasa tiene poca protección',
+      'Su base de reseñas (512) es bastante más chica que la del Hardest (1739) de esta misma comparativa',
+    ],
+    verdict: 'Es el nivel láser de la tienda oficial de Dakota en esta comparativa, con protección IP54 contra polvo y agua. A diferencia de la publicación anterior de Dakota, no incluye trípode ni bolso, y su base de reseñas es más chica que la del Hardest. Buena relación precio-calidad según reseñas reales, con la salvedad de un plástico con poca protección.',
+    articleBody: `## El nivel láser de Dakota, ahora con protección IP54
+
+Con {{reviews:MLA24741822}} calificaciones a {{rating:MLA24741822}} estrellas, lo vende la tienda oficial de Dakota en MercadoLibre, con más de 250 mil ventas históricas. Es autonivelante, con 2 líneas (vertical y horizontal), sistema de bloqueo de péndulo y declara protección IP54 contra polvo y agua, un dato que no verificamos en las demás publicaciones de esta comparativa.
+
+## Lo que cambió respecto a la publicación anterior de Dakota
+
+Esta publicación reemplaza a la Dakota NLV25 (25m, con trípode y bolso), que se quedó sin stock. El nivel en sí es comparable, pero **esta no incluye trípode ni bolso**: solo el nivel láser, con pilas AA aparte. Una reseña real resume la relación precio-calidad: "Compré pensando que iba a ser algo de menor calidad. La verdad que es muy bueno. El láser verde se ve perfecto. El único punto débil podemos decir que es el plástico sin mucha protección. Pero relación precio calidad un 10".`,
+    specs: [
+      { label: 'Marca', value: 'Hamilton' },
+      { label: 'Modelo', value: 'HNL50' },
+      { label: 'Color del haz de luz', value: 'Verde' },
+      { label: 'Color de la carcasa', value: 'Naranja' },
+      { label: 'Posiciones del láser', value: 'Horizontal y vertical' },
+      { label: 'Cantidad de líneas', value: '2' },
+      { label: 'Alimentación', value: 'Pilas AA (no incluidas)' },
+      { label: 'Distancia máxima de medición', value: '30 m' },
+      { label: 'Precisión', value: '5 mm' },
+      { label: 'Protección', value: 'IP54 (polvo y agua)' },
+      { label: 'Con sistema de bloqueo de péndulo', value: 'Sí' },
+      { label: 'Con imán', value: 'No' },
+      { label: 'Accesorios incluidos', value: 'No incluye trípode ni bolso' },
+    ],
+    customerReviews: [
+      { rating: 5, date: '2025', country: 'Argentina', text: 'Compré pensando que iba a ser algo de menor calidad. La verdad que es muy bueno. El láser verde se ve perfecto. El único punto débil podemos decir que es el plástico sin mucha protección. Pero relación precio calidad un 10.', useful: 23 },
+    ],
+    faq: [
+      { question: '¿Es el mismo nivel láser Dakota 25m que antes?', answer: 'Es de la misma tienda oficial de Dakota, pero es otra publicación (línea Hamilton by Dakota) que reemplaza a la Dakota NLV25 agotada. No incluye trípode ni bolso como traía aquella.' },
+      { question: '¿Qué significa la protección IP54?', answer: 'Que resiste polvo y salpicaduras de agua, según su ficha técnica. Es un dato que no verificamos en las otras publicaciones de esta comparativa.' },
+      { question: '¿Trae trípode incluido?', answer: 'No. A diferencia de la Dakota NLV25 que reemplaza, esta publicación solo incluye el nivel láser, sin trípode ni bolso.' },
+    ],
+    relatedProducts: ['MLAU3510722457', 'MLA66559596', 'MLA68265665'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Hamilton HNL50 (Dakota)',
+      description: 'Nivel láser Hamilton HNL50, de la tienda oficial de Dakota, autonivelante, con protección IP54 contra polvo y agua.',
+      brand: { '@type': 'Brand', name: 'Hamilton' },
+      model: 'HNL50',
+      sku: 'MLA24741822',
+      category: 'Niveles Láser',
+      color: 'Naranja',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_770495-MLA99968238621_112025-O.webp',
+      url: 'https://productosvirales.com.ar/producto/nivel-laser-autonivelante-30m-laser-verde-hnl50-hamilton-mla24741822',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '57588',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '512',
         bestRating: '5',
         worstRating: '1',
       },
@@ -60635,7 +60751,7 @@ Un comprador real describe el maletín como un buen punto a favor ("tiene los ci
       { question: '¿Se puede controlar desde el celular?', answer: 'Sí, según una reseña real el control remoto trae un código QR con el link a una app por bluetooth, una función extra además del control remoto físico incluido.' },
       { question: '¿Por qué tiene menos reseñas que la Dakota o el Hardest?', answer: 'Es el más caro de la comparativa, lo que suele traducirse en menor volumen de ventas y, por lo tanto, menos reseñas acumuladas, aunque su promedio de {{rating:MLA66559596}} estrellas es el más alto junto al Hardest.' },
     ],
-    relatedProducts: ['MLAU3510722457', 'MLA28034275', 'MLA68265665'],
+    relatedProducts: ['MLAU3510722457', 'MLA24741822', 'MLA68265665'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
@@ -60738,7 +60854,7 @@ El alcance es la principal diferencia frente al resto de la comparativa: 10 metr
       { question: '¿Trae trípode incluido?', answer: 'Sí, incluye trípode y soporte magnético en la caja.' },
       { question: '¿Cuánto dura la batería?', answer: 'Usa 2 pilas AAA (no incluidas) y, según una reseña real, consume bastante batería con el uso.' },
     ],
-    relatedProducts: ['MLAU3510722457', 'MLA28034275', 'MLA66559596'],
+    relatedProducts: ['MLAU3510722457', 'MLA24741822', 'MLA66559596'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
