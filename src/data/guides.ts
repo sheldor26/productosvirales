@@ -31122,7 +31122,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     updatedDate: "2026-08-15",
     hasDisclosure: true,
     readingTime: 9,
-    standfirst: `Una lámpara de pie va de {{precio:MLA69432393:k}} (la esquinera RGB) a {{precio:MLAU3835629976:k}} (la de arco). Comparamos 5 lámparas de pie reales de MercadoLibre Argentina por tipo de luz, si incluyen el foco y contras de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
+    standfirst: `Una lámpara de pie va de {{precio:MLAU3726389505:k}} (la trípode nórdica) a {{precio:MLAU3835629976:k}} (la de arco). Comparamos 5 lámparas de pie reales de MercadoLibre Argentina por tipo de luz, si incluyen el foco y contras de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
     quickPicks: [
       { productMlaId: "MLAU3726389505", label: "La más elegida", labelColor: "green", tagline: "PATH Trípode Nórdica: la clásica de madera, con más de mil opiniones reales" },
       { productMlaId: "MLA29252850", label: "Mejor para leer", labelColor: "blue", tagline: "TBCin LDP10: llega lista con LED, dimmer táctil y brazo flexible" },
@@ -31145,7 +31145,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "p", content: `**Pero el zócalo vacío no es solo una contra.** Varias compradoras de las de E27 cuentan que le ponen una lámpara inteligente o regulable y manejan color e intensidad desde el celular. Eso con un LED integrado no se puede. Así que la pregunta real no es "incluye o no incluye", es **lista para enchufar contra elegís vos el foco**.` },
       { type: "p", content: `**Luz de ambiente o luz para leer.** Una pantalla de tela difunde la luz hacia los costados y sirve para acompañar; un brazo flexible la dirige a la página. No son intercambiables. Si el plan es leer en el sillón, una trípode con pantalla de tela va a quedar corta por más watts que tenga.` },
       { type: "p", content: `**Dónde va a apoyarse.** Es la decisión que más se subestima. Si no hay lugar al costado del sillón, ninguna lámpara común sirve por más linda que sea: ahí entra el formato arco, que apoya la base a un lado y lleva la luz por encima.` },
-      { type: "callout", calloutVariant: "warning", calloutTitle: "Ojo con el campo \"Incluye lámpara\" de MercadoLibre", content: `En la [Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393) la ficha declara "Incluye lámpara: No", y eso hace pensar que falta comprar un foco. No falta: la descripción del vendedor confirma **LED RGBIC integrado de 5 W** y en ningún lado menciona zócalo, rosca ni foco. Es un campo que no aplica a ese producto. Lo aclaramos porque induce a un gasto que no existe.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "La Global RGB cambió de vendedor y subió de precio", content: `La publicación de la [Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393) que seguíamos se quedó sin stock. La reemplaza una publicación nueva del mismo fabricante y modelo exacto, pero de otro vendedor: subió de precio y todavía no tiene reseñas propias. Lo aclaramos porque cambia dos cosas que esta guía usa para comparar: el precio ya no es el más bajo del grupo, y el respaldo de opiniones que tenía antes no se traslada a la publicación actual.` },
 
       { type: "h2", title: `Las mejores lámparas de pie de 2026`, id: "ranking" },
 
@@ -31179,9 +31179,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h3", title: `5. Global RGB Esquinero — luz de color` },
       { type: "product-card", productMlaId: "MLA69432393", label: "Luz de color", labelColor: "slate", ranking: 5, description: `Barra RGBIC de 140 cm con control remoto, modular en 3 secciones. Es luz de color para setup o TV, no iluminación.` },
-      { type: "p", content: `La [Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393) no compite con el resto de esta guía y conviene decirlo de entrada: es luz de color, no luz para iluminar. Sale alrededor de {{precio:MLA69432393:k}}, la más barata del grupo. La tecnología RGBIC muestra varios colores a la vez y se maneja con control remoto.` },
+      { type: "p", content: `La [Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393) no compite con el resto de esta guía y conviene decirlo de entrada: es luz de color, no luz para iluminar. Sale alrededor de {{precio:MLA69432393:k}}: la publicación original se quedó sin stock y la reemplaza una de otro vendedor, del mismo fabricante y modelo, que subió de precio. La tecnología RGBIC muestra varios colores a la vez y se maneja con control remoto o app Bluetooth.` },
       { type: "p", content: `El diseño modular en tres secciones está pensado para armarla en ángulo y apoyarla en un rincón: detrás del televisor, al costado del escritorio, o como ambiente de color en un cuarto.` },
-      { type: "p", content: `Lo honesto, y es lo que define la compra: **son 5 W**. No ilumina una habitación ni sirve para leer. Y con apenas {{reviews:MLA69432393}} opiniones, su promedio tiene muy poco respaldo comparado con las más de mil de la trípode.` },
+      { type: "p", content: `Lo honesto, y es lo que define la compra: **son 5 W**. No ilumina una habitación ni sirve para leer. Y la publicación vigente todavía no tiene reseñas propias (la original sí las tenía, pero se agotó), así que no hay forma de confirmar en ella lo que decían las opiniones viejas.` },
 
       { type: "h2", title: `Tabla comparativa: tipo de luz, altura y si trae foco`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Altura`, `Tipo de luz`, `¿Trae foco?`, `Ideal para`], rows: [
@@ -31191,7 +31191,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         [`[Envases Devoto](/producto/lampara-de-pie-envases-devoto-mimbre-120cm-rollo-e27-estructura-negro-pantalla-r-mla53437609)`, `{{precio:MLA53437609}}`, `120 cm`, `Decorativa, con sombras`, `No, E27`, `Efecto en la pared`],
         [`[Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393)`, `{{precio:MLA69432393}}`, `140 cm`, `Color, 5 W`, `LED integrado`, `Setup y TV`],
       ] },
-      { type: "p", content: `La columna del foco es la que más cambia el precio real: en las tres de zócalo E27 hay que sumar la lamparita, que no viene incluida. En la Global RGB el LED es parte del producto, aunque su ficha de MercadoLibre diga lo contrario.` },
+      { type: "p", content: `La columna del foco es la que más cambia el precio real: en las tres de zócalo E27 hay que sumar la lamparita, que no viene incluida. En la Global RGB el LED es parte del producto: no hay zócalo ni foco que comprar aparte.` },
 
       { type: "h2", title: `Cómo elegir tu lámpara de pie`, id: "como-elegir" },
       { type: "h3", title: `1. Según para qué la vas a usar` },
@@ -31223,7 +31223,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { question: `¿Qué altura tiene que tener una lámpara de pie?`, answer: `Entre 140 y 170 cm es el rango habitual para acompañar un sillón. En esta comparativa van de 120 cm la más baja a 168 la más alta. Como referencia práctica, para lectura conviene que la pantalla quede apenas por encima del hombro de quien lee.` },
       { question: `¿Qué es una lámpara de pie de arco?`, answer: `Es la que tiene un brazo curvo que se extiende desde la base, en este caso 60 cm. Sirve cuando no hay lugar para apoyar una lámpara al costado del sillón: se pone la base detrás o a un lado y la luz cae desde arriba. La [Lumina Curva](/producto/lampara-de-pie-curva-de-hierro-led-e27-minimalista-moderna-natural-negro-mlau3835629976) es la única de ese formato en esta guía.` },
       { question: `¿Una lámpara RGB sirve para iluminar un ambiente?`, answer: `No. La [Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393) de esta comparativa tiene 5 W: es luz de color para setup gamer, backlight de televisor o ambiente en un cuarto. Para iluminación real conviene cualquiera de las otras cuatro.` },
-      { question: `¿Por qué la ficha de MercadoLibre dice que la RGB no incluye lámpara?`, answer: `Porque es un campo que no aplica a ese producto. La descripción del vendedor confirma LED RGBIC integrado de 5 W y no menciona zócalo ni rosca en ningún lado: no hay dónde enroscar un foco. Ese "No" hace pensar que falta comprar algo, y no falta nada.` },
+      { question: `¿Por qué la Global RGB no tiene reseñas si está en esta comparativa?`, answer: `Porque la publicación que seguíamos originalmente (con buenas opiniones) se quedó sin stock. La reemplaza una publicación nueva del mismo fabricante y modelo, de otro vendedor, que todavía no acumuló reseñas propias. Por honestidad, no trasladamos el rating viejo a la publicación actual.` },
     ],
     internalLinks: [
       { label: `Estantería flotante: cuál comprar en Argentina`, href: `/guias/hogar-jardin/estanteria-flotante` },

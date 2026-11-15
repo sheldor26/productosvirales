@@ -92553,19 +92553,33 @@ Comprala si te interesa el efecto de sombras en la pared, si va a un lugar fijo 
     ],
   },
   {
+    // SWAP DE VENDEDOR (2026-11-15): la publicación original (otro vendedor,
+    // meli.la/1j72jpV, $51.978, con buen rating pero pocas opiniones) se
+    // quedó sin stock. La reemplaza una publicación de ese mismo fabricante
+    // y modelo exacto (marca Global, modelo AMBILIGHT-CRNRGB-140-IR,
+    // verificado en vivo), vendida por CARTUCHOSYALGOMAS-ARGENTINA
+    // (MercadoLíder Gold, alto volumen de ventas). Subió de precio a
+    // $90.677 y la nueva publicación es nueva: sin reseñas propias todavía,
+    // "Última en Stock" (apenas una unidad). El rating y las reseñas viejas
+    // NO se trasladan: pertenecían a la publicación anterior. El ángulo de
+    // iluminación pasa de lo que declaraba la ficha vieja a 270° (declarado
+    // por el vendedor actual en su descripción).
+    // La nueva publicación no tiene el campo estructurado "Incluye lámpara"
+    // (solo declara Marca y Modelo como atributos), así que se saca esa
+    // mención puntual de la ficha vieja.
     id: "MLA69432393",
     title: "Luz Lampara Rgb Esquinero De Pie De 140cm De Alto Control Rgb Negro",
     canonicalName: "Global RGB Esquinero 140 cm",
-    price: 51978,
+    price: 90677,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_866092-MLA110554557378_052026-O.webp",
     images: ["https://http2.mlstatic.com/D_NQ_NP_866092-MLA110554557378_052026-O.webp"],
     category: "Hogar y Jardín",
     categorySlug: "hogar-jardin",
-    permalink: "https://www.mercadolibre.com.ar/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro/p/MLA69432393",
-    affiliateUrl: "https://meli.la/1j72jpV",
+    permalink: "https://www.mercadolibre.com.ar/global-luces-de-ambientacion-bluetooth-rgb-140cm-5w-control/up/MLAU4610612330",
+    affiliateUrl: "https://meli.la/1xE6ZCB",
     condition: "new", freeShipping: true,
-    rating: 4.6, reviewCount: 9,
+    rating: 0, reviewCount: 0,
     pastelColor: "var(--pastel-slate)", visibility: "normal",
     specs: [
       { label: "Marca", value: "Global" },
@@ -92573,67 +92587,55 @@ Comprala si te interesa el efecto de sombras en la pared, si va a un lugar fijo 
       { label: "Altura", value: "140 cm" },
       { label: "Tecnología", value: "RGBIC, colores múltiples simultáneos" },
       { label: "Potencia", value: "5 W" },
-      { label: "Ángulo de iluminación", value: "160 grados" },
-      { label: "Control", value: "Remoto infrarrojo incluido" },
+      { label: "Ángulo de iluminación", value: "270 grados (declarado por el vendedor)" },
+      { label: "Control", value: "App Bluetooth + control remoto infrarrojo" },
       { label: "Diseño", value: "Modular en 3 secciones, montaje angular" },
-      { label: "Materiales", value: "Aluminio, policarbonato y ABS" },
-      { label: "Incluye lámpara", value: "LED integrado, no lleva foco" },
+      { label: "Vendedor", value: "CARTUCHOSYALGOMAS-ARGENTINA (MercadoLíder Gold)" },
     ],
     relatedProducts: ["MLA29252850", "MLAU3726389505", "MLAU3835629976", "MLA53437609"],
-    priceUpdated: "2026-10-09", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    priceUpdated: "2026-11-15", priceLastChecked: "2026-11-15", priceVerifiedAt: "2026-11-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-15",
     description: "Lámpara esquinera RGB de 140 cm con LED integrado y control remoto. Es luz de ambiente y color, no luz para iluminar una habitación.",
     seoTitle: "Global RGB Esquinero: luz de color para setup y TV",
     metaDescription: "Lámpara de pie RGB esquinera de 140 cm con control remoto: para setup gamer y backlight de TV. Por qué sus 5 W no iluminan un ambiente.",
-    verdict: "No compite con el resto de esta comparativa: es luz de color, no luz para iluminar. Con tecnología RGBIC muestra varios colores a la vez, trae control remoto y se arma en tres secciones para apoyar en un rincón. El uso real es setup gamer, luz detrás del televisor o ambiente de color en un cuarto. Dos advertencias honestas: son 5 W, así que no esperes que ilumine nada, y con apenas {{reviews:MLA69432393}} opiniones su promedio tiene muy poco respaldo estadístico.",
+    verdict: "No compite con el resto de esta comparativa: es luz de color, no luz para iluminar. Con tecnología RGBIC muestra varios colores a la vez, trae control remoto (y app Bluetooth) y se arma en tres secciones para apoyar en un rincón. El uso real es setup gamer, luz detrás del televisor o ambiente de color en un cuarto. Advertencia honesta: son 5 W, así que no esperes que ilumine nada. Además, la publicación original con buen historial de reseñas se quedó sin stock: la que la reemplaza es del mismo fabricante y modelo, pero es nueva, sin reseñas propias todavía y con apenas una unidad declarada en stock.",
     pros: [
       "Tecnología RGBIC: muestra varios colores simultáneos, no un solo color por vez",
-      "Control remoto infrarrojo incluido para color, intensidad y efectos",
+      "Control remoto infrarrojo y app Bluetooth incluidos para color, intensidad y efectos",
       "Diseño modular en 3 secciones que permite el montaje angular en un rincón",
-      "La más barata de esta comparativa",
       "LED integrado: llega lista, no lleva foco",
     ],
     cons: [
       "5 W de potencia: es luz decorativa, no sirve para iluminar una habitación ni para leer",
-      "Solo {{reviews:MLA69432393}} opiniones: el promedio tiene muy poco respaldo estadístico frente a las {{reviews:MLAU3726389505}} de la trípode",
-      "La ficha técnica de MercadoLibre declara \"Incluye lámpara: No\", un campo que no aplica a este producto e induce a pensar que hay que comprar un foco",
+      "Publicación nueva (swap de vendedor por falta de stock en la original): todavía no tiene reseñas propias, así que no hay cómo confirmar en ella lo que decían las opiniones viejas",
+      "El vendedor declara \"Última en Stock\" (1 unidad): puede volver a agotarse pronto",
     ],
-    customerReviews: [
-      { rating: 5, country: "Argentina", text: "El producto muy bueno, materiales excelentes. Y muy buena calidad. Recomendadisimo.", date: "2026" },
-      { rating: 5, country: "Argentina", text: "Me sirvió mucho lo use para luz roja en el cuarto de mi bebe.", date: "2026" },
-      { rating: 5, country: "Argentina", text: "Excelente producto.", date: "2026" },
-    ],
+    customerReviews: [],
     articleBody: `## Qué es y para quién
 
-La Global RGB Esquinero es una barra de luz de pie de 140 cm, modular en tres secciones, con LED RGBIC integrado de 5 W y control remoto infrarrojo. Cuerpo de aluminio, policarbonato y ABS.
+La Global RGB Esquinero es una barra de luz de pie de 140 cm, modular en tres secciones, con LED RGBIC integrado de 5 W, control remoto infrarrojo y app Bluetooth. Mismo fabricante y modelo (Global, AMBILIGHT-CRNRGB-140-IR) que veníamos siguiendo, pero en una publicación nueva: la original se quedó sin stock.
 
 ## Lo bueno
 
-Hace algo que ninguna otra de esta comparativa hace: color. La tecnología RGBIC permite varios colores simultáneos en la misma barra, con efectos y transiciones que se manejan por control remoto.
+Hace algo que ninguna otra de esta comparativa hace: color. La tecnología RGBIC permite varios colores simultáneos en la misma barra, con efectos y transiciones que se manejan por control remoto o por app.
 
-El diseño modular en tres secciones está pensado para armarla en ángulo y apoyarla en un rincón, que es donde tiene sentido: detrás del televisor, al costado del escritorio, o como luz ambiente de color en un cuarto. Una compradora la usa como luz roja en la habitación de su bebé.
-
-Y es la más barata de esta comparativa.
+El diseño modular en tres secciones está pensado para armarla en ángulo y apoyarla en un rincón, que es donde tiene sentido: detrás del televisor, al costado del escritorio, o como luz ambiente de color en un cuarto.
 
 ## La contra real
 
 **Son 5 W.** Ese número decide todo: no ilumina una habitación, no sirve para leer y no reemplaza a ninguna de las otras cuatro de esta guía. Es un objeto de ambiente y de color, y hay que comprarla sabiendo eso.
 
-La segunda contra es de evidencia: {{reviews:MLA69432393}} opiniones. Contra las {{reviews:MLAU3726389505}} de la trípode nórdica o las {{reviews:MLA53437609}} de la Devoto, su {{rating:MLA69432393}} dice muy poco. No significa que sea mala, significa que casi no sabemos nada sobre ella.
-
-## Un dato de la publicación que confunde
-
-La ficha técnica de MercadoLibre declara "Incluye lámpara: No". Ese campo no aplica: la descripción del vendedor confirma LED RGBIC integrado de 5 W y en ningún lado menciona zócalo E27, rosca ni foco. No hay dónde enroscar una lamparita. Ese "No" hace pensar que falta comprar algo, y no falta nada.
+La segunda contra es de honestidad con el cambio de publicación: la que reseñamos originalmente (mismo producto, otro vendedor) tenía algunas opiniones a favor, pero se quedó sin stock y subió de precio en la que la reemplaza. Esta publicación nueva todavía no tiene reseñas propias, y declara apenas una unidad en stock. No hay forma de confirmar en ella lo que decían las reseñas viejas.
 
 ## Para quién sí y para quién no
 
-Comprala si querés luz de color para un setup, detrás del televisor o como ambiente en un cuarto. No la compres si esperás iluminación real: para eso están las otras cuatro de esta guía.`,
+Comprala si querés luz de color para un setup, detrás del televisor o como ambiente en un cuarto, sabiendo que es una publicación nueva sin historial propio todavía. No la compres si esperás iluminación real: para eso están las otras cuatro de esta guía.`,
     faq: [
       { question: "¿La lámpara RGB ilumina una habitación?", answer: "No. Son 5 W: es luz decorativa y de color. Para iluminar de verdad conviene cualquiera de las otras cuatro de esta comparativa." },
-      { question: "¿Necesita lamparita?", answer: "No. Tiene LED RGBIC integrado. La ficha de MercadoLibre dice \"Incluye lámpara: No\", pero ese campo no aplica a este producto: no hay dónde enroscar un foco." },
-      { question: "¿Para qué sirve entonces?", answer: "Para setup gamer, luz detrás del televisor y ambiente de color en un cuarto. Una compradora la usa como luz roja en la habitación de su bebé." },
-      { question: "¿Qué tan confiable es su calificación?", answer: "Poco, y conviene saberlo: tiene apenas {{reviews:MLA69432393}} opiniones. Contra las más de mil de la trípode nórdica, su promedio no dice demasiado." },
-      { question: "¿Qué es RGBIC?", answer: "Es la tecnología que permite mostrar varios colores a la vez en la misma barra, en vez de un solo color uniforme. Se maneja con el control remoto incluido." },
+      { question: "¿Necesita lamparita?", answer: "No. Tiene LED RGBIC integrado: la descripción del vendedor no menciona zócalo ni foco en ningún lado." },
+      { question: "¿Para qué sirve entonces?", answer: "Para setup gamer, luz detrás del televisor y ambiente de color en un cuarto." },
+      { question: "¿Por qué no tiene reseñas si está en esta comparativa?", answer: "Porque la publicación que seguíamos originalmente se quedó sin stock. La reemplaza una publicación nueva del mismo fabricante y modelo, pero sin historial propio de opiniones todavía: por honestidad, no mostramos acá el rating de la publicación anterior." },
+      { question: "¿Qué es RGBIC?", answer: "Es la tecnología que permite mostrar varios colores a la vez en la misma barra, en vez de un solo color uniforme. Se maneja con el control remoto incluido o por app Bluetooth." },
     ],
   },
   // Guía nueva estanteria-flotante (2026-08-15). Seis fichas del silo hogar-jardin.
