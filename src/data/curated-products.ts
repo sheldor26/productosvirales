@@ -20307,24 +20307,37 @@ Buen auricular, condicionado. Suena muy bien, está bien construido y resiste el
     ],
   },
   {
+    // 2026-11-15: 404 real ("Parece que esta página no existe", sexta
+    // corrida). Búsqueda de "auriculares jbl tune 770nc negro" (211
+    // resultados): sin un local en negro con respaldo real (los únicos en
+    // negro son imports USA o usados). Reemplazado por la variante BLANCA
+    // de Tienda Prego (+100 mil ventas, rating y reviewCount reales de la
+    // nueva publicación, bastante mayor base que la anterior), mismo modelo
+    // JBL Tune 770NC. Cambio de color documentado como contra honesta.
+    // Permalink viejo: "https://www.mercadolibre.com.ar/p/MLA53285777"
     id: "MLA53285777",
-    title: "Auriculares Inalambricos Jbl Tune 770nc Over Ear Color Negro",
-    canonicalName: "Auriculares JBL Tune 770NC",
-    price: 158900,
+    title: "Auricular JBL Tune 770 NC BT Blanco",
+    canonicalName: "Auriculares JBL Tune 770NC (blanco)",
+    price: 188999,
+    originalPrice: 199199,
     currency: "ARS",
-    image: "https://http2.mlstatic.com/D_NQ_NP_797671-MLA88854192736_082025-F.jpg",
+    image: "https://http2.mlstatic.com/D_NQ_NP_823049-MLA99524520078_122025-O.webp",
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_797671-MLA88854192736_082025-F.jpg",
-      "https://http2.mlstatic.com/D_NQ_NP_973816-MLA88854172950_082025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_823049-MLA99524520078_122025-O.webp",
     ],
     category: "Auriculares",
     categorySlug: "audio",
-    permalink: "https://www.mercadolibre.com.ar/p/MLA53285777",
-    affiliateUrl: "https://meli.la/1mR75zc",
+    permalink: "https://www.mercadolibre.com.ar/auricular-jbl-tune-770-nc-bt-blanco/p/MLA58599020",
+    affiliateUrl: "https://meli.la/1MbtocY",
     condition: "new",
     freeShipping: true,
-    rating: 4.9,
-    reviewCount: 1458,
+    rating: 4.8,
+    reviewCount: 7475,
+    reviewsSampledAt: "2026-11-15",
+    priceUpdated: "2026-11-15",
+    priceLastChecked: "2026-11-15",
+    priceVerifiedAt: "2026-11-15",
+    priceStatus: "fresh",
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
@@ -20346,9 +20359,6 @@ Buen auricular, condicionado. Suena muy bien, está bien construido y resiste el
       { label: "Resistencia al agua", value: "No tiene" },
     ],
     relatedProducts: ["MLA23138487", "MLA38451794"],
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
-    priceStatus: "fresh",
     description: "Auriculares JBL Tune 770NC: vincha over-ear con cancelación activa de ruido, ideal para viajes y oficina. Sonido JBL y buen aislamiento por precio medio.",
     seoTitle: "JBL Tune 770NC: ANC y 70h de batería, ¿conviene?",
     metaDescription: "Los JBL Tune 770NC son para quien quiere cancelación de ruido y autonomía larga sin pagar gama alta. Vincha de 232 g, 70 h y USB-C. La pega adentro.",
@@ -20367,6 +20377,7 @@ Buen auricular, condicionado. Suena muy bien, está bien construido y resiste el
       "Almohadillas más chicas que el promedio: si usás anteojos muchas horas, pueden apretar",
       "Solo codecs SBC y AAC: sin aptX ni LDAC, no es el mejor para audio de máxima calidad ni gaming de baja latencia",
       "No tienen resistencia al agua: no son para entrenar ni para usar bajo lluvia",
+      "La publicación que linkeamos es en color blanco: la versión negra se quedó sin stock en vendedores locales confiables",
     ],
     articleBody: `## Qué son y para qué alcanzan
 

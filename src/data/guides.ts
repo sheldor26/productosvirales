@@ -4668,7 +4668,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         [`[Lenovo LivePod LP75](https://meli.la/1S7f74t)`, `{{precio:MLA28026305}}`, `In-ear`, `Lo más barato con respaldo`],
         [`[Alpina F50 Pro](https://meli.la/2UAS5x1)`, `{{precio:MLA41255867}}`, `Deportivo (gancho)`, `Correr y entrenar`],
         [`[Sony WH-CH520](https://meli.la/2t24mSB)`, `{{precio:MLA23138487}}`, `Vincha`, `Comodidad y 50 h de batería`],
-        [`[JBL Tune 770NC](https://meli.la/1mR75zc)`, `{{precio:MLA53285777}}`, `Vincha con cancelación`, `Aislarte del ruido`],
+        [`[JBL Tune 770NC](https://meli.la/1MbtocY)`, `{{precio:MLA53285777}}`, `Vincha con cancelación`, `Aislarte del ruido`],
         [`[Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6)`, `{{precio:MLA38451794}}`, `In-ear premium`, `Lo mejor en sonido y cancelación`],
       ] },
 
@@ -4683,7 +4683,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `Cuánto cuestan unos auriculares inalámbricos en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
         `**$23.000 a $44.000:** los in-ear más vendidos. Los [Redmi Buds 6 Play](https://meli.la/1LqPkFR), los [Lenovo LivePod](https://meli.la/1S7f74t) y los deportivos [Alpina F50 Pro](https://meli.la/2UAS5x1).`,
-        `**$85.000 a $159.000:** las vinchas. La [Sony WH-CH520](https://meli.la/2t24mSB) (50 h de batería) y la [JBL Tune 770NC](https://meli.la/1mR75zc) con cancelación.`,
+        `**$85.000 a $159.000:** las vinchas. La [Sony WH-CH520](https://meli.la/2t24mSB) (50 h de batería) y la [JBL Tune 770NC](https://meli.la/1MbtocY) con cancelación.`,
         `**{{precio:MLA38451794:k}} o más:** los premium. Los [Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6), gama alta con cancelación.`,
       ] },
 
@@ -4691,9 +4691,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "verdict", content: `Depende del uso. Para **in-ear que anden bien sin gastar**, los **Xiaomi Redmi Buds 6 Play**: los más vendidos del país por lejos, imbatibles por precio. Si preferís **vincha cómoda con mucha batería**, la **Sony WH-CH520**. Si querés **cancelación de ruido** para aislarte, la **JBL Tune 770NC** (vincha) o los **Galaxy Buds3 Pro** (premium in-ear). Y para **deporte**, los **Alpina F50 Pro** con gancho no se caen al correr. El error a evitar: comprar el formato equivocado o pagar cancelación que no vas a usar. Para la mayoría, los Redmi Buds o la Sony WH-CH520 resuelven todo por poca plata.` },
     ],
     faq: [
-      { question: `¿Cuáles son los mejores auriculares inalámbricos en Argentina?`, answer: `Por ventas y relación precio, los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) en in-ear (más de 209.000 opiniones) y la [Sony WH-CH520](https://meli.la/2t24mSB) en vincha. Si querés cancelación de ruido, la [JBL Tune 770NC](https://meli.la/1mR75zc); para deporte, los [Alpina F50 Pro](https://meli.la/2UAS5x1); y en premium, los [Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6).` },
+      { question: `¿Cuáles son los mejores auriculares inalámbricos en Argentina?`, answer: `Por ventas y relación precio, los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) en in-ear (más de 209.000 opiniones) y la [Sony WH-CH520](https://meli.la/2t24mSB) en vincha. Si querés cancelación de ruido, la [JBL Tune 770NC](https://meli.la/1MbtocY); para deporte, los [Alpina F50 Pro](https://meli.la/2UAS5x1); y en premium, los [Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6).` },
       { question: `¿Qué diferencia hay entre auriculares in-ear y de vincha?`, answer: `Los in-ear (earbuds) se meten en la oreja, son chicos, discretos y portátiles, ideales para uso diario y la calle. Las vinchas apoyan sobre o alrededor de la oreja: más cómodas para muchas horas, con más batería y mejor sonido por el precio, pero abultan más. Para llevar siempre, in-ear; para comodidad y autonomía, vincha.` },
-      { question: `¿Vale la pena la cancelación de ruido?`, answer: `Si viajás, usás colectivo o trabajás en lugares ruidosos, sí: la cancelación activa te aísla del ruido y mejora mucho la experiencia. La traen la [JBL Tune 770NC](https://meli.la/1mR75zc) y los [Galaxy Buds3 Pro](https://meli.la/1REUKv6). Si es para casa o la calle tranquila, podés ahorrártela y elegir algo más barato como la [Sony WH-CH520](https://meli.la/2t24mSB) o los Redmi Buds.` },
+      { question: `¿Vale la pena la cancelación de ruido?`, answer: `Si viajás, usás colectivo o trabajás en lugares ruidosos, sí: la cancelación activa te aísla del ruido y mejora mucho la experiencia. La traen la [JBL Tune 770NC](https://meli.la/1MbtocY) y los [Galaxy Buds3 Pro](https://meli.la/1REUKv6). Si es para casa o la calle tranquila, podés ahorrártela y elegir algo más barato como la [Sony WH-CH520](https://meli.la/2t24mSB) o los Redmi Buds.` },
       { question: `¿Cuáles auriculares conviene para hacer deporte?`, answer: `Los que tienen gancho de oreja, que los sujetan firme y no se caen al correr. Los [Alpina F50 Pro](https://meli.la/2UAS5x1) son de los más vendidos en ese formato, inalámbricos y baratos. Los in-ear comunes pueden caerse durante el ejercicio, así que para el gimnasio o salir a correr, el gancho hace la diferencia.` },
       { question: `¿Cuáles son los auriculares inalámbricos más baratos que valen la pena?`, answer: `Los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) (alrededor de {{precio:MLA39962085:k}}): son los más vendidos del país y cumplen muy bien para uso diario. Los [Lenovo LivePod LP75](https://meli.la/1S7f74t) son otra opción económica con buen respaldo. Por poca plata dan lo necesario; no hace falta gastar mucho para tener inalámbricos que anden bien.` },
       { question: `¿El bluetooth pierde calidad de sonido frente al cable?`, answer: `En la práctica, para la gran mayoría no se nota. Los códecs actuales (AAC, y en gama media SBC) dan un sonido más que bueno para música, llamadas y videos. La diferencia con el cable existe en equipos de audiófilo y oídos entrenados, pero para uso diario es mínima. Si te preocupa la latencia (que el audio llegue justo con el video o en juegos), ahí sí el cable gana; para escuchar música, el bluetooth está más que bien.` },
@@ -4772,7 +4772,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         [`[JBL Wave Beam 2](https://meli.la/2nnvajF)`, `{{precio:MLA53657592}}`, `In-ear`, `Earbuds JBL para llevar`],
         [`[JBL Tune 520BT](https://meli.la/1ovdrES)`, `{{precio:MLA23997257}}`, `Vincha`, `La vincha de entrada, mucha batería`],
         [`[JBL Tune 720BT](https://meli.la/1PhKyyq)`, `{{precio:MLA24519483}}`, `Vincha`, `Mejor sonido, la más elegida`],
-        [`[JBL Tune 770NC](https://meli.la/1mR75zc)`, `{{precio:MLA53285777}}`, `Vincha con cancelación`, `Aislarte del ruido`],
+        [`[JBL Tune 770NC](https://meli.la/1MbtocY)`, `{{precio:MLA53285777}}`, `Vincha con cancelación`, `Aislarte del ruido`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu JBL`, id: "como-elegir" },
@@ -4785,10 +4785,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "verdict", content: `Para la mayoría, la **JBL Tune 520BT**: la vincha de entrada con más de 50 horas de batería y el sonido de la marca al mejor precio. Si querés un paso más de sonido, la **Tune 720BT** (la más elegida). Para **cancelación de ruido**, la **Tune 770NC**. Y si preferís in-ear, el **Wave Beam 2**. Si lo que buscás es ahorrar y no te casás con JBL, mirá la [guía general de auriculares](/guias/audio/auriculares-inalambricos): los Xiaomi Redmi Buds rinden muy bien por mucho menos.` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor auricular JBL?`, answer: `Para la mayoría, la [JBL Tune 520BT](https://meli.la/1ovdrES): vincha de entrada con más de 50 horas de batería y buen precio. Si querés mejor sonido, la [Tune 720BT](https://meli.la/1PhKyyq); para cancelación de ruido, la [Tune 770NC](https://meli.la/1mR75zc); y si preferís in-ear, el [Wave Beam 2](https://meli.la/2nnvajF).` },
+      { question: `¿Cuál es el mejor auricular JBL?`, answer: `Para la mayoría, la [JBL Tune 520BT](https://meli.la/1ovdrES): vincha de entrada con más de 50 horas de batería y buen precio. Si querés mejor sonido, la [Tune 720BT](https://meli.la/1PhKyyq); para cancelación de ruido, la [Tune 770NC](https://meli.la/1MbtocY); y si preferís in-ear, el [Wave Beam 2](https://meli.la/2nnvajF).` },
       { question: `¿Qué diferencia hay entre la JBL Tune 520BT, 720BT y 770NC?`, answer: `Son vinchas de la misma línea: la 520BT es la de entrada (mucha batería, buen precio), la 720BT mejora el sonido, y la 770NC suma cancelación activa de ruido. A más número, más prestaciones y precio. Elegí según si te importa más el precio (520BT), el sonido (720BT) o el aislamiento (770NC).` },
       { question: `¿Los JBL valen la pena o conviene algo más barato?`, answer: `JBL da buen sonido, marca y batería, pero hay opciones más baratas. Si tu uso es básico, unos [Xiaomi Redmi Buds](/guias/audio/auriculares-inalambricos) salen mucho menos. JBL se justifica si querés el sonido y la durabilidad de la marca, y la línea Tune ofrece esa calidad a precios razonables, sobre todo la 520BT.` },
-      { question: `¿Los JBL sirven para llamadas y home office?`, answer: `Sí. Toda la línea Tune trae micrófono para llamadas y manos libres, y las vinchas son cómodas para jornadas largas frente a la compu. Si estás en un lugar ruidoso, la [Tune 770NC](https://meli.la/1mR75zc) con cancelación es la más indicada para concentrarte; para casa tranquila, la 520BT o 720BT alcanzan. La 770NC además se conecta a dos dispositivos a la vez (celular y notebook), práctico para trabajar.` },
+      { question: `¿Los JBL sirven para llamadas y home office?`, answer: `Sí. Toda la línea Tune trae micrófono para llamadas y manos libres, y las vinchas son cómodas para jornadas largas frente a la compu. Si estás en un lugar ruidoso, la [Tune 770NC](https://meli.la/1MbtocY) con cancelación es la más indicada para concentrarte; para casa tranquila, la 520BT o 720BT alcanzan. La 770NC además se conecta a dos dispositivos a la vez (celular y notebook), práctico para trabajar.` },
     ],
     internalLinks: [
       { label: "Auriculares inalámbricos: la guía completa", href: "/guias/audio/auriculares-inalambricos" },
@@ -4837,29 +4837,29 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Lo que resigna: **no tiene cancelación activa de ruido** (solo aislamiento pasivo de las almohadillas), es on-ear en vez de over-ear, y no trae entrada de 3,5 mm para usarla por cable si se queda sin batería. El micrófono también es básico: cumple en interiores, pero se nota flojo para llamadas en la calle con viento o tráfico. Si necesitás algo de eso, seguí leyendo.` },
 
       { type: "h2", title: `¿Conviene la Sony o te sirve más otra marca?`, id: "conviene" },
-      { type: "p", content: `Si lo que buscás en "Sony" es la **cancelación de ruido**, la WH-CH520 no la tiene: para eso, la [JBL Tune 770NC](/producto/auriculares-inalambricos-jbl-tune-770nc-over-ear-color-negro-mla53285777) de la guía general cuesta bastante menos que una línea premium y sí cancela el ruido de forma activa. Si lo que te importa es la **batería y el respaldo de marca** sin gastar de más, la Sony cumple mejor que casi cualquier alternativa: 50 horas es de lo más alto del segmento.` },
+      { type: "p", content: `Si lo que buscás en "Sony" es la **cancelación de ruido**, la WH-CH520 no la tiene: para eso, la [JBL Tune 770NC](/producto/auricular-jbl-tune-770-nc-bt-blanco-mla53285777) de la guía general cuesta bastante menos que una línea premium y sí cancela el ruido de forma activa. Si lo que te importa es la **batería y el respaldo de marca** sin gastar de más, la Sony cumple mejor que casi cualquier alternativa: 50 horas es de lo más alto del segmento.` },
       { type: "p", content: `Y si el precio manda por sobre todo, los [Xiaomi Redmi Buds 6 Play](/producto/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro-mla39962085) salen bastante menos con más de 209.000 opiniones, aunque en formato in-ear (no vincha) y sin el respaldo de marca Sony.` },
 
       { type: "h2", title: `Tabla comparativa: Sony vs. las alternativas`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Cancelación de ruido`, `Ideal para`], rows: [
         [`[Sony WH-CH520](https://meli.la/2t24mSB)`, `{{precio:MLA23138487}}`, `Vincha`, `No`, `Batería y respaldo de marca`],
-        [`[JBL Tune 770NC](https://meli.la/1mR75zc)`, `{{precio:MLA53285777}}`, `Vincha`, `Sí, activa`, `Aislarte del ruido`],
+        [`[JBL Tune 770NC](https://meli.la/1MbtocY)`, `{{precio:MLA53285777}}`, `Vincha`, `Sí, activa`, `Aislarte del ruido`],
         [`[Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR)`, `{{precio:MLA39962085}}`, `In-ear`, `No`, `El precio más bajo`],
       ] },
 
       { type: "h2", title: `Cuánto cuesta un auricular Sony en Argentina [julio 2026]`, id: "precios" },
       { type: "list", items: [
         `**Alrededor de {{precio:MLA23138487:k}}:** la [Sony WH-CH520](https://meli.la/2t24mSB), el único modelo Sony con volumen de ventas real en este catálogo.`,
-        `**Si necesitás cancelación de ruido:** la [JBL Tune 770NC](https://meli.la/1mR75zc) cuesta {{preciodif:MLA53285777:MLA23138487}} más y sí la tiene.`,
+        `**Si necesitás cancelación de ruido:** la [JBL Tune 770NC](https://meli.la/1MbtocY) cuesta {{preciodif:MLA53285777:MLA23138487}} más y sí la tiene.`,
         `**Si el precio manda:** los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) cuestan bastante menos, en formato in-ear.`,
       ] },
 
       { type: "h2", title: `Veredicto: ¿comprás la Sony?`, id: "veredicto" },
-      { type: "verdict", content: `Sí, si querés el respaldo de marca Sony en una vincha con **batería excepcional** (50 horas) y app para ajustar el sonido, sin pagar de más: la **[WH-CH520](/producto/auriculares-inalambricos-bluetooth-sony-wh-ch520-negro-mla23138487)** cumple con creces a su precio. No, si lo que buscabas en "Sony" era **cancelación de ruido**: esta vincha no la tiene, y ahí conviene más la [JBL Tune 770NC](/producto/auriculares-inalambricos-jbl-tune-770nc-over-ear-color-negro-mla53285777). Y si el precio es lo único que importa, los [Xiaomi Redmi Buds 6 Play](/producto/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro-mla39962085) rinden muy bien por mucho menos.` },
+      { type: "verdict", content: `Sí, si querés el respaldo de marca Sony en una vincha con **batería excepcional** (50 horas) y app para ajustar el sonido, sin pagar de más: la **[WH-CH520](/producto/auriculares-inalambricos-bluetooth-sony-wh-ch520-negro-mla23138487)** cumple con creces a su precio. No, si lo que buscabas en "Sony" era **cancelación de ruido**: esta vincha no la tiene, y ahí conviene más la [JBL Tune 770NC](/producto/auricular-jbl-tune-770-nc-bt-blanco-mla53285777). Y si el precio es lo único que importa, los [Xiaomi Redmi Buds 6 Play](/producto/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro-mla39962085) rinden muy bien por mucho menos.` },
     ],
     faq: [
       { question: `¿Cuál es el mejor auricular Sony en Argentina?`, answer: `Es la [Sony WH-CH520](https://meli.la/2t24mSB): la vincha con volumen de ventas real en MercadoLibre Argentina, con hasta 50 horas de batería y 4.9 estrellas en más de 57.000 calificaciones. La línea premium de Sony con cancelación de ruido (WH-1000X) no tiene ficha con volumen de ventas verificable en este catálogo.` },
-      { question: `¿La Sony WH-CH520 tiene cancelación de ruido?`, answer: `No. Solo aísla de forma pasiva con las almohadillas. Si necesitás cancelación activa para el colectivo o la oficina, la [JBL Tune 770NC](https://meli.la/1mR75zc) sí la tiene y cuesta bastante menos que una línea premium de cualquier marca.` },
+      { question: `¿La Sony WH-CH520 tiene cancelación de ruido?`, answer: `No. Solo aísla de forma pasiva con las almohadillas. Si necesitás cancelación activa para el colectivo o la oficina, la [JBL Tune 770NC](https://meli.la/1MbtocY) sí la tiene y cuesta bastante menos que una línea premium de cualquier marca.` },
       { question: `¿Cuánto dura la batería de la Sony WH-CH520?`, answer: `Hasta 50 horas con una carga, de lo mejor del segmento. Con carga rápida por USB-C, 3 minutos de carga dan 90 minutos de uso, y la carga completa tarda unas 3 horas.` },
       { question: `¿Conviene la Sony o los Xiaomi Redmi Buds?`, answer: `Depende del formato y el presupuesto. Los [Redmi Buds 6 Play](https://meli.la/1LqPkFR) son in-ear y cuestan bastante menos; la Sony WH-CH520 es vincha, más cómoda para muchas horas, con batería enorme y el respaldo de marca Sony. Si preferís vincha y no te importa pagar un poco más, la Sony gana.` },
       { question: `¿La Sony WH-CH520 se puede usar con cable?`, answer: `No. Es 100% inalámbrica y no trae entrada de 3,5 mm. Si se queda sin batería, no hay plan B por cable hasta que cargue.` },
@@ -4920,14 +4920,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Cancelación de ruido`, `Ideal para`], rows: [
         [`[Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR)`, `{{precio:MLA39962085}}`, `In-ear`, `No`, `El precio más bajo, el más vendido`],
         [`[Sony WH-CH520](https://meli.la/2t24mSB)`, `{{precio:MLA23138487}}`, `Vincha`, `No`, `Comodidad y batería`],
-        [`[JBL Tune 770NC](https://meli.la/1mR75zc)`, `{{precio:MLA53285777}}`, `Vincha`, `Sí, activa`, `Aislarte del ruido`],
+        [`[JBL Tune 770NC](https://meli.la/1MbtocY)`, `{{precio:MLA53285777}}`, `Vincha`, `Sí, activa`, `Aislarte del ruido`],
       ] },
 
       { type: "h2", title: `Cuánto cuesta un auricular Xiaomi en Argentina [julio 2026]`, id: "precios" },
       { type: "list", items: [
         `**Alrededor de {{precio:MLA39962085:k}}:** el [Redmi Buds 6 Play](https://meli.la/1LqPkFR), el único modelo Xiaomi con volumen de ventas real en este catálogo.`,
         `**Si preferís vincha:** la [Sony WH-CH520](https://meli.la/2t24mSB) cuesta más, pero suma comodidad y más batería.`,
-        `**Si necesitás cancelación de ruido:** ninguno de los dos la tiene; para eso, la [JBL Tune 770NC](https://meli.la/1mR75zc).`,
+        `**Si necesitás cancelación de ruido:** ninguno de los dos la tiene; para eso, la [JBL Tune 770NC](https://meli.la/1MbtocY).`,
       ] },
 
       { type: "h2", title: `Veredicto: ¿comprás el Xiaomi?`, id: "veredicto" },
