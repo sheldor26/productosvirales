@@ -28418,7 +28418,8 @@ El modo correcto de uso: primero el agua, después la fragancia. No al revés.`,
     brand: 'Gadnic',
     price: 32799,
     priceUpdated: "2026-11-09",
-    priceLastChecked: "2026-11-13",
+    priceLastChecked: "2026-11-15",
+    priceVerifiedAt: "2026-11-15",
     priceStatus: "fresh",
     originalPrice: 71899,
     currency: 'ARS',
@@ -28433,12 +28434,12 @@ El modo correcto de uso: primero el agua, después la fragancia. No al revés.`,
     category: 'Hogar',
     categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/difusor-humidificador-aromatizante-gadnic-led-500ml-temporizador-control-remoto/p/MLA28531688',
-    affiliateUrl: 'PEGAR_MELI_LA',
+    affiliateUrl: 'https://meli.la/18xDT63',
     condition: 'new',
-    freeShipping: false,
+    freeShipping: true,
     rating: 4.8,
-    reviewCount: 2775,
-    reviewsSampledAt: '2026-09-04',
+    reviewCount: 2786,
+    reviewsSampledAt: '2026-11-15',
     soldQuantity: 10000,
     visibility: 'deprioritized',
     pastelColor: 'var(--pastel-amber)',
@@ -62810,18 +62811,21 @@ Para cortes ocasionales en casa, con la ventaja de tener muchas alturas de peine
   },
 
   {
-    // Rechazado por el Programa de Afiliados de ML. Reintentado el 2026-07-10
-    // con un link nuevo: sigue rechazado ("Esta URL no está permitida en el
-    // Programa"). affiliateUrl queda en el placeholder "PEGAR_MELI_LA" a
-    // propósito; AffiliateLink.tsx lo detecta y muestra "No disponible por
-    // ahora" en vez de un link roto. NO tocar hasta conseguir un link que ande.
+    // La página de catálogo (/p/MLA16142518) sigue rechazada por el Programa
+    // de Afiliados ("no cumple con los requisitos"). Resuelto el 2026-11-15:
+    // se generó el link desde la publicación específica de un vendedor
+    // (MARIALUZSACCO, item MLA1631079130, mismo precio $27.000) en vez de la
+    // página de catálogo genérica. rating/reviewCount actualizados a los de
+    // ESA publicación (4.0★/62, antes 4.1★/89 heredado de otra fuente);
+    // customerReviews vaciado porque las reseñas citadas ahí (fechadas 2020) no
+    // se pueden verificar como de esta publicación. HC9902PN (ficha aparte)
+    // sigue sin resolver, no tocar.
     id: 'MLA16142518',
     title: 'Cortadora de pelo Philco HC9901PN blanca',
     canonicalName: 'Philco HC9901PN',
     brand: 'Philco',
     price: 27000,
     priceUpdated: '2026-07-02',
-    priceLastChecked: '2026-07-02',
     priceStatus: 'fresh',
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_930849-MLA99562193900_122025-F.jpg',
@@ -62831,21 +62835,22 @@ Para cortes ocasionales en casa, con la ventaja de tener muchas alturas de peine
     ],
     category: 'Cuidado Personal',
     categorySlug: 'belleza',
-    permalink: 'https://www.mercadolibre.com.ar/p/MLA16142518',
-    affiliateUrl: 'PEGAR_MELI_LA',
+    permalink: 'https://articulo.mercadolibre.com.ar/MLA-1631079130-cortadora-de-pelo-philco-hc9901pn-blanca-blanco-_JM',
+    affiliateUrl: 'https://meli.la/1Z4rQgt',
     condition: 'new',
     freeShipping: true,
-    rating: 4.1,
-    reviewCount: 89,
-    reviewsSampledAt: '2026-07-02',
+    rating: 4.0,
+    reviewCount: 62,
+    reviewsSampledAt: '2026-11-15',
+    priceLastChecked: '2026-11-15',
+    priceVerifiedAt: '2026-11-15',
     pastelColor: 'var(--pastel-pink)',
-    visibility: 'deprioritized',
     description: 'Motor magnético, 4 peines guía, con cable. Simple, silenciosa y con buena calificación para el precio.',
     seoTitle: 'Philco HC9901PN: la cortadora de pelo más económica',
-    metaDescription: 'Philco HC9901PN a $27.000: motor magnético, 4 peines guía, con cable. {{reviews:MLA16142518}} opiniones y 4.1 estrellas, precio accesible.',
+    metaDescription: 'Philco HC9901PN a $27.000: motor magnético, 4 peines guía, con cable. {{reviews:MLA16142518}} opiniones y 4.0 estrellas, precio accesible.',
     pros: [
       'Precio accesible para lo que ofrece',
-      '4.1 estrellas, buena calificación para el precio',
+      '4.0 estrellas, buena calificación para el precio',
       'Motor magnético, corte parejo y silencioso según las reseñas',
       'Marca argentina con sitio oficial (philco.com.ar)',
     ],
@@ -62861,7 +62866,7 @@ La Philco HC9901PN es la cortadora más económica de esta comparativa, con moto
 
 ## Lo que dicen las reseñas
 
-Con 4.1 estrellas sobre {{reviews:MLA16142518}} opiniones, la calificación es sólida para el precio. Los compradores destacan que corta bien y que no tironea, aunque algunas reseñas mencionan que se calienta en cortes de más de 20 minutos, algo esperable en un motor de esta gama.
+Con 4.0 estrellas sobre {{reviews:MLA16142518}} opiniones, la calificación es sólida para el precio. Los compradores destacan que corta bien y que no tironea, aunque algunas reseñas mencionan que se calienta en cortes de más de 20 minutos, algo esperable en un motor de esta gama.
 
 ## Para quién sirve
 
@@ -62876,10 +62881,7 @@ Para quien busca lo más barato sin resignar demasiado: alcanza para cortes dom�
       { label: 'Potencia', value: '10 W' },
       { label: 'Peso', value: '570 g' },
     ],
-    customerReviews: [
-      { rating: 5, country: 'Argentina', date: '2020-09-17', text: 'Buen producto corta, no tironea es bastante silencioso. Conforme con mi compra.', useful: 0 },
-      { rating: 4, country: 'Argentina', date: '2020-08-29', text: 'Está perfecto, corta muy bien. Lo único malo es que calentó bastante en un corte de unos 20 minutos. Está bien ya que es para uso doméstico como dice el manual.', useful: 0 },
-    ],
+    customerReviews: [],
     faq: [
       { question: '¿Cuántos peines guía trae la Philco HC9901PN?', answer: '4, según su ficha técnica: variedad limitada, pero suficiente para cortes domésticos básicos.' },
       { question: '¿Es una opción económica?', answer: 'Sí, con $27.000 es una de las cortadoras más accesibles del catálogo de MercadoLibre en esta categoría.' },
@@ -62905,8 +62907,8 @@ Para quien busca lo más barato sin resignar demasiado: alcanza para cortes dom�
       },
       aggregateRating: {
         '@type': 'AggregateRating',
-        ratingValue: '4.1',
-        reviewCount: '89',
+        ratingValue: '4.0',
+        reviewCount: '62',
         bestRating: '5',
         worstRating: '1',
       },
@@ -62915,7 +62917,8 @@ Para quien busca lo más barato sin resignar demasiado: alcanza para cortes dom�
 
   // ─────────────────────────────────────────────────────────
   // Silo cuidado-personal — cortadora-de-pelo — reemplazos de las 2 Philco
-  // (Philco HC9902PN y HC9901PN no generan link de afiliado, ver docs/seo-tracking-optimizaciones.md)
+  // (HC9902PN no genera link de afiliado, ver docs/seo-tracking-optimizaciones.md.
+  // HC9901PN resuelto el 2026-11-15 con el link de una publicación de vendedor específica.)
   // ─────────────────────────────────────────────────────────
   {
     id: 'MLA24162945',
