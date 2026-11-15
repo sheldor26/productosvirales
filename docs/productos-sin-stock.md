@@ -245,6 +245,14 @@ X), para no tener que releer el diff de guides.ts para recordar el estado.
 - Ficha Kommberg marcada `deprioritized`/`out_of_stock`, queda intacta para consulta.
 - **Gotcha de esta sesión (anotado para no repetirlo):** un primer intento de hacer estas correcciones con un script Python que usaba slicing de `lines[start:end] = [...]` y después seguía indexando la lista original con los índices viejos (`lines[end:]`) **borró ~490 líneas del archivo** (toda la ficha de motosierra y más) sin que tsc lo detectara hasta correr `guides:check`/`build` más tarde — el error de sintaxis apareció recién ~20.000 líneas más abajo. Se revirtió con `git checkout --` (seguro porque HEAD ya tenía el commit de Global RGB) y se rehizo con reemplazos de texto acotados por string exacto (sin reindexar listas mutadas). Lección: cualquier script que edite por rango de líneas con Python debe extraer el bloque, operar sobre la copia, y reconstruir con los índices ORIGINALES (nunca reusar índices después de mutar la lista) — o directamente evitar slicing de listas y usar `content.replace()` de string a string, acotado con suficiente contexto para no matchear otras guías.
 
+**Reemplazo con ficha nueva (2026-11-15) — Rascador Torre Dakota RAS003 (MLA46200581) → Dakota RAS004 (MLA46208151, ficha nueva).** Sexta corrida: "Este producto no está disponible por el momento", verificado en vivo. Búsqueda exhaustiva ("dakota ras003 rascador", 90 resultados): el RAS003 no tiene ningún vendedor activo. Aparecen otros 2 submodelos Dakota: RAS002 (85cm, SIN cucha — no sirve, pierde la función clave) y RAS004 (86cm, CON cucha, vendido por la tienda oficial Dakota +250 mil ventas, 4.8★/134 opiniones). Se eligió el RAS004 por ser el más cercano en función (torre+cucha+juguete) y venir de la tienda oficial, pese a ser un modelo distinto (no un swap de vendedor del mismo SKU). Solo 1 guía afectada (`rascador-para-gatos`), no las 10 que estimaba el chequeo original.
+- Base de reseñas bajó bastante (134 contra las 393 que tenía el RAS003) — se mantuvo honesto en vez de ocultarlo, en ficha y guía.
+- El RAS004 no declara "Cantidad de niveles" ni "Peso" (el RAS003 sí los declaraba: 2 niveles, 7kg) — documentado como contra.
+- Altura bajó de 91cm a 86cm — se corrigió en toda la guía (párrafo "Altura y niveles", tabla, 2 FAQ, callout, H3, directAnswer).
+- La Venecia (torre más cara de la guía) tenía el claim "casi el doble que la Dakota" en 3 lugares (ficha + guía) — con el precio nuevo de Dakota ($124.236 vs $194.275 de Venecia, ratio 1,56x) "casi el doble" ya no es preciso, se cambió a "bastante más cara".
+- `relatedProducts` de las 3 fichas hermanas (Venecia, Beepaw, FIFI&MINI) actualizados al nuevo ID.
+- Ficha RAS003 marcada `deprioritized`/`out_of_stock`, queda intacta para consulta.
+
 **Pendientes del chequeo del 2026-10-31 (todavía sin resolver, no son swaps limpios):**
 
 | Producto | MLA ID | Por qué no se resolvió todavía |

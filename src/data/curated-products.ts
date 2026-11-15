@@ -107026,6 +107026,13 @@ Es la bicicleta más barata de esta comparativa, con buena relación precio-cali
   // Guía nueva rascador-para-gatos — silo/categoría mascotas (sourcing MercadoLibre 2026-09-09).
   // Los 4 con stock verificado en vivo el mismo día.
   {
+    // SIN STOCK desde 2026-11-15 (sexta corrida). Sin vendedor activo con el
+    // modelo exacto Dakota RAS003 en ML (búsqueda "dakota ras003 rascador",
+    // 90 resultados: solo aparecen RAS002, de 85cm sin cucha, y RAS004, de
+    // 86cm con cucha). Reemplazada por una ficha nueva (MLA46208151, Dakota
+    // RAS004, tienda oficial) en el ranking de la guía `rascador-para-gatos`
+    // — ver docs/productos-sin-stock.md. Se deja esta ficha intacta para
+    // consulta, no se borra.
     id: "MLA46200581",
     title: "Rascador Torre Dakota Sisal y Terciopelo — 91 cm, con Cucha y Juguete",
     canonicalName: "Dakota RAS003",
@@ -107046,7 +107053,7 @@ Es la bicicleta más barata de esta comparativa, con buena relación precio-cali
     rating: 4.6,
     reviewCount: 393,
     badge: "bestseller",
-    pastelColor: "var(--pastel-green)",
+    pastelColor: "var(--pastel-green)", visibility: "deprioritized",
     specs: [
       { label: "Marca", value: "Dakota" },
       { label: "Modelo", value: "RAS003" },
@@ -107061,9 +107068,9 @@ Es la bicicleta más barata de esta comparativa, con buena relación precio-cali
       { label: "Formato de venta", value: "Unidad" },
     ],
     relatedProducts: ["MLA62299437", "MLA45337933", "MLA43852971"],
-    priceUpdated: "2026-11-04", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
-    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
-    description: "Torre rascador de 91 cm con cucha y juguete, tapizada en terciopelo. Es la más elegida de esta comparativa con {{reviews:MLA46200581}} opiniones y {{rating:MLA46200581}} de promedio.",
+    priceUpdated: "2026-11-15", priceLastChecked: "2026-11-15", priceVerifiedAt: "2026-11-15",
+    priceStatus: "out_of_stock", reviewsSampledAt: "2026-09-09",
+    description: "Hoy sin stock. Dejamos la ficha para consulta. En la guía de rascadores fue reemplazada por el Dakota RAS004, de la tienda oficial.",
     seoTitle: "Rascador Torre Dakota: con cucha y juguete incluidos",
     metaDescription: "Rascador torre Dakota de 91 cm, terciopelo, con cucha y juguete. {{reviews:MLA46200581}} opiniones y {{rating:MLA46200581}} estrellas, la más elegida de esta comparativa.",
     verdict: "Es el rascador **con más respaldo de esta comparativa por lejos**: {{reviews:MLA46200581}} opiniones con {{rating:MLA46200581}} de promedio. Combina torre de 91 cm, 2 niveles, cucha para dormir y un juguete colgante, todo tapizado en terciopelo. Es fácil de armar según compradores reales, y no se reportan fallas de calidad recurrentes en las reseñas revisadas.",
@@ -107118,6 +107125,93 @@ Es el rascador con más respaldo de esta comparativa por lejos, y combina tres f
     ],
   },
   {
+    id: "MLA46208151",
+    title: "Rascador Torre Dakota RAS004 — 86 cm, con Cucha y Juguete",
+    canonicalName: "Dakota RAS004",
+    brand: "Dakota",
+    mpn: "RAS004",
+    price: 124236, originalPrice: 186753,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_979040-MLA94266700989_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_979040-MLA94266700989_102025-O.webp",
+    ],
+    category: "Mascotas",
+    categorySlug: "mascotas",
+    permalink: "https://www.mercadolibre.com.ar/rascador-premium-torre-gatos-cama-cueva-sillon-juguetes-dakota/p/MLA46208151",
+    affiliateUrl: "https://meli.la/1EDviG9",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 134,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Dakota" },
+      { label: "Modelo", value: "RAS004" },
+      { label: "Tipo de rascador", value: "Torre" },
+      { label: "Material del tapizado", value: "Terciopelo" },
+      { label: "Con juguete", value: "Sí" },
+      { label: "Con cucha", value: "Sí" },
+      { label: "Tipo de montaje", value: "Piso" },
+      { label: "Medidas (ancho x altura x largo)", value: "50 cm x 86 cm x 42 cm" },
+      { label: "Formato de venta", value: "Unidad" },
+      { label: "Vendedor", value: "Tienda oficial Dakota, +250 mil ventas" },
+    ],
+    relatedProducts: ["MLA62299437", "MLA45337933", "MLA43852971"],
+    priceUpdated: "2026-11-15", priceLastChecked: "2026-11-15", priceVerifiedAt: "2026-11-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-15",
+    description: "Torre rascador de 86 cm con cucha y juguete, tapizada en terciopelo, vendida por la tienda oficial de Dakota. Reemplaza en esta comparativa al RAS003, que se quedó sin stock.",
+    seoTitle: "Rascador Torre Dakota RAS004: con cucha y juguete",
+    metaDescription: "Rascador torre Dakota RAS004 de 86 cm, terciopelo, con cucha y juguete, de la tienda oficial. {{reviews:MLA46208151}} opiniones y {{rating:MLA46208151}} estrellas.",
+    verdict: "Reemplaza en esta comparativa al Dakota RAS003, que se quedó sin stock. Es un modelo distinto del mismo fabricante: **86 cm** de altura (contra los 91 cm del original), con cucha y juguete, tapizado en terciopelo, vendido directo por la **tienda oficial Dakota** (+250 mil ventas). Sigue siendo el rascador con más respaldo de esta comparativa, con **{{reviews:MLA46208151}} opiniones** y {{rating:MLA46208151}} de promedio, aunque la base de reseñas es bastante más chica que la del RAS003. Las reseñas revisadas son todas positivas y destacan lo fácil de armar y que no se tambalea. A diferencia de la ficha anterior, esta no declara cantidad de niveles ni peso.",
+    pros: [
+      "Vendido directo por la tienda oficial Dakota (+250 mil ventas)",
+      "Sigue siendo el rascador con más respaldo de esta comparativa: {{reviews:MLA46208151}} opiniones con {{rating:MLA46208151}} de promedio",
+      "Combina torre, cucha para dormir y juguete colgante en un solo mueble",
+      "Reseñas reales destacan que no se tambalea y que es fácil de armar",
+    ],
+    cons: [
+      "La base de reseñas es bastante más chica que la del RAS003 que reemplaza",
+      "No declara cantidad de niveles ni peso, dos campos que sí declaraba la ficha anterior",
+      "Es un modelo distinto (RAS004, no RAS003): 86 cm de altura en vez de 91 cm",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Lindo lindoooo. Llegó perfectamente embalado. No se tambalea! mucho muy importante. Fácil de armar y eso que soy pésima armando cosas y mis gatos rompieron el manual cuando estábamos sacando las cosas. Excelente compra." },
+      { rating: 5, country: "Argentina", text: "Es muy facil de armar y la calidad es excelente. Lo recomiendo." },
+    ],
+    articleBody: `## Qué es y por qué reemplaza al RAS003
+
+El Dakota RAS004 entra a [nuestra comparativa de rascadores para gatos en Argentina](/guias/mascotas/rascador-para-gatos) en el lugar del RAS003, que se quedó sin stock. Es un modelo distinto del mismo fabricante: 86 cm de altura (contra 91 cm), con cucha y juguete, vendido directo por la tienda oficial Dakota.
+
+## Sigue siendo el rascador con más respaldo, aunque con una base más chica
+
+Con {{reviews:MLA46208151}} opiniones y {{rating:MLA46208151}} de promedio, sigue siendo el rascador más calificado de esta comparativa, aunque con bastante menos respaldo que el RAS003 que reemplaza.
+
+## No se tambalea, según una reseña real
+
+Las reseñas revisadas son todas positivas. Una compradora destaca que, a diferencia de otros muebles de este tipo, "no se tambalea", y que fue fácil de armar pese a no tener experiencia armando muebles.
+
+## Dos datos que esta ficha no declara
+
+A diferencia del RAS003 que reemplaza, esta publicación no declara cantidad de niveles ni peso del mueble.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás un mueble completo (rascar + dormir + jugar) de la tienda oficial Dakota. No es para vos si necesitás específicamente el modelo RAS003 de 91 cm: ese se quedó sin stock y no hay vendedor activo con ese modelo exacto.
+
+## El veredicto
+
+Reemplaza al RAS003 en esta comparativa. Sigue siendo el de más respaldo del grupo, vendido por la tienda oficial, aunque con una base de reseñas más chica y sin declarar niveles ni peso.`,
+    faq: [
+      { question: "¿Por qué reemplazó al Dakota RAS003 en esta comparativa?", answer: "Porque la publicación del RAS003 se quedó sin stock y no encontramos ningún vendedor activo con ese modelo exacto. El RAS004 cubre el mismo rol (torre con cucha y juguete) vendido por la tienda oficial Dakota." },
+      { question: "¿Es el mismo modelo que el RAS003?", answer: "No, es un modelo distinto del mismo fabricante: 86 cm de altura contra los 91 cm del RAS003, y esta ficha no declara niveles ni peso." },
+      { question: "¿Trae juguete y cucha?", answer: "Sí, combina poste rascador, cucha para dormir y un juguete en el mismo mueble." },
+      { question: "¿Tiene buen respaldo de opiniones?", answer: "Sí, es el que más opiniones tiene de esta comparativa, aunque con una base bastante más chica que la que tenía el RAS003." },
+      { question: "¿Es fácil de armar?", answer: "Sí, según reseñas reales, que además destacan que el mueble no se tambalea una vez armado." },
+    ],
+  },
+  {
     id: "MLA45337933",
     title: "Rascador Torre Venecia Bestia Peluda — 1,3 m con Cucha y Hamaca",
     canonicalName: "Bestia Peluda Venecia",
@@ -107155,7 +107249,7 @@ Es el rascador con más respaldo de esta comparativa por lejos, y combina tres f
       { label: "Peso", value: "13,6 kg" },
       { label: "Formato de venta", value: "Unidad" },
     ],
-    relatedProducts: ["MLA46200581", "MLA62299437", "MLA43852971"],
+    relatedProducts: ["MLA46208151", "MLA62299437", "MLA43852971"],
     priceUpdated: "2026-11-13", priceLastChecked: "2026-09-18", priceVerifiedAt: "2026-09-18",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-18",
     description: "Torre gimnasio de 1,3 m con 3 niveles, cucha, hamaca y juguete. Tiene {{reviews:MLA45337933}} calificaciones con {{rating:MLA45337933}} de promedio, la nota más alta de esta comparativa.",
@@ -107170,7 +107264,7 @@ Es el rascador con más respaldo de esta comparativa por lejos, y combina tres f
       "Vendida por tienda oficial de MercadoLibre (MercadoLíder Platinum, +50 mil ventas)",
     ],
     cons: [
-      "Es la más cara de las dos torres de esta comparativa, casi el doble que la Dakota",
+      "Es la más cara de las dos torres de esta comparativa, bastante más que la Dakota",
       "El título de la publicación dice \"sisal\" pero la ficha técnica declara el poste de yute",
       "Con 13,6 kg es la más pesada de esta comparativa, aunque eso también le suma estabilidad",
       "Es una marca de tienda (Bestia Peluda), sin sitio propio de fabricante para verificar specs de forma independiente",
@@ -107195,7 +107289,7 @@ Varios compradores confirman que el armado es sencillo y que la torre aguanta bi
 
 ## La contra real: es la más cara de las dos torres
 
-Esta es la advertencia honesta antes de comprar. A {{precio:MLA45337933}} es la opción más cara de esta comparativa, casi el doble que la Dakota. Además, el título de la publicación dice "sisal" para el material del poste, pero la ficha técnica declara yute: una inconsistencia menor del vendedor, pero vale aclararla antes de comprar.
+Esta es la advertencia honesta antes de comprar. A {{precio:MLA45337933}} es la opción más cara de esta comparativa, bastante más que la Dakota. Además, el título de la publicación dice "sisal" para el material del poste, pero la ficha técnica declara yute: una inconsistencia menor del vendedor, pero vale aclararla antes de comprar.
 
 ## Para quién es, y para quién no
 
@@ -107247,7 +107341,7 @@ Es la torre más alta, con más niveles y mejor calificada de esta comparativa, 
       { label: "Formato de venta", value: "Unidad" },
       { label: "Se puede cortar a medida", value: "Sí, según reportan compradores" },
     ],
-    relatedProducts: ["MLA46200581", "MLA45337933", "MLA43852971"],
+    relatedProducts: ["MLA46208151", "MLA45337933", "MLA43852971"],
     priceUpdated: "2026-09-14", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
     description: "Protector esquinero autoadhesivo de 60x60 cm para sillones. Tiene {{reviews:MLA62299437}} calificaciones con {{rating:MLA62299437}} de promedio.",
@@ -107337,7 +107431,7 @@ Es la única opción de esta comparativa pensada para proteger muebles de esquin
       { label: "Formato de venta", value: "Unidad" },
       { label: "Color", value: "Marrón, el estampado de los laterales puede variar" },
     ],
-    relatedProducts: ["MLA46200581", "MLA62299437", "MLA45337933"],
+    relatedProducts: ["MLA46208151", "MLA62299437", "MLA45337933"],
     priceUpdated: "2026-11-04", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
     description: "Rascador plano de cartón corrugado, doble faz y con hierba gatera. Es el más barato de esta comparativa, con {{reviews:MLA43852971}} calificaciones y {{rating:MLA43852971}} de promedio.",
