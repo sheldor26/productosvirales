@@ -3974,3 +3974,42 @@ Re-medir: ~2026-12-10 (4 semanas).
 **Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (sin deuda nueva), `npm run build` OK, diff de `product-slug-map.json` verificado (0 cambios, no se tocó ningún `title`/slug), página verificada en vivo contra el servidor local antes de commitear. Deploy de Vercel a READY (commit `ec13529`). IndexNow enviado (sitemap completo, 1.336 URLs).
 
 Re-medir: ~2026-11-18 (una semana, más corto que lo habitual, específicamente para confirmar si la posición se recuperó tras el ruido del 10/11).
+
+## Aplicación del reporte SEO semanal 2026-11-16: `yara-lattafa-guia-completa` (refresh completo), `camara-de-seguridad-exterior` (FAQ de citabilidad) y fix de precio hardcodeado en `perfumes-arabes-mujer`
+
+**Origen:** reporte SEO semanal generado hoy (GSC fresco, snapshot #73, 18/10-14/11). Totales del sitio (dimensión `date`, la forma correcta de sumar sin la inflación de URLs con fragmento `#`): 10.251 clicks / 610.793 impresiones en 28 días, +1,4%/+5,9% contra el reporte del 9/11 (10.106/576.650) — crecimiento modesto, sin caídas fuertes. GA4 no se refrescó esta sesión (falta una dependencia de Python en el entorno, `google.oauth2`; queda pendiente de arreglar el venv de `scripts/ga4`).
+
+**Verificación manual de SERP (incógnito, sin sesión, Argentina) de las dos keywords con peor CTR persistente:**
+- **"perfume arabe hombre"** (4.808 impr, CTR 0,20%, pos 3,5): confirmado que `mejores-perfumes-arabes-hombre` SIGUE citada dentro del AI Overview (junto a Mercado Libre y Beauty24), igual que la semana pasada. Antes del AIO hay además un carrusel gigante de Shopping patrocinado. Conclusión: no es un problema de citabilidad ni de título — es estructural de la SERP (shopping + AIO), fuera de nuestro control. Título sigue sin tocarse (venció su observación hoy, 16/11, pero no corresponde tocarlo por esta evidencia). Es la misma conclusión de la semana pasada, reconfirmada con una segunda muestra en un día distinto.
+- **"camara de seguridad exterior"** (2.652+1.165+723 impr repartidas en 3 variantes, CTR 0%): a diferencia del caso anterior, `camara-de-seguridad-exterior` **NO** está citada en el AI Overview de esta query (solo citan Mercado Libre y Megatone.net). Acción tomada: se agregó una entrada de FAQ nueva al principio del array (`¿Qué es una cámara de seguridad exterior?`), con una definición corta, autocontenida y sin fricción comercial (sin marcas/modelos), pensada para maximizar la chance de ser citada en un futuro AIO. No se tocó `title`/`seoTitle`/`h1`/`metaDescription`/`updatedDate` — la guía sigue en ventana de observación de esos campos hasta el 1/12 por los cambios del 24/10 y 3/11.
+
+**`yara-lattafa-guia-completa` — refresh completo, primera pasada desde publicación (17/4/2026), 126 días vencida, nunca tocada pese a figurar en 3+ reportes semanales consecutivos como la guía vencida más antigua del sitio.**
+
+Origen: el reporte de hoy mostró CTR muy malo (0,6%, 2 clicks/356 impr) para la keyword genérica "perfume yara" pese a posición 2,1. La guía usaba la estructura vieja del sitio: sin `directAnswer`, con `faq: []` (vacío), y sin ningún link de compra para la versión "Yara original" (la más genérica, probablemente la que busca esa query) pese a describirla extensamente en el cuerpo.
+
+**Cambios:**
+- Se agregó `directAnswer` nuevo (las 5 versiones, color, precio y cuál arrancar primero).
+- Se agregó un `product-card` para **MLAU2983186467** ("Lattafa Yara EDP 100ml (original)") en la sección que la describe — esta ficha reemplazó ayer (15/11) a una publicación que se quedó sin stock (swap de vendedor documentado en `curated-products.ts`); no tenía ningún link de compra en toda la guía hasta ahora.
+- Se agregó esa misma versión a la lista de "Precios reales en Argentina".
+- Se llenó el `faq` vacío con 6 preguntas (qué es, cuántas versiones, Elixir vs. Tous, cuánto cuesta el original, es dupe de qué, es vegano).
+- Se corrigieron 2 ocurrencias de un precio hardcodeado obsoleto del Set My Yara Collection (**"$64.508"**, precio real verificado en catálogo: **$100.283**, actualizado 6/11) por el token `{{precio:MLA51612102}}`.
+- `updatedDate`/`sitemapLastmod` → 2026-11-16. `title`/`seoTitle`/`h1`/`metaDescription` sin cambios.
+
+**Bloqueantes reales encontrados por el trío y corregidos (ronda 1 → 2):**
+1. **Contradicción de veganismo:** el product-card nuevo declara vegano al Yara original (dato real del catálogo: `vegan: true`), pero el cuerpo seguía diciendo que el Set My Yara Collection era "el único producto vegano del catálogo Yara" — ahora falso, porque el original standalone también lo es. Corregido en los 3 lugares (párrafo del set, lista "cuál set comprar", FAQ de veganismo) para reflejar que son DOS los veganos de la línea (el original 100ml y el Set), no uno.
+2. **Color de Yara Moi, error preexistente (no introducido en este refresh, pero propagado por los cambios nuevos):** la guía llamaba "verde" al Yara Moi en el h3 y en el cuerpo desde antes de esta sesión. Verificado contra la imagen real del producto en el catálogo: el frasco es **blanco con detalles dorados**, no verde — confirmado además contra otra guía del sitio (`perfumes-arabes-por-color`) que ya lo documentaba bien así. Corregido en las 4 superficies afectadas (h3, párrafo, `directAnswer` nuevo, FAQ nueva).
+3. **Justificación olfativa incorrecta en la FAQ de dupes:** se había agregado "por la familia olfativa ámbar-vainilla" al comparar Yara con Parfums de Marly Delina (cuyas notas reales son lichi/rosa/almizcles/cashmeran, no ámbar-vainilla). Se quitó esa justificación, dejando solo la comparación sin la causa falsa.
+
+**Hallazgo adicional corregido de paso (mejora opcional del trío, aplicada):** dos frases que citaban el rango de precio de las versiones individuales usaban Candy-Tous como extremos ($38.457-$52.616); el rango real entre las 5 versiones individuales es Candy (mínimo, $38.457) a **Yara Moi** (máximo real, $59.000, no Tous) — corregido con tokens en ambas ocurrencias.
+
+**Fix de paso en `perfumes-arabes-mujer` (guía distinta, top 20 del sitio con 296 clicks/12.640 impr):** mismo precio hardcodeado obsoleto del Set My Yara Collection ("$64.508") corregido al token `{{precio:MLA51612102}}` en un párrafo. No se tocó nada más de esa guía ni su `updatedDate` (fix de token, no cambio editorial).
+
+**Trío auditor:** Codex ronda 1 dio NO-GO con los 3 bloqueantes de arriba; ronda 2, tras corregirlos, dio **GO** confirmando explícitamente los 3 arreglos y el rango de precio corregido. Gemini/agy dio **GO limpio en la primera pasada** (sin bloqueantes), con buena cobertura de query fan-out para "perfume yara" y formato de FAQ apto para extracción de AI Overview en la de cámaras; se verificó con `git status`/`git diff` que no escribió ningún archivo.
+
+**Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde (ratchet de precios en prosa sin cobertura bajó de 135 a 134, techo nuevo fijado), `npm run build` OK.
+
+Re-medir: `yara-lattafa-guia-completa` ~2026-12-14 (4 semanas, cambio de contenido sin título). `camara-de-seguridad-exterior` sigue su propia ventana hasta el 1/12 (sin cambios de esta sesión en esa fecha, la FAQ es independiente del título).
+
+**Fix adicional de la misma sesión (hallazgo de la rutina "Weekly seo" semanal):** la rutina programada marcó que las 6 guías que más clicks de afiliado generan (GA4, 28 días) deberían linkear a `black-friday-cybermonday-argentina` antes del 27/11. Se verificaron las 6: `mejores-freidoras-de-aire-argentina`, `perfumes-arabes-dupes`, `pava-electrica` y `cafetera-express` ya lo tenían; **`yogurtera` y `ventilador-de-techo` no — se agregó el link en ambas** (párrafo de cierre después del veredicto, mismo patrón ya usado en el resto del sitio). No se tocó `updatedDate` (es enlazado, no cambio de contenido de producto).
+
+**Nota de proceso (multi-sesión):** esta misma tarea descubrió que la sesión había pisado por error el reporte real generado por la rutina programada "Weekly seo Productosvirales.com.ar" (corre sola los lunes 9am) al escribir `docs/seo-reports/2026-11-16.md` sin volver a chequear si ya existía uno recién creado por otro proceso. Se reconstruyó el contenido real a partir de los datos crudos que la rutina dejó en `scratch/wk/` (ya borrados tras extraer lo útil) y de su mensaje final a Juan — ver la nota al principio de ese archivo para el detalle completo.

@@ -5933,6 +5933,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "verdict", content: `Para un ángulo fijo (la entrada, el frente) y mucho respaldo de compradores, la **Gadnic SX37**: bala fija, IP65 y {{reviews:MLA18967142}} opiniones. Si necesitás que la cámara gire y priorizás una marca internacional con detección inteligente de personas, la **Ezviz C8c**. Si te interesa una sola toma de 3MP (en vez de dos tomas separadas, como la Geotek) y el precio más bajo de esta guía, la **Gadnic DM200W-Pro**, sabiendo que es la de menos historial de las cuatro. Y si querés cubrir dos ángulos con un solo equipo (vista fija panorámica + motorizada) y el mayor respaldo de compradores de esta comparativa, la **Geotek doble lente**. En los cuatro casos, la memoria micro-SD se compra aparte.` },
     ],
     faq: [
+      { question: `¿Qué es una cámara de seguridad exterior?`, answer: `Una cámara pensada para vigilar patios, accesos y perímetros del hogar o comercio desde afuera. A diferencia de una de interior, necesita certificación IP65 o superior para resistir la lluvia y el polvo a la intemperie, y generalmente suma visión nocturna y conectividad Wi-Fi o por cable para poder monitorearla a distancia de día y de noche.` },
       { question: `¿Cuál es la mejor cámara de seguridad para exterior en Argentina?`, answer: `Depende de si necesitás un ángulo fijo, cobertura amplia o las dos cosas a la vez. Para un punto fijo con mucho respaldo de compradores, la Gadnic SX37. Para que gire, la Ezviz C8c (marca internacional, IP66) o la Gadnic DM200W-Pro (3MP en una sola toma). Para cubrir dos ángulos con un solo equipo, la Geotek doble lente, la de mayor historial de las cuatro.` },
       { question: `¿Qué diferencia hay entre IP65 e IP66?`, answer: `Las dos sirven para exterior, pero IP66 resiste mejor los chorros de agua directos que IP65. Bajo un alero o techo, IP65 alcanza; totalmente expuesta a la lluvia, IP66 da más margen.` },
       { question: `¿Conviene una cámara fija o motorizada para exterior?`, answer: `Una fija (bala) alcanza si sabés exactamente qué ángulo querés vigilar y cuesta menos. Una motorizada (domo) gira desde la app y cubre un área más amplia con un solo equipo, a mayor precio. Y existe una tercera opción, la doble lente, que combina una vista fija panorámica con una motorizada en el mismo equipo.` },
@@ -14838,9 +14839,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ogTitle: "Yara Lattafa: Elixir, Tous y cuál comprar (2026)",
     ogDescription: "Yara Lattafa, el perfume árabe más viral de TikTok. Comparamos Elixir vs Tous: notas, duración, precio real en Argentina y cuál conviene.",
     h1: "Yara Lattafa: guía honesta del perfume árabe viral (y cuál comprar)",
+    directAnswer: "Yara, de Lattafa, tiene 5 versiones. La original (rosa, ámbar-vainilla con mandarina y orquídea) es el punto de entrada clásico, a **{{precio:MLAU2983186467:k}}**. Yara Elixir (fucsia) es la más intensa y concentrada, pensada para la noche, a **{{precio:MLA60836327:k}}**. Yara Tous (amarillo) es la versión tropical y liviana para el calor, a **{{precio:MLA40521028:k}}**. Yara Moi (blanco con dorado) es más floral y menos fácil de conseguir en Argentina. Y Yara Candy (rosa fucsia) es la más dulce y polarizante de la familia, a **{{precio:MLA39865991:k}}**. Si es tu primer Yara, arrancá por el original o el Elixir; si lo vas a usar de día o en verano, el Tous rinde mejor.",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-07-06",
-    sitemapLastmod: "2026-08-03",
+    updatedDate: "2026-11-16",
+    sitemapLastmod: "2026-11-16",
     hasDisclosure: true,
     intro: [
       "Si abrís TikTok con cierta frecuencia, es casi seguro que te cruzaste con Yara. Lattafa lo lanzó en 2020 como una fragancia femenina dulce y accesible, y en los últimos dos años se convirtió en el perfume árabe más buscado de Argentina. No es exageración: las búsquedas mensuales en Google vienen creciendo mes a mes.",
@@ -14860,7 +14862,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Hoy existen cinco versiones de Yara Lattafa: original, Elixir, Tous, Moi y Candy. La diferencia central está entre el Yara original (2020), la fórmula dulce oriental de orquídea y vainilla que se hizo viral, y Yara Elixir (2025), la versión más concentrada e intensa de la familia. El resto son variantes del mismo perfil dulce, con precios de entre {{precio:MLA39865991:k}} y {{precio:MLA40521028:k}} en Argentina."
+        content: "Hoy existen cinco versiones de Yara Lattafa: original, Elixir, Tous, Moi y Candy. La diferencia central está entre el Yara original (2020), la fórmula dulce oriental de orquídea y vainilla que se hizo viral, y Yara Elixir (2025), la versión más concentrada e intensa de la familia. El resto son variantes del mismo perfil dulce, con precios de entre {{precio:MLA39865991:k}} y {{precio:MLA32288168:k}} en Argentina."
       },
       {
         type: "h2",
@@ -14872,7 +14874,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "¿Por qué se volvió viral? Tres cosas concretas. Primero, el precio: entre {{precio:MLA39865991:k}} y {{precio:MLA40521028:k}} según la versión, contra perfumes nicho que salen entre $250.000 y $500.000. Segundo, la duración real: 8 a 10 horas en piel, y esto en el rango de precio bajo es raro. Tercero, el frasco: diseño translúcido con tapón dorado, que en TikTok se ve mejor que muchos perfumes de lujo."
+        content: "¿Por qué se volvió viral? Tres cosas concretas. Primero, el precio: entre {{precio:MLA39865991:k}} y {{precio:MLA32288168:k}} según la versión, contra perfumes nicho que salen entre $250.000 y $500.000. Segundo, la duración real: 8 a 10 horas en piel, y esto en el rango de precio bajo es raro. Tercero, el frasco: diseño translúcido con tapón dorado, que en TikTok se ve mejor que muchos perfumes de lujo."
       },
       {
         type: "h2",
@@ -14885,6 +14887,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "p",
         content: "La base. Dulce, cremoso, dominado por orquídea y vainilla. Es la versión más \"segura\" si nunca probaste un perfume árabe. Si lo oliste y te resultó empalagoso, probá otra de la familia antes de descartarlo."
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLAU2983186467",
+        label: "El clásico, punto de entrada",
+        labelColor: "slate",
+        description: "Ámbar-vainilla dulce con mandarina, heliotropo y orquídea arriba, fondo de vainilla, almizcle y sándalo. Vegano y libre de crueldad. Nota de honestidad: la publicación que seguíamos se quedó sin stock; esta es un reemplazo nuevo, de un vendedor chico y todavía sin reseñas propias."
       },
       {
         type: "h3",
@@ -14917,11 +14926,11 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "h3",
-        title: "Yara Moi (verde)"
+        title: "Yara Moi (blanco con dorado)"
       },
       {
         type: "p",
-        content: "Más verde y floral, con pera y almizcle blanco. Menos disponible en Argentina, hay que buscarla."
+        content: "Floral y afrutado, con pera y almizcle blanco; frasco blanco entero con detalles metalizados dorados. Menos disponible en Argentina, hay que buscarla."
       },
       {
         type: "h3",
@@ -15051,7 +15060,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "El set ideal para quien nunca probó un Yara y quiere descubrir su favorito antes de invertir en un 100ml. Incluye Yara original (2020), Yara Moi (2023), Yara Tous (2023) y Yara Candy (2024) en formato 25ml cada uno. Con 720 calificaciones y rating 4.8 en Mercado Libre. **Es vegano y libre de crueldad** (el único producto vegano del catálogo Yara)."
+        content: "El set ideal para quien nunca probó un Yara y quiere descubrir su favorito antes de invertir en un 100ml. Incluye Yara original (2020), Yara Moi (2023), Yara Tous (2023) y Yara Candy (2024) en formato 25ml cada uno. Con 720 calificaciones y rating 4.8 en Mercado Libre. **Es vegano y libre de crueldad**, igual que el Yara original en 100ml; el resto de las versiones individuales (Elixir, Tous, Candy, Moi) no son veganas."
       },
       {
         type: "p",
@@ -15099,7 +15108,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         type: "table",
         headers: ["Característica", "My Yara Collection", "5to Aniversario"],
         rows: [
-          ["Precio", "$64.508", "{{precio:MLA45984979}}"],
+          ["Precio", "{{precio:MLA51612102}}", "{{precio:MLA45984979}}"],
           ["Fragancias", "4 (Yara, Moi, Tous, Candy)", "2 (Yara, Candy)"],
           ["Volumen total", "100ml (4 × 25ml)", "200ml (2 × 100ml)"],
           ["Vegano", "Sí", "No"],
@@ -15116,10 +15125,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "list",
         items: [
-          "**Si nunca probaste Yara:** Set My Yara Collection ($64.508). Probás 4 versiones antes de decidir cuál te gusta más.",
+          "**Si nunca probaste Yara:** Set My Yara Collection ({{precio:MLA51612102}}). Probás 4 versiones antes de decidir cuál te gusta más.",
           "**Si ya conocés y amás Yara y Candy:** Set 5to Aniversario ({{precio:MLA45984979}}). Te asegurás formato grande y presentación coleccionable.",
           "**Si querés probar Yara Elixir:** ningún set lo incluye. Comprá el 100ml individual ({{precio:MLA60836327}}).",
-          "**Si el veganismo es importante para vos:** Set My Yara Collection es el único vegano de la línea.",
+          "**Si el veganismo es importante para vos:** Set My Yara Collection y el Yara original en 100ml son los dos veganos de la línea; el resto de las versiones individuales (Elixir, Tous, Candy, Moi) no lo son.",
           "**Si ya sabés cuál Yara específica querés (Tous, Moi, Elixir):** comprá el 100ml individual de esa, no un set."
         ]
       },
@@ -15134,6 +15143,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "list",
         items: [
+          "[Yara original 100ml](https://meli.la/1RH6pqK): **{{precio:MLAU2983186467}}**",
           "[Yara Tous 100ml](https://meli.la/1kwTmSn): **{{precio:MLA40521028}}**",
           "[Yara Moi 100ml](https://meli.la/1qBuAFB): **{{precio:MLA32288168}}**",
           "[Yara Candy 100ml](https://meli.la/2XYzvaU): **{{precio:MLA39865991}}**",
@@ -15215,7 +15225,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         content: "Si querés el contexto más amplio, la [guía completa de perfumes árabes](/guias/perfumes-arabes) te da el panorama del nicho y las 35 mejores opciones disponibles en Argentina."
       }
     ],
-    faq: [],
+    faq: [
+      { question: "¿Qué es el perfume Yara de Lattafa?", answer: "Es un eau de parfum femenino que Lattafa lanzó en 2020, de perfil dulce oriental con orquídea y vainilla. Se hizo viral en TikTok y hoy es el perfume árabe más buscado de Argentina. No hay un solo Yara: hay 5 versiones distintas." },
+      { question: "¿Cuántas versiones de Yara hay?", answer: "Cinco: Yara original (rosa), Yara Elixir (fucsia, la más intensa), Yara Tous (amarillo, tropical), Yara Moi (blanco con dorado, floral, menos disponible en Argentina) y Yara Candy (rosa fucsia, la más dulce y polarizante)." },
+      { question: "¿Yara Elixir y Yara Tous son lo mismo?", answer: "No. Elixir es más intensa y oriental, pensada para la noche y climas fríos. Tous es más liviana y tropical, pensada para el día y el verano. Son complementarias, no compiten entre sí." },
+      { question: "¿Cuánto cuesta el Yara original en Argentina?", answer: "Alrededor de {{precio:MLAU2983186467}} el 100ml en Mercado Libre Argentina, con envío gratis." },
+      { question: "¿Yara es un dupe de algún perfume de diseñador?", answer: "No exactamente. Se lo compara con Kayali Vanilla 28 o Parfums de Marly Delina, pero oliéndolos en paralelo tiene carácter propio: no es un clon de ninguno de los dos, es una fragancia con identidad propia que salió barata." },
+      { question: "¿Yara Lattafa es vegano?", answer: "Depende de la versión. El Yara original en 100ml y el Set My Yara Collection (4 × 25ml) son veganos y libres de crueldad. Yara Elixir, Tous, Candy y Moi en su formato individual no son veganos, y tampoco lo es el Set 5to Aniversario. Conviene confirmar en la ficha de cada presentación." },
+    ],
     internalLinks: [
       { label: "Perfumes árabes: la guía completa para empezar", href: "/guias/perfumes-arabes" },
       { label: "Khamrah de Lattafa: original vs Qahwa", href: "/guias/khamrah-lattafa" },
@@ -16490,7 +16507,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "El más popular es el **Set My Yara Collection** ($64.508), con 4 fragancias × 25ml. Incluye Yara original, Yara Moi, Yara Tous y Yara Candy en formato spray. Es vegano, libre de crueldad e incluye estuche elegante. Ideal para descubrir cuál Yara es tu favorita o para regalar a alguien que no conoce la línea."
+        content: "El más popular es el **Set My Yara Collection** ({{precio:MLA51612102}}), con 4 fragancias × 25ml. Incluye Yara original, Yara Moi, Yara Tous y Yara Candy en formato spray. Es vegano, libre de crueldad e incluye estuche elegante. Ideal para descubrir cuál Yara es tu favorita o para regalar a alguien que no conoce la línea."
       },
       {
         type: "product-card",
@@ -23725,6 +23742,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Veredicto: cuál ventilador de techo comprar`, id: "veredicto" },
       { type: "verdict", content: `Para la mayoría, el **[Etheos retráctil](/producto/ventilador-de-techo-retractil-etheos-100w-luz-led-control-mla44033885)**: luz LED de 3 tonos, control remoto y el mayor diámetro entre los retráctiles modernos. Si querés **gastar menos y sumar más respaldo**, el **[Novohome NH-VTR](/producto/ventilador-retractil-de-techo-novohome-luz-calida-fria-neutra-6-velocidades-4-as-mla54423759)**: mismo puntaje y más opiniones que el Etheos, bastante más barato, a cambio de 13 centímetros menos de diámetro. Si el **ruido del dormitorio** es tu tema y querés el motor DC por escrito, el **[Iluma Zenith](/producto/ventilador-de-techo-retractil-iluma-blanco-control-remoto-4-aspas-6-velocidades-mla66266614)**, con la contra de una base de opiniones chica; el **[Axel](/producto/ventilador-techo-axel-blanco-1-luz-4-palas-metal-5-vel-diametro-120-cm-frecuenci-mla11828901)** es la alternativa clásica, silencioso en velocidades 1 y 2. Si tenés un **ambiente grande o techo alto**, el **[Liliana VTHI513](/producto/ventilador-de-techo-liliana-vthi513-blanco-con-3-palas-metal-diametro-1-4-m-mla17380375)** de 1,4 metros mueve más aire que cualquier otro de acá, aunque hoy es el más caro (comprale un soporte decente). Para el **quincho o galpón**, el **[Protalia industrial](/producto/ventilador-de-techo-protalia-industrial-3-palas-blanco-1-2m-mla57722520)**, que además de ser el más barato trae luz LED. Los errores a evitar: instalar con un soporte o caño de montaje que no alcanza para tu techo, descubrir tarde que la luz independiente necesita un tercer cable, y dar por sentado que el clásico de palas es la opción económica, porque ya no lo es.` },
+      { type: "p", content: `Si podés esperar unas semanas, conviene revisar [Black Friday 2026 en Argentina: cómo saber si el descuento es real](/guias/hogar/black-friday-cybermonday-argentina) antes de comprar, para confirmar con el historial real si el precio bajó de verdad.` },
     ],
     faq: [
       { question: `¿Cuál es el mejor ventilador de techo en Argentina?`, answer: `Para la mayoría, el [Etheos retráctil](https://meli.la/2qxbftx): luz LED de 3 tonos, control remoto y más de 1.600 calificaciones con 4.8 estrellas. Si querés gastar menos con casi el mismo respaldo, el [Novohome NH-VTR](https://meli.la/1sBAiap) (4.8 en 1.992 opiniones); si querés motor DC confirmado por ficha, el [Iluma Zenith](https://meli.la/2j5EPn1); y si buscás el mayor caudal bruto, el clásico [Liliana VTHI513](https://meli.la/1KwoBQf) de 1,4 metros.` },
@@ -24416,6 +24434,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Veredicto: cuál yogurtera comprar`, id: "veredicto" },
       { type: "verdict", content: `Para la mayoría, la **[Yelmo YG-1700](/producto/yogurtera-fabrica-de-yogurt-yelmo-yg-1700-7-jarros-tapas-de-colores-mla17840710)**: es la más vendida y calificada por lejos ({{reviews:MLA17840710}} calificaciones) y la más barata, aunque no tiene temporizador ni apagado automático. Si preferís programarla y que se apague sola, la **[Lüsqtoff LQ-YT808](/producto/yogurtera-lusqtoff-lq-yt808-1-7-litros-con-8-frascos-de-vidrio-y-temporizador-di-mla65120821)** suma esas dos funciones a un precio medio, aunque con muchas menos opiniones y un descuento que parte de un precio de lista inflado. Si tu objetivo puntual es yogur griego colado en casa, la **[Yelmo YG-1717](/producto/yogurtera-yelmo-yg-1717-yogur-griego-natural-20w-1-5-litros-2-contenedores-mla42522422)** es la mejor pensada para eso, con 2 contenedores, temporizador y apagado automático, aunque el instructivo no explica que conviene enfriar el yogur en la heladera antes de colarlo. Y si priorizás la mayor cantidad de frascos con pantalla digital, la **[Ultracomb YG-2712V](/producto/yogurtera-digital-ultracomb-yg-2712v-12-frascos-vidrio-temporizador-mla66422019)** cumple, aunque el "acero inoxidable" que promete el marketing es en realidad plástico según el propio manual del fabricante.` },
+      { type: "p", content: `Si podés esperar unas semanas, conviene revisar [Black Friday 2026 en Argentina: cómo saber si el descuento es real](/guias/hogar/black-friday-cybermonday-argentina) antes de comprar, para confirmar con el historial real si el precio bajó de verdad.` },
     ],
     faq: [
       { question: `¿Cuál es la mejor yogurtera en Argentina?`, answer: `La más vendida y calificada es la [Yelmo YG-1700](/producto/yogurtera-fabrica-de-yogurt-yelmo-yg-1700-7-jarros-tapas-de-colores-mla17840710), con {{reviews:MLA17840710}} calificaciones y la más barata de esta guía, aunque sin temporizador ni apagado automático. Para esas dos funciones, la [Lüsqtoff LQ-YT808](/producto/yogurtera-lusqtoff-lq-yt808-1-7-litros-con-8-frascos-de-vidrio-y-temporizador-di-mla65120821); para yogur griego colado, la [Yelmo YG-1717](/producto/yogurtera-yelmo-yg-1717-yogur-griego-natural-20w-1-5-litros-2-contenedores-mla42522422).` },
