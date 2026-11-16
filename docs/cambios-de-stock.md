@@ -7,6 +7,15 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-11-16
+
+- 🟢 VOLVIO EL STOCK — **MLA63908884** Cafetera espresso automática Philips EP5541/50 Serie 5500 negra
+  - ML: https://www.mercadolibre.com.ar/p/MLA63908884
+  - Sitio: https://productosvirales.com.ar/producto/MLA63908884
+- 🟢 VOLVIO EL STOCK — **MLA43766711** Mancuerna Hexagonal High Performance 10 kg — Engomada, Precio por Unidad
+  - ML: https://www.mercadolibre.com.ar/mancuernas-hexagonales-engomada-10-kg-x-unidad-mancuerna-color-negro/p/MLA43766711
+  - Sitio: https://productosvirales.com.ar/producto/MLA43766711
+
 ## 2026-11-13
 
 - 🟢 VOLVIO EL STOCK — **MLAU264994773** Pesa Rusa 16kg Kettlebells Pvc
