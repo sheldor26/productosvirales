@@ -4013,3 +4013,37 @@ Re-medir: `yara-lattafa-guia-completa` ~2026-12-14 (4 semanas, cambio de conteni
 **Fix adicional de la misma sesión (hallazgo de la rutina "Weekly seo" semanal):** la rutina programada marcó que las 6 guías que más clicks de afiliado generan (GA4, 28 días) deberían linkear a `black-friday-cybermonday-argentina` antes del 27/11. Se verificaron las 6: `mejores-freidoras-de-aire-argentina`, `perfumes-arabes-dupes`, `pava-electrica` y `cafetera-express` ya lo tenían; **`yogurtera` y `ventilador-de-techo` no — se agregó el link en ambas** (párrafo de cierre después del veredicto, mismo patrón ya usado en el resto del sitio). No se tocó `updatedDate` (es enlazado, no cambio de contenido de producto).
 
 **Nota de proceso (multi-sesión):** esta misma tarea descubrió que la sesión había pisado por error el reporte real generado por la rutina programada "Weekly seo Productosvirales.com.ar" (corre sola los lunes 9am) al escribir `docs/seo-reports/2026-11-16.md` sin volver a chequear si ya existía uno recién creado por otro proceso. Se reconstruyó el contenido real a partir de los datos crudos que la rutina dejó en `scratch/wk/` (ya borrados tras extraer lo útil) y de su mensaje final a Juan — ver la nota al principio de ese archivo para el detalle completo.
+
+## `mejores-freidoras-de-aire-argentina` — diagnóstico de caída de clicks, esperando Black Friday para confirmar — 2026-11-17
+
+**Origen:** Juan notó -61% de clicks semana a semana (223 → 88, 1-7 nov vs. 8-14 nov) en Search Console. Diagnóstico con datos reales (no se tocó contenido):
+
+- La caída NO es pareja: las queries con "argentina" (`mejores freidoras de aire en argentina`, `cual es la mejor freidora de aire en argentina`) se mantuvieron en posición ~1,1-2,3, sin cambios. Las queries genéricas sin "argentina" (`mejor freidora de aire`, `cuál es la mejor freidora de aire`, `freidoras de aire`) se desplomaron: de posición 2,6-7,4 a 5,3-14,5.
+- Verificado en vivo (17/11): seguimos siendo el resultado orgánico #1 tanto para la query genérica como para la que lleva "argentina", citados además en el AI Overview de ambas.
+- Único cambio nuestro en esta guía fue el 27/10 (swap de producto recomendado en `directAnswer`/`quickPicks` por falta de stock del Atma 8L, sin tocar título/H1/meta). Nada se tocó entre el 1 y el 8/11, cuando arrancó la deriva de posición.
+- **Dato clave aportado por Juan:** el Sensor de volatilidad SERP de Semrush muestra "Very High" (9,3/10, "Googlequake") desde el **27/10** sin bajar — casualmente el mismo día del cambio de esta guía. Lectura conjunta: es más probable que sea un Core Update de Google en curso (que pega más fuerte en queries genéricas/competidas que en las de intención clara y baja competencia) que un efecto de nuestro cambio.
+
+**Decisión: no tocar nada.** Esperar a Black Friday (27/11) como prueba real — si los clicks repuntan en la ventana de BF (como pasó con CyberMonday el 2-4/11), confirma que fue ruido del Core Update, no un problema de la guía. Si el repunte no llega o es muy menor pese a la demanda estacional, ahí sí revisar en serio.
+
+Re-chequear: ~1/12 (después de Black Friday, y coincide con el fin de la ventana de observación de esta guía del 24/11).
+
+## `mejor-consola-para-gta-6` — guía nueva (silo gaming) — 2026-11-17
+
+**Origen:** pedido directo de Juan, sin baseline previo (keyword sin cobertura en el sitio hasta hoy). Timing: GTA VI lanzó el 12/11, se vuelve jugable el 19/11 (2 días después de publicar esta guía).
+
+**Research que sostiene el ángulo central:** Rockstar confirmó (Newswire, 10/11/2026) que GTA VI apunta a 30 FPS como objetivo en las 4 consolas (PS5, PS5 Pro, Xbox Series X, Xbox Series S), sin modo 60 FPS en ninguna. La PS5 Pro suma PSSR + sombras con trazado de rayos mejorado como únicas mejoras exclusivas confirmadas. Se cruzó con research de 20 videos de YouTube (vía la app transcriptora local) para la sección de consenso de creadores de contenido, y con prensa especializada (Digital Foundry, IGN, VGC) para lo no confirmado oficialmente (resolución exacta, estimación de recorte de ray tracing en Series S).
+
+**Catálogo:** se importaron 3 fichas de producto nuevas desde MercadoLibre Argentina (precio/stock/seller verificados en vivo el 17/11): PS5 Pro (`MLA1999673646`, Tienda oficial PlayStation), Xbox Series X (`MLA3201696130`, Tienda oficial GAME SENSE, ojo: solo 5 unidades y publicación "Internacional" al verificar), Xbox Series S (`MLA1752058499`, Tienda oficial GAME SENSE, la más vendida de las 4 según el contador propio de ML). Se agregó `relatedProducts` cruzado entre las 3 nuevas, la PS5 Digital existente (`MLA61403702`) y la ficha de GTA VI edición física (`MLA74108173`). Enlazado recíproco agregado en `setup-gamer` (pilar del silo), `joystick-ps5` y `joystick-xbox`.
+
+**Trío auditor: 5 rondas hasta GO/GO de Codex (Gemini/agy dio GO limpio en su única pasada).** Primera ronda de Codex, NO-GO con 7 bloqueantes reales:
+1. Confusión entre "lector de discos" y "ampliar almacenamiento" (un lector no amplía SSD; se corrigió distinguiendo SSD M.2 interno en PS5 vs. tarjetas de expansión oficiales en Xbox).
+2. Porcentajes de la PS5 Pro invertidos (decía 28% más unidades de cómputo / 67% más ancho de banda; es al revés: 67% más CUs —60 vs 36— y 28% más ancho de banda, verificado contra el anuncio oficial de Sony de 2024).
+3. Se presentaba el catálogo por suscripción como exclusivo de Xbox Game Pass, ignorando que PS Plus Extra/Deluxe también existe en Argentina — corregido, y se aclaró que Xbox Play Anywhere no cubre todos los juegos.
+4. Afirmaciones de rendimiento idéntico demostrado en vez de "mismo objetivo confirmado por Rockstar" — esta fue la más persistente: tomó 4 rondas adicionales de grep exhaustivo (propio de Codex, no solo mío) encontrar y corregir todas las variantes ("misma velocidad", "igual de rápido", "está igualada", etc.) dispersas en la guía y las 3 fichas. Se dejó sin tocar la única cita textual atribuida a un video de YouTube, por ser palabras de otra persona, no afirmación editorial propia.
+5. Fecha de lanzamiento mal unificada: en realidad son 3 fechas distintas (10/11 precarga digital, 12/11 cajas físicas con código a la venta —coincide con lo que ya decía la ficha existente de GTA VI física, no tocada—, 19/11 jugable). Se verificó con fuentes cruzadas (Rockstar Support FAQ + PlayStation Blog del 10/11) y se corrigió la guía para distinguir las tres.
+6. Un contra de la ficha de Series S atribuía a Rockstar una estimación que en realidad es de prensa especializada (posible recorte de ray tracing) — corregido.
+7. Faltaban `customerReviews` reales en las 3 fichas nuevas (checklist de `docs/fichas.md`) y el claim "la más vendida" de la Series S se apoyaba en `reviewCount` en vez de en vendidos reales — se agregaron reseñas reales curadas desde MercadoLibre (con país, fecha aproximada y "útil") y se sumó `soldQuantity` real por ficha.
+
+**Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde en todas las rondas, `npm run build` OK (limpiando `.next` por el error intermitente de fuentes ya documentado, no relacionado al contenido). Verificado visualmente en navegador: guía, las 3 fichas nuevas, tabla comparativa, product-cards, FAQ (13 preguntas) y las 3 fechas corregidas, todo renderizando con precios/ratings reales resueltos.
+
+**Sin baseline de GSC** (guía nueva). Re-medir ~15/12 (4 semanas) y, aparte, revisar el stock de la Xbox Series X en los próximos días dado que tenía solo 5 unidades al publicar.

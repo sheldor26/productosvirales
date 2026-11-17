@@ -22321,7 +22321,7 @@ A $455.998, el TCL 43S5K es una compra sólida si entrás sabiendo qué te llev�
       { label: "Soporte", value: "2 pies para uso horizontal incluidos; el soporte vertical se vende aparte" },
       { label: "Requiere", value: "Cuenta de PlayStation Network e internet para canjear los juegos; PS Plus pago para multijugador online" },
     ],
-    relatedProducts: ["MLA18010994", "MLA74108173"],
+    relatedProducts: ["MLA18010994", "MLA74108173", "MLA1999673646", "MLA3201696130", "MLA1752058499"],
     reviewsSampledAt: "2026-09-09",
     description: "Consola PS5 Digital Edition (Slim) con Astro Bot preinstalado y Gran Turismo 7 de regalo. 4.9 estrellas en más de 12.000 calificaciones. Sin lector de discos de fábrica, pero se puede agregar después.",
     seoTitle: "PS5 Digital + Astro Bot + GT7: ¿conviene este bundle?",
@@ -22411,6 +22411,265 @@ El bundle tiene sentido puntualmente por los dos juegos incluidos: Astro Bot y G
         question: "¿Vale la pena o conviene la versión con lector de discos?",
         answer: "Depende de cuándo pensás usar juegos físicos. Si por ahora vas a jugar en digital, esta versión sale más barata por la misma potencia, y podés sumar el lector después si cambiás de idea. Si ya sabés que vas a comprar juegos físicos desde el arranque y no querés el gasto extra del lector aparte más adelante, conviene pagar la diferencia por la edición que ya lo trae incluido.",
       },
+    ],
+  },
+  {
+    id: "MLA1999673646",
+    title: "Consola PlayStation 5 Pro Digital de 2 TB Blanca (CFI-7020)",
+    canonicalName: "PlayStation 5 Pro",
+    brand: "PlayStation",
+    price: 2799999,
+    priceUpdated: "2026-11-17",
+    priceLastChecked: "2026-11-17",
+    priceStatus: "fresh",
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_892350-MLA99979858751_112025-O.webp",
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/consola-playstation-5-pro-digital-de-2-tb-blanca-cfi-7020/p/MLA41975964",
+    affiliateUrl: "https://meli.la/2YKUkxn",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 5175,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    reviewsSampledAt: "2026-11-17",
+    customerReviews: [
+      { rating: 5, date: "2025", country: "Brasil", text: "Quien dice que no hace diferencia respecto al modelo base está equivocado, me sorprendí con el PS5 Pro. Antes tenía el fat y la nitidez de la imagen y los fps son mucho más rápidos, los gráficos en su máximo. No se basen solo en videos de YouTube, porque ahí no se puede ver la diferencia.", useful: 283 },
+    ],
+    relatedProducts: ["MLA61403702", "MLA3201696130", "MLA1752058499", "MLA74108173"],
+    specs: [
+      { label: "Tipo", value: "Consola de videojuegos, edición Digital (sin lector de discos de fábrica, se puede agregar después)" },
+      { label: "Modelo", value: "PlayStation 5 Pro (CFI-7020)" },
+      { label: "Almacenamiento", value: "SSD de 2 TB, el doble que la PS5 Digital estándar" },
+      { label: "Procesador", value: "AMD Zen 2, 8 núcleos (igual que la PS5 base)" },
+      { label: "Gráficos", value: "GPU AMD con 16,7 TFLOPS declarados por Sony (67% más unidades de cómputo, 60 contra 36, y 28% más ancho de banda de memoria que la PS5 estándar)" },
+      { label: "Reescalado por IA", value: "PSSR (PlayStation Spectral Super Resolution), exclusivo de esta consola" },
+      { label: "Trazado de rayos", value: "Mejorado frente a la PS5 base, según Sony hasta el doble o triple de velocidad" },
+      { label: "Resolución máxima", value: "4K con HDR (el campo de la ficha declara 7680x4320, una cifra de marketing; en la práctica los juegos no renderizan nativo en 8K)" },
+      { label: "Peso", value: "Más pesada y grande que la PS5 Slim por el hardware extra" },
+      { label: "Conectividad", value: "HDMI 2.1, Ethernet, Wi-Fi, 2 puertos USB-C" },
+      { label: "Control incluido", value: "DualSense inalámbrico blanco, con gatillos adaptativos y respuesta háptica" },
+      { label: "Lector de discos", value: "No incluido de fábrica; se vende aparte como accesorio, igual que en la PS5 Slim Digital" },
+      { label: "Requiere", value: "Cuenta de PlayStation Network e internet; PS Plus pago para multijugador online" },
+      { label: "Vendedor", value: "Tienda oficial de PlayStation (+50 mil ventas)" },
+      { label: "Cuotas", value: "Hasta 6 cuotas sin recargo con tarjeta Mercado Pago" },
+      { label: "Garantía", value: "12 meses de fábrica + devolución gratis 30 días" },
+    ],
+    pros: [
+      "Vendida por la Tienda oficial de PlayStation (+50 mil ventas): la garantía más fuerte para una consola de este precio",
+      "{{rating:MLA1999673646}} estrellas en {{reviews:MLA1999673646}} calificaciones reales en MercadoLibre Argentina",
+      "2 TB de SSD, el doble que la PS5 Digital estándar: entra más que el doble de juegos antes de borrar algo",
+      "PSSR (reescalado por IA) y trazado de rayos mejorado: para GTA VI es la única de las 4 consolas con estas dos mejoras exclusivas",
+      "Stock amplio (+50 disponibles) al momento de esta ficha, sin la escasez que sufren otras consolas",
+      "Hasta 6 cuotas sin recargo con tarjeta Mercado Pago",
+    ],
+    cons: [
+      "Es la consola más cara de las cuatro por lejos: casi el doble que una Xbox Series S",
+      "En GTA VI corre al mismo objetivo de 30 FPS que la PS5 estándar y la Xbox Series X: la ventaja no es velocidad, es nitidez de imagen (PSSR + sombras con trazado de rayos)",
+      "Es edición Digital: de fábrica no tiene lector de discos, hay que comprarlo aparte si querés discos físicos",
+      "El multijugador online requiere PlayStation Plus pago, no incluido",
+      "Más grande y pesada que la PS5 Slim, ocupa más espacio en el mueble",
+    ],
+    verdict: "Tiene sentido si ya decidiste que vas a jugar GTA VI (o cualquier juego exigente) con la mejor imagen posible y el presupuesto no es la principal limitación: es la única consola, de las cuatro, con PSSR y sombras con trazado de rayos mejoradas confirmadas por Rockstar para este juego puntual. No tiene sentido si el precio es el factor que más pesa, porque en velocidad (los FPS) apunta al mismo objetivo que una PS5 estándar bastante más barata, sin una ventaja confirmada ahí.",
+    articleBody: `## Qué es y en qué se diferencia de la PS5 estándar
+
+Es la versión más potente de la familia PS5: mismo procesador que la PS5 base, pero con una GPU bastante más grande (Sony declara 67% más unidades de cómputo y 28% más ancho de banda de memoria) y dos funciones exclusivas que no están ni en la PS5 estándar ni en ninguna Xbox: **PSSR**, un reescalado de imagen por inteligencia artificial, y trazado de rayos mejorado. El SSD también se duplica: 2 TB contra el 1 TB de la PS5 Digital común.
+
+## Qué cambia realmente para GTA VI
+
+Rockstar confirmó que GTA VI apunta al mismo objetivo de **30 cuadros por segundo en las cuatro consolas** (PS5, PS5 Pro, Xbox Series X y Series S), sin modo de 60 FPS en ninguna. La diferencia de la PS5 Pro no es ese objetivo de velocidad: son dos mejoras exclusivas confirmadas por Rockstar, **PSSR** (una imagen más nítida con el mismo hardware) y **sombras con trazado de rayos** que las otras tres consolas no tienen. Si tu prioridad es la fluidez del juego, no hay nada confirmado que diga que la Pro la mejora; si tu prioridad es que la imagen se vea lo más nítida posible, es la única opción de las cuatro.
+
+## Lo que no cambia: sigue siendo edición Digital
+
+Como la PS5 Digital estándar, esta versión no trae lector de discos de fábrica. Sony vende el lector como accesorio aparte. Esto importa particularmente para GTA VI: ni siquiera la "edición física" del juego trae un disco real (es un código de descarga dentro de una caja de colección), así que la falta de lector no es un impedimento para jugarlo.
+
+## Para quién sí y para quién no
+
+Es para quien ya decidió gastar en la mejor imagen posible y quiere jugar GTA VI (u otros juegos con soporte PSSR) con la nitidez máxima que ofrece esta generación, sin que el precio sea el factor decisivo. No es para quien busca que el juego corra más rápido: en velocidad de cuadros, GTA VI apunta al mismo objetivo en las cuatro consolas, así que pagar la diferencia contra una PS5 estándar solo tiene sentido si valorás la imagen, no los FPS.
+
+## Veredicto
+
+Es la consola con mejor resultado visual para GTA VI gracias a PSSR y al trazado de rayos mejorado, pero no hay nada confirmado que diga que corre el juego más rápido que una PS5 estándar bastante más barata. Si el presupuesto no es el problema y querés exprimir la imagen al máximo, es la elección obvia; si lo que buscás es simplemente jugar GTA VI sin gastar de más, una PS5 Digital estándar apunta al mismo objetivo de FPS por bastante menos plata.`,
+    faq: [
+      { question: "¿La PS5 Pro corre GTA VI a más FPS que la PS5 normal?", answer: "No. Rockstar confirmó que las cuatro consolas (PS5, PS5 Pro, Xbox Series X y Series S) apuntan al mismo objetivo de 30 cuadros por segundo, sin modo de 60 FPS en ninguna. La ventaja de la PS5 Pro es de imagen (PSSR y sombras con trazado de rayos mejoradas), no de velocidad." },
+      { question: "¿Qué es PSSR y por qué solo lo tiene la PS5 Pro?", answer: "PSSR (PlayStation Spectral Super Resolution) es un reescalado de imagen por inteligencia artificial que usa el hardware específico de esta consola para mostrar una imagen más nítida sin perder cuadros por segundo. Ni la PS5 estándar ni ninguna Xbox lo tienen, porque depende de un bloque de hardware que Sony solo metió en la Pro." },
+      { question: "¿Vale la pena pagar la diferencia contra una PS5 normal solo para jugar GTA VI?", answer: "Depende de qué priorices. Si te importa la nitidez de imagen al máximo (PSSR + trazado de rayos mejorado), sí. Si lo único que te importa es la velocidad, no: GTA VI apunta a 30 FPS en ambas según Rockstar, así que estarías pagando casi el doble por una mejora que es solo visual." },
+      { question: "¿La PS5 Pro tiene lector de discos?", answer: "No de fábrica: es edición Digital, igual que la PS5 Slim Digital. Sony vende el lector de discos como accesorio aparte. Para GTA VI esto no es un problema real, porque ni siquiera la 'edición física' del juego trae un disco de verdad." },
+      { question: "¿Cuánto más espacio tiene la PS5 Pro que la PS5 Digital estándar?", answer: "El doble: 2 TB contra 1 TB. Con juegos modernos pesando 50-100 GB cada uno (GTA VI solo necesita hasta 212 GB libres según Rockstar), el SSD más grande se nota rápido si instalás varios títulos pesados a la vez." },
+      { question: "¿Necesito PlayStation Plus para jugar GTA VI online?", answer: "Sí, el multijugador en red (no local) de cualquier juego de PS5 requiere una suscripción paga a PlayStation Plus, que no viene incluida con la consola." },
+    ],
+  },
+  {
+    id: "MLA3201696130",
+    title: "Consola Xbox Series X 1TB SSD 4K 120 FPS UHD",
+    canonicalName: "Xbox Series X",
+    brand: "Xbox",
+    price: 2153000,
+    priceUpdated: "2026-11-17",
+    priceLastChecked: "2026-11-17",
+    priceStatus: "fresh",
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_697067-MLA99415751252_112025-O.webp",
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/consola-xbox-series-x-1tb-ssd-4k-120-fps-uhd-internacional/p/MLA29577429",
+    affiliateUrl: "https://meli.la/1kHLXYz",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 11199,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    reviewsSampledAt: "2026-11-17",
+    customerReviews: [
+      { rating: 5, date: "2025", country: "México", text: "A mí me tocó una consola de Japón, no tuve ningún problema en instalar juegos ya que podés elegir la región y el idioma que deseás. Y para los que piensan en la garantía de Microsoft, si la validan, solo tienen que registrar la consola en su cuenta.", useful: 620 },
+      { rating: 5, date: "2025", country: "Brasil", text: "Salí de un Xbox One fat, así que noto una diferencia de rendimiento abismal. Los juegos que antes tenían caídas de framerate ahora funcionan suaves. El único punto negativo es el precio de la consola en comparación con la cantidad de juegos next gen, que todavía no son muchos.", useful: 461 },
+    ],
+    relatedProducts: ["MLA1999673646", "MLA1752058499", "MLA61403702"],
+    specs: [
+      { label: "Tipo", value: "Consola de videojuegos, con lector de discos UHD de fábrica" },
+      { label: "Almacenamiento", value: "SSD de 1 TB" },
+      { label: "Procesador", value: "AMD Zen 2, 8 núcleos a 3,8 GHz" },
+      { label: "Gráficos", value: "GPU AMD RDNA 2 con 12 TFLOPS declarados por Microsoft" },
+      { label: "Memoria", value: "16 GB de RAM GDDR6" },
+      { label: "Resolución máxima", value: "4K nativo, hasta 120 Hz en juegos compatibles (GTA VI apunta a 30 FPS según Rockstar, no a 120)" },
+      { label: "Control incluido", value: "Xbox Wireless Controller" },
+      { label: "Lector de discos", value: "Sí, incluido de fábrica (UHD Blu-ray)" },
+      { label: "Importación", value: "Publicación marcada como 'Internacional': es una unidad importada, no de distribución oficial local" },
+      { label: "Vendedor", value: "Tienda oficial GAME SENSE en MercadoLibre (+10 mil ventas)" },
+      { label: "Stock al verificar esta ficha", value: "Solo 5 unidades disponibles (17/11/2026); conviene confirmar stock antes de ir a comprar" },
+      { label: "Cuotas", value: "Hasta 6 cuotas sin recargo con tarjeta Mercado Pago" },
+      { label: "Garantía", value: "Devolución gratis 30 días y Compra Protegida de MercadoLibre" },
+      { label: "Ecosistema", value: "Compatible con Xbox Game Pass y Smart Delivery (versión mejorada automática de juegos ya comprados)" },
+    ],
+    pros: [
+      "Tienda oficial GAME SENSE con +10 mil ventas y {{rating:MLA3201696130}} estrellas en {{reviews:MLA3201696130}} calificaciones",
+      "La GPU más potente de las tres consolas de Microsoft/Sony que no son la Pro: 12 TFLOPS contra los 4 de la Series S",
+      "Trae lector de discos UHD de fábrica, a diferencia de la PS5 Digital y la Xbox Series S",
+      "Devolución gratis 30 días y Compra Protegida de MercadoLibre",
+      "Compatible con Xbox Game Pass para acceder a un catálogo grande de juegos por suscripción",
+    ],
+    cons: [
+      "Publicación marcada como 'Internacional': es una unidad importada, conviene confirmar con el vendedor los términos de garantía antes de comprar",
+      "Stock muy ajustado al momento de verificar esta ficha (solo 5 unidades): podés encontrarla sin stock si tardás en decidir",
+      "No tiene gatillos adaptativos ni respuesta háptica como el DualSense de PS5: ningún control de Xbox, ni siquiera el Elite, los replica",
+      "En GTA VI no tiene ninguna mejora exclusiva confirmada por Rockstar (a diferencia de la PS5 Pro, que sí suma PSSR y trazado de rayos mejorado)",
+      "Es más cara que la PS5 Digital estándar sin ofrecer ventajas confirmadas para GTA VI en particular",
+    ],
+    verdict: "Es la consola con más potencia gráfica bruta fuera de la PS5 Pro, con la ventaja extra de traer lector de discos de fábrica. Para GTA VI específicamente no tiene ninguna mejora exclusiva confirmada por Rockstar (a diferencia de la PS5 Pro), así que la elegís por el ecosistema Xbox/Game Pass o porque ya tenés juegos y accesorios de la marca, no porque vaya a correr mejor ese juego puntual. Ojo con el stock ajustado y con que es una unidad 'Internacional' antes de comprar.",
+    articleBody: `## Qué es
+
+Es la consola de mayor potencia gráfica de la línea Xbox actual: GPU de 12 TFLOPS, 16 GB de RAM y SSD de 1 TB, con lector de discos UHD incluido de fábrica (a diferencia de la PS5 Digital y de la Xbox Series S). Apunta a 4K nativo y hasta 120 Hz en los juegos que lo soportan.
+
+## Qué cambia para GTA VI
+
+Rockstar confirmó que GTA VI corre a 30 FPS objetivo en las cuatro consolas de esta generación, PlayStation y Xbox por igual. A diferencia de la PS5 Pro, que suma PSSR (reescalado por IA) y trazado de rayos mejorado exclusivos, **Rockstar no anunció ninguna mejora gráfica exclusiva para Xbox Series X**. En la práctica, se espera que rinda de forma similar a una PS5 estándar: buena resolución, sin las dos mejoras exclusivas de la Pro.
+
+## Game Pass y el ecosistema Xbox
+
+Un diferencial real de elegir Xbox no tiene que ver con GTA VI puntualmente, sino con el ecosistema: **Xbox Game Pass** da acceso a un catálogo grande de juegos por suscripción mensual. PlayStation tiene su propio catálogo por suscripción (PS Plus Extra/Deluxe), así que no es un punto exclusivo de Xbox, pero sí distinto. Si además ya tenés una cuenta Xbox, juegos digitales comprados previamente o preferís jugar en PC con la misma cuenta en los juegos compatibles con Xbox Play Anywhere, la balanza se inclina hacia acá más allá de qué tan bien corra un juego puntual.
+
+## Ojo con esto antes de comprar
+
+Esta publicación puntual está marcada como "Internacional" (unidad importada) y, al momento de escribir esta ficha, tenía stock muy ajustado (solo 5 unidades). Ninguna de las dos cosas es necesariamente un problema (la vende una tienda oficial de MercadoLibre con devolución gratis y Compra Protegida), pero conviene confirmar el estado del stock y las condiciones de garantía antes de comprar, especialmente tratándose de una consola de este precio.
+
+## Veredicto
+
+Tiene la GPU más potente fuera de la PS5 Pro y trae lector de discos de fábrica, pero no suma ninguna mejora confirmada por Rockstar para GTA VI en particular. Elegila si ya preferís el ecosistema Xbox (Game Pass, Xbox Play Anywhere, juegos o amigos ya en esa plataforma), no si tu única razón es jugar GTA VI con la mejor imagen posible: para eso, la PS5 Pro tiene ventajas confirmadas que acá no existen.`,
+    faq: [
+      { question: "¿La Xbox Series X tiene alguna mejora especial para GTA VI?", answer: "No que Rockstar haya confirmado. A diferencia de la PS5 Pro (que suma PSSR y trazado de rayos mejorado), no se anunció ninguna mejora gráfica exclusiva para Xbox Series X. Se espera que rinda de forma similar a una PS5 estándar." },
+      { question: "¿Por qué esta publicación dice 'Internacional'?", answer: "Significa que es una unidad importada, no de distribución oficial local. La vende una tienda oficial de MercadoLibre con devolución gratis y Compra Protegida, pero conviene confirmar las condiciones de garantía con el vendedor antes de comprar." },
+      { question: "¿Xbox Series X tiene gatillos adaptativos como el DualSense de PS5?", answer: "No. Ningún control de Xbox, ni siquiera el Elite Series 2, replica los gatillos adaptativos ni la respuesta háptica avanzada del DualSense de PlayStation." },
+      { question: "¿Conviene Xbox Series X o PS5 Pro para jugar GTA VI?", answer: "Si tu única prioridad es la mejor imagen posible para ese juego puntual, la PS5 Pro tiene dos mejoras exclusivas confirmadas por Rockstar (PSSR y trazado de rayos) que la Xbox Series X no tiene. Si valorás más el ecosistema Xbox Game Pass o ya tenés juegos/amigos en esa plataforma, la Series X sigue siendo una consola potente." },
+      { question: "¿Trae lector de discos la Xbox Series X?", answer: "Sí, de fábrica trae lector de discos UHD, a diferencia de la PS5 Digital Edition y de la Xbox Series S, que son 100% digitales." },
+    ],
+  },
+  {
+    id: "MLA1752058499",
+    title: "Consola Xbox Microsoft Series S 512GB Digital Blanco",
+    canonicalName: "Xbox Series S",
+    brand: "Xbox",
+    price: 1461389,
+    priceUpdated: "2026-11-17",
+    priceLastChecked: "2026-11-17",
+    priceStatus: "fresh",
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_919694-MLA101915906449_122025-O.webp",
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/consola-xbox-microsoft-series-s-de-512gb-digital-color-blanco/p/MLA16650345",
+    affiliateUrl: "https://meli.la/1ab92Co",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 40874,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-green)",
+    visibility: "normal",
+    reviewsSampledAt: "2026-11-17",
+    customerReviews: [
+      { rating: 5, date: "2025", country: "Brasil", text: "No tenía contacto con videojuegos desde la Xbox 360. Decidí comprar un televisor 4K junto con esta consola y valió mucho la pena, estoy sorprendido con la calidad gráfica. Con la Series S y el Game Pass, hoy es mucho más accesible para quien no tiene mucho tiempo para jugar. Excelente relación calidad-precio.", useful: 1327 },
+    ],
+    relatedProducts: ["MLA1999673646", "MLA3201696130", "MLA61403702"],
+    specs: [
+      { label: "Tipo", value: "Consola de videojuegos, 100% digital (sin lector de discos)" },
+      { label: "Almacenamiento", value: "SSD de 512 GB" },
+      { label: "Procesador", value: "AMD Zen 2, 8 núcleos (clock algo menor que la Series X)" },
+      { label: "Gráficos", value: "GPU AMD RDNA 2 con 4 TFLOPS declarados por Microsoft, bastante menos que los 12 de la Series X" },
+      { label: "Memoria", value: "10 GB de RAM total (8 GB utilizables para juegos, el resto reservado al sistema)" },
+      { label: "Resolución objetivo", value: "Hasta 1440p, escalado a 4K en TV compatibles; en juegos exigentes suele bajar por debajo de eso" },
+      { label: "Control incluido", value: "Xbox Wireless Controller blanco" },
+      { label: "Lector de discos", value: "No tiene: es 100% digital" },
+      { label: "Vendedor", value: "Tienda oficial GAME SENSE en MercadoLibre (+10 mil ventas)" },
+      { label: "Stock al verificar esta ficha", value: "Más de 10 unidades disponibles (17/11/2026)" },
+      { label: "Cuotas", value: "Hasta 6 cuotas sin recargo con tarjeta Mercado Pago" },
+      { label: "Garantía", value: "Devolución gratis 30 días y Compra Protegida de MercadoLibre" },
+      { label: "Ecosistema", value: "Compatible con Xbox Game Pass y Smart Delivery" },
+    ],
+    pros: [
+      "Por lejos la más barata de las cuatro consolas de esta comparación: casi la mitad que una PS5 Pro",
+      "La más vendida de las cuatro según el propio contador de MercadoLibre (+10 mil unidades de esta publicación) y también la más reseñada: {{reviews:MLA1752058499}} calificaciones",
+      "Tienda oficial GAME SENSE con +10 mil ventas y stock amplio (+10 disponibles)",
+      "Compatible con Xbox Game Pass, igual que la Series X",
+      "Suficiente para jugar GTA VI, que corre al mismo objetivo de 30 FPS en las cuatro consolas",
+    ],
+    cons: [
+      "La GPU más débil de las cuatro por lejos (4 TFLOPS contra 12 de la Series X y ~16,7 de la PS5 Pro): se espera que GTA VI corra en una resolución bastante menor, posiblemente por debajo de 1080p",
+      "Según análisis de prensa especializada (todavía sin confirmación oficial de Rockstar), es la única de las cuatro que podría quedarse sin trazado de rayos para sostener el rendimiento",
+      "512 GB de almacenamiento: con GTA VI pidiendo hasta 212-225 GB libres según la tienda, queda muy poco espacio para otros juegos después de instalarlo",
+      "100% digital: no tiene lector de discos, ni siquiera como opción a futuro (a diferencia de la PS5, que sí permite agregarlo)",
+      "No tiene gatillos adaptativos ni respuesta háptica como el DualSense de PS5",
+    ],
+    verdict: "Es la opción obvia si el presupuesto manda: cuesta bastante menos que las otras tres y corre GTA VI al mismo objetivo de 30 FPS que las demás. La contra real, y no es menor, es la resolución: por la diferencia grande de potencia gráfica contra la Series X y la PS5 Pro, se espera que el juego se vea notablemente menos nítido, y el almacenamiento de 512 GB se llena casi por completo con solo instalar GTA VI. Si tenés un televisor chico o no te importa tanto la nitidez de imagen, es la compra más inteligente del grupo; si jugás en una TV grande y la imagen te importa, conviene sumar presupuesto para otra opción.",
+    articleBody: `## Qué es
+
+Es la consola más chica y más barata de la familia Xbox actual: misma arquitectura de procesador que la Series X, pero con una GPU bastante más débil (4 TFLOPS contra 12) y menos memoria (10 GB contra 16 GB). No tiene lector de discos: es 100% digital.
+
+## Qué significa la diferencia de potencia para GTA VI
+
+Rockstar confirmó que las cuatro consolas de esta generación apuntan al mismo objetivo de 30 FPS para GTA VI. La velocidad del juego, entonces, debería ser pareja. Lo que SÍ cambia, y bastante, es la resolución y el nivel gráfico: con una GPU 3 veces más débil que la de la Series X, los análisis técnicos de la prensa especializada (Digital Foundry, con base en los trailers oficiales, aunque todavía no en el juego terminado) apuntan a que la Series S podría necesitar una resolución interna por debajo de los 1080p y directamente prescindir del trazado de rayos para sostener los 30 cuadros por segundo. No es una confirmación oficial de Rockstar todavía, pero es la lectura más consistente entre los medios especializados.
+
+## El problema del almacenamiento
+
+GTA VI pide hasta 212-225 GB libres según la tienda (PlayStation o Xbox). En una consola de 512 GB como esta, eso deja muy poco margen (alrededor de 150 GB) para cualquier otro juego. Se puede ampliar con una tarjeta de expansión de almacenamiento oficial (un accesorio aparte, no incluido en esta publicación), que es la forma en que Microsoft permite sumar espacio en Series S y Series X. Si tu plan es tener varios juegos pesados instalados a la vez, este es el factor más importante a tener en cuenta, más que la resolución.
+
+## Para quién sí y para quién no
+
+Es la compra con mejor relación precio-acceso de las cuatro: apuntás al mismo objetivo de FPS en GTA VI que en cualquier otra consola, pagando bastante menos. Tiene sentido si tu televisor no es grande ni de alta resolución, si el presupuesto es la prioridad, o si vas a jugar principalmente desde un monitor chico donde la diferencia de nitidez se nota menos. No es la mejor opción si tenés (o pensás comprar) una TV grande 4K donde la menor resolución se va a notar de verdad, o si tu plan es tener instalados varios juegos pesados a la vez sin estar borrando cosas.
+
+## Veredicto
+
+Para simplemente "poder jugar" GTA VI apuntando al mismo objetivo de FPS que las otras tres consolas, cumple y sale bastante más barata. La resolución más baja y el almacenamiento ajustado son las dos contras reales que hay que aceptar a cambio del precio.`,
+    faq: [
+      { question: "¿La Xbox Series S puede correr GTA VI?", answer: "Sí. Rockstar confirmó que las cuatro consolas (PS5, PS5 Pro, Xbox Series X y Series S) apuntan al mismo objetivo de 30 FPS. La diferencia va a estar en la resolución y el nivel gráfico, no en si corre o no." },
+      { question: "¿Por qué la Xbox Series S se ve peor que la Series X en GTA VI?", answer: "Porque tiene una GPU bastante más débil (4 TFLOPS contra 12 de la Series X) y menos memoria. Los análisis técnicos de la prensa especializada estiman que va a necesitar una resolución interna menor, posiblemente por debajo de 1080p, y es la única de las cuatro donde no se descarta que directamente no tenga trazado de rayos." },
+      { question: "¿Me alcanza el almacenamiento de 512 GB para GTA VI?", answer: "Justo. GTA VI pide hasta 212-225 GB libres según la tienda, lo que deja alrededor de 150 GB disponibles después de instalarlo en una consola de 512 GB. Si querés tener otros juegos pesados instalados al mismo tiempo, se va a sentir ajustado." },
+      { question: "¿Vale la pena ahorrar con la Series S en vez de ir por una Series X o PS5?", answer: "Si el presupuesto es lo que más te importa y no tenés una TV grande de alta resolución, sí: apuntás al mismo objetivo de FPS (30) por bastante menos plata. Si la nitidez de imagen te importa o tenés una TV grande, conviene sumar presupuesto para otra opción." },
+      { question: "¿La Xbox Series S tiene lector de discos?", answer: "No, es 100% digital. A diferencia de la PS5, en Xbox Series S no existe la opción de agregar un lector de discos más adelante." },
     ],
   },
   {
@@ -65866,6 +66125,7 @@ Estuche físico coleccionable con la portada oficial, un código para canjear la
     bestOccasion: ["Fanáticos que quieren asegurar el pre-order con el bonus Vintage Vice City", "Coleccionistas que solo quieren la caja física, sabiendo que el juego es digital", "Compradores que prefieren pagar en cuotas antes que todo junto en la PS Store"],
     notRecommendedFor: ["Quien busca un disco físico tradicional para prestar o revender", "Quien no reserva antes del 20 de noviembre y solo le interesa el bonus", "Quien prefiere esperar reseñas reales antes de gastar en preventa"],
     description: "Grand Theft Auto VI es una experiencia de juego individual. Vice City, EE. UU. Jason y Lucía siempre han sabido que tienen todas las de perder, pero, cuando un golpe que parecía fácil sale mal, se ven atrapados en el lado más oscuro del lugar más soleado de EE. UU., en medio de una conspiración criminal que se extiende por todo el estado de Leonida. Este producto contendrá en la caja únicamente un código de descarga anticipada desde el 12 de noviembre. No se incluirá ningún disco. Código válido a partir del 19 de noviembre. Reserva para recibir el Pack Vintage Vice City.",
+    relatedProducts: ["MLA61403702", "MLA1999673646", "MLA3201696130", "MLA1752058499"],
   },
   {
     id: "MLA61382173",
@@ -120180,58 +120440,66 @@ curatedProducts.push(...curatedProductsBombaDeAgua);
 const curatedProductsChopera: Product[] = [
   {
     id: "MLA1497778701",
-    title: "Chopera Portatil Recargable Electrica Liso Fast",
-    canonicalName: "Chopera Portátil Liso Fast (recargable, 1 L)",
+    title: "Liso Fast - Chopera Eléctrica Portátil - Fábrica",
+    canonicalName: "Chopera Portátil Liso Fast (recargable, envases de hasta 1 L)",
     brand: "Liso Fast",
-    price: 332661.9,
-    originalPrice: 332661.9,
+    price: 215000,
+    originalPrice: 215000,
     currency: "ARS",
-    image: "https://http2.mlstatic.com/D_NQ_654337-MLA119590902302_112026-OO.webp",
+    image: "https://http2.mlstatic.com/D_NQ_NP_602986-MLA109446188617_032026-O.webp",
     category: "Hogar y Jardín",
     categorySlug: "hogar-jardin",
-    permalink: "https://www.mercadolibre.com.ar/chopera-portatil-recargable-electrica-liso-fast/up/MLAU3176065983",
-    affiliateUrl: "https://meli.la/22YdoHY",
+    // Swap de publicacion 2026-11-17: la publicacion anterior (MASSYMPLE, MercadoLider +5 mil ventas, +100 vendidos,
+    // nota 4.6 con reseñas propias, $332.661, /up/MLAU3176065983) quedo sin oferta ("Este producto no esta disponible.
+    // Elige otra variante", sin boton de compra, verificado en vivo). Mismo producto (Liso Fast, chopera electrica portatil
+    // con regulacion de espuma, USB, negro, 47 cm), publicacion nueva "de Fabrica" /up/MLAU3868889478: vendedor
+    // LF20260325085417 (+5 ventas, sin reputacion), +5 vendidos, una sola opinion de 5 estrellas, 50 disponibles, 90 dias de
+    // garantia de fabrica, devolucion gratis 30 dias, $215.000. rating/reviewCount/soldQuantity ya son los de la nueva.
+    // permalink viejo: "https://www.mercadolibre.com.ar/chopera-portatil-recargable-electrica-liso-fast/up/MLAU3176065983"
+    // affiliateUrl viejo: "https://meli.la/22YdoHY"
+    permalink: "https://www.mercadolibre.com.ar/liso-fast--chopera-electrica-portatil--fabrica/up/MLAU3868889478",
+    affiliateUrl: "https://meli.la/1Ecc8Mi",
     condition: "new",
-    freeShipping: false,
-    rating: 4.6,
-    reviewCount: 30,
-    reviewsSampledAt: "2026-11-12",
-    soldQuantity: 100,
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 1,
+    reviewsSampledAt: "2026-11-17",
+    soldQuantity: 5,
     visibility: "normal",
-    priceUpdated: "2026-11-12",
-    priceLastChecked: "2026-11-12",
+    priceUpdated: "2026-11-17",
+    priceLastChecked: "2026-11-17",
     priceStatus: "fresh",
-    description: "Chopera portátil a batería recargable por USB, de 1 litro, con canilla y perilla para regular la espuma. La más vendida de esta comparativa, pensada para llevar a picnics, asados o salidas, no para servir a mucha gente.",
+    description: "Chopera portátil a batería recargable por USB, con canilla y perilla para regular la espuma, para envases de hasta 1 litro (latas, pininas o botellas de litro). Pensada para llevar a picnics, asados o salidas, no para servir a mucha gente. Publicación de fábrica, nueva y casi sin opiniones todavía.",
     pros: [
       "A batería recargable por USB, pensada para llevar a cualquier lado",
-      "La más vendida de las 5 choperas de esta guía al 12/11/2026, con +100 vendidos",
       "Canilla con perilla para regular la espuma",
-      "Incluye envase guardado, pico metálico e instrucciones",
-      "Vendedor MercadoLíder con +5 mil ventas",
+      "Incluye cable USB, pico vertedor de acero inoxidable, instrucciones y un QR con video de uso",
+      "Liviana: 980 g y 47 cm de alto según la publicación",
+      "Publicación de fábrica con 90 días de garantía y devolución gratis dentro de los 30 días",
     ],
     cons: [
-      "1 litro de capacidad: alcanza para 2 o 3 personas, no para una reunión grande",
-      "La ficha declara 33 W de potencia pero no explica si ese motor enfría o solo impulsa la cerveza y la espuma",
-      "Es una de las más caras de esta comparativa para su capacidad: un comprador real la calificó con 4 estrellas justamente por el precio",
-      "No tiene serpentina ni sistema de hielo: conserva fría una cerveza que ya entra fría, no es una heladera chica",
+      "Admite envases de hasta 1 litro: alcanza para 2 o 3 personas, no para una reunión grande",
+      "La publicación nombra un \"compresor\" como sistema de refrigeración y dice que mantiene el frío hasta 12 horas, pero no da potencia ni cuánto enfría: conviene preguntarle al vendedor antes de esperar que enfríe de cero",
+      "Cuesta casi lo mismo que la chopera a hielo de Brewery Supplies de esta comparativa, que sirve a más gente",
+      "Vendedor y publicación nuevos: +5 ventas y casi ninguna opinión todavía, muy poco historial para juzgar",
     ],
-    verdict: "Es la chopera para llevar a cualquier lado: picnics, salidas, un asado en otra casa. A batería, con canilla y perilla de espuma, pero con 1 litro de capacidad y sin un sistema de frío propio más allá del aislante: conserva fría la cerveza que ya metés fría, no la enfría de cero.",
+    verdict: "Es la chopera para llevar a cualquier lado: picnics, salidas, un asado en otra casa. A batería, con canilla y perilla de espuma, para envases de hasta 1 litro. El límite es doble: la capacidad es chica y la publicación no aclara cuánto frío da el \"compresor\" que declara, además de venir de un vendedor con casi nada de historial. Para poca cantidad y con la cerveza ya fría, cumple; para una reunión grande, no.",
     specs: [
       { label: "Marca", value: "Liso Fast" },
-      { label: "Modelo", value: "Recargable" },
+      { label: "Modelo", value: "Liso Fast" },
       { label: "Color", value: "Negro" },
-      { label: "Potencia", value: "33 W" },
-      { label: "Material", value: "Acero y tergopor" },
+      { label: "Sistema de refrigeración", value: "Compresor (según la publicación, sin potencia declarada)" },
+      { label: "Carga", value: "USB (cargador de hasta 30 W)" },
+      { label: "Material", value: "Telgopor, plástico y aluminio" },
       { label: "Cantidad de canillas", value: "1" },
-      { label: "Capacidad", value: "1 L" },
-      { label: "Con bandeja extraíble", value: "No" },
-      { label: "Botón de encendido/apagado", value: "Sí" },
-      { label: "Dimensiones", value: "46 cm alto x 11,2 cm ancho x 18 cm largo" },
-      { label: "Peso", value: "1 kg" },
-      { label: "Vendedor", value: "MASSYMPLE (MercadoLíder, +5 mil ventas)" },
+      { label: "Capacidad", value: "Envases de hasta 1 L (latas, pininas, botellas de litro)" },
+      { label: "Conserva el frío", value: "Hasta 12 horas (según el vendedor)" },
+      { label: "Dimensiones", value: "47 cm alto x 12,5 cm ancho" },
+      { label: "Peso", value: "980 g" },
+      { label: "Vendedor", value: "Publicación de fábrica (+5 ventas, sin reputación todavía)" },
     ],
     customerReviews: [
-      { rating: 4, country: "Argentina", date: "hace 1 año", text: "Hace lo que promete, excelente para conservar el frescor y servir el chop. Le doy 4 estrellas porque está un poco caro." },
+      { rating: 5, country: "Argentina", date: "hace 1 mes", text: "Nos encantó!! marido chocho." },
     ],
     relatedProducts: ["MLA2367196420", "MLA2026103582", "MLA688717220", "MLA3378193052"],
   },
@@ -120240,27 +120508,33 @@ const curatedProductsChopera: Product[] = [
     title: "Chopera A Hielo 1 Canilla Cerveza Serpentina Conservadora Color Azul",
     canonicalName: "Chopera a hielo con serpentina Brewery Supplies (azul)",
     brand: "Brewery Supplies",
-    price: 208210,
+    price: 212470,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_2X_782383-MLA99453483506_112025-O.webp",
     category: "Hogar y Jardín",
     categorySlug: "hogar-jardin",
-    permalink: "https://www.mercadolibre.com.ar/chopera-a-hielo-1-canilla-cerveza-serpentina-conservadora-color-azul/p/MLA56487074",
-    affiliateUrl: "https://meli.la/2xutPdo",
+    // Swap de publicacion 2026-11-17: la ficha de catalogo /p/MLA56487074 quedo sin oferta ("Este producto no esta
+    // disponible. Elige otra variante", sin boton de compra, verificado en vivo en el chequeo diario). Mismo vendedor
+    // (tienda oficial Brewery Supplies, +10 mil ventas), mismo producto y color azul (tambien rojo), publicacion nueva
+    // /up/MLAU5716143280 con stock, $212.470 (antes $208.210). rating/reviewCount/soldQuantity son de la ficha vieja:
+    // la nueva muestra +5 vendidos, +5 disponibles y ninguna opinion propia: desfasaje editorial pendiente.
+    // permalink viejo: "https://www.mercadolibre.com.ar/chopera-a-hielo-1-canilla-cerveza-serpentina-conservadora-color-azul/p/MLA56487074"
+    // affiliateUrl viejo: "https://meli.la/2xutPdo"
+    permalink: "https://www.mercadolibre.com.ar/chopera-a-hielo-1-canilla-cerveza-serpentina-20-conservadora/up/MLAU5716143280",
+    affiliateUrl: "https://meli.la/1sj2eEH",
     condition: "new",
     freeShipping: true,
     rating: 4.6,
     reviewCount: 47,
     reviewsSampledAt: "2026-11-12",
-    soldQuantity: 25,
-    badge: "bestseller",
+    soldQuantity: 5,
     visibility: "normal",
-    priceUpdated: "2026-11-13",
-    priceLastChecked: "2026-11-16",
+    priceUpdated: "2026-11-17",
+    priceLastChecked: "2026-11-17",
     priceStatus: "fresh",
     description: "Conservadora térmica con una serpentina metálica adentro y una canilla: se llena de hielo y la cerveza sale fría, sin enchufe. La vende la tienda oficial Brewery Supplies. Al revisarla (12/11/2026) la publicación mostraba pocas unidades disponibles.",
     pros: [
-      "La chopera con más opiniones de esta comparativa (47) y la mejor nota junto con la Liso Fast y la artesanal (4,6)",
+      "La chopera con más opiniones de esta comparativa ({{reviews:MLA2367196420}}, acumuladas en su publicación anterior) y una de las mejores notas ({{rating:MLA2367196420}})",
       "No depende de electricidad: enfría con hielo, sirve para llevar al quincho o al camping",
       "La vende una tienda oficial (Brewery Supplies) con +10 mil ventas en general",
       "También disponible en color rojo según la publicación",
@@ -120268,7 +120542,7 @@ const curatedProductsChopera: Product[] = [
     cons: [
       "Todo el frío depende del hielo: hay que reponerlo durante la reunión, y la ficha no declara cuánto aguanta una carga",
       "La ficha no detalla qué conexión trae para el barril ni si hace falta una bomba manual o CO2 para que la cerveza circule",
-      "Stock bajo al revisarla el 12/11/2026 (la publicación mostraba \"últimas 3 unidades\"): puede agotarse o cambiar de precio",
+      "Publicación nueva (17/11/2026) de la misma tienda oficial, con +5 vendidos y más de 5 unidades disponibles, sin opiniones propias: las opiniones que se muestran son de la publicación anterior, que quedó sin oferta",
     ],
     verdict: "Es la chopera a hielo clásica para un asado o una reunión con barril: sin enchufe, de tienda oficial y con el respaldo de opiniones más grande de esta comparativa. El límite es que todo el frío sale del hielo y que la ficha no aclara la conexión para el barril.",
     specs: [
