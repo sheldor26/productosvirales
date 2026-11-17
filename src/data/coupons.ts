@@ -1,41 +1,38 @@
 import type { Coupon } from "@/lib/types";
 
-// Lunes 16/11: cupones nuevos para afiliados. Se sacan los del 15/11 (AFILIOCHO8,
-// MELIMAS18, AFILIOFF25), que vencieron ayer a las 23:59.
-//   >= $1.000.000  -> MELIAHORRA80 ($80.000)
-//   $500k a $1M    -> AFILIBENEF45 ($45.000)
-//   $250k a $500k  -> MELIDESCU20 ($20.000)
-//   menos de $250k -> sin badge
+// Martes 17/11: cupones nuevos para afiliados. Se sacan los del 16/11 (MELIDESCU20,
+// AFILIBENEF45, MELIAHORRA80), que vencieron anoche a las 23:50.
+//   >= $500.000    -> AFILIOFF45 ($45.000)
+//   $250k a $500k  -> MELIMAS20 ($20.000)
+//   $150k a $250k  -> AFILIMELI10 ($10.000)
+//   menos de $150k -> sin badge
 //
-// Vuelve el escalon de $1.000.000 que el 14 y el 15/11 no estuvo (esos dias el techo fue
-// $45.000 y $25.000). Los tres tramos son los mismos del 13/11, con codigos nuevos.
-//
-// El mensaje dice "cayeron recien" y "cierran hoy a las 23:50 hs": no trae hora de inicio,
-// se asume activo ya (validFrom null) y el cierre es 23:50, no 23:59. El corte puede ser
-// antes si se agota el stock y el badge no lo sabe: el carrito manda.
+// Hoy NO hay escalon de $80.000 desde $1.000.000 (ayer si). El techo es $45.000, asi que una
+// consola de mas de $1.000.000 recibe $45.000. Vuelve el tramo chico de $10.000 desde $150.000,
+// que ayer no estaba. Vigencia del mensaje: de 9:00 a 23:59.
 export const activeCoupons: Coupon[] = [
   {
-    code: "MELIDESCU20",
+    code: "AFILIMELI10",
+    discountAmount: 10000,
+    minPurchase: 150000,
+    validFrom: "2026-11-17T09:00:00-03:00",
+    validUntil: "2026-11-17T23:59:00-03:00",
+    active: true,
+  },
+  {
+    code: "MELIMAS20",
     discountAmount: 20000,
     minPurchase: 250000,
-    validFrom: null,
-    validUntil: "2026-11-16T23:50:00-03:00",
+    validFrom: "2026-11-17T09:00:00-03:00",
+    validUntil: "2026-11-17T23:59:00-03:00",
     active: true,
   },
   {
-    code: "AFILIBENEF45",
+    code: "AFILIOFF45",
     discountAmount: 45000,
     minPurchase: 500000,
-    validFrom: null,
-    validUntil: "2026-11-16T23:50:00-03:00",
-    active: true,
-  },
-  {
-    code: "MELIAHORRA80",
-    discountAmount: 80000,
-    minPurchase: 1000000,
-    validFrom: null,
-    validUntil: "2026-11-16T23:50:00-03:00",
+    validFrom: "2026-11-17T09:00:00-03:00",
+    validUntil: "2026-11-17T23:59:00-03:00",
     active: true,
   },
 ];
