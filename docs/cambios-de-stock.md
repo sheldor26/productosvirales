@@ -7,6 +7,18 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-11-18
+
+- 🟢 VOLVIO EL STOCK — **MLA14428767** Mouse Gamer Logitech G Pro Wireless Black
+  - ML: https://www.mercadolibre.com.ar/p/MLA14428767
+  - Sitio: https://productosvirales.com.ar/producto/MLA14428767
+- 🟢 VOLVIO EL STOCK — **MLA46927234** Proyector Oso Astronauta MTI 731 — 82 Modos y Galaxia BT
+  - ML: https://www.mercadolibre.com.ar/astronauta-proyector-galaxia-estrellas-musica-parlante-mti-estructura-blanco-pantalla-blanco/p/MLA46927234
+  - Sitio: https://productosvirales.com.ar/producto/MLA46927234
+- 🟢 VOLVIO EL STOCK — **MLA46200581** Rascador Torre Dakota Sisal y Terciopelo — 91 cm, con Cucha y Juguete
+  - ML: https://www.mercadolibre.com.ar/rascador-torre-gatos-dakota-sisal-terciopelo-juguete/p/MLA46200581
+  - Sitio: https://productosvirales.com.ar/producto/MLA46200581
+
 ## 2026-11-16
 
 - 🟢 VOLVIO EL STOCK — **MLA63908884** Cafetera espresso automática Philips EP5541/50 Serie 5500 negra
