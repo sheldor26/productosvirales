@@ -1,37 +1,38 @@
 import type { Coupon } from "@/lib/types";
 
-// Miércoles 18/11: tres escalones exclusivos para afiliados, los mismos montos y
-// mínimas que el 12/11 y el 15/11, con códigos nuevos. Se sacan los cupones
-// vencidos del 17/11.
+// Jueves 19/11: tres escalones exclusivos para afiliados, los mismos montos y
+// mínimas que el 16/11 (20k / 45k / 80k), con códigos nuevos. Se sacan los
+// cupones vencidos del 18/11. El escalón de $80.000 vuelve después de dos días
+// sin él (17/11 y 18/11).
 // `getApplicableCoupon` se queda con el que más descuento da para cada precio:
-//   >= $300.000      -> MELIBENEF25 ($25.000)
-//   $200k a $300k    -> AFILIAHORRA18 ($18.000)
-//   $100k a $200k    -> MELIDESCU8 ($8.000)
-//   menos de $100k   -> sin badge
-// Vigencia declarada en el mensaje: hoy de 9:00 a 23:59.
+//   >= $1.000.000    -> MELIOFF80 ($80.000)
+//   $500k a $1M      -> AFILIMAS45 ($45.000)
+//   $250k a $500k    -> MELIAFF20 ($20.000)
+//   menos de $250k   -> sin badge
+// El mensaje no declara vigencia: se asume hasta hoy 23:59 (sin hora de inicio).
 export const activeCoupons: Coupon[] = [
   {
-    code: "MELIDESCU8",
-    discountAmount: 8000,
-    minPurchase: 100000,
-    validFrom: "2026-11-18T09:00:00-03:00",
-    validUntil: "2026-11-18T23:59:00-03:00",
+    code: "MELIAFF20",
+    discountAmount: 20000,
+    minPurchase: 250000,
+    validFrom: null,
+    validUntil: "2026-11-19T23:59:00-03:00",
     active: true,
   },
   {
-    code: "AFILIAHORRA18",
-    discountAmount: 18000,
-    minPurchase: 200000,
-    validFrom: "2026-11-18T09:00:00-03:00",
-    validUntil: "2026-11-18T23:59:00-03:00",
+    code: "AFILIMAS45",
+    discountAmount: 45000,
+    minPurchase: 500000,
+    validFrom: null,
+    validUntil: "2026-11-19T23:59:00-03:00",
     active: true,
   },
   {
-    code: "MELIBENEF25",
-    discountAmount: 25000,
-    minPurchase: 300000,
-    validFrom: "2026-11-18T09:00:00-03:00",
-    validUntil: "2026-11-18T23:59:00-03:00",
+    code: "MELIOFF80",
+    discountAmount: 80000,
+    minPurchase: 1000000,
+    validFrom: null,
+    validUntil: "2026-11-19T23:59:00-03:00",
     active: true,
   },
 ];
