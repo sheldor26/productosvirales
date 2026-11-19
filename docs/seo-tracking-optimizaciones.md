@@ -4047,3 +4047,26 @@ Re-chequear: ~1/12 (después de Black Friday, y coincide con el fin de la ventan
 **Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde en todas las rondas, `npm run build` OK (limpiando `.next` por el error intermitente de fuentes ya documentado, no relacionado al contenido). Verificado visualmente en navegador: guía, las 3 fichas nuevas, tabla comparativa, product-cards, FAQ (13 preguntas) y las 3 fechas corregidas, todo renderizando con precios/ratings reales resueltos.
 
 **Sin baseline de GSC** (guía nueva). Re-medir ~15/12 (4 semanas) y, aparte, revisar el stock de la Xbox Series X en los próximos días dado que tenía solo 5 unidades al publicar.
+
+## Diagnóstico de dilución de CTR del sitio + 3 fixes chicos de citabilidad — 2026-11-19
+
+**Origen:** Juan notó CTR bajando (1,8%→1,4% en 4 semanas) con impresiones subiendo. Análisis con snapshot fresco (#74, 21/10-17/11) + ventanas limpias de 14 días (21/10-3/11 vs 4/11-17/11) para evitar el sesgo de solapamiento. Pasado por trío auditor (Codex + Gemini), que corrigió errores reales del primer borrador: el denominador correcto de impresiones-con-query-visible es ~29% del total del sitio (no asumir que `query.csv` es el 100%), y la supuesta "recuperación" de `casco-bicicleta` no estaba probada con los datos que usé (28 días promedio tapa el efecto, hay que mirar día por día post-refresh).
+
+**Decomposición real (ventanas de 14 días, 639.430/10.435 impr/clicks totales del sitio vía dimensión `date`):** CTR 1,62%→1,40%, posición ponderada 7,04→7,74 (empeoró, no es solo mezcla). De la caída, ~mitad es que las queries COMUNES a ambos períodos ya convierten peor (1,65%→1,51%, degradación real) y ~mitad es que las queries NUEVAS que entraron convierten mal (0,98% CTR). Mayor caída individual: `"cual es la mejor freidora de aire en argentina"` perdió 16 clicks con posición IDÉNTICA (2,1→2,1) — compresión de CTR pura, coincide con el Core Update ya visto en el Sensor de Semrush (Very High desde 27/10).
+
+**`casco-bicicleta` — corrección de un claim propio erróneo:** dije que la posición "se recuperó" comparando mal (28 días de query vs el baseline diario original). Con los días reales post-refresh (11-17/11): 10,65 / 8,84 / 8,04 / 7,70 / 8,86 / 6,91 / 6,96 — promedio ~8,3, PEOR que el baseline de 7,14. Solo los últimos 2 días volvieron a línea. **No está resuelto, sigue en observación**, no se tocó la guía de nuevo (Gemini objetó re-tocarla a 8 días de su refresh grande).
+
+**Research SERP en vivo (Google.com.ar sin sesión) de 12 clusters nuevos** para ver si hay AI Overview y si cita al sitio: confirmado AIO presente y sin citarnos en `monopatin-electrico`, `tostadora de pan`, `casco-bicicleta` (ya cubierto arriba), `robot-de-cocina` (definicional), `alarmas-para-casa`, `black-friday` (imposible de ganarle a Wikipedia/retailers), `perfume-yara`/`perfume-arabe-blanco` (ya en ventana de observación por el refresh de Yara del 16/11, hasta 14/12). Sin AIO pero con Knowledge Panel (intención navegacional, no accionable): `gadnic`. AIO tipo Shopping (cita feeds de precio, no editorial): `humidificador`. `auriculares-gamer`: problema de posición (11,1), no de citabilidad.
+
+**3 fixes aplicados (bajo costo, confirmados por ambos auditores tras descartar 2 del plan original):**
+- `robot-de-cocina`: le faltaba `directAnswer` (gap real de estructura). Agregado, sin duplicar la FAQ "¿Qué hace un robot de cocina?" que ya tenía.
+- `tostadora`: FAQ nueva, angular comparativo (ranura vs sandwichera) en vez de definición genérica, por sugerencia de Gemini (el AIO ahí ya es editorial, una definición de diccionario no suma nada nuevo).
+- `monopatin-electrico`: FAQ nueva sobre potencia (W) para subidas, angular práctico en vez de definición, mismo criterio.
+
+**Descartado del plan original:** `casco-bicicleta` (no re-tocar, ventana de observación activa) y `humidificador` (AIO tipo Shopping, una FAQ editorial no compite ahí).
+
+**Escala real del fix:** las 3 acciones cubren ~0,3-0,6% de las impresiones del sitio. Ninguna "arregla" la dilución agregada — eso requeriría una de dos cosas, ninguna aplicada todavía: (a) esperar a que la volatilidad del Core Update baje (Black Friday 27/11 es la prueba ya planificada), o (b) un cambio de escala real en el schema estructurado (ver hallazgo pendiente del 11/11 sobre `Product` vs `Article`+`ItemList`, que podría habilitar rich snippets en las ~300 guías del sitio — Gemini lo reconfirmó como la acción de mayor confianza, pendiente de decisión de Juan por tocar el renderer).
+
+**Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde, `npm run build` OK.
+
+Re-medir: los 3 fixes ~2026-12-17 (4 semanas). El diagnóstico agregado de CTR, en Black Friday (~27-28/11).
