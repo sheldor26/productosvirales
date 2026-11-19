@@ -37,6 +37,7 @@ export function RelatedGuides({
           <li key={l.href}>
             <Link
               href={l.href}
+              prefetch={false}
               className="group flex h-full items-center justify-between gap-3 rounded-[10px] border border-[var(--border)] bg-[var(--bg-primary)] p-4 transition-colors hover:bg-[var(--bg-secondary)]"
             >
               <span className="min-w-0">

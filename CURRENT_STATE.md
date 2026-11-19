@@ -2558,3 +2558,13 @@ Documentadas en `docs/POST_MASTER_STRUCTURE.md`:
 - Pendiente: programar la tarea semanal (esperando OK de Juan); fase 2 (selector guiado, pagina "bajo esta semana").
 - La fase 1 (medidor y agente) no toca `src/`; el experimento A si toca `src/data/guides.ts` (ver abajo).
 - Experimento A (commiteado y pusheado el 2026-10-11): `quickPicks` en yara-lattafa-guia-completa y donde-comprar-perfumes-arabes-argentina (+ parrafo "Cual comprar primero" de Yara corregido). Buenos Aires = control. Build, lint y trio auditor OK. Linea de base y criterio de exito en `docs/qa-semanal/experimentos.md`. Pendiente: fecha de salida (la anota sola el recordatorio del 14/10) y evaluacion a las 6 semanas. Ademas se tokenizaron los precios viejos de la guia de Yara.
+
+## 2026-11-19 — Diagnóstico Vercel: ISR Writes + Fast Origin Transfer
+
+Juan pidió bajar el gasto de Vercel (ciclo Nov9-Dic9: $7,17 en productosvirales, el proyecto que más gasta del team fixmyreviewsio). Medido en el panel real (no MCP, que da 404 para billing de este team): Observability Events $1,52 (fuera de alcance, Juan pidió no tocarlo), **Fast Origin Transfer $1,70 (28GB)**, **ISR Writes $1,27 (317K)**, ISR Reads $1,19.
+
+Causa encontrada en Observability → ISR (7d) por ruta: `/producto/[slug]` y `/categoria/[slug]` reutilizan cache muy bien (60x y 8.095x). Decenas de `/guias/<slug>` individuales en cambio muestran 14-26 writes cada una con **0 reads** ("Write Utilization: No data"), multiplicado por las `.segments/*.segment` de cada una (PPR/segment cache) — firma clásica de **prefetch automático de `<Link>` sin desactivar**: al entrar en viewport, Next precarga guías de poco tráfico y, como tienen `revalidate=86400`, cada precarga cuenta como escritura ISR aunque nadie la lea.
+
+Fix aplicado (bajo riesgo, aprobado por Juan): `prefetch={false}` en los 3 `<Link>` a guías que no lo tenían — `ArticleFooter.tsx:130` ("MÁS GUÍAS DE..."), `RelatedGuides.tsx:38` ("próximo paso", al pie de guías y fichas), `GuideRenderer.tsx:891` ("Enlazado interno"). El resto del repo ya usaba `prefetch={false}` consistentemente (~30 lugares); eran los 3 únicos que quedaron afuera. Cero impacto SEO (Google no ejecuta el prefetch, lee el href igual) y no toca `revalidate` de precios ni de guías. Build y lint verdes, sin tocar archivos preexistentes con errores de lint (unrelated: `use-recently-viewed.ts`, `use-saved-products.ts`).
+
+No tocado (fuera del fix de bajo riesgo): `revalidate=600` de la home (`src/app/page.tsx`) — es la ruta con más transferencia por request, pero está atada a la rotación de productos a propósito; subirlo es decisión de producto, no se aplicó. Pendiente: Juan decide si commitear/pushear y si vale la pena mirar la home como lever B.

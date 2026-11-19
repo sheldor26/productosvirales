@@ -891,6 +891,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
               <Link
                 key={link.href}
                 href={link.href}
+                prefetch={false}
                 className="inline-block px-3 py-1.5 text-sm rounded-full bg-[var(--bg-primary)] border border-[var(--border)] hover:bg-[var(--bg-secondary)] transition-colors"
                 style={{ color: "var(--editorial-accent)" }}
               >

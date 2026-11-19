@@ -526,4 +526,22 @@ publica acá — dejó de ser un espejo 1 a 1 de cada post de Threads. Ahora es 
 propio (productos distintos a los de Threads), en tandas de 3, 3-4 veces al día en horarios fijos.
 El mecanismo técnico de arriba (los 8 pasos) sigue vigente igual, solo cambió el disparador y el
 contenido — ver memoria `whatsapp-canal-sourcing-propio-tandas-de-3`. También pidió que a partir de
+
+## 2026-11-19 — Para diagnosticar ISR Writes caros, mirar "Write Utilization" por ruta, no solo el total
+
+Juan pidió bajar el gasto de Vercel (ISR Writes + Fast Origin Transfer). En vez de asumir que la
+causa era "mucho tráfico" o "muchos deploys", el panel Observability → ISR del proyecto, ordenado
+por Writes y con la columna "Write Utilization" (reads por write), mostró la pista real: rutas con
+decenas de writes y **0 reads** ("No data" en esa columna) son cache que se regenera sin que nadie
+la lea — nunca tráfico real. Eso apuntó directo a `<Link>` sin `prefetch={false}` en bloques de
+"guías relacionadas" (Next.js precarga en viewport, y si la ruta destino tiene `revalidate`, la
+precarga cuenta como escritura ISR). El resto del repo ya desactivaba prefetch consistentemente en
+~30 lugares; solo 3 quedaron afuera (`ArticleFooter.tsx`, `RelatedGuides.tsx`, `GuideRenderer.tsx`),
+y eran justo los que aparecen en TODA guía y ficha. Detalle en `CURRENT_STATE.md` (sesión 2026-11-19).
+
+**Para la próxima vez (acá o en usatoydeals/weapproveit/essentialpetgear, que comparten el patrón
+"guías relacionadas" + ISR):** antes de tocar `revalidate` o sospechar de deploys, filtrar la tabla
+de ISR por Writes desc y mirar qué tiene 0 reads — si hay muchas rutas de cola larga en esa
+condición, buscar primero `<Link>` sin `prefetch={false}` cerca de bloques que aparecen en todas
+las páginas (relacionados, footer, enlazado interno), no en el contenido principal.
 ahora se publique directo, sin mostrarle el texto en el chat a esperar confirmación cada vez.

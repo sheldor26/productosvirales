@@ -130,6 +130,7 @@ export function ArticleFooter({ guide }: ArticleFooterProps) {
               <Link
                 key={g.slug}
                 href={guideHref(g)}
+                prefetch={false}
                 className="group block rounded-[6px] border p-3 md:p-4 transition-colors hover:bg-[var(--bg-secondary)]"
                 style={{ borderColor: "var(--border)" }}
               >
