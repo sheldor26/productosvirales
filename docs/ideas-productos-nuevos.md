@@ -5,6 +5,66 @@
 > toca el catálogo. Entradas nuevas arriba.
 
 
+## 2026-11-17
+
+### Freidora de aire (ML) [ml] (15 productos)
+
+- | +5000 vendidos — $86.990
+- Freidora De Aire Panel Led A Color C/ventana 10l Novohome — $199.990
+- Freidora De Aire Sin Aceite Novohome 7l 8 Funciones 1700w Plateado — $159.990
+- Llega gratis mañana — $346.479
+- OFERTA IMPERDIBLE — $310.749
+- ![Freidora De Aire De 5 L Air Fryer 1600w Panel Tactil Ditron Negro](https://http2.mlstatic.com/D_Q_NP_2X_822227-MLA108107186092_032026-E.webp) — $157.592
+- ![Freidora De Aire Horno Dual Multifuncion 28lts Zego 1900w](https://http2.mlstatic.com/D_Q_NP_2X_680103-MLA112640359754_062026-E.webp) — $520.000
+- ![Freidora De Aire Y Grill Digital Atma Fr901dp 6.3 Litros](https://http2.mlstatic.com/D_Q_NP_2X_727889-MLA99464081972_112025-E.webp) — $309.999
+- ![Freidora De Aire 8 L Pastalinda Cucina Air Fryer Color Crema](https://http2.mlstatic.com/D_Q_NP_2X_823678-MLA91867669381_092025-E.webp) — $288.888
+- ![Freidora De Aire Philips Na120/00 Negra 4.2l Negro](https://http2.mlstatic.com/D_Q_NP_2X_788252-MLA99975580653_112025-E.webp) — $164.899
+- ![Freidora De Aire Pastalinda Sin Aceite Airfryer 8l Crema](https://http2.mlstatic.com/D_Q_NP_2X_681982-MLA96222481754_102025-E.webp) — $265.092
+- ![Freidora eléctrica AFON-12L-BG Horno Mondial negro de 12 litros](https://http2.mlstatic.com/D_Q_NP_2X_629513-MLA99946514763_112025-E.webp) — $185.999
+- ![Freidora de Aire Kanji de 6.5 Litros con Panel Digital](https://http2.mlstatic.com/D_Q_NP_2X_960895-MLA97734907779_112025-E.webp) — $107.549
+- ![Freidora De Aire Philips Phna23100 13 En 1 6.2 L Negra](https://http2.mlstatic.com/D_Q_NP_2X_698984-MLA99980259093_112025-E.webp) — $214.999
+- ![Freidora De Aire Daewoo Crystal XL Vidrio Daf1891 7lts Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_615836-MLA95639704224_102025-E.webp) — $363.075
+
+### Aspiradora robot (ML) [ml] (0 productos)
+
+_No se pudo extraer nada esta vez — revisar el parser._
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$43.49
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Black Cherry | 2-in-1 Sip or Swig Spout | Leakproof when Locked | Cup Holder Friendly | Push-Button Lid | Carry Loop | Triple-Wall Insulated — US$29.99
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$6.99
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.97
+- Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls, 108 Sheets Per Roll | Absorbent, Deep-Cleaning Ridges, Virtually Lint-Free, Reliable — US$6.84
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$22.86
+- Dixie Paper Plates 8.5 Inch, 90 Count, Disposable Plates | For parties as dessert plates or snack plates, 2X stronger, small paper plates are soak-proof, cut resistant, microwave-safe — US$5.89
+- Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls | Strong, absorbent, and durable to tackle any tough mess — US$10.58
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$26.99
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.48
+- Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls, White, 108 Sheets Per Roll — US$7.97
+- Owala FreeSip Sway Stainless Steel Water Bottle 30 oz Black Cherry | 2-in-1 Sip or Swig Spout | Leakproof | Cup Holder Friendly | Push-Button Lid | Bucket Handle | Triple-Wall Insulated — US$34.99
+- Nespresso Vertuo, Barista Flavored Pack, Medium Roast, 30-Count Coffee Pods | Medium-Roast Coffee Capsules, Caramel, roasted hazelnut and sweet vanilla flavors — US$42.00
+- Amazon Saver Dark Roast Coffee Pods 100 CT — US$32.39
+
+### Amazon Home & Kitchen bestsellers [amazon] (15 productos)
+
+- Amazon Basics Lightweight Super Soft Easy Care Wrinkle Free Microfiber 3 Piece Bed Sheet Set with 14-Inch Deep Pockets, Twin, Navy Blue, Solid, Kids, Men & Women Bedding — US$11.26
+- Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Black, 50-Pack — US$17.99
+- Barossa Design Oeko-tex Certified Shower Curtain Liner Standard Size, Clear | Waterproof PEVA, Rustproof Grommets, 3 Bottom Magnets, Cute Lightweight Bathroom Curtain, Fits Standard Tub 72" Length — US$8.95
+- Owala FreeSip Stainless Steel Water Bottle 32 oz Black Cherry | 2-in-1 Sip or Swig Spout | Leakproof when Locked | Push-Button Lid | Carry Loop | Triple-Wall Insulated — US$34.99
+- Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - White | Hotel Luxury Bed Sheets for Women, Men, Kids & Teens, Deep Pockets, Easy-Fit, Extra Soft & Wrinkle Free Sheets, Oeko-Tex — US$24.99
+- upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas — US$6.99
+- Yankee Candle Balsam & Cedar Scented Candle, 22oz Large Jar | Up to 150 Hour Burn Time, Room Filling Fragrance, Long-Lasting Scent, Premium Plant Wax Blend, Consistent Burn, Giftable — US$14.99
+- BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6"-18" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel — US$26.99
+- Zevo Flying Insect Trap Refill Cartridges for Fruit Flies & Gnats, 4 Count | Fits Zevo MAX & Zevo Flying Insect Trap, Catches House Flies, Gnats & Fruit Flies 24/7, No Added Fragrance or Dyes — US$10.09
+- DREO Space Heater, Portable Electric Heaters for Indoor Use with Thermostat | 2026 Upgraded, 34dB Quiet, 12H Timer, 5 Mode, Remote, 1500W PTC Ceramic Fast Safety Heat for Office Bedroom Home, Gold — US$39.99
+- Owala SmoothSip Slider Insulated Stainless Steel Coffee Tumbler, Reusable Iced Coffee Cup, Hot Coffee Travel Mug, BPA Free 12 oz, Vanilla Bean — US$24.98
+- Keurig K-Express Single Serve K-Cup Pod Coffee Maker, Black | 3 Brew Sizes, 42oz Removable Reservoir, Strong Brew Button Feature, Travel Mug Friendly, Works with All K-Cup Pods — US$59.99
+- Bedsure GentleSoft White Throw Blanket for Couch - Christmas Thanksgiving Decorations for Home Room Decor, Cozy Fleece Blanket, Christmas Birthday Gifts for Women Mom Her Girls, Off White, 50x60 in — US$13.49
+- Yankee Candle Sugared Cinnamon Apple Scented Candle, 22oz Large Jar | Up to 150 Hour Burn Time, Room Filling Fragrance, Long-Lasting Scent, Premium Plant Wax Blend, Consistent Burn, Giftable — US$14.99
+- BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials — US$9.99
+
 ## 2026-10-13
 
 ### Freidora de aire (ML) [ml] (15 productos)
