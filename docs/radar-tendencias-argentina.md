@@ -8,6 +8,10 @@
 > Entradas nuevas arriba.
 
 
+## 2026-11-11
+
+_No se pudo leer la página esta vez._
+
 ## 2026-10-07
 
 - **argentina - benín** — 2 M+ búsquedas (+1.000%, 21 h)
