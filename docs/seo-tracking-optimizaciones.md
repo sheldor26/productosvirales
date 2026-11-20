@@ -4070,3 +4070,34 @@ Re-chequear: ~1/12 (después de Black Friday, y coincide con el fin de la ventan
 **Verificación:** `npx tsc --noEmit` limpio, los 8 scripts de `guides:check` en verde, `npm run build` OK.
 
 Re-medir: los 3 fixes ~2026-12-17 (4 semanas). El diagnóstico agregado de CTR, en Black Friday (~27-28/11).
+
+**Seguimiento 2026-11-20 (dato del 19/11, preliminar):** la dilución se acentuó, no amainó. 30.131 impresiones/330 clicks/CTR 1,10% — nuevo piso de los 28 días (venía de 1,31% el 17/11 y 1,26% el 18/11, 3 días seguidos a la baja). Crucé queries 14-16/11 vs 17-19/11: la caída es generalizada en decenas de "cuál es el/la mejor X en argentina" (ventilador de techo, yogurtera, freidora de aire, horno eléctrico, bicicleta eléctrica, perfume árabe, etc.), cada una perdiendo 2-6 clicks con posición igual o mejor que antes (varias ya en posición 1-2). Misma firma de AIO ya diagnosticada, sin hallazgo nuevo — pero la aceleración justo antes de Black Friday hace que el 27-28/11 sea más decisivo todavía: si el CTR no se recupera con el pico de demanda (a diferencia de CyberMonday 2-4/11, que tuvo impresiones altas Y buen CTR 1,67-1,74%), el cuadro pasa de "volatilidad de Core Update" a "cambio estructural", y ahí sí ameritaría repensar la estrategia de contenido para estas queries (no los 3 fixes chicos, que nunca apuntaron a esto).
+
+## Cierre del hallazgo pendiente del 11/11 (`Product` vs `Article`+`ItemList`) — investigado y descartado — 2026-11-19
+
+**Origen:** la auditoría de `casco-bicicleta` del 11/11 había marcado como "posible problema, sin tocar" que el renderer usa 4 entidades `Product` sueltas por guía comparativa en vez de `Article`+`ItemList`. En el diagnóstico de CTR de hoy until propuse implementarlo, dando por hecho (sin chequear el componente compartido, solo las 2 rutas de página) que la guía NO tenía `Article` a nivel de página.
+
+**Trío auditor (1 ronda, NO-GO de los dos, mismo motivo):**
+- **La premisa era falsa.** `GuidePageView.tsx` (componente compartido de las 2 rutas de guía) YA emite `Article` + `FAQPage` + `BreadcrumbList` completos (líneas 25-111), desde antes de esta sesión. No aparece en `gsc.py rich-results` porque GSC no reporta `Article` como tipo de apariencia (no genera badge visual propio), no porque no exista — confundí "no está en el reporte" con "no existe en el código".
+- **`ItemList`/carrusel de productos no está habilitado en Argentina** (Google lo reserva a Cursos/Películas/Recetas/Restaurantes, con excepción solo en la UE por la DMA). No hay ningún rich result nuevo que desbloquear acá.
+- **Riesgo real encontrado, pero separado y preexistente:** el `aggregateRating` de `ProductCard.tsx` (línea ~56-69) reusa el rating/reviewCount de MercadoLibre, lo que técnicamente viola la política de Google "no agregues reseñas de otro sitio" (review snippet guidelines). Es un riesgo que ya existe hoy, no algo que la propuesta introducía. Los dos auditores coinciden en NO tocarlo ahora: `REVIEW_SNIPPET` (las estrellitas) solo aporta 22 clicks/28d; el activo real es `PRODUCT_SNIPPETS` (precio + stock en el snippet), 1.514 clicks/28d, que no depende del rating. Tocar el componente compartido arriesga ese activo por una corrección de bajo impacto.
+
+**Decisión: no se toca ningún schema.** Cerrado, no queda pendiente. Alternativas sugeridas por ambos auditores para cuando haga falta invertir tiempo de desarrollo en SEO técnico (no urgentes, sin acción hoy): hooks de precio/fecha en `title`/`metaDescription`, tablas HTML más limpias para extracción de AI Overview, validar que el `BreadcrumbList` refleje bien la jerarquía de silos.
+
+**Verificación:** solo lectura de código (`GuidePageView.tsx`, `ProductCard.tsx`, las 2 rutas de guía) + `gsc.py rich-results` con datos reales. Sin cambios de código, nada que verificar con build.
+
+## Experimento: "precio en vivo" como gancho de clic contra citación sin conversión en AIO — 2026-11-20
+
+**Origen:** Juan planteó la objeción correcta sobre el diagnóstico del 19/11: que productosvirales aparezca citado como fuente en el AI Overview no sirve si nunca se traduce en un clic al link de afiliado. Verifiqué en vivo (Google, `gl=ar&hl=es`) dos de las queries con más pérdida de clicks: "cual es el mejor ventilador de techo en argentina" y "cual es la mejor yogurtera en argentina". En ambas, productosvirales.com.ar aparece citado explícitamente (hasta 3 veces como fuente en la segunda), con el AIO dando modelo + precio + contras completos — respuesta que satisface la intención sin necesidad de clic.
+
+**Hallazgo sobre el sistema de cupones existente:** `CouponBadge` (ya integrado en `src/components/guides/ProductCard.tsx` y en fichas) no sirve como diferenciador contra el AIO: los cupones vencen el mismo día (23:59) y el cache del AIO tiene varios días de retraso, así que para cuando Google lo "lee" el cupón ya expiró. Desfasaje de frescura, no bug.
+
+**Lo que sí puede sobrevivir ese desfasaje:** decirle al lector explícitamente que el precio/stock que acaba de ver en cualquier respuesta (buscador o IA) puede estar desactualizado, y que el de la ficha es el de ahora. Es información que cambia seguido (no se puede cachear bien) y da una razón de clic que no es repetir lo que ya le dijeron.
+
+**Test aplicado:** callout nuevo en `ventilador-de-techo` (la guía con más clicks perdidos de las cruzadas), agregado después del trust-block de metodología, variante `update`: "Precio y stock, en vivo — El precio y la disponibilidad de cada producto se actualizan solos cuando entrás a su ficha, no quedan guardados de una revisión vieja. Si estás por comprar, confirmá el de hoy antes de decidirte: en MercadoLibre estos precios se mueven seguido." No toca título/H1/slug (la guía ya está en posición top, aplica la regla de no tocar esos tres campos). `updatedDate`/`sitemapLastmod` → 2026-11-20.
+
+**Por qué no pasó por trío-auditor:** es un cambio de una sola línea, de bajo riesgo, reversible, en una guía que no está en ventana de observación. Se reserva el trío para reescrituras sustanciales.
+
+**Verificación:** `npx tsc --noEmit` limpio, `npm run guides:check` (8 scripts) en verde, `npm run build` OK.
+
+**Plan:** si en ~2-3 semanas el CTR de `ventilador-de-techo` mejora relativo al resto del sitio, replicar el mismo callout en `mejores-freidoras-de-aire-argentina` y `yogurtera` (las otras dos guías con más clicks perdidos del cruce 14-16/11 vs 17-19/11). Re-medir: 2026-12-04 (2 semanas) como primer corte, confirmar o descartar junto con el diagnóstico agregado de Black Friday (27-28/11).
