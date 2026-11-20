@@ -12,6 +12,8 @@
  * Corre 1 vez por semana vía .github/workflows/digest-semanal.yml
  * (viernes 10am hora Argentina, decidido por Juan el 2026-10-24).
  *
+ * Diseño: template compartido en scripts/lib/email-brand.cjs.
+ *
  * DRY-RUN por defecto. Con --send envía. Con --preview escribe un HTML de
  * ejemplo a .cache/digest-preview.html sin tocar la base ni enviar nada.
  * Requiere en el env: RESEND_API_KEY, EMAIL_FROM, DATABASE_URL,
@@ -26,6 +28,7 @@
 const fs = require("fs");
 const path = require("path");
 const crypto = require("crypto");
+const { fmtPrice, truncateWords, productRow, renderShell, renderPlainText } = require("./lib/email-brand.cjs");
 
 const HISTORY_PATH = path.resolve("src/data/price-history.json");
 const CATALOG_PATH = path.resolve("src/data/curated-products.ts");
@@ -34,16 +37,9 @@ const FROM = process.env.EMAIL_FROM || "ProductosVirales <ofertas@productosviral
 const SEND = process.argv.includes("--send");
 const MAX_ITEMS = 6;
 const LOOKBACK_DAYS = 7;
-const FONT = "'Helvetica Neue',Helvetica,Arial,sans-serif";
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-function fmtPrice(n) {
-  return "$ " + Math.round(n).toLocaleString("es-AR");
-}
-function esc(s) {
-  return String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-}
 function unsubToken(email) {
   return crypto
     .createHmac("sha256", process.env.UNSUBSCRIBE_SECRET || "")
@@ -53,12 +49,6 @@ function unsubToken(email) {
 }
 function unsubUrl(email) {
   return `${SITE_URL}/api/unsubscribe?email=${encodeURIComponent(email)}&token=${unsubToken(email)}`;
-}
-function truncateWords(s, max) {
-  if (!s || s.length <= max) return s || "";
-  const cut = s.slice(0, max);
-  const sp = cut.lastIndexOf(" ");
-  return (sp > 20 ? cut.slice(0, sp) : cut).trim() + "…";
 }
 
 // title/image/affiliateUrl/rating por id, parseando el catálogo (.ts) — mismo
@@ -110,57 +100,30 @@ function weeklyDrop(id, points) {
   return { id, stored: first, scraped: current, pct };
 }
 
-function offerButton(link, label) {
-  const href = esc(link);
-  return `
-              <table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td align="left">
-                <!--[if mso]>
-                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="${href}" style="height:40px;v-text-anchor:middle;width:170px;" arcsize="50%" strokecolor="#E11D63" fillcolor="#E11D63">
-                  <w:anchorlock/><center style="color:#ffffff;font-family:${FONT};font-size:14px;font-weight:bold;">${label}</center>
-                </v:roundrect>
-                <![endif]-->
-                <!--[if !mso]><!-- -->
-                <a href="${href}" target="_blank" style="display:inline-block;background:#E11D63;color:#ffffff;text-decoration:none;font-family:${FONT};font-size:14px;font-weight:600;line-height:40px;padding:0 24px;border-radius:9999px;">${label}</a>
-                <!--<![endif]-->
-              </td></tr></table>`;
-}
-
-function ratingHtml(c) {
-  if (!c || !c.rating) return "";
-  const rev = c.reviewCount ? ` <span style="color:#c9c9c9;">(${c.reviewCount.toLocaleString("es-AR")})</span>` : "";
-  return `<div style="font-family:${FONT};font-size:13px;color:#666666;margin-top:3px;">&#9733; ${c.rating.toFixed(1)}${rev}</div>`;
-}
-
-function productRow(d, cat, isFirst, isLast) {
-  const c = cat[d.id.toUpperCase()] || {};
-  const href = esc(offerLink(d.id, cat));
-  const off = Math.abs(d.pct);
-  const thumb = c.image
-    ? `<img src="${esc(c.image)}" width="72" height="72" alt="${esc(c.title)}" style="display:block;width:72px;height:72px;border-radius:12px;border:1px solid #eeeeee;background-color:#f4f4f2;" />`
-    : `<div style="width:72px;height:72px;border-radius:12px;background-color:#f4f4f2;border:1px solid #eeeeee;"></div>`;
-  return `
-        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="${isLast ? "" : "border-bottom:1px solid #eeeeee;"}">
-          <tr>
-            <td width="72" valign="top" style="padding:22px 0;">
-              <a href="${href}" target="_blank"><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td width="72" height="72" bgcolor="#f4f4f2" style="background-color:#f4f4f2;border-radius:12px;">${thumb}</td></tr></table></a>
-            </td>
-            <td valign="top" style="padding:22px 0 22px 16px;">
-              ${isFirst ? `<div style="font-family:${FONT};font-size:11px;font-weight:700;color:#e11d63;letter-spacing:.05em;text-transform:uppercase;margin-bottom:5px;">La baja más grande de la semana</div>` : ""}
-              <a href="${href}" target="_blank" style="font-family:${FONT};font-size:16px;font-weight:600;color:#111111;line-height:1.3;text-decoration:none;">${esc(c.title || d.id)}</a>
-              ${ratingHtml(c)}
-              <div style="font-family:${FONT};font-size:15px;color:#111111;margin:9px 0 15px;">
-                <span style="text-decoration:line-through;color:#999999;">${fmtPrice(d.stored)}</span>
-                &nbsp;<strong style="font-size:18px;">${fmtPrice(d.scraped)}</strong>
-                &nbsp;<span style="background-color:#fce7f0;color:#e11d63;font-size:12px;font-weight:700;padding:3px 8px;border-radius:10px;white-space:nowrap;">-${off}%</span>
-              </div>${offerButton(href, "Ver precio actual")}
-            </td>
-          </tr>
-        </table>`;
-}
-
 function subject(shown) {
   const top = shown[0];
-  return top ? `Esta semana bajó: ${truncateWords((top.title || top.id), 40)}` : "Las bajas de precio de la semana";
+  return top ? `Esta semana bajó: ${truncateWords(top.title || top.id, 40)}` : "Las bajas de precio de la semana";
+}
+
+function dropRowsHtml(drops, cat) {
+  return drops
+    .map((d, i) => {
+      const c = cat[d.id.toUpperCase()] || {};
+      return productRow({
+        title: c.title || d.id,
+        href: offerLink(d.id, cat),
+        image: c.image,
+        rating: c,
+        stored: d.stored,
+        scraped: d.scraped,
+        pct: d.pct,
+        isFirst: i === 0,
+        isLast: i === drops.length - 1,
+        heroLabel: "La baja más grande de la semana",
+        ctaLabel: "Ver precio actual",
+      });
+    })
+    .join("");
 }
 
 function emailHtml(shown, cat, email) {
@@ -169,40 +132,31 @@ function emailHtml(shown, cat, email) {
   const preheader = top
     ? `${truncateWords(topTitle, 44)} quedó en ${fmtPrice(top.scraped)}. Los precios pueden cambiar.`
     : "Repaso semanal de precios en MercadoLibre.";
-  return `<!DOCTYPE html>
-<html lang="es" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
-<head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
-<meta name="x-apple-disable-message-reformatting">
-<meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark">
-<title>Repaso semanal de precios — ProductosVirales</title>
-</head>
-<body style="margin:0;padding:0;background-color:#f8f8f6;font-family:${FONT};">
-  <div style="display:none;max-height:0;overflow:hidden;mso-hide:all;color:#f8f8f6;font-size:1px;line-height:1px;">${esc(preheader)}</div>
-  <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#f8f8f6;">
-    <tr><td align="center" style="padding:40px 12px;">
-      <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="width:100%;max-width:600px;background-color:#ffffff;border:1px solid #eeeeee;border-radius:20px;">
-        <tr><td align="center" style="padding:34px 40px 6px;">
-          <span style="font-family:${FONT};font-size:22px;font-weight:800;color:#111111;letter-spacing:-.03em;">productos<span style="background-color:#fce7f0;color:#e11d63;padding:3px 11px;border-radius:9999px;margin-left:4px;">virales</span></span>
-        </td></tr>
-        <tr><td align="left" style="padding:18px 40px 2px;">
-          <h1 style="margin:0;font-family:${FONT};font-size:23px;font-weight:700;color:#111111;letter-spacing:-.02em;line-height:1.25;">Las bajas de precio de la semana</h1>
-          <p style="margin:10px 0 4px;font-family:${FONT};font-size:15px;color:#666666;line-height:1.55;">Seguimos el precio real en MercadoLibre. Esto es lo que bajó de verdad en los últimos 7 días — el precio puede cambiar, confirmalo en el link.</p>
-        </td></tr>
-        <tr><td style="padding:6px 40px 0;">${shown.map((d, i) => productRow(d, cat, i === 0, i === shown.length - 1)).join("")}</td></tr>
-      </table>
-      <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="width:100%;max-width:600px;">
-        <tr><td align="center" style="padding:26px 24px 8px;font-family:${FONT};font-size:13px;color:#737373;line-height:1.6;">
-          <span style="color:#737373;">Ganamos una comisión si comprás por los links — no te cambia el precio.</span><br>
-          <a href="${SITE_URL}/privacidad" style="color:#737373;text-decoration:underline;">Privacidad</a>
-          &nbsp;·&nbsp;
-          <a href="${unsubUrl(email)}" style="color:#737373;text-decoration:underline;">Cancelar suscripción</a>
-        </td></tr>
-      </table>
-    </td></tr>
-  </table>
-</body>
-</html>`;
+  return renderShell({
+    title: "Las bajas de precio de la semana",
+    kicker: null,
+    intro: "Seguimos el precio real en MercadoLibre. Esto es lo que bajó de verdad en los últimos 7 días — el precio puede cambiar, confirmalo en el link.",
+    trustLine: "Calculado con el historial de precios de los últimos 7 días",
+    rowsHtml: dropRowsHtml(shown, cat),
+    moreLineHtml: null,
+    preheader,
+    siteUrl: SITE_URL,
+    email,
+    unsubUrl: unsubUrl(email),
+  });
+}
+
+function emailText(shown, cat, email) {
+  return renderPlainText({
+    title: "Las bajas de precio de la semana",
+    introText: "Seguimos el precio real en MercadoLibre. Esto es lo que bajó de verdad en los últimos 7 días en productosvirales.com.ar — confirmá el precio en el link antes de comprar.",
+    items: shown.map((d) => {
+      const c = cat[d.id.toUpperCase()] || {};
+      return { title: c.title || d.id, href: offerLink(d.id, cat), stored: d.stored, scraped: d.scraped, pct: d.pct };
+    }),
+    siteUrl: SITE_URL,
+    unsubUrl: unsubUrl(email),
+  });
 }
 
 function computeWeeklyDrops() {
@@ -229,9 +183,12 @@ async function main() {
     const drops = computeWeeklyDrops().slice(0, MAX_ITEMS);
     const cat = catalogLookup(new Set(drops.map((d) => d.id.toUpperCase())));
     const out = path.resolve(".cache/digest-preview.html");
+    const outTxt = path.resolve(".cache/digest-preview.txt");
     fs.mkdirSync(path.dirname(out), { recursive: true });
-    fs.writeFileSync(out, emailHtml(drops.length > 0 ? drops : [], cat, "vos@ejemplo.com"));
-    console.log(`[digest] preview -> ${out} (${drops.length} bajas reales encontradas)`);
+    const shown = drops.length > 0 ? drops : [];
+    fs.writeFileSync(out, emailHtml(shown, cat, "vos@ejemplo.com"));
+    fs.writeFileSync(outTxt, emailText(shown, cat, "vos@ejemplo.com"));
+    console.log(`[digest] preview -> ${out} (y ${outTxt}) (${drops.length} bajas reales encontradas)`);
     return;
   }
 
@@ -266,7 +223,6 @@ async function main() {
 
   const { Resend } = require("resend");
   const resend = new Resend(process.env.RESEND_API_KEY);
-  const html = emailHtml(shown, cat, "");
   const subj = subject(shown.map((d) => ({ ...d, title: (cat[d.id.toUpperCase()] || {}).title })));
 
   let sent = 0;
@@ -285,6 +241,7 @@ async function main() {
           to: email,
           subject: subj,
           html: emailHtml(shown, cat, email),
+          text: emailText(shown, cat, email),
           headers: {
             "List-Unsubscribe": `<${unsubUrl(email)}>`,
             "List-Unsubscribe-Post": "List-Unsubscribe=One-Click",

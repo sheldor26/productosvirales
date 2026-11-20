@@ -11,17 +11,30 @@
  * Anti-duplicados: no reenvía una (email, producto, precio) ya avisada (tabla
  * sent_price_alerts) — cubre re-ejecuciones/reintentos y PRs sin mergear.
  *
+ * Diseño: template compartido en scripts/lib/email-brand.cjs (ver ese archivo
+ * para el porqué del rediseño 2026-11-20 y la nota sobre autenticación de
+ * dominio, que es lo que de verdad define si cae en Spam).
+ *
  * DRY-RUN por defecto. Con --send envía. Requiere en el env:
  *   RESEND_API_KEY, EMAIL_FROM, DATABASE_URL, UNSUBSCRIBE_SECRET, (SITE_URL opcional)
  *
  * Uso:
  *   node scripts/notify-price-drops-email.cjs            # dry-run
+ *   node scripts/notify-price-drops-email.cjs --preview  # HTML de ejemplo local
  *   node scripts/notify-price-drops-email.cjs --send     # envía
  */
 
 const fs = require("fs");
 const path = require("path");
 const crypto = require("crypto");
+const {
+  esc,
+  fmtPrice,
+  truncateWords,
+  productRow,
+  renderShell,
+  renderPlainText,
+} = require("./lib/email-brand.cjs");
 
 const DROPS_PATH = path.resolve(".cache/pending-price-drops.json");
 const CATALOG_PATH = path.resolve("src/data/curated-products.ts");
@@ -33,12 +46,6 @@ const CTA_LABEL = "Ver precio actual"; // honesto (no promete oferta) y menos sp
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-function fmtPrice(n) {
-  return "$ " + Math.round(n).toLocaleString("es-AR");
-}
-function esc(s) {
-  return String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-}
 function unsubToken(email) {
   return crypto
     .createHmac("sha256", process.env.UNSUBSCRIBE_SECRET || "")
@@ -83,15 +90,6 @@ function offerLink(id, cat) {
   return c.affiliateUrl || `${SITE_URL}/producto/${id.toLowerCase()}`;
 }
 
-const FONT = "'Helvetica Neue',Helvetica,Arial,sans-serif";
-
-function truncateWords(s, max) {
-  if (!s || s.length <= max) return s || "";
-  const cut = s.slice(0, max);
-  const sp = cut.lastIndexOf(" ");
-  return (sp > 20 ? cut.slice(0, sp) : cut).trim() + "…";
-}
-
 function dateLabelEs(iso) {
   const d = iso ? new Date(iso + "T12:00:00") : new Date();
   try {
@@ -101,58 +99,24 @@ function dateLabelEs(iso) {
   }
 }
 
-// Botón pill "bulletproof": VML para Outlook, <a> con bgcolor para el resto.
-function offerButton(link, label) {
-  const href = esc(link);
-  return `
-              <table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td align="left">
-                <!--[if mso]>
-                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="${href}" style="height:40px;v-text-anchor:middle;width:170px;" arcsize="50%" strokecolor="#E11D63" fillcolor="#E11D63">
-                  <w:anchorlock/><center style="color:#ffffff;font-family:${FONT};font-size:14px;font-weight:bold;">${label}</center>
-                </v:roundrect>
-                <![endif]-->
-                <!--[if !mso]><!-- -->
-                <a href="${href}" target="_blank" style="display:inline-block;background:#E11D63;color:#ffffff;text-decoration:none;font-family:${FONT};font-size:14px;font-weight:600;line-height:40px;padding:0 24px;border-radius:9999px;">${label}</a>
-                <!--<![endif]-->
-              </td></tr></table>`;
-}
-
-// Rating honesto (dato real del catálogo). Estrella unicode, no emoji.
-function ratingHtml(c) {
-  if (!c || !c.rating) return "";
-  const rev = c.reviewCount ? ` <span style="color:#c9c9c9;">(${c.reviewCount.toLocaleString("es-AR")})</span>` : "";
-  return `<div class="muted" style="font-family:${FONT};font-size:13px;color:#666666;margin-top:3px;">&#9733; ${c.rating.toFixed(1)}${rev}</div>`;
-}
-
-function productRow(d, cat, isHero, isLast) {
-  const c = cat[d.id.toUpperCase()] || {};
-  const href = esc(offerLink(d.id, cat));
-  const off = Math.abs(d.pct);
-  const thumb = c.image
-    ? `<img src="${esc(c.image)}" width="72" height="72" alt="${esc(d.title)}" style="display:block;width:72px;height:72px;border-radius:12px;border:1px solid #eeeeee;background-color:#f4f4f2;" />`
-    : `<div style="width:72px;height:72px;border-radius:12px;background-color:#f4f4f2;border:1px solid #eeeeee;"></div>`;
-  return `
-        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="row" style="${isLast ? "" : "border-bottom:1px solid #eeeeee;"}">
-          <tr>
-            <td width="72" valign="top" style="padding:22px 0;">
-              <a href="${href}" target="_blank"><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td width="72" height="72" bgcolor="#f4f4f2" style="background-color:#f4f4f2;border-radius:12px;">${thumb}</td></tr></table></a>
-            </td>
-            <td valign="top" style="padding:22px 0 22px 16px;">
-              ${isHero ? `<div style="font-family:${FONT};font-size:11px;font-weight:700;color:#e11d63;letter-spacing:.05em;text-transform:uppercase;margin-bottom:5px;">Mejor bajada de hoy</div>` : ""}
-              <a href="${href}" target="_blank" class="text-main" style="font-family:${FONT};font-size:16px;font-weight:600;color:#111111;line-height:1.3;text-decoration:none;">${esc(d.title)}</a>
-              ${ratingHtml(c)}
-              <div class="text-main" style="font-family:${FONT};font-size:15px;color:#111111;margin:9px 0 15px;">
-                <span class="muted" style="text-decoration:line-through;color:#999999;">${fmtPrice(d.stored)}</span>
-                &nbsp;<strong style="font-size:18px;">${fmtPrice(d.scraped)}</strong>
-                &nbsp;<span class="chip" style="background-color:#fce7f0;color:#e11d63;font-size:12px;font-weight:700;padding:3px 8px;border-radius:10px;white-space:nowrap;">-${off}%</span>
-              </div>${offerButton(offerLink(d.id, cat), CTA_LABEL)}
-            </td>
-          </tr>
-        </table>`;
-}
-
 function dropRowsHtml(drops, cat) {
-  return drops.map((d, i) => productRow(d, cat, i === 0, i === drops.length - 1)).join("");
+  return drops
+    .map((d, i) =>
+      productRow({
+        title: d.title,
+        href: offerLink(d.id, cat),
+        image: (cat[d.id.toUpperCase()] || {}).image,
+        rating: cat[d.id.toUpperCase()],
+        stored: d.stored,
+        scraped: d.scraped,
+        pct: d.pct,
+        isFirst: i === 0,
+        isLast: i === drops.length - 1,
+        heroLabel: "Mejor bajada de hoy",
+        ctaLabel: CTA_LABEL,
+      })
+    )
+    .join("");
 }
 
 // Asunto tipo ALERTA (no promo): sin "%", sin "oferta", sin emoji.
@@ -169,58 +133,33 @@ function emailHtml(shown, cat, email, totalFresh, dateIso) {
     ? `${truncateWords(top.title, 44)} quedó en ${fmtPrice(top.scraped)}. Los precios pueden cambiar.`
     : "Nuevas bajas de precio en MercadoLibre.";
   const moreCount = totalFresh - shown.length;
-  const moreLine =
+  const moreLineHtml =
     moreCount > 0
-      ? `<tr><td align="center" style="padding:6px 40px 30px;"><a href="${SITE_URL}" class="muted" style="font-family:${FONT};font-size:14px;color:#666666;text-decoration:underline;">Ver las ${moreCount} baja${moreCount > 1 ? "s" : ""} restantes</a></td></tr>`
-      : `<tr><td style="padding:0 0 10px;"></td></tr>`;
-  return `<!DOCTYPE html>
-<html lang="es" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
-<head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
-<meta name="x-apple-disable-message-reformatting">
-<meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark">
-<title>Alertas de precio — ProductosVirales</title>
-<style>
-  body{margin:0;padding:0;width:100%!important;-webkit-font-smoothing:antialiased;}
-  a{text-decoration:none;}
-  @media (prefers-color-scheme: dark){
-    .body-bg{background-color:#0c0c18!important;}
-    .card{background-color:#16162a!important;border-color:rgba(255,255,255,.10)!important;}
-    .text-main{color:#e8e8ec!important;}
-    .muted{color:#9a9aa5!important;}
-    .row{border-color:rgba(255,255,255,.10)!important;}
-    .chip{background-color:#3a1830!important;color:#ff8ab8!important;}
-  }
-</style>
-</head>
-<body class="body-bg" style="margin:0;padding:0;background-color:#f8f8f6;font-family:${FONT};">
-  <div style="display:none;max-height:0;overflow:hidden;mso-hide:all;color:#f8f8f6;font-size:1px;line-height:1px;">${esc(preheader)}</div>
-  <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="body-bg" style="background-color:#f8f8f6;">
-    <tr><td align="center" style="padding:40px 12px;">
-      <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" class="card" style="width:100%;max-width:600px;background-color:#ffffff;border:1px solid #eeeeee;border-radius:20px;">
-        <tr><td align="center" style="padding:34px 40px 6px;">
-          ${dLabel ? `<div class="muted" style="font-family:${FONT};font-size:11px;font-weight:700;color:#999999;letter-spacing:.1em;text-transform:uppercase;margin-bottom:8px;">${esc(dLabel)}</div>` : ""}
-          <span class="text-main" style="font-family:${FONT};font-size:22px;font-weight:800;color:#111111;letter-spacing:-.03em;">productos<span style="background-color:#fce7f0;color:#e11d63;padding:3px 11px;border-radius:9999px;margin-left:4px;">virales</span></span>
-        </td></tr>
-        <tr><td align="left" style="padding:18px 40px 2px;">
-          <h1 class="text-main" style="margin:0;font-family:${FONT};font-size:23px;font-weight:700;color:#111111;letter-spacing:-.02em;line-height:1.25;">Encontramos ${totalFresh} baja${totalFresh > 1 ? "s" : ""} de precio</h1>
-          <p class="muted" style="margin:10px 0 4px;font-family:${FONT};font-size:15px;color:#666666;line-height:1.55;">Recibís esta alerta porque pediste seguir bajas de precio. Estas bajaron hoy en MercadoLibre — el precio puede cambiar, confirmalo en el link.</p>
-        </td></tr>
-        <tr><td style="padding:6px 40px 0;">${dropRowsHtml(shown, cat)}</td></tr>
-        ${moreLine}
-      </table>
-      <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="width:100%;max-width:600px;">
-        <tr><td align="center" style="padding:26px 24px 8px;font-family:${FONT};font-size:13px;color:#737373;line-height:1.6;">
-          <span class="muted" style="color:#737373;">Ganamos una comisión si comprás por los links — no te cambia el precio.</span><br>
-          <a href="${SITE_URL}/privacidad" class="muted" style="color:#737373;text-decoration:underline;">Privacidad</a>
-          &nbsp;·&nbsp;
-          <a href="${unsubUrl(email)}" class="muted" style="color:#737373;text-decoration:underline;">Cancelar suscripción</a>
-        </td></tr>
-      </table>
-    </td></tr>
-  </table>
-</body>
-</html>`;
+      ? `<tr><td align="center" style="padding:8px 40px 28px;"><a href="${SITE_URL}" class="muted" style="font-family:inherit;font-size:14px;color:#6B7280;text-decoration:underline;">Ver las ${moreCount} baja${moreCount > 1 ? "s" : ""} restantes</a></td></tr>`
+      : null;
+  return renderShell({
+    title: `Encontramos ${totalFresh} baja${totalFresh > 1 ? "s" : ""} de precio`,
+    kicker: dLabel || null,
+    intro: "Recibís esta alerta porque pediste seguir bajas de precio. Estas bajaron hoy en MercadoLibre — el precio puede cambiar, confirmalo en el link.",
+    trustLine: "Precios tomados de MercadoLibre hoy",
+    rowsHtml: dropRowsHtml(shown, cat),
+    moreLineHtml,
+    preheader,
+    siteUrl: SITE_URL,
+    email,
+    unsubUrl: unsubUrl(email),
+  });
+}
+
+function emailText(shown, cat, totalFresh, email) {
+  return renderPlainText({
+    title: `Encontramos ${totalFresh} baja${totalFresh > 1 ? "s" : ""} de precio`,
+    introText: "Recibís esta alerta porque pediste seguir bajas de precio en productosvirales.com.ar. El precio puede cambiar, confirmalo en el link antes de comprar.",
+    items: shown.map((d) => ({ title: d.title, href: offerLink(d.id, cat), stored: d.stored, scraped: d.scraped, pct: d.pct })),
+    siteUrl: SITE_URL,
+    unsubUrl: unsubUrl(email),
+    moreCount: totalFresh - shown.length,
+  });
 }
 
 async function getSubscribers(sql) {
@@ -271,9 +210,11 @@ async function main() {
     }
     const cat = catalogLookup(new Set(sample.map((s) => s.id.toUpperCase())));
     const out = path.resolve(".cache/email-preview.html");
+    const outTxt = path.resolve(".cache/email-preview.txt");
     fs.mkdirSync(path.dirname(out), { recursive: true });
-    fs.writeFileSync(out, emailHtml(sample, cat, "vos@ejemplo.com", 15, new Date().toISOString().slice(0,10)));
-    console.log("[email] preview -> " + out);
+    fs.writeFileSync(out, emailHtml(sample, cat, "vos@ejemplo.com", 15, new Date().toISOString().slice(0, 10)));
+    fs.writeFileSync(outTxt, emailText(sample, cat, 15, "vos@ejemplo.com"));
+    console.log("[email] preview -> " + out + " (y " + outTxt + ")");
     return;
   }
 
@@ -332,6 +273,7 @@ async function main() {
           to: email,
           subject: subject(shown, fresh.length),
           html: emailHtml(shown, cat, email, fresh.length, runDate),
+          text: emailText(shown, cat, fresh.length, email),
           headers: {
             "List-Unsubscribe": `<${unsubUrl(email)}>`,
             "List-Unsubscribe-Post": "List-Unsubscribe=One-Click",
