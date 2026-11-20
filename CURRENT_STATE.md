@@ -2568,3 +2568,10 @@ Causa encontrada en Observability → ISR (7d) por ruta: `/producto/[slug]` y `/
 Fix aplicado (bajo riesgo, aprobado por Juan): `prefetch={false}` en los 3 `<Link>` a guías que no lo tenían — `ArticleFooter.tsx:130` ("MÁS GUÍAS DE..."), `RelatedGuides.tsx:38` ("próximo paso", al pie de guías y fichas), `GuideRenderer.tsx:891` ("Enlazado interno"). El resto del repo ya usaba `prefetch={false}` consistentemente (~30 lugares); eran los 3 únicos que quedaron afuera. Cero impacto SEO (Google no ejecuta el prefetch, lee el href igual) y no toca `revalidate` de precios ni de guías. Build y lint verdes, sin tocar archivos preexistentes con errores de lint (unrelated: `use-recently-viewed.ts`, `use-saved-products.ts`).
 
 No tocado (fuera del fix de bajo riesgo): `revalidate=600` de la home (`src/app/page.tsx`) — es la ruta con más transferencia por request, pero está atada a la rotación de productos a propósito; subirlo es decisión de producto, no se aplicó. Pendiente: Juan decide si commitear/pushear y si vale la pena mirar la home como lever B.
+
+## 2026-11-20 — Vairo Twist Jump sin stock, reemplazada por la Glint Filmore en la guía de BMX
+
+- Chequeo diario de stock caro (novena corrida): una sola novedad, la Bicicleta Vairo Twist Jump BMX rodado 20 (MLAU5195401637) sin stock real. Marcada `deprioritized` / `out_of_stock`.
+- Ficha nueva: Glint Filmore rodado 20 (MLAU3606437109, NIVO BIKE tienda oficial, $373.972, 4,8 con 38 opiniones, +100 vendidos, `meli.la/17DS3TK`, `priceVerifiedAt` 2026-11-20). Imagen `-O.webp` verificada con GET (18 KB contra 1,9 KB de la miniatura).
+- Guía `bicicleta-bmx` (`updatedDate` 2026-11-20): la Glint entra en el puesto 2 por base de opiniones (la guía ordena por eso), Raleigh pasa al 3 y Haro al 4; se corrigieron las afirmaciones que dependían de la Vairo (peso máximo, altura, armado, precios). `npm run guides:check` pasa completo.
+- Sin commit ni push: queda para que Juan decida.

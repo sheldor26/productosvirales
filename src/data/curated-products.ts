@@ -7570,35 +7570,47 @@ No es para vos si entrenás en serio y esperás que te cuente bien las calorías
     // swap, mismo patrón que los demás swaps de esta tabla. Ojo además:
     // la nueva publicación mostraba "Últimas 3 unidades" al verificar, así
     // que puede volver a quedarse sin stock pronto.
+    // Segundo swap, 2026-11-20: la publicación de la Tienda Oficial de Amazfit
+    // (MLAU3057849931) quedó sin stock ("Este producto no está disponible",
+    // sin botón de compra; se había avisado "Últimas 3 unidades" el 7/11).
+    // Reemplazo: MLAU5524572791 "Size 10 A2321 - Titanio", mismo modelo (A2321)
+    // y mismo talle (10, verificado en la ficha: "Talle: 10"), con stock real
+    // ("5 disponibles", botón de compra y de carrito) y envío gratis. OJO,
+    // cambios grandes: es un revendedor (LO VEO Y LO TENGO, +50 ventas,
+    // devolución gratis 30 días), no la tienda oficial; el precio sube de
+    // $332.098 a $605.061 (+82%); la publicación todavía no tiene
+    // valoraciones propias y la foto es de un anillo color champán. El
+    // `rating`/`reviewCount` que quedan son los de la publicación oficial
+    // anterior (mismo modelo) y la prosa lo aclara. Swap aplicado a pedido de
+    // Juan el 2026-11-20 sabiendo la diferencia de precio.
+    // permalink de la publicación oficial anterior: "https://www.mercadolibre.com.ar/anillo-inteligente-amazfit-helio-ring-ultraligero-375g-fit/up/MLAU3057849931" (meli.la/285myYw)
     // permalink viejo: "https://www.mercadolibre.com.ar/p/MLA58202122"
     id: "MLA58202122",
     title: "Anillo Inteligente Amazfit Helio Ring Titanio Talle 10",
     canonicalName: "Amazfit Helio Ring",
     brand: "Amazfit",
-    price: 332098,
+    price: 605061,
     currency: "ARS",
-    image: "https://http2.mlstatic.com/D_NQ_NP_620611-MLA108915566170_032026-O.webp",
+    image: "https://http2.mlstatic.com/D_NQ_NP_927112-MLA119863723229_102026-O.webp",
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_620611-MLA108915566170_032026-O.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_923942-MLA109741586415_032026-O.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_929698-MLA108915508460_032026-O.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_940145-MLA108915800844_032026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_927112-MLA119863723229_102026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_890086-MLA119863249789_102026-O.webp",
     ],
     category: "Tech",
     categorySlug: "tech",
-    permalink: "https://www.mercadolibre.com.ar/anillo-inteligente-amazfit-helio-ring-ultraligero-375g-fit/up/MLAU3057849931",
-    affiliateUrl: "https://meli.la/285myYw",
+    permalink: "https://www.mercadolibre.com.ar/anillo-amazfit-helio-ring-size-10--a2321--titanio/up/MLAU5524572791",
+    affiliateUrl: "https://meli.la/2Q3tCYx",
     condition: "new",
-    freeShipping: false,
+    freeShipping: true,
     rating: 4.7,
     reviewCount: 9,
     reviewsSampledAt: "2026-11-07",
-    soldQuantity: 50,
+    soldQuantity: 0,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
-    priceUpdated: "2026-11-07",
-    priceLastChecked: "2026-11-11",
-    priceVerifiedAt: "2026-11-07",
+    priceUpdated: "2026-11-20",
+    priceLastChecked: "2026-11-20",
+    priceVerifiedAt: "2026-11-20",
     priceStatus: "fresh",
     seoTitle: "Amazfit Helio Ring: sin suscripción, pero solo 3 talles",
     metaDescription: "Amazfit Helio Ring a {{precio:MLA58202122}}: titanio, 10 ATM y sin suscripción. Solo existe en talles 8, 10 y 12, y la batería real que reporta un comprador.",
@@ -7608,7 +7620,7 @@ No es para vos si entrenás en serio y esperás que te cuente bien las calorías
       "8 de las 15 más útiles están firmadas en Argentina, contra ninguna del Oura Ring 4, donde las 15 son de Colombia",
       "Resistencia al agua de 10 ATM y titanio, con 3,75 g en el talle 10 y 2,6 mm de espesor según Amazfit",
       "Mide pulso, oxígeno en sangre, temperatura de la piel y estrés por respuesta de la piel, más acelerómetro y giroscopio",
-      "{{rating:MLA58202122}} estrellas en {{reviews:MLA58202122}} calificaciones, y comparte la app con los relojes de la marca, así que se puede combinar con un Amazfit de muñeca",
+      "Comparte la app con los relojes de la marca, así que se puede combinar con un Amazfit de muñeca. La publicación actual todavía no tiene calificaciones propias; el modelo tenía {{rating:MLA58202122}} estrellas en {{reviews:MLA58202122}} calificaciones en la publicación oficial anterior",
     ],
     cons: [
       "**Solo existe en tres talles: 8, 10 y 12.** Es la limitación más seria de este anillo. El Oura Ring 4 va del 4 al 15",
@@ -7620,7 +7632,7 @@ No es para vos si entrenás en serio y esperás que te cuente bien las calorías
     verdict: "Es el punto medio razonable de los dos anillos con stock real hoy en Argentina: paga una sola vez, tiene 10 ATM y sensores bien documentados, y 8 de las 15 más útiles están firmadas en el país. El problema es el talle: solo existe en 8, 10 y 12, y un comprador avisa que el más chico igual le quedó grande. Si tu medida no cae en esos tres números, la alternativa con más talles (el Oura Ring 4) está sin stock local al momento de escribir esto.",
     articleBody: `## Qué es el Amazfit Helio Ring
 
-Es el anillo inteligente de Amazfit, la marca de relojes deportivos: titanio, 10 ATM de resistencia al agua y 3,75 g en el talle 10, sin pantalla, con todo el detalle en la app del celular. Cuesta {{precio:MLA58202122}} y tiene {{reviews:MLA58202122}} calificaciones con {{rating:MLA58202122}} estrellas en MercadoLibre Argentina.
+Es el anillo inteligente de Amazfit, la marca de relojes deportivos: titanio, 10 ATM de resistencia al agua y 3,75 g en el talle 10, sin pantalla, con todo el detalle en la app del celular. Cuesta {{precio:MLA58202122}} en MercadoLibre Argentina. Ojo con dos cosas: se vende hoy a través de un revendedor, porque la publicación de la tienda oficial de Amazfit se quedó sin stock, y esta publicación todavía no tiene calificaciones propias (la oficial anterior tenía {{rating:MLA58202122}} estrellas en {{reviews:MLA58202122}} calificaciones).
 
 ## La diferencia que más plata te ahorra: no cobra suscripción
 
@@ -7650,7 +7662,7 @@ Para deporte, tiene un límite concreto que también sale de las reseñas: "para
 
 ## Opiniones argentinas en 8 de las 15 más útiles
 
-Vale la pena decirlo porque es raro en este rubro: de las 15 opiniones más útiles de esta publicación, **8 están firmadas en Argentina** y 7 en Brasil. En el Oura Ring 4, en cambio, las 15 más útiles son todas de otros países.
+Vale la pena decirlo porque es raro en este rubro: de las 15 opiniones más útiles de la publicación oficial anterior de este mismo modelo, **8 están firmadas en Argentina** y 7 en Brasil. En el Oura Ring 4, en cambio, las 15 más útiles son todas de otros países.
 
 Cuando una categoría recién arranca en el país, tener reseñas locales cambia bastante lo que podés confiar de la experiencia de compra, la entrega y el soporte.
 
@@ -122545,13 +122557,13 @@ const curatedProductsBicicletaBmx: Product[] = [
     ],
     cons: [
       "Componentes de entrada: la ficha dice \"acero\" sin aclarar el tipo, llantas simple pared y pedales de plástico",
-      "Peso máximo de 90 kg, el más bajo entre las BMX que declaran ese dato (la Vairo no lo informa)",
+      "Peso máximo de 90 kg, por debajo de los 100 kg de la Raleigh y la Haro (la Glint declara solo 48 kg, pero es para chicos y adolescentes)",
       "Requiere armado y no incluye manual, según la ficha",
       "El peso de la bici no es un dato firme: la ficha mostró 10 kg en una lectura y 12 kg en otra del selector de variante",
       "No es la tienda oficial de Fire Bird, y al revisarla quedaban \"Últimas 5 unidades\"",
       "El precio de \"antes\" que muestra la publicación lo pone el vendedor: tomar el descuento como referencia",
     ],
-    verdict: "Es la BMX rodado 20 para la mayoría: la de más respaldo de opiniones de la comparativa y la más barata de las BMX reales. Sus componentes son de entrada y su peso máximo (90 kg) es el más bajo entre las BMX que lo declaran, y llega para armar sin manual.",
+    verdict: "Es la BMX rodado 20 para la mayoría: la de más respaldo de opiniones de la comparativa y la más barata de las BMX reales. Sus componentes son de entrada y su peso máximo (90 kg) queda por debajo de los 100 kg de la Raleigh y la Haro, y llega para armar sin manual.",
     specs: [
       { label: "Marca", value: "Fire Bird" },
       { label: "Modelo", value: "Freestyle" },
@@ -122572,7 +122584,80 @@ const curatedProductsBicicletaBmx: Product[] = [
       { label: "Es plegable", value: "No" },
       { label: "Vendedor", value: "PLAYDAYPACHECO, MercadoLíder (+10 mil ventas), no es tienda oficial" },
     ],
-    relatedProducts: ["MLA69932810", "MLAU3991857970", "MLAU5195401637", "MLA18604157"],
+    relatedProducts: ["MLA69932810", "MLAU3991857970", "MLAU3606437109", "MLA18604157"],
+  },
+  {
+    id: "MLAU3606437109",
+    title: "Bicicleta Bmx Glint Filmore Rodado 20 Freestyle",
+    canonicalName: "Bicicleta BMX Glint Filmore rodado 20 (negra)",
+    brand: "Glint",
+    price: 373972,
+    originalPrice: 406492,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_833819-MLA117760498879_092026-O.webp",
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-bmx-glint-filmore-rodado-20-freestyle/up/MLAU3606437109",
+    affiliateUrl: "https://meli.la/17DS3TK",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 38,
+    reviewsSampledAt: "2026-11-20",
+    soldQuantity: 100,
+    visibility: "normal",
+    priceUpdated: "2026-11-20",
+    priceLastChecked: "2026-11-20",
+    priceVerifiedAt: "2026-11-20",
+    priceStatus: "fresh",
+    description: "BMX rodado 20 de una velocidad con cuadro y horquilla de acero Hi-ten, llantas de doble pared, cubiertas Compass de 20 x 2,40\" y freno U-brake solo atrás, según la ficha y la descripción del vendedor. Declara un peso máximo de 48 kg y una altura recomendada de 1,18 a 1,6 m, así que es una BMX para chicos y adolescentes más que para adultos. La vende la tienda oficial NIVO BIKE.",
+    pros: [
+      "Base de opiniones sólida para una BMX de esta gama: {{rating:MLAU3606437109}} estrellas en {{reviews:MLAU3606437109}} opiniones y +100 vendidos al revisarla el 20 de noviembre de 2026",
+      "Llantas de doble pared y cubiertas Compass de 20 x 2,40\", según la descripción del vendedor",
+      "Declara para quién es: altura recomendada de 1,18 a 1,6 m y peso máximo de 48 kg",
+      "La ficha dice que no requiere armado",
+      "Peso declarado de 11 kg",
+      "Vendida por la tienda oficial NIVO BIKE, con devolución gratis por 30 días y garantía del vendedor de 2 meses",
+    ],
+    cons: [
+      "Peso máximo de 48 kg, el más bajo de las BMX rodado 20 de la comparativa: pensada para chicos y adolescentes, no para adultos",
+      "Freno solo atrás (U-brake) según la ficha. Una opinión de 4 estrellas cuenta que el freno se aflojaba, era complicado de regular y terminó sacándolo",
+      "Cuadro y horquilla de acero Hi-ten, el más básico de los aceros que se usan en BMX",
+      "No incluye manual de ensamblado, según la ficha",
+      "El precio de \"antes\" que muestra la publicación (8% OFF) lo pone el vendedor: tomarlo como referencia",
+      "Las cinco opiniones que leímos el 20 de noviembre de 2026 son una muestra chica de las {{reviews:MLAU3606437109}}: cuatro de 5 estrellas y una de 4, que es la que menciona el freno",
+    ],
+    verdict: "Es la BMX rodado 20 para un chico o adolescente (hasta 48 kg y de 1,18 a 1,6 m) que quiere una bici lista para andar y con más respaldo de opiniones que la Raleigh Jump X1 o la Haro Leucadia. Trae freno solo atrás, cuadro de acero Hi-ten y soporta solo 48 kg: no es para un adulto.",
+    specs: [
+      { label: "Marca", value: "Glint" },
+      { label: "Modelo", value: "Filmore BMX" },
+      { label: "Tipo de bicicleta (ficha)", value: "BMX" },
+      { label: "Rodado", value: "20" },
+      { label: "Color", value: "Negro" },
+      { label: "Cuadro", value: "Acero Hi-ten, 20,5\" según la descripción (la ficha dice 20\")" },
+      { label: "Horquilla (descripción)", value: "Acero" },
+      { label: "Frenos", value: "U-brake trasero; la ficha no declara freno delantero" },
+      { label: "Velocidades", value: "1" },
+      { label: "Llantas (descripción)", value: "Doble pared" },
+      { label: "Cubiertas (descripción)", value: "Compass 20 x 2,40\"" },
+      { label: "Pedales", value: "Plástico" },
+      { label: "Frente y manubrio (descripción)", value: "A-head 1 1/8\", stem Glint Top Load, manubrio de acero" },
+      { label: "Peso de la bici", value: "11 kg" },
+      { label: "Peso máximo soportado", value: "48 kg" },
+      { label: "Altura recomendada", value: "1,18 a 1,6 m" },
+      { label: "Armado", value: "No requiere según la ficha, no incluye manual" },
+      { label: "Es plegable", value: "No" },
+      { label: "Garantía", value: "2 meses, del vendedor" },
+      { label: "Vendedor", value: "Tienda oficial NIVO BIKE" },
+    ],
+    customerReviews: [
+      { rating: 5, date: "hace 2 meses", text: "Muy buena buena calidad estetica y muy buena relacion precio calidad.", useful: 5 },
+      { rating: 5, date: "hace 4 meses", text: "Exelente calidad.", useful: 3 },
+      { rating: 5, date: "hace 2 meses", text: "Excelente y hermosa.", useful: 2 },
+      { rating: 5, date: "hace 9 meses", text: "Muy buena bici mi hijo esta más que conforme le gusto mucho es resistente.", useful: 2 },
+      { rating: 4, date: "hace 10 meses", text: "Ideal para niños !! el freno se aflojaba, dsp quedaba muy ajustada. Complicado de regular, lo terminó sacando y frena con el pie.", useful: 2 },
+    ],
+    relatedProducts: ["MLA29339547", "MLA69932810", "MLAU3991857970", "MLA18604157"],
   },
   {
     id: "MLA18604157",
@@ -122635,7 +122720,7 @@ const curatedProductsBicicletaBmx: Product[] = [
       { label: "Armado", value: "Requiere armado, no incluye manual" },
       { label: "Vendedor", value: "Fas motos, tienda oficial (+100 mil ventas)" },
     ],
-    relatedProducts: ["MLA29339547", "MLA69932810", "MLAU3991857970", "MLAU5195401637"],
+    relatedProducts: ["MLA29339547", "MLA69932810", "MLAU3991857970", "MLAU3606437109"],
   },
   {
     id: "MLA69932810",
@@ -122695,7 +122780,7 @@ const curatedProductsBicicletaBmx: Product[] = [
       { label: "Es plegable", value: "No" },
       { label: "Vendedor", value: "Fas motos, no es tienda oficial de Raleigh" },
     ],
-    relatedProducts: ["MLA29339547", "MLAU3991857970", "MLAU5195401637", "MLA18604157"],
+    relatedProducts: ["MLA29339547", "MLAU3991857970", "MLAU3606437109", "MLA18604157"],
   },
   {
     id: "MLAU3991857970",
@@ -122758,8 +122843,14 @@ const curatedProductsBicicletaBmx: Product[] = [
       { label: "Armado", value: "No requiere armado, según la ficha" },
       { label: "Vendedor", value: "NIVO BIKE, tienda oficial (+5 mil ventas)" },
     ],
-    relatedProducts: ["MLA29339547", "MLA69932810", "MLAU5195401637", "MLA18604157"],
+    relatedProducts: ["MLA29339547", "MLA69932810", "MLAU3606437109", "MLA18604157"],
   },
+  // Vairo Twist Jump rodado 20 (Fas motos): deprioritized el 2026-11-20 por falta de stock real.
+  // Verificado en vivo: "Este producto no esta disponible", sin precio ni boton de compra, sin selector de
+  // variantes. El unico otro vendedor del mismo nombre (ChainReaction, MLAU3196568973, $498.000, ultima
+  // unidad) no declara los componentes que usaba esta ficha (cromoly, KMC, Tektro, doble pared), asi que no
+  // fue swap limpio. Reemplazada en la guia bicicleta-bmx por la Glint Filmore (MLAU3606437109).
+  // Ver docs/productos-sin-stock.md.
   {
     id: "MLAU5195401637",
     title: "Bicicleta Vairo Twist Jump Bmx Rod 20 Freestyle",
@@ -122779,10 +122870,10 @@ const curatedProductsBicicletaBmx: Product[] = [
     reviewCount: 6,
     reviewsSampledAt: "2026-11-12",
     soldQuantity: 5,
-    visibility: "normal",
+    visibility: "deprioritized",
     priceUpdated: "2026-11-13",
-    priceLastChecked: "2026-11-18",
-    priceStatus: "fresh",
+    priceLastChecked: "2026-11-20",
+    priceStatus: "out_of_stock",
     description: "BMX rodado 20 de una velocidad con horquilla cromoly, maza trasera flip-flop, cadena KMC Z-510, frenos Tektro, palancas de 3 piezas de 175 mm y llantas doble pared según el vendedor. La ficha la clasifica como tipo BMX pero su campo \"Edad\" dice \"Niños\", una contradicción de la propia publicación. No declara peso máximo, peso de la bici ni altura recomendada, y su base de opiniones es muy chica.",
     pros: [
       "Componentes de BMX de estilo libre según la descripción: horquilla cromoly, maza trasera flip-flop, cadena KMC Z-510 y frenos y levas Tektro",
