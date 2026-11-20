@@ -7369,4 +7369,194 @@ export const socialPosts: SocialPost[] = [
     offPct: "0",
     postedAt: "2026-11-13T16:37:45-03:00",
   },
+  {
+    title: "Monitor Gamer Samsung Odyssey G5 27\" QHD 165Hz Curvo",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_801812-MLA99982334521_112025-F.webp",
+    affiliateUrl: "https://meli.la/1AKBHiw",
+    newPrice: "589999",
+    oldPrice: "729999",
+    offPct: "19",
+    postedAt: "2026-11-13T19:21:47-03:00",
+  },
+  {
+    title: "Consola PS5 Digital + Astro Bot + Gran Turismo 7",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_762299-MLA96673496657_102025-F.webp",
+    affiliateUrl: "https://meli.la/2uDAPvb",
+    newPrice: "1599999",
+    oldPrice: "1599999",
+    offPct: "0",
+    postedAt: "2026-11-13T19:48:16-03:00",
+  },
+  {
+    title: "Notebook Lenovo LOQ Ryzen 7 RTX 4050 16GB 512GB 15.6\"",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_850177-MLA117082512279_092026-F.webp",
+    affiliateUrl: "https://meli.la/2o7WvqV",
+    newPrice: "2543454",
+    oldPrice: "2543454",
+    offPct: "0",
+    postedAt: "2026-11-13T20:13:59-03:00",
+  },
+  {
+    title: "Consola PS5 Pro 2TB Digital CFI-7020",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_892350-MLA99979858751_112025-F.webp",
+    affiliateUrl: "https://meli.la/2Sm9w1m",
+    newPrice: "2599999",
+    oldPrice: "3058899",
+    offPct: "15",
+    postedAt: "2026-11-14T11:04:28-03:00",
+  },
+  {
+    title: "Nintendo Switch 2 + Mario Kart World Bundle",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_860675-MLA118776527077_102026-F.webp",
+    affiliateUrl: "https://meli.la/1Gpd9Rf",
+    newPrice: "1789999",
+    oldPrice: "1789999",
+    offPct: "0",
+    postedAt: "2026-11-14T11:30:30-03:00",
+  },
+  {
+    title: "Apple iPhone 17 256 GB Lavanda",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_951124-MLA92147446613_092025-F.webp",
+    affiliateUrl: "https://meli.la/1WVVC7v",
+    newPrice: "2559999",
+    oldPrice: "2799999",
+    offPct: "8",
+    postedAt: "2026-11-16T11:00:38-03:00",
+  },
+  {
+    title: "Nintendo Switch OLED Edicion Splatoon 3 Amarillo",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_824926-MLA99492776220_112025-F.webp",
+    affiliateUrl: "https://meli.la/2kejoVd",
+    newPrice: "999999",
+    oldPrice: "999999",
+    offPct: "0",
+    postedAt: "2026-11-16T11:26:09-03:00",
+  },
+  {
+    title: "JBL Charge 6 Parlante Bluetooth Portatil",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_973327-MLA99424547378_112025-F.webp",
+    affiliateUrl: "https://meli.la/1mRjLs2",
+    newPrice: "339999",
+    oldPrice: "339999",
+    offPct: "0",
+    postedAt: "2026-11-16T13:34:42-03:00",
+  },
+  {
+    title: "PlayStation 5 Slim 1 TB con lectora + Astro Bot y Gran Turismo 7",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_736294-MLA101162877425_122025-F.webp",
+    affiliateUrl: "https://meli.la/1NBouny",
+    newPrice: "1799999",
+    oldPrice: "1799999",
+    offPct: "0",
+    postedAt: "2026-11-17T10:15:34-03:00",
+  },
+  {
+    title: "Cafetera Philips Series 1200 súper automática con molinillo",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_887302-MLA111500495975_052026-F.webp",
+    affiliateUrl: "https://meli.la/2jGNpJg",
+    newPrice: "698834",
+    oldPrice: "698834",
+    offPct: "0",
+    postedAt: "2026-11-17T10:45:32-03:00",
+  },
+  {
+    title: "Samsung Galaxy S25 Ultra 256 GB 12 GB RAM Titanio Negro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_856101-MLA106843601508_022026-F.webp",
+    affiliateUrl: "https://meli.la/2QKbGbW",
+    newPrice: "1848999",
+    oldPrice: "2419999",
+    offPct: "23",
+    postedAt: "2026-11-17T11:15:33-03:00",
+  },
+  {
+    title: "Smart TV LG OLED evo C5 55 pulgadas 4K (2025)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_985455-MLA92900419244_092025-F.webp",
+    affiliateUrl: "https://meli.la/1r9akTV",
+    newPrice: "2494257",
+    oldPrice: "3599999",
+    offPct: "30",
+    postedAt: "2026-11-17T11:45:47-03:00",
+  },
+  {
+    title: "Sony WH-1000XM6 auriculares Bluetooth inalámbricos negro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_796937-MLA95636516020_102025-F.webp",
+    affiliateUrl: "https://meli.la/1tCYWqS",
+    newPrice: "799999",
+    oldPrice: "940999",
+    offPct: "14",
+    postedAt: "2026-11-18T09:45:18-03:00",
+  },
+  {
+    title: "Monitor Gamer LG UltraGear 24\" 180 Hz Full HD",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_721575-MLA99938046415_112025-F.webp",
+    affiliateUrl: "https://meli.la/1kdUXCc",
+    newPrice: "208722",
+    oldPrice: "208722",
+    offPct: "0",
+    postedAt: "2026-11-18T10:15:34-03:00",
+  },
+  {
+    title: "Hidrolavadora eléctrica Trent HLT203 110 bar con accesorios",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_870020-MLA110125632865_042026-F.webp",
+    affiliateUrl: "https://meli.la/1Y5ivW5",
+    newPrice: "134999",
+    oldPrice: "150000",
+    offPct: "10",
+    postedAt: "2026-11-18T10:45:44-03:00",
+  },
+  {
+    title: "Cámara de acción GoPro HERO13 Black 5.3K",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_864219-MLA98419902588_112025-F.webp",
+    affiliateUrl: "https://meli.la/2L42Dcn",
+    newPrice: "880614",
+    oldPrice: "880614",
+    offPct: "0",
+    postedAt: "2026-11-18T11:15:22-03:00",
+  },
+  {
+    title: "Monitor Samsung 27\" Full HD IPS 100 Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_685774-MLA99523893106_122025-F.webp",
+    affiliateUrl: "https://meli.la/2AZ85ZP",
+    newPrice: "203991",
+    oldPrice: "203991",
+    offPct: "0",
+    postedAt: "2026-11-18T11:45:44-03:00",
+  },
+  {
+    title: "Grand Theft Auto VI PS5 (caja con código de descarga)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_842232-MLA121830003203_112026-O.webp",
+    affiliateUrl: "https://meli.la/2CX1Yxv",
+    newPrice: "188000",
+    oldPrice: "188000",
+    offPct: "0",
+    postedAt: "2026-11-20T09:55:23-03:00",
+  },
+  {
+    title: "Samsung Galaxy A57 5G 256 GB / 8 GB RAM",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_903196-MLA111298938664_052026-O.webp",
+    affiliateUrl: "https://meli.la/2H2fxbo",
+    newPrice: "920011",
+    oldPrice: "920011",
+    offPct: "0",
+    postedAt: "2026-11-20T10:25:39-03:00",
+  },
 ];

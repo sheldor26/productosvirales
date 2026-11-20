@@ -106,6 +106,17 @@
     max-width:100%; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
   }
 
+  /* optional installments pill ("9 cuotas sin interés"): empty token by default, only rendered when the
+     JSON carries `cuotas`. Only for offers ML itself declares as sin interés (see generar-imagen-post-threads.cjs). */
+  .cuotas-pill {
+    flex-shrink:0;
+    display:inline-flex; align-items:center; gap:12px; align-self:flex-start;
+    background:#2b2147; color:#fff; font-weight:800; font-size:32px;
+    padding:12px 28px; border-radius:16px; margin-bottom:16px;
+    box-shadow: 0 10px 20px rgba(43,33,71,0.28);
+    max-width:100%; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+  }
+
   /* footer sits in normal flex flow (not absolute) so it can never overlap the price/save-pill above it */
   .footer-row { flex-shrink:0; margin-top:auto; display:flex; align-items:center; justify-content:flex-end; }
   .ml-badge {
@@ -184,6 +195,7 @@
         <span class="new-price">$ __NEW_PRICE__</span>
       </div>
       <div class="save-pill">&#128176; Ahorrás $ __SAVINGS__</div>
+      __CUOTAS_HTML__
       <div class="footer-row">
         <div class="ml-badge">
           <span class="label">Disponible en</span>

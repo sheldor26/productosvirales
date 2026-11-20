@@ -16,6 +16,8 @@
 //   "savings": "680.220"
 // }
 //
+// Campo opcional "cuotas" (ej. "9 cuotas sin interés"): muestra una pastilla con la financiación. Usarlo SOLO
+// cuando el mensaje de ML declara esas cuotas sin interés para ese producto (nunca para "cuotas con otras tarjetas").
 // Si el producto no tiene una baja real que mostrar (ej. una consola a precio de
 // lista), omitir oldPrice/offPct/savings y pasar "noDiscount": true. La tarjeta
 // muestra el precio solo, sin el círculo de descuento ni el cartel "Ahorrás $0"
@@ -111,6 +113,7 @@ function main() {
     __SAVINGS__: escapeHtml(data.savings || ""),
     __ML_LOGO__: buildMlLogoDataUri(),
     __STICKER_HTML__: buildStickerHtml(data.sticker),
+    __CUOTAS_HTML__: data.cuotas ? `<div class="cuotas-pill">&#128179; ${escapeHtml(data.cuotas)}</div>` : "",
     __CANVAS_CLASS__: data.noDiscount ? "no-discount" : "",
   };
 
