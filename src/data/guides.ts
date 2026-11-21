@@ -14963,8 +14963,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     h1: "Yara Lattafa: guía honesta del perfume árabe viral (y cuál comprar)",
     directAnswer: "Yara, de Lattafa, tiene 5 versiones. La original (rosa, ámbar-vainilla con mandarina y orquídea) es el punto de entrada clásico, a **{{precio:MLAU2983186467:k}}**. Yara Elixir (fucsia) es la más intensa y concentrada, pensada para la noche, a **{{precio:MLA60836327:k}}**. Yara Tous (amarillo) es la versión tropical y liviana para el calor, a **{{precio:MLA40521028:k}}**. Yara Moi (blanco con dorado) es más floral y menos fácil de conseguir en Argentina. Y Yara Candy (rosa fucsia) es la más dulce y polarizante de la familia, a **{{precio:MLA39865991:k}}**. Si es tu primer Yara, arrancá por el original o el Elixir; si lo vas a usar de día o en verano, el Tous rinde mejor.",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-11-16",
-    sitemapLastmod: "2026-11-16",
+    updatedDate: "2026-11-21",
+    sitemapLastmod: "2026-11-21",
     hasDisclosure: true,
     intro: [
       "Si abrís TikTok con cierta frecuencia, es casi seguro que te cruzaste con Yara. Lattafa lo lanzó en 2020 como una fragancia femenina dulce y accesible, y en los últimos dos años se convirtió en el perfume árabe más buscado de Argentina. No es exageración: las búsquedas mensuales en Google vienen creciendo mes a mes.",
@@ -14985,6 +14985,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "p",
         content: "Hoy existen cinco versiones de Yara Lattafa: original, Elixir, Tous, Moi y Candy. La diferencia central está entre el Yara original (2020), la fórmula dulce oriental de orquídea y vainilla que se hizo viral, y Yara Elixir (2025), la versión más concentrada e intensa de la familia. El resto son variantes del mismo perfil dulce, con precios de entre {{precio:MLA39865991:k}} y {{precio:MLA32288168:k}} en Argentina."
+      },
+      {
+        type: "callout",
+        calloutVariant: "update",
+        calloutTitle: "Precio y stock, en vivo",
+        content: "El precio de cada versión se actualiza solo cuando entrás a su ficha, no es el de una revisión vieja. Confirmá el de hoy antes de decidirte: estos perfumes cambian de precio seguido."
       },
       {
         type: "h2",
@@ -32604,15 +32610,15 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     pillar: true,
     title: `Lavarropas automático: cuál comprar en Argentina [2026]`,
     seoTitle: `Marcas de Lavarropas en Argentina: Cuál Comprar y Cuál Evitar`,
-    metaDescription: `Comparamos las marcas de lavarropas que sí hay en Argentina, con precio real hoy y las contras de cada modelo según sus compradores. Elegí en 2 minutos.`,
+    metaDescription: `Comparamos las marcas de lavarropas que sí hay en Argentina, con precio real hoy y las contras de cada modelo según sus compradores. Elegí en 2 minutos.`, // seoTitle/metaDescription en observación desde 2026-11-09 (hasta ~7/12) — no tocar
     ogTitle: `Lavarropas automático: cuál comprar en Argentina`,
     ogDescription: `5 lavarropas comparados por capacidad, eficiencia energética, revoluciones de centrifugado y medidas reales. Con las contras que dicen los compradores.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_646938-MLA99938827243_112025-O.webp`,
     h1: `Lavarropas automático: cuál comprar en Argentina y qué mirar antes [2026]`,
     directAnswer: `Para la mayoría conviene el **[Drean Next 6.06 Eco](/producto/lavarropas-automatico-drean-next-6-06-eco-carga-frontal-6-kg-600-rpm-mla6348146)** (alrededor de {{precio:MLA6348146:k}}): es el más elegido de esta comparativa por lejos, con más de 3.200 opiniones, el más barato de los cinco y el de mejor eficiencia energética declarada. Si son familia, el **[Whirlpool de 8 kg](/producto/lavarropas-automatico-whirlpool-wnq80as-inverter-carga-frontal-8-kg-14-programas-mla21651412)** con 14 programas. Si querés la ropa lo más seca posible, el **[Samsung Serie 4](/producto/lavarropas-automatico-samsung-serie-4-ww70aa46bx-7-kg-1-400-rpm-eco-bubble-mla20798476)** con 1.400 rpm. Y si necesitás 10 kg, el **[Whirlpool de carga superior](/producto/lavarropas-automatico-whirlpool-wwi16cs-carga-superior-10-kg-740-rpm-mla36014732)**, sabiendo que declara eficiencia D.`,
     publishedDate: "2026-08-20",
-    updatedDate: "2026-11-09",
-    sitemapLastmod: "2026-11-09",
+    updatedDate: "2026-11-21",
+    sitemapLastmod: "2026-11-21",
     hasDisclosure: true,
     readingTime: 11,
     standfirst: `Un lavarropas automático va de {{precio:MLA6348146:k}} a {{precio:MLA20798476:k}}. Comparamos 5 modelos reales de MercadoLibre Argentina por **capacidad, eficiencia energética, revoluciones de centrifugado, programas y medidas reales**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Hogar](/categoria/hogar).`,
@@ -32634,6 +32640,8 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "callout", calloutVariant: "warning", calloutTitle: "La eficiencia energética no se mira y se paga todos los meses", content: `Este es el dato que más se saltea. El **[Drean](/producto/lavarropas-automatico-drean-next-6-06-eco-carga-frontal-6-kg-600-rpm-mla6348146)** declara **A+**, la **[Samsung de 7 kg](/producto/lavarropas-automatico-samsung-inverter-7-kg-carga-frontal-6-programas-mla22827012)** y la **[Serie 4](/producto/lavarropas-automatico-samsung-serie-4-ww70aa46bx-7-kg-1-400-rpm-eco-bubble-mla20798476)** declaran **A**, y el **[Whirlpool de 10 kg](/producto/lavarropas-automatico-whirlpool-wwi16cs-carga-superior-10-kg-740-rpm-mla36014732)** declara **D**. Es el de mayor capacidad del grupo y el que peor consume de los cuatro que publican el dato. Un lavarropas se usa una o dos veces por semana durante años: esa diferencia no se paga al comprarlo, se paga en cada factura. Si igual necesitás los 10 kg, compralo sabiéndolo.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de lavarropas de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-08-17: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente cinco campos que deciden la compra: **capacidad**, **eficiencia energética**, **revoluciones de centrifugado**, **cantidad de programas** y **medidas reales**. Cuando un dato no está en la ficha lo decimos en vez de estimarlo, y acá pasa seguido: solo tres de los cinco publican las revoluciones y solo cuatro la eficiencia. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "callout", calloutVariant: "update", calloutTitle: "Precio y stock, en vivo", content: `El precio de cada lavarropas se actualiza solo cuando entrás a su ficha, no queda guardado de una revisión vieja. Si estás por comprar, confirmá el de hoy antes de decidirte: en MercadoLibre estos precios se mueven seguido.` },
 
       { type: "h2", title: `¿Cuál es el mejor lavarropas automático en Argentina?`, id: "cual-es-el-mejor" },
       { type: "p", content: `El **[Drean Next 6.06 Eco](/producto/lavarropas-automatico-drean-next-6-06-eco-carga-frontal-6-kg-600-rpm-mla6348146)** es el mejor lavarropas automático para la mayoría: es el más elegido de esta comparativa con {{reviews:MLA6348146}} opiniones, casi seis veces el segundo, el más barato de los cinco y el de mejor eficiencia energética declarada (A+). Su límite es la capacidad: con **6 kg** es para una o dos personas. Si son familia, conviene el **[Whirlpool WNQ80AS de 8 kg](/producto/lavarropas-automatico-whirlpool-wnq80as-inverter-carga-frontal-8-kg-14-programas-mla21651412)**, y si necesitás 10 kg, el **[Whirlpool de carga superior](/producto/lavarropas-automatico-whirlpool-wwi16cs-carga-superior-10-kg-740-rpm-mla36014732)**, sabiendo que declara la eficiencia más baja del grupo.` },

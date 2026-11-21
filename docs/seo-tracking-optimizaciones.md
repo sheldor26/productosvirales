@@ -4101,3 +4101,36 @@ Re-medir: los 3 fixes ~2026-12-17 (4 semanas). El diagnóstico agregado de CTR, 
 **Verificación:** `npx tsc --noEmit` limpio, `npm run guides:check` (8 scripts) en verde, `npm run build` OK.
 
 **Plan:** si en ~2-3 semanas el CTR de `ventilador-de-techo` mejora relativo al resto del sitio, replicar el mismo callout en `mejores-freidoras-de-aire-argentina` y `yogurtera` (las otras dos guías con más clicks perdidos del cruce 14-16/11 vs 17-19/11). Re-medir: 2026-12-04 (2 semanas) como primer corte, confirmar o descartar junto con el diagnóstico agregado de Black Friday (27-28/11).
+
+## Rediseño de los mails automáticos de ofertas@ (precio/digest) — pusheado — 2026-11-20
+
+**Origen:** pedido de Juan, no relacionado al diagnóstico de CTR: el mail automático de `ofertas@productosvirales.com.ar` estaba cayendo en la carpeta de Spam REAL de Gmail (confirmado, no es la pestaña Promociones). Pidió mejorar diseño (más estético/moderno) y hacerlo "más confiable", pasando por `/trio-auditor`.
+
+**Qué se hizo:** template compartido nuevo (`scripts/lib/email-brand.cjs`), usado por los 2 mails automáticos de Resend (`notify-price-drops-email.cjs` y `notify-weekly-digest.cjs`), que antes tenían HTML duplicado y desincronizado (el digest semanal ni tenía dark mode). Rediseño visual (barra de acento, tarjeta con sombra, logo clickeable) + versión en texto plano (multipart) en los dos envíos + fixes de contraste de color, Outlook y dark mode de Gmail.
+
+**Trío auditor (Codex + Gemini/agy + Grok, 2 rondas por timing de los procesos en background, no por bloqueantes):** GO con cambios menores en Codex y agy, GO directo en Grok. Hallazgo de Grok que los otros dos no vieron: faltaban los hooks `[data-ogsc]` que Gmail necesita para dark mode además del `@media (prefers-color-scheme)` estándar. Todos los cambios pedidos se aplicaron: contraste corregido en 4 elementos (precio tachado, contador de reseñas, badge de %, pie de página), fallback sólido para el degradé en Outlook, namespace VML completo, menos links por fila de producto (se sacó el link de la foto), copy menos "jerga de dev"/defensivo, y se bajó la franja verde de confianza (2 de los 3 auditores la vieron como "cupón barato") a una línea gris discreta. También se corrigió una afirmación propia incorrecta en los comentarios del código: Resend anunció generación automática de texto plano el 21/08/2025, pero solo confirmado para Broadcasts (Transactional/Batch quedó "planeado", no verificado como ya enviado) — igual vale pasar el texto a mano, por el control sobre el disclaimer y los links reales.
+
+**IMPORTANTE, no resuelto por este cambio:** caer en Spam real depende sobre todo de autenticación de dominio (SPF/DKIM/DMARC verificados en Resend) y reputación de envío, no del HTML. Pendiente de Juan: confirmar en el dashboard de Resend que los 3 estén en verde para `productosvirales.com.ar`, y mandar un `--send` de prueba a la cuenta de Gmail donde caía en Spam. Si sigue cayendo con la autenticación en verde, el problema es otro (reputación), no el diseño.
+
+**Verificación:** los 2 scripts corren en dry-run igual que antes del cambio (mismo output), `--preview` revisado visualmente en el browser interno (modo claro; el oscuro no se pudo verificar visualmente porque el preview local de archivos siempre renderiza en claro).
+
+**Commit y push:** `d8c65b8` → rebase sobre `c289def` (actualización de precios automática) → `4013181` en `master`. Solo los 3 archivos del rediseño, separados con `git add` específico de los cambios de otra sesión en paralelo (`docs/precios-referencia.md`, `src/data/social-posts.ts`), que quedaron intactos sin commitear.
+
+## Barrido de guías con muchas impresiones y bajo CTR — 4 patrones distintos — 2026-11-21
+
+**Origen:** pedido de Juan de revisar guías con mucha visibilidad y poco clic, más allá de las 3 ya cruzadas el 19-20/11. Snapshot fresco de GSC (28 días, 2026-10-23 a 2026-11-19), página por página, ordenado por impresiones.
+
+**No es un fenómeno único — 4 causas distintas, confirmadas chequeando el SERP en vivo:**
+
+1. **SERP tomada por Shopping (sin solución de contenido posible):** `camara-de-seguridad-exterior` (10.881 impr, 19 clicks, CTR 0,17%, pos 7,3) y `perfumes-arabes-por-color` (6.977 impr, 12 clicks, CTR 0,17%, pos 5,8). Confirmado en vivo: 3 anuncios pagos de Shopping + filtros de categoría tipo e-commerce + AIO con carrusel de producto citando TP-Link/MercadoLibre, nunca a nosotros. Intención 100% transaccional por atributo/color específico — una guía editorial no puede competir acá por más que se mejore el contenido. Ya se había visto el mismo patrón en el chequeo de AIO del 15/10 (`chequeo-aio-ejecutado-2026-10-15.md`). **Decisión: no invertir más contenido en estas keywords puntuales.**
+2. **Contenido muy nuevo, SERP de video/redes (no de texto):** `mejor-consola-para-gta-6` (6.857 impr, 19 clicks, CTR 0,28%) — guía creada el 17/11. El AIO para "cuál es la mejor consola para jugar GTA 6" cita TikTok, Instagram y YouTube, no sitios de texto: la intención de esta query específica es ver gameplay comparado, no leer specs. Demasiado nueva para sacar conclusiones. Re-chequear en 2-3 semanas junto con su posición real.
+3. **AIO editorial, mismo mecanismo ya diagnosticado el 19/11:** `mejores-perfumes-arabes-hombre` (33.248 impr, ya en seguimiento), `yara-lattafa-guia-completa` (15.732 impr, 117 clicks, CTR 0,74%), `lavarropas-automatico` (16.869 impr, 193 clicks, CTR 1,14%).
+4. **Posible desajuste de ángulo de título:** en `lavarropas-automatico`, la query que mejor convierte es "mejor lavarropas argentina 2026" (pos 2,9, CTR 5,4%), bastante mejor que las variantes "marca/marcas" (pos 6-8, CTR 0,4-2,2%) — que es justo el ángulo elegido para el `seoTitle` del 9/11, todavía en ventana de observación hasta el 7/12. Revisar cuando cierre esa ventana si el ángulo "marcas" realmente está funcionando.
+
+**Acción aplicada hoy (grupo 3):** mismo callout de "precio en vivo" que se probó ayer en `ventilador-de-techo`, agregado a `yara-lattafa-guia-completa` (después del primer párrafo, no tiene trust-block) y `lavarropas-automatico` (después del trust-block existente). Ninguno toca título/meta/H1 — en `lavarropas-automatico` eso es obligatorio porque sigue en observación por el experimento de ángulo "marcas". `updatedDate`/`sitemapLastmod` → 2026-11-21 en ambas.
+
+**Por qué no pasó por trío-auditor:** mismo criterio que ayer — un callout de una línea, de bajo riesgo, reversible, reutilizando un patrón ya aprobado el día anterior.
+
+**Verificación:** `npx tsc --noEmit` limpio, `npm run guides:check` (8 scripts) en verde, `npm run build` OK.
+
+**Plan de re-medición:** `yara-lattafa-guia-completa` y `lavarropas-automatico`, igual que `ventilador-de-techo`, ~2026-12-04 (2 semanas). `mejor-consola-para-gta-6`: revisar en 2-3 semanas (muy nueva, sin conclusión posible todavía). `lavarropas-automatico` ángulo "marcas": revisar al cierre de su ventana de observación, ~7/12.
