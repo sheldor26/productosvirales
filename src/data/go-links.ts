@@ -34,4 +34,7 @@ export const goLinks: Record<string, string> = {
   // Previa Black Friday (2026-11-21): prueba del 20% con la PS5 con lectora, etiqueta xps5std (la misma
   // de la prueba del 14/11). Lo generó el linkbuilder oficial; resuelve con matt_word=xps5std y el matt_tool de Juan.
   ps5lectora: "https://meli.la/2AbMZ7m", // Sony PS5 Slim con lectora + Astro Bot y GT7 (MLA63094251), 7%, etiqueta xps5std
+  // Prueba del colchon en X (2026-11-21): Simmons Hotel Bilt Queen 200x160, etiqueta productosviralesx. Lo genero el
+  // linkbuilder oficial; resuelve con matt_word=productosviralesx y el matt_tool de Juan.
+  colchonsimmons: "https://meli.la/1t7aaHK", // Colchon y Sommier Simmons Hotel Bilt Queen (MLA23214643), 15%, etiqueta productosviralesx
 };
