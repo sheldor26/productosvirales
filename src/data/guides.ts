@@ -15382,7 +15382,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     h1: "Los 13 mejores perfumes árabes para hombre en Argentina (2026)",
     directAnswer: "El mejor perfume árabe para hombre en Argentina 2026 es el **Lattafa Asad Intense** (alrededor de {{precio:MLA19715215:k}}): especiado y amaderado, con proyección alta y 6 a 10 horas reales de duración en piel. Es uno de los más probados del catálogo, con más de 7.000 reseñas. Para uso diario y de oficina conviene el Rasasi Hawas Ice; para el invierno y la noche, el Khamrah Qahwa.",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-08-17",
+    updatedDate: "2026-11-21",
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLA19715215", label: "Nuestra elección", labelColor: "green", tagline: "Uno de los más probados del catálogo: 7.245 reseñas, 4.6⭐ y 6 a 10h de duración real en piel." },
@@ -15406,6 +15406,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         type: "callout",
         calloutVariant: "tip",
         content: "[Afnan 9PM Elixir](https://meli.la/1nRAN9K) sigue en un precio atractivo para ser parfum intense. El lanzamiento 2025 había arrancado en un rango cercano a los $100.000, y hoy se consigue a {{precio:MLA53394464}}. La baja se sostiene desde hace meses, pero como depende de la competencia entre importadores, no hay garantía de que se mantenga para siempre."
+      },
+      {
+        type: "callout",
+        calloutVariant: "update",
+        calloutTitle: "Precio y stock, en vivo",
+        content: "El precio de cada perfume se actualiza solo cuando entrás a su ficha, no es el de una revisión vieja. Confirmá el de hoy antes de decidirte: estos precios se mueven seguido según el importador."
       },
       {
         type: "h2",
