@@ -31,4 +31,7 @@ export const goLinks: Record<string, string> = {
   hidrogamma: "https://meli.la/2micgVH", // Hidrolavadora Gamma Pro Wash 2000 (MLA23772846), 15%, etiqueta xhidro
   tv55: "https://meli.la/1aWHttb", // Smart TV Samsung 55 QLED 4K (MLA66850209), 7%, etiqueta xtv
   iphone: "https://meli.la/2KB3pL1", // iPhone 18 Pro Max 256 GB Borgoña, Tienda oficial de Apple (MLA1077855480, item MLA4018945000), 7%, etiqueta xiphone
+  // Previa Black Friday (2026-11-21): prueba del 20% con la PS5 con lectora, etiqueta xps5std (la misma
+  // de la prueba del 14/11). Lo generó el linkbuilder oficial; resuelve con matt_word=xps5std y el matt_tool de Juan.
+  ps5lectora: "https://meli.la/2AbMZ7m", // Sony PS5 Slim con lectora + Astro Bot y GT7 (MLA63094251), 7%, etiqueta xps5std
 };
