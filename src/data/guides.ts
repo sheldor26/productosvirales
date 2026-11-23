@@ -2717,7 +2717,7 @@ export const guides: Guide[] = [
     ],
     intro: [
       `La silla gamer dejó de ser solo para jugar: hoy la compra cualquiera que pase muchas horas sentado (laburo, estudio, streaming). El problema es el rango de precios enorme, de {{precio:MLA47084299:k}} a {{precio:MLA16171813:k}}, y que casi todas se ven parecidas. Pero la diferencia real está en tres cosas: el **material** del tapizado, **cuánto peso soportan** y la **calidad de construcción** (que define cuánto te dura sin hundirse).`,
-      `En esta guía comparamos las más vendidas de Argentina (Alpina, Circle Line, Cougar, Corsair) por lo que de verdad importa, con precios reales de MercadoLibre y lo bueno y lo malo de cada una. Si sabés tu presupuesto y cuántas horas te vas a sentar, en dos minutos sabés cuál comprar.`,
+      `En esta guía comparamos las más vendidas de Argentina (Alpina, Circle Line, Cougar, Corsair) por lo que de verdad importa, con precios reales de MercadoLibre y lo bueno y lo malo de cada una. Si sabés tu presupuesto y cuántas horas te vas a sentar, en dos minutos sabés cuál comprar. Si te falta el resto del setup, mirá también nuestra comparativa de [auriculares gamer](/guias/gaming/auriculares-gamer).`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_929992-MLA100025507743_122025-F.jpg", alt: `Silla gamer Alpina PRE-FT055, la más elegida de esta comparativa`, imageSize: "hero" },
@@ -3664,7 +3664,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     intro: [
       `Antes de mirar precio o diseño, hay una sola pregunta que separa un joystick que "simplemente anda" de uno que te va a hacer perder una tarde configurando Steam: **¿es XInput o DirectInput?** XInput es el estándar que usa el control de Xbox: lo conectás y cualquier juego moderno lo reconoce solo. DirectInput es el modo genérico más viejo, y algunos juegos no lo detectan bien sin tocar configuraciones. Los joysticks buenos (todos los de esta guía) tienen switch para elegir entre los dos modos; el problema es cuando un vendedor no te lo aclara.`,
-      `En esta guía comparamos los más vendidos de Argentina (Redragon y Logitech) con specs verificadas contra el sitio del fabricante y reseñas técnicas, del más barato con cable al inalámbrico con más funciones. Sumamos también el **control oficial de Xbox**: cuesta más, pero al ser el propio estándar XInput, es la opción con menos dudas de compatibilidad de toda la guía. Si te falta el resto del setup, mirá la [silla gamer](/guias/gaming/silla-gamer), el [mouse gamer](/guias/gaming/mouse-gamer) y el [teclado gamer](/guias/gaming/teclado-gamer).`,
+      `En esta guía comparamos los más vendidos de Argentina (Redragon y Logitech) con specs verificadas contra el sitio del fabricante y reseñas técnicas, del más barato con cable al inalámbrico con más funciones. Sumamos también el **control oficial de Xbox**: cuesta más, pero al ser el propio estándar XInput, es la opción con menos dudas de compatibilidad de toda la guía. Si te falta el resto del setup, mirá la [silla gamer](/guias/gaming/silla-gamer), el [mouse gamer](/guias/gaming/mouse-gamer), el [teclado gamer](/guias/gaming/teclado-gamer) y los [auriculares gamer](/guias/gaming/auriculares-gamer).`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_794640-MLA99500561342_112025-F.jpg", alt: `Joystick Redragon Saturn G807, el joystick para PC más vendido de Argentina`, imageSize: "hero" },
@@ -4433,7 +4433,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ogDescription: `Go Essential, Flip 7, Charge 5 o Boombox 3: la gama JBL comparada por tamaño, potencia y precio real de MercadoLibre. Cuál conviene según para qué lo querés.`,
     h1: `Parlante JBL: cuál comprar en Argentina y cuál conviene [2026]`,
     publishedDate: "2026-07-05",
-    updatedDate: "2026-07-05",
+    updatedDate: "2026-11-23",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `JBL tiene un parlante para cada uso, del Go que entra en el bolsillo al Boombox de fiesta. Te mostramos la gama ordenada por tamaño y potencia, qué resignás en cada uno y cuál conviene según para qué lo querés, con precios reales de MercadoLibre.`,
@@ -4507,6 +4507,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     faq: [
       { question: `¿Cuál es el mejor parlante JBL?`, answer: `Para la mayoría, el [JBL Flip 7](https://meli.la/1NBXkt8): es el todoterreno que mejor equilibra sonido, tamaño y resistencia. Si querés el más barato para llevar, el [Go Essential](https://meli.la/1M5XMiQ); para potencia y batería, el [Charge 5](https://meli.la/2rdrXGv); para fiestas, el [Boombox 3](https://meli.la/2wwPi19).` },
+      { question: `¿Cuál es el parlante JBL más chico?`, answer: `El [JBL Go Essential](https://meli.la/1M5XMiQ): 180 gramos, el más chico y liviano de toda la gama portátil. Es resistente al agua (IPX7) y mantiene la firma de sonido JBL, pero son solo 3,1 W y unas 5 horas de batería, así que es para sonido personal (escritorio, mochila), no para llenar un ambiente. Es también el más barato de la marca, alrededor de {{precio:MLA44711946:k}}.` },
       { question: `¿Qué diferencia hay entre JBL Go, Flip, Charge y Boombox?`, answer: `Básicamente el tamaño y la potencia. El Go es el chico de bolsillo; el Flip, el portátil mediano todoterreno; el Charge, el grande con batería que carga el celular; el Boombox, el de fiesta. Todos comparten la firma de sonido JBL y la resistencia al agua. Elegí por el uso: cuanto más grande, más potencia y batería, pero menos portátil y más caro.` },
       { question: `¿Vale la pena el JBL Charge 5 sobre el Flip 7?`, answer: `Si querés más volumen, más graves y más batería (y cargar el celular), sí: el [Charge 5](https://meli.la/2rdrXGv) es un escalón de potencia sobre el [Flip 7](https://meli.la/1NBXkt8). Pero es más grande, pesado y caro. Si tu uso es mixto (casa y salidas) y no necesitás tanto volumen, el Flip 7 es más práctico y más barato.` },
       { question: `¿Los parlantes JBL son resistentes al agua?`, answer: `Sí, toda la gama portátil de esta guía (Go Essential, Flip 7, Charge 5, Boombox 3) es resistente al agua, así que los podés usar en la pileta, la playa o bajo lluvia. Es una de las ventajas de JBL frente a opciones baratas sin protección, y un motivo por el que se elige tanto para exteriores.` },
@@ -6733,7 +6734,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     intro: [
       `La **licuadora** parece el electrodoméstico más simple de la cocina, hasta que entrás a MercadoLibre y aparecen tres aparatos distintos llamados igual: la de vaso de toda la vida, una "de mano" que no tiene jarra, y una "portátil" con batería. No son lo mismo ni resuelven lo mismo, y comprar el tipo equivocado es el error más caro y más común.`,
       `Por eso esta guía arranca por ahí: primero el **tipo** (de vaso, de mano o portátil), después la **marca** (Oster, Atma, Philips y compañía) y recién después el detalle que más se subestima, la **jarra** (vidrio o plástico). Resolviendo esas tres cosas en orden, no te equivocás.`,
-      `Comparamos las licuadoras que se consiguen hoy en MercadoLibre Argentina, cruzando la ficha técnica con lo que cuentan los compradores —incluidos los contras reales—. Si no querés leer todo, el resumen de arriba te lleva directo a la recomendada para cada caso.`,
+      `Comparamos las licuadoras que se consiguen hoy en MercadoLibre Argentina, cruzando la ficha técnica con lo que cuentan los compradores —incluidos los contras reales—. Si no querés leer todo, el resumen de arriba te lleva directo a la recomendada para cada caso. Si podés esperar unas semanas, conviene revisar [Black Friday 2026 en Argentina: cómo saber si el descuento es real](/guias/hogar/black-friday-cybermonday-argentina) antes de comprar, para confirmar con el historial real si el precio bajó de verdad.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_853438-MLA99449333302_112025-F.jpg", alt: `Licuadora Oster Classic BLST4655 con jarra de vidrio, una de las mejor valoradas de Argentina`, imageSize: "hero" },
@@ -16192,7 +16193,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     intro: [
       "La perfumería árabe vive de las maderas. Mientras Europa durante décadas se fue a los florales y los cítricos, Medio Oriente trabajó oud, sándalo, cedro y resinas con un oficio que no se improvisa. No es casualidad: estas notas son caras y complejas, y requieren tradición para usarlas bien sin que el resultado huela a cloaca.",
-      "Hoy, un perfume árabe amaderado bien hecho compite de igual a igual con fragancias de nicho europeo que cuestan 20 o 30 veces más. Este ranking va de los 10 mejores amaderados árabes disponibles en Argentina, con análisis honesto de a quién le sirve cada uno."
+      "Hoy, un perfume árabe amaderado bien hecho compite de igual a igual con fragancias de nicho europeo que cuestan 20 o 30 veces más. Dentro del universo de [perfumes árabes](/guias/perfumes-arabes) que se venden en Argentina, este ranking va de los 10 mejores amaderados, con análisis honesto de a quién le sirve cada uno."
     ],
     sections: [
       {
@@ -18337,7 +18338,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     intro: [
       "Un Creed Aventus en Argentina cuesta $500.000. Un Armaf Club de Nuit Intense Man, que comparte el 80% de su perfil olfativo, cuesta {{precio:MLA16122300:k}}. Esa relación se repite con Dior Sauvage Elixir vs Lattafa Asad Intense, Paco Rabanne Invictus vs Rasasi Hawas Ice y otra docena de fragancias premium. El nicho árabe se construyó sobre esa lógica: ofrecer perfiles olfativos similares a perfumes occidentales caros a una fracción del costo.",
-      "Esta guía lista los dupes árabes más buscados en Argentina, qué perfume occidental imita cada uno, qué tan cerca llegan del original, dónde fallan y a quién le conviene cada uno. Cubrimos los 9 que están disponibles en el catálogo argentino con datos reales de reseñas y precio."
+      "Esta guía lista los dupes de [perfumes árabes](/guias/perfumes-arabes) más buscados en Argentina, qué perfume occidental imita cada uno, qué tan cerca llegan del original, dónde fallan y a quién le conviene cada uno. Cubrimos los 9 que están disponibles en el catálogo argentino con datos reales de reseñas y precio."
     ],
     sections: [
       {

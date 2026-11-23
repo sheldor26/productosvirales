@@ -4136,3 +4136,27 @@ Re-medir: los 3 fixes ~2026-12-17 (4 semanas). El diagnóstico agregado de CTR, 
 **Plan de re-medición:** `yara-lattafa-guia-completa` y `lavarropas-automatico`, igual que `ventilador-de-techo`, ~2026-12-04 (2 semanas). `mejor-consola-para-gta-6`: revisar en 2-3 semanas (muy nueva, sin conclusión posible todavía). `lavarropas-automatico` ángulo "marcas": revisar al cierre de su ventana de observación, ~7/12.
 
 **Completado el grupo 3 — se agregó `mejores-perfumes-arabes-hombre` (2026-11-21):** mismo callout de "precio en vivo", agregado después del callout existente de Afnan 9PM (no tiene trust-block). `updatedDate` → 2026-11-21 (no tiene `sitemapLastmod` propio). **Aviso honesto:** de las tres guías del grupo 3, esta es la candidata más floja para el experimento — ya está diagnosticado 2 veces (11/11 y 16/11) que acá la SERP tiene Shopping + AIO combinados (carrusel patrocinado grande antes del AIO), más cerca del grupo 1 (estructural, sin solución de contenido) que de un caso puro de "AIO cita pero no convierte". Se agrega igual por ser de bajo riesgo y mantener el test completo, pero sin expectativa alta de que mueva el CTR. `npx tsc --noEmit`, `guides:check` y `npm run build` en verde.
+
+## Reporte SEO 2026-11-23: aplicado el enlazado interno, descartadas 3 de 5 "oportunidades" por estar ya resueltas
+
+**Origen:** `docs/seo-reports/2026-11-23.md` (generado por otra sesión/workflow), pedido de Juan de aplicar "todas las recomendaciones que realmente valgan". Antes de tocar nada se verificó cada ítem contra el código real — 3 de las 5 oportunidades de enlazado + Black Friday ya estaban hechas, el reporte estaba desactualizado ahí.
+
+**Ya resuelto, sin acción (verificado, no asumido):**
+- Oportunidad 2 (cámaras de seguridad exterior): `camara-de-seguridad`, `kit-camaras-seguridad` y `alarma-para-casa` YA linkean con ancla contextual en prosa, varias veces cada una.
+- Oportunidad 3 (monopatín eléctrico): `bicicleta-electrica` YA linkea 4 veces con ancla "monopatín eléctrico" (standfirst, intro, callout, FAQ).
+- Black Friday: `lavarropas-automatico` y `heladera-no-frost` YA linkeaban a `black-friday-cybermonday-argentina` (el reporte decía que faltaba).
+- Oportunidad 1 (canibalización "perfume arabe"): `mejores-perfumes-arabes-hombre` y `perfumes-arabes-mujer` YA linkean "perfumes árabes" → `/guias/perfumes-arabes` en su primer párrafo.
+
+**Aplicado hoy (real, verificado el gap antes de escribir):**
+- `perfumes-arabes-amaderados` y `perfumes-arabes-dupes`: sumado el link de prosa "perfumes árabes" → `/guias/perfumes-arabes` que les faltaba (oportunidad 1, las 2 que sí faltaban).
+- `licuadora`: sumado el link a `black-friday-cybermonday-argentina` que le faltaba.
+- `silla-gamer`: sumado link de prosa "auriculares gamer" (antes solo tenía el link de footer, sin contexto).
+- `joystick-pc`: ya tenía la frase "si te falta el resto del setup, mirá..." con silla/mouse/teclado, pero le faltaba auriculares en esa misma lista — agregado.
+- `parlante-jbl`: nueva FAQ "¿Cuál es el parlante JBL más chico?" con ancla exacta a la query de GSC ("parlante jbl chico", pos 3,9, hoy capturada por la ficha de producto en vez de la guía). `updatedDate` → 2026-11-23 (único de los 6 cambios con contenido nuevo real, no solo un link).
+- `npm run indexnow` corrido al final (1430 URLs del sitemap).
+
+**Descartado, no aplicado — decisión que le compete a Juan:** el reporte pedía un link desde la home hacia `black-friday-cybermonday-argentina`. La home arma su rotación de guías destacadas filtrando por `pillar: true` (6 al azar de todas las pillar del sitio), así que la única forma de lograrlo sin tocar `page.tsx` a mano es marcar esa guía como `pillar`. Ese campo no es solo para el feed: también define el orden en `/categoria/[slug]`, cuál guía aparece como la representante de su categoría en `/guias`, y la lógica de "guías relacionadas". Es un cambio estructural con varios efectos de segundo orden para un contenido estacional (Black Friday), no un link suelto — se deja sin tocar hasta que Juan lo decida explícitamente.
+
+**No aplicado — requiere investigación real, no un barrido superficial:** la sección de "guías vencidas" (80 guías, 19 tier 45) del reporte. El propio reporte aclara que no se abrió guía por guía a buscar defectos concretos. Tocar `updatedDate` sin un hallazgo real violaría la regla dura del repo — queda como trabajo pendiente, prioridad por plata ya identificada por el reporte: `perfumes-arabes-mujer`, `licuadora`, `perfumes-arabes-amaderados`, `robot-de-cocina` (estas 2 últimas con su título en observación, solo contenido).
+
+**Verificación:** `npx tsc --noEmit` limpio, `npm run guides:check` (8 scripts) en verde, `npm run build` OK.
