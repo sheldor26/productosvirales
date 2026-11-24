@@ -6,6 +6,89 @@
 > convertir en guía o ficha. Entradas nuevas arriba.
 
 
+## 2026-11-24
+
+### Perfumes árabes (15 posts únicos de 15 recibidos)
+
+- Los mejores perfumes femeninos de cada marca árabe✅ ##perfumesoriginales##perfumesfemeninos##perfumesarabes##disfragancias
+  - 95.100 likes · 7.806 shares · 64.300 guardados · 356 comentarios
+  - https://www.tiktok.com/@disfragancias/video/7688142307211742485
+- Mit Diana10 spart ihr bei @kiphyfragrances, da bestelle ich IMMER meine arabischen Düfte🩷 Lattafa khamrah ist mit Abstand der BESTE Duft de
+  - 105.700 likes · 5.886 shares · 31.600 guardados · 979 comentarios
+  - https://www.tiktok.com/@diana.kbn/video/7464941702508219670
+- My top 6😍 @Lattafa Perfumes #affordableperfume #affordablefragrances #arabtiktok #arabianperfume #lattafaperfume
+  - 67.400 likes · 6.645 shares · 39.300 guardados · 455 comentarios
+  - https://www.tiktok.com/@bydazzlinchristine/video/7584611619443887373
+- Top 6 longest lasting Arabic scents!!✨🫧🍦💗 #perfume #fyp #smellgood #perfumetiktok #arabicperfumes
+  - 55.500 likes · 1.956 shares · 28.300 guardados · 553 comentarios
+  - https://www.tiktok.com/@inday.lourdes/video/7678848536649174285
+- @Paul | Fragrance Influencer lets compare Arabian fragrances to the scents they were inspired by #arabianperfume #arabperfume #biancolatte #
+  - 54.100 likes · 1.501 shares · 15.400 guardados · 625 comentarios
+  - https://www.tiktok.com/@paulreactss/video/7547845584988720397
+- Top 10 Arabic perfumes for women Which one deserves the 1 spot on your list? Save this guide for your next fragrance pick. #Lattafa #Armaf #
+  - 28.300 likes · 2.952 shares · 19.100 guardados · 158 comentarios
+  - https://www.tiktok.com/@bloomsy.nl/video/7690312070927011105
+- #creatorsearchinsights #arabfragrances #lattafa #lattafaperfume #lattafayara @Lattafa Perfumes
+  - 39.300 likes · 2.689 shares · 10.900 guardados · 140 comentarios
+  - https://www.tiktok.com/@fragreveal/video/7688065435643809045
+- OUT OF ALLLLLL MY ARAB PERFUMES, THESE ARE MY TOP 10 ☺️ Al Rehab Soft & Choco musk @Al Haramain Perfumes Amber Oud Gold Edition @Khadlaj Per
+  - 29.400 likes · 1.058 shares · 16.600 guardados · 508 comentarios
+  - https://www.tiktok.com/@kathleensmells/video/7619550447073807647
+
+### Freidora de aire (12 posts únicos de 12 recibidos)
+
+- (sin descripción)
+  - 5.600.000 likes · 1.300.000 shares · 275.900 guardados · 44.600 comentarios
+  - https://www.tiktok.com/@itsazyo/video/7640381597576891670
+- 🌮 Easy Air Fryer Chicken Fajitas Save and follow for more quick and easy recipes. Perfect for a busy weeknight dinner! Ingredients: Chicken
+  - 351.800 likes · 126.800 shares · 236.200 guardados · 1.176 comentarios
+  - https://www.tiktok.com/@doubleoskitchen/video/7651993347594128662
+- Air fryer s’mores because we wanted a campfire snack in our pjs 🍫🤎 I used our @Cosmo Appliances air fryer to get the marshmallows golden a
+  - 142.200 likes · 80.900 shares · 53.700 guardados · 308 comentarios
+  - https://www.tiktok.com/@vansandsach/video/7706999291063127310
+- Hear that? That's the sound of perfectly crisp meals and easy cleanup. 🔥 With dishwasher-safe baskets and Dual Zone cooking, the NEW Ninja 
+  - 26.300 likes · 11.600 shares · 6.685 guardados · 489 comentarios
+  - https://www.tiktok.com/@ninjakitchen/video/7653941272524115231
+- ..verliebt ✨ #fy #ninja #airfryer
+  - 36.900 likes · 5.866 shares · 5.558 guardados · 188 comentarios
+  - https://www.tiktok.com/@milenaleoniefe/video/7590718873758878998
+- ¿Cómo funciona una freidora de aire? 🍟 Se llama freidora… pero no fríe nada 😳 Por dentro es un horno pequeñito: una resistencia al rojo vi
+  - 44.200 likes · 3.966 shares · 3.180 guardados · 180 comentarios
+  - https://www.tiktok.com/@despiecetv/video/7709713747400559886
+- 1. Zitronensäure 🍋 2. Natron 3. Spülmittel 🧴4. kochendes Wasser 💦 Das ganze einfach 15 min einwirken lassen und ausspülen! #cleaninghacks
+  - 23.100 likes · 1.886 shares · 4.649 guardados · 22 comentarios
+  - https://www.tiktok.com/@minatastes/video/7709874030660095265
+- Tostadas con huevo, jamón y queso en la freidora de aire 🍳🧀 Cena fácil #freidoradeaire #airfryer #recetasfaciles #cenafacil
+  - 4.767 likes · 7.052 shares · 4.778 guardados · 295 comentarios
+  - https://www.tiktok.com/@saborpleno_/video/7707263394268613920
+
+### Aspiradora robot (12 posts únicos de 12 recibidos)
+
+- Set up my personal house cleaner with me! 🫧 200 off until Feb 16! @Roborock #roborock #saros10 #robotvacuum #robotvacuumcleaner #roborockpa
+  - 1.800.000 likes · 434.700 shares · 361.900 guardados · 10.500 comentarios
+  - https://www.tiktok.com/@sam.shan.shops/video/7471045522086710534
+- I feel like I have a new job as a cleaning inspector. Love you @Sharkninja.uk
+  - 479.800 likes · 158.000 shares · 17.100 guardados · 2.250 comentarios
+  - https://www.tiktok.com/@aiden_london/video/7696524569691147542
+- They climb stairs now... 😳 @Dreame UK The Dreame X60 Pro Ultra Complete is certainly not your normal robot... 🤖 check it out through the l
+  - 118.000 likes · 45.100 shares · 27.800 guardados · 822 comentarios
+  - https://www.tiktok.com/@thejunglebadger/video/7668762108334525718
+- No because it’s saved me so much time and it’s actually so amazing, get one asap if you want sparkly floors without any lifting a finger 😂 
+  - 58.300 likes · 9.214 shares · 8.261 guardados · 488 comentarios
+  - https://www.tiktok.com/@jessiabass/video/7590331994454871317
+- Wer kennt’s?😅 #funny #lustig #saugroboter #wohnzimmer #easylifehacks
+  - 33.800 likes · 14.000 shares · 1.570 guardados · 321 comentarios
+  - https://www.tiktok.com/@die.ottes/video/7660209862864948512
+- Well it was fun until it was time to ACTUALLY clean the mess 😵‍💫 #robotvacuum #vacuumcleaner #robotvacuumcollection #regrets #roomba
+  - 25.200 likes · 2.407 shares · 1.201 guardados · 363 comentarios
+  - https://www.tiktok.com/@wyattsworldofroombas/video/7688045285699816717
+- 🪦 an meine Pflanze #fyp #staubsaugroboter #fail
+  - 9.600 likes · 3.809 shares · 607 guardados · 1.223 comentarios
+  - https://www.tiktok.com/@nicolehlm/video/7657297896060095776
+- Anzeige| Er Spart mir echt viel Zeit!😉 Der Link dazu ist auf meine Profil oder Dirket unter Smartprodukt.shop✅🔗 Das coole an dem Sauger is
+  - 13.100 likes · 963 shares · 1.839 guardados · 168 comentarios
+  - https://www.tiktok.com/@smart_produkt/video/7624955915392797985
+
 ## 2026-10-12
 
 ### Perfumes árabes _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
