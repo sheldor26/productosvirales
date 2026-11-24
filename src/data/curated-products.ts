@@ -52559,23 +52559,23 @@ No es para vos si: priorizás la jarra de vidrio (Atma Pro u Oster Classic) o bu
     ratingBreakdown: { five: '89%', four: '5%', three: '3%', two: '0%', one: '3%' },
     visibility: 'normal',
     pastelColor: 'var(--pastel-coral)',
-    description: 'La Oster Xtreme Mix es la premium del catálogo: 1.500 W, jarra de vidrio de 2 litros y muchísima potencia. 4.8 estrellas en 99 calificaciones. Pero es honesto avisar lo que dicen las reviews: la jarra es pesadísima y cara de reponer, hay reportes de olor a quemado al poco uso, y a un comprador se le quemó en el primer uso.',
+    description: 'La Oster Xtreme Mix es la premium del catálogo: 1.500 W, jarra de vidrio de 2 litros y muchísima potencia. {{rating:MLA59377328}} estrellas en {{reviews:MLA59377328}} calificaciones. Pero es honesto avisar lo que dicen las reviews: la jarra es pesadísima y cara de reponer, hay reportes de olor a quemado al poco uso, y a un comprador se le quemó en el primer uso.',
     aiReviewSummary: 'Potencia bruta: 1.500 W que "rompen hielo" y no se traban con nada, con jarra de vidrio de 2 litros. Es la más cara del catálogo. Las críticas honestas son importantes y conviene leerlas: la jarra es pesadísima y da miedo el costo si se rompe, varios reportan olor a quemado al poco tiempo de uso, es ruidosa, y a un comprador se le quemó en el primer uso (lo tuvo que devolver). Es potente y linda, pero no está libre de problemas reportados.',
     seoTitle: 'Licuadora Oster Xtreme Mix 1500 W: potente pero con peros',
-    metaDescription: 'La Oster Xtreme Mix: 1.500 W, jarra de vidrio de 2 L y 4.8★ en 99 opiniones. La premium del catálogo. Pero ojo: jarra pesadísima, olor a quemado y precio alto.',
+    metaDescription: 'La Oster Xtreme Mix: 1.500 W, jarra de vidrio de 2 L y {{rating:MLA59377328}}★ en {{reviews:MLA59377328}} opiniones. La premium del catálogo. Pero ojo: jarra pesadísima, olor a quemado y precio alto.',
     ogTitle: 'Oster Xtreme Mix: 1.500 W de potencia, con contras que conviene conocer',
     ogDescription: 'La premium del catálogo: rompe hielo y no se traba con nada. Pero la jarra es pesadísima, hay reportes de olor a quemado y es la más cara. Sin suavizar.',
     h1: 'Licuadora Oster Xtreme Mix 1500 W: la premium potente, con peros reales',
     pros: [
       '1.500 W: la más potente del catálogo, "rompe hielo" según las reviews',
       'Jarra de vidrio de 2 litros: no toma olor, gran capacidad',
-      '4.8⭐ en 99 calificaciones',
+      '{{rating:MLA59377328}}⭐ en {{reviews:MLA59377328}} calificaciones',
       'Libre de BPA',
       'No se traba con nada: pasa congelados y jugos verdes sin esfuerzo',
       'Apta para lavavajillas (jarra)',
     ],
     cons: [
-      'La más cara del catálogo: ronda los $310.000',
+      'La más cara del catálogo: ronda los {{precio:MLA59377328:k}}',
       'Jarra pesadísima: hay que tener cuidado al lavarla y da miedo el costo de reponerla',
       'Reportes de olor a quemado al poco tiempo de uso, en varias reviews',
       'Una unidad se quemó en el primer uso (el comprador la devolvió)',
@@ -52584,7 +52584,7 @@ No es para vos si: priorizás la jarra de vidrio (Atma Pro u Oster Classic) o bu
     verdict: 'La más potente del catálogo (1.500 W) y con jarra de vidrio, pero también la más cara y la que más contras reales junta: jarra pesadísima, reportes de olor a quemado y hasta una unidad que se quemó al primer uso. Solo la recomendamos si la potencia máxima es prioridad y aceptás los riesgos reportados. Para casi todos, la Philips Pro Blend de 1.000 W rinde igual por mucho menos.',
     articleBody: `## La premium del catálogo: 1.500 W
 
-La Oster Xtreme Mix (modelo OSBLSTXPGBWAR) es la licuadora más potente y más cara del catálogo: 1.500 W, jarra de vidrio de 2 litros, 3 velocidades y libre de BPA, por alrededor de $310.000. Junta 4.8 estrellas en 99 calificaciones. Es una máquina de potencia bruta, pero también la que más contras reales acumula en las reviews, y por honestidad hay que ponerlos sobre la mesa.
+La Oster Xtreme Mix (modelo OSBLSTXPGBWAR) es la licuadora más potente y más cara del catálogo: 1.500 W, jarra de vidrio de 2 litros, 3 velocidades y libre de BPA, por alrededor de {{precio:MLA59377328:k}}. Junta {{rating:MLA59377328}} estrellas en {{reviews:MLA59377328}} calificaciones. Es una máquina de potencia bruta, pero también la que más contras reales acumula en las reviews, y por honestidad hay que ponerlos sobre la mesa.
 
 ## Qué hace bien: potencia que no se traba
 
@@ -52594,7 +52594,7 @@ La potencia es real. "Rompe hielo, es un caño esta licuadora", resume un compra
 
 Acá está la parte honesta, y es importante. Primero, la jarra: "es pesadísima y hay que tener cuidado al lavarla. No quiero imaginar el costo si se rompe", dice una review. El vidrio de 2 litros es robusto pero incómodo de manipular y caro de reponer.
 
-Segundo, y más serio: hay reportes de olor a quemado al poco tiempo de uso. "Cuando le das uso tira olor raro, como a quemado", marca un comprador de 4 estrellas; otro lo confirma: "larga olor como a quemado al poquito tiempo de uso, no sé si será normal". Y el caso más fuerte: "cuando lo recibí me pareció buenísimo pero en el primer uso se quemó, lo tuve que devolver". No le pasa a todos —el rating general es alto— pero son reportes reales y repetidos que conviene conocer antes de gastar $310.000.
+Segundo, y más serio: hay reportes de olor a quemado al poco tiempo de uso. "Cuando le das uso tira olor raro, como a quemado", marca un comprador de 4 estrellas; otro lo confirma: "larga olor como a quemado al poquito tiempo de uso, no sé si será normal". Y el caso más fuerte: "cuando lo recibí me pareció buenísimo pero en el primer uso se quemó, lo tuve que devolver". No le pasa a todos —el rating general es alto— pero son reportes reales y repetidos que conviene conocer antes de gastar {{precio:MLA59377328:k}}.
 
 Tercero, es ruidosa, algo esperable en una de 1.500 W pero que las reviews mencionan.
 
@@ -52624,7 +52624,7 @@ No es para vos si: buscás la compra segura. Por menos de la mitad, la Philips P
     ],
     faq: [
       { question: '¿Cuánta potencia tiene la Oster Xtreme Mix?', answer: '1.500 W, la más potente del catálogo. "Rompe hielo, es un caño", dice una review. Pasa congelados, hielo y jugos verdes sin esfuerzo. Es su gran carta fuerte, aunque para la mayoría de los usos domésticos los 1.000 W de la Philips ya alcanzan.' },
-      { question: '¿Es cierto que larga olor a quemado?', answer: 'Es un reporte real y repetido en las reviews: "cuando le das uso tira olor raro, como a quemado", marcan varios compradores al poco tiempo de uso. No le pasa a todos (el rating general es 4.8), pero son reportes consistentes que conviene conocer antes de gastar $310.000.' },
+      { question: '¿Es cierto que larga olor a quemado?', answer: 'Es un reporte real y repetido en las reviews: "cuando le das uso tira olor raro, como a quemado", marcan varios compradores al poco tiempo de uso. No le pasa a todos (el rating general es 4.8), pero son reportes consistentes que conviene conocer antes de gastar {{precio:MLA59377328:k}}.' },
       { question: '¿La jarra es pesada?', answer: 'Sí, "es pesadísima y hay que tener cuidado al lavarla", dice una review. El vidrio de 2 litros es robusto pero incómodo de manipular, y un comprador advierte sobre el costo de reponerla si se rompe. Es un detalle a considerar en el uso diario.' },
       { question: '¿Vale la pena frente a la Philips Pro Blend?', answer: 'Para la mayoría, no. La Philips de 1.000 W cuesta menos de la mitad y rinde igual de bien para el 90% de los usos (hielo, sopas, purés). La Xtreme solo se justifica si hacés uso muy intensivo de congelados y querés jarra de vidrio grande, aceptando precio y contras.' },
       { question: '¿Se quema?', answer: 'Hay un caso reportado: "en el primer uso se quemó, lo tuve que devolver". Es un caso aislado dentro de un rating alto, pero sumado a los reportes de olor a quemado, es un patrón que conviene conocer. Comprá de publicaciones con garantía oficial para tener respaldo si pasa.' },

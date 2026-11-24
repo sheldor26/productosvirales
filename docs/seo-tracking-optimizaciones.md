@@ -4222,7 +4222,7 @@ Re-medir: los 3 fixes ~2026-12-17 (4 semanas). El diagnóstico agregado de CTR, 
 
 **Hallazgo 4 — urgencia de stock desactualizada.** El Siam CV181 (nuevo líder por $/L) tenía "quedaban 2 unidades" verificado hace 3+ meses (16/08). No se repitió esa cifra como si fuera actual: se generalizó a "antecedente de poco stock, confirmá antes de decidirte", y se mantuvo al Midea como "la compra segura" para la mayoría (sin ese antecedente, casi el mismo $/L, más del doble de reseñas) en vez de forzar al lector hacia el líder técnico con stock incierto.
 
-**Pasó por `/trio-auditor` (Codex + Gemini/agy) hasta GO/GO.** Primera pasada: ambos confirmaron limpieza de los números viejos y el orden correcto del ranking; Codex encontró 3 bloqueantes reales (el `directAnswer` seguía llamando al Philco "el que más cuesta por litro" cuando ahora es 2do; lenguaje de urgencia de stock still implicando actualidad de una observación de hace meses; "lo baja del podio" sobre el CV180B quedando en 3er puesto, que sí es podio) — los 3 corregidos, más 3 mejoras opcionales (fechar explícitamente el corte de precios, matizar "recién está arrancando", corregir "las seis publican eficiencia energética" a "cinco de las seis"). agy confirmó el mismo bloqueante del `directAnswer` (ya corregido) y dio el resto por sólido, destacando el nuevo ángulo editorial como "conceptualmente superior" al anterior.
+**Pasó por `/trio-auditor` (Codex + Gemini/agy) hasta GO/GO.** Primera pasada: ambos confirmaron limpieza de los números viejos y el orden correcto del ranking; Codex encontró 3 bloqueantes reales (el `directAnswer` seguía llamando al Philco "el que más cuesta por litro" cuando ahora es 2do; lenguaje de urgencia de stock que todavía implicaba actualidad de una observación de hace meses; "lo baja del podio" sobre el CV180B quedando en 3er puesto, que sí es podio) — los 3 corregidos, más 3 mejoras opcionales (fechar explícitamente el corte de precios, matizar "recién está arrancando", corregir "las seis publican eficiencia energética" a "cinco de las seis"). agy confirmó el mismo bloqueante del `directAnswer` (ya corregido) y dio el resto por sólido, destacando el nuevo ángulo editorial como "conceptualmente superior" al anterior.
 
 **Extendido a las 6 fichas de producto en `curated-products.ts`** (no pedido explícitamente, pero necesario: tenían la misma narrativa obsoleta — "5,0 sobre una sola opinión", los mismos $/L viejos, mismos deltas en dólares — en `description`, `verdict`, `pros`, `cons`, `articleBody` y `faq` de cada una). Se tokenizaron donde el campo lo permite (`specs[].value` no resuelve tokens, así que ahí se usó texto sin número en vez de una cifra que se desactualiza sola) y se corrigieron 2 menciones hardcodeadas nuevas detectadas por `check-hardcoded-reviews.cjs` tras el primer paso.
 
@@ -4230,4 +4230,28 @@ Re-medir: los 3 fixes ~2026-12-17 (4 semanas). El diagnóstico agregado de CTR, 
 
 **Verificación:** `npx tsc --noEmit` limpio, `npm run guides:check` (8 scripts, sin deuda nueva) en verde, `npm run build` OK.
 
-**Verificación:** `npx tsc --noEmit` limpio, `npm run guides:check` (8 scripts, techos bajados 3 veces durante el lote) en verde, `npm run build` OK.
+## Guías vencidas tier 90 — segunda tanda (25 guías del piso de 1.000 impresiones), mismo método — 2026-11-24
+
+**Origen:** continuación directa de "seguí con las tier 90 restantes". Se regeneró la lista desde cero (script `find-stale-guides2.cjs`): guías con `updatedDate` de 90+ días, excluyendo las 19 de tier 45 y las 15 ya revisadas en la primera tanda de tier 90. Con el piso de ≥1.000 impresiones/28d (GSC fresco del 2026-11-22) quedaron 25 candidatas.
+
+**Hallazgo real, corregido — `mejores-robot-aspiradora-trapeadora`:** el Atma con láser y mapeo (mismo producto de la guía dedicada `robot-aspiradora-atma`, corregida antes en esta sesión) bajó hoy a $150.151 — más barato que el Fika SENSE ($164.830), que la guía llamaba "el más barato que igual trapea" / "el más económico de toda la lista". Además el Atma Smart sí trapea con tanque real (mejor que el paño del Fika). Corregidas 6 menciones (resumen rápido, 2 h3 con sus párrafos, tabla). También corregido un error menor preexistente: la Omaha OREBRO se declaraba "la más barata" cuando el Delhi DL-008 sale $3.924 menos (con la salvedad de su respaldo más chico y datos de ficha dudosos).
+
+**Hallazgo real, corregido — `estufa-electrica-bajo-consumo`:** precio hardcodeado de la estufa de cuarzo ($26.000) vs. real ($21.190, -19%). Tokenizado.
+
+**Hallazgo real, corregido — `cerradura-inteligente`:** la Ezviz CS-DL05 tenía "2.275 opiniones" hardcodeado en 5 lugares (real: {{reviews:MLA37807940}}, creció 32%) y la Fika "488 calificaciones" (real 773, +58%). Tokenizados todos.
+
+**Hallazgo real, corregido — `planchita-de-pelo-profesional`:** reseñas hardcodeadas desactualizadas en las 4 planchitas (GA.MA 4.625→5.625, VGR 617→891, Lizze 1.011→1.519, BaByliss 2.588→2.802, todas en la tabla comparativa) y una claim de diferencia de precio ("menos de $6.000" entre VGR y GA.MA) que hoy es de $15.300. Tokenizados y corregida la claim de diferencia.
+
+**Hallazgo real, corregido — `depiladora-electrica`:** la Daling DL-6032 subió de $23.996 a $37.499 (+56%, estable desde septiembre) — precio stale en 2 lugares. También corregido "más de 3 veces el precio" (Philips vs GA.MA Velvet, hoy es ~2,9x, no más de 3x) y "casi 7.000 opiniones" de la GA.MA Velvet que hoy son más de 7.000 (entendía de menos, no de más). Tokenizados todos.
+
+**Hallazgo real, corregido — `ducha-electrica`:** "casi 39 mil calificaciones" de la Lorenzetti Maxi Ducha Ultra, hoy son más de 40 mil. Tokenizado.
+
+**Hallazgo real, corregido — `licuadora-oster`:** la Oster Xtreme Mix pasó de 99 a 3.745 reseñas (37x) — hallazgo igual de grande que el de `freezer-vertical`: texto congelado desde que el producto tenía casi cero historial. Corregido en la guía Y en la ficha de `curated-products.ts` (description, pros, cons, articleBody, metaDescription — 6 lugares). También corregidos: precio de la Oster Classic ($148.000→real {{precio:MLA17734241:k}}, tokenizado), precio de la Xtreme ($310.000, tokenizado en 4 lugares entre guía y ficha), y la claim "por la mitad de precio" de la Atma Pro vs. Oster Classic (hoy la diferencia real es ~36%, no 50%).
+
+**Hallazgo real, corregido — `kanji-home-freidora-review`:** esta review individual seguía asumiendo que la Kanji Home es "la más barata" frente a la Atma FR246AWP, pero la guía hermana `suono-airfryer-review` (de esta misma sesión, lote anterior) ya había detectado que el precio de la Kanji se duplicó en agosto de 2026 y hoy es la más cara de su categoría, no la más accesible. Corregidas 4 menciones para dejar de asumir la ventaja de precio sin verificarla.
+
+**Revisadas, sin hallazgo real:** `botella-termica`, `pistola-masajeadora`, `oster-freidoras-de-aire-review`, `cafetera-de-capsulas`, `impresora-3d`, `conservadora`, `khamrah-lattafa`, `licuadora-de-mano`, `camara-deportiva`, `cepillo-de-dientes-electrico` (drift menor ~5-6% en reseñas, por debajo del umbral de intervención de este lote), `humidificador`, `nebulizador`, `suono-airfryer-review`, `licuadora-portatil`, `joystick-para-celular`, `gopro-cual-comprar` — todas sus claims de precio/respaldo siguen siendo ciertas o ya usan tokens en vivo.
+
+**Con esto, el pool de guías vencidas con ≥1.000 impresiones queda cubierto: 15 de la primera tanda + 25 de esta, 40 en total.** Queda sin revisar el resto del pool por debajo de ese piso de impresiones (candidatas de menor tráfico), si se quiere cobertura más profunda.
+
+**Verificación:** `npx tsc --noEmit` limpio, `npm run guides:check` (8 scripts, techos bajados 2 veces durante el lote) en verde, `npm run build` OK.
