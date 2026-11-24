@@ -4160,3 +4160,32 @@ Re-medir: los 3 fixes ~2026-12-17 (4 semanas). El diagnóstico agregado de CTR, 
 **No aplicado — requiere investigación real, no un barrido superficial:** la sección de "guías vencidas" (80 guías, 19 tier 45) del reporte. El propio reporte aclara que no se abrió guía por guía a buscar defectos concretos. Tocar `updatedDate` sin un hallazgo real violaría la regla dura del repo — queda como trabajo pendiente, prioridad por plata ya identificada por el reporte: `perfumes-arabes-mujer`, `licuadora`, `perfumes-arabes-amaderados`, `robot-de-cocina` (estas 2 últimas con su título en observación, solo contenido).
 
 **Verificación:** `npx tsc --noEmit` limpio, `npm run guides:check` (8 scripts) en verde, `npm run build` OK.
+
+## Guías vencidas tier 45 — primera tanda (6 de 19), investigación real por guía — 2026-11-23
+
+**Origen:** continuación del reporte 2026-11-23, siguiendo la prioridad por plata y el disparador estacional que el propio reporte identificó. Método: en vez de abrir cada guía a ojo, se cruzó cada `productMlaId` referenciado contra `curated-products.ts` (visibility/priceStatus/priceLastChecked — todos `normal`/`fresh`, nada sin stock) y contra `price-history.json` (para detectar drift real en las claims de ranking/proporción de precio), antes de tocar cualquier texto.
+
+**Hallazgo real, corregido — `robot-de-cocina`:** el precio del Suono Neochef Pro (MLA58514868) subió de $588.999 (25/9) a $749.999 (20/11, estable las últimas 3 corridas), +27%. La guía repetía 5 veces "por un tercio del precio" de la Thermomix (~$1,5M) — a $749.999 es la mitad, no un tercio. Corregidas las 5 menciones (directAnswer, callout, intro, verdict, FAQ) a "por alrededor de la mitad [del precio / o menos]". `updatedDate` → 2026-11-23. No se tocó título/H1 (sigue en observación).
+
+**Revisadas, sin hallazgo real (no se tocó `updatedDate`):**
+- `licuadora`: las claims de precio (Atma la más barata, Oster Xtreme la más cara) siguen siendo ciertas contra los precios actuales.
+- `ventilador-de-pie`: Winco sigue siendo el más barato, Liliana el más caro — sin cambios.
+- `aire-acondicionado-portatil`: se investigó una coincidencia sospechosa (RCA y Surrey declaran el mismo "3.010 fg/kcal" que el Philco en la tabla) — **no es un error**, está verificado contra la ficha real de cada producto (son 3 productos distintos que declaran esa misma capacidad; la ficha de RCA ya documenta la discrepancia con el título del vendedor, que dice 3.200).
+- `perfumes-arabes-mujer`: el precio de Mayar vs. Yara Elixir es muy volátil día a día (se cruzan de orden seguido, ej. 12/11 Mayar $44.633 vs Yara $64.642, hoy al revés) — no se tocó: el tagline de Mayar ("accesible, puerta de entrada") es sobre perfil olfativo, no una claim estricta de precio más bajo.
+- `perfumes-arabes-amaderados`: sin claims de precio ("Premium"/"Elegante formal" son sobre perfil, no precio) que contradecir.
+
+**Pendiente — 13 de las 19 tier 45 sin revisar todavía:** `como-funciona-robot-aspiradora`, `aspiradora-robot-gadnic-vs-xiaomi`, `masajeador-gadnic`, `parlantes`, `mejores-freidoras-de-aire-doble-canasta`, `tostadora`, `alarma-para-casa`, `perfumes-arabes`, `gadnic`, `microondas`, `silla-gamer`, `robot-aspiradora-xiaomi`, `almohada-cervical`.
+
+**Verificación:** `npx tsc --noEmit` limpio, `npm run guides:check` en verde, `npm run build` OK.
+
+## Guías vencidas tier 45 — segunda tanda (las 13 restantes), mismo método — 2026-11-23
+
+**Hallazgo real, corregido — `robot-aspiradora-xiaomi`:** el standfirst tenía un rango de precio hardcodeado ("de $317.000 a más de $1.500.000") que ya no reflejaba el precio actual del modelo más barato (S40c, hoy $338.775, +6,9%, por encima del umbral de 3%). Convertido a tokens en vivo (`{{precio:MLA61420449:k}}` a `{{precio:MLA44235159:k}}`) para que no vuelva a desactualizarse. `updatedDate` → 2026-11-23. Aparte, se detectó que `MLA44235159` (Xiaomi X20 Max) no tiene `priceLastChecked` desde el 2026-10-12 (41 días), mientras el resto del catálogo se revisa cada 2-3 días — no es un problema de contenido de guía, parece una falla puntual del pipeline de precios que vale la pena que Juan revise aparte.
+
+**Hallazgo real, corregido — `silla-gamer`:** la Circle Line CL-GC001 bajó de $239.999 a $169.999 desde principios de noviembre (estable las últimas 2 semanas), y hoy es más barata que la Alpina PRE-FT055 ($192.348). La guía repetía 8 veces que "la Alpina es la más elegida y la más barata" — ya no es cierto lo segundo. Corregidas las 8 menciones (directAnswer, standfirst, quickPicks x2, callout, product-card, tabla, lista de precios, verdict, FAQ): se mantiene "la más elegida" (sigue siendo cierto, más de 1.800 opiniones) y se traspasa "la más barata" a la Circle Line. `updatedDate` → 2026-11-23.
+
+**Revisadas, sin hallazgo real (no se tocó `updatedDate`):** `como-funciona-robot-aspiradora` (los rangos de precio son ejemplos genéricos, no claims de los 2 productos citados), `aspiradora-robot-gadnic-vs-xiaomi` (todas las comparaciones de precio usan tokens en vivo o siguen siendo ciertas, incluido un tercer producto no listado antes, el Gadnic AspiRob), `masajeador-gadnic`, `parlantes`, `mejores-freidoras-de-aire-doble-canasta`, `tostadora`, `alarma-para-casa`, `microondas`, `almohada-cervical` (todas sus claims de precio más barato/caro siguen siendo ciertas). `perfumes-arabes` (la aparente contradicción de precio entre 2 productos es ruido diario normal de la categoría, no un drift real — mismo patrón que `perfumes-arabes-mujer` de la tanda anterior). `gadnic` (el caso del "asiento masajeador para auto, última unidad" ya fue investigado y resuelto por otra sesión el 2026-11-15: está `deprioritized`, con la verificación de stock documentada en el comentario de la ficha — la claim del texto sigue siendo precisa).
+
+**Con esto, las 19 guías tier 45 del reporte quedan revisadas.** 2 hallazgos reales en las 19 (robot-de-cocina de la tanda anterior, robot-aspiradora-xiaomi y silla-gamer de esta), el resto sin necesidad de tocar nada — la mayoría de las guías del sitio usan tokens en vivo para precio, que es justamente lo que las protege de quedar obsoletas; los hallazgos reales fueron los pocos casos de texto hardcodeado o claims relativas (ej. "la más barata") que no se recalculan solas.
+
+**Verificación:** `npx tsc --noEmit` limpio, `npm run guides:check` en verde, `npm run build` OK.
