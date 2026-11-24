@@ -5,6 +5,79 @@
 > toca el catálogo. Entradas nuevas arriba.
 
 
+## 2026-11-24
+
+### Freidora de aire (ML) [ml] (14 productos)
+
+- Disponible en 2 colores2 — $23.156
+- China Internacional China Enviado por FULL — $310.749
+- ![](https://http2.mlstatic.com/D_NQ_NP_997355-MLA70516180458_072023-A.webp) — $249.999
+- OFERTA IMPERDIBLE — $346.479
+- ![Freidora De Aire Philips Phna23100 13 En 1 6.2 L Negra](https://http2.mlstatic.com/D_Q_NP_2X_698984-MLA99980259093_112025-E.webp) — $252.999
+- ![Soporte 24 Pinchos Acero Inox Freidora Aire](https://http2.mlstatic.com/D_Q_NP_2X_881084-CBT115485064849_082026-E.webp) — $18.038
+- ![Freidora eléctrica AFON-12L-BG Horno Mondial negro de 12 litros](https://http2.mlstatic.com/D_Q_NP_2X_629513-MLA99946514763_112025-E.webp) — $185.999
+- ![Freidora De Aire Pastalinda Sin Aceite Airfryer 8l Crema](https://http2.mlstatic.com/D_Q_NP_2X_681982-MLA96222481754_102025-E.webp) — $265.092
+- ![Freidora De Aire Daewoo Crystal XL Vidrio Daf1891 7lts Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_615836-MLA95639704224_102025-E.webp) — $289.000
+- ![Freidora de aire Electrolux Experience EAF90 de 12L color grafito](https://http2.mlstatic.com/D_Q_NP_2X_812870-MLA99464980602_112025-E.webp) — $221.514
+- ![Freidora De Aire 8 Litros Digital Ventana Zion Air Pro 1700w](https://http2.mlstatic.com/D_Q_NP_2X_853413-MLA112852733348_072026-E.webp) — $129.537
+- ![Freidora de Aire Kanji de 6.5 Litros con Panel Digital](https://http2.mlstatic.com/D_Q_NP_2X_960895-MLA97734907779_112025-E.webp) — $107.570
+- ![Freidora De Aire Horno Dual Multifuncion 28lts Zego 1900w](https://http2.mlstatic.com/D_Q_NP_2X_680103-MLA112640359754_062026-E.webp) — $520.000
+- ![Freidora De Aire Electrica Spica Sp-860 Airfryer Sin Aceite Negro](https://http2.mlstatic.com/D_Q_NP_2X_866069-MLA112057534909_052026-E.webp) — $72.897
+
+### Aspiradora robot (ML) [ml] (15 productos)
+
+- Aspiradora Midea 2 En 1: Stick Y De Mano -inalámbrica 0,3l Navy Y Blue Silver — $269.999
+- Aspiradora Midea Sin Bolsa- Directcyclone 2000w Vs-mj20tar4 Navy — $210.999
+- Aspiradora Sin Bolsa Midea 1400w Blue Potencia Y Comodidad Negro — $159.999
+- Aspiradora Robot Smart Trapeadora Midea Con Control Remoto Negro — $509.999
+- Aspiradora Robot Smart Trapeadora Midea M7 Color Negro — $779.999
+- ![Aspiradora Robot Gadnic 4 Modos Limpieza Control App](https://http2.mlstatic.com/D_Q_NP_2X_932686-MLA118368037434_102026-E.webp) — $372.949
+- ![Aspiradora Robot Con Wifi Smart 115w Midow 3 Modos Con Base Negro](https://http2.mlstatic.com/D_Q_NP_2X_750354-MLA118183416831_092026-E.webp) — $217.799
+- ![Aspiradora Robot Gadnic App 1000 Pa 4 Modos Tanque 150 Ml Negro](https://http2.mlstatic.com/D_Q_NP_2X_668232-MLA118357601600_102026-E.webp) — $188.676
+- ![Robot De Barrido Y Limpieza Inteligente Para Recoger El Polv Blanco](https://http2.mlstatic.com/D_Q_NP_2X_870777-CBT116568712529_082026-E.webp) — $17.746
+- ![Aspiradora Robot Xiaomi Vacuum S40 Pro](https://http2.mlstatic.com/D_Q_NP_2X_724596-MLA106686110282_022026-E.webp) — $575.999
+- OFERTA IMPERDIBLE — $399.999
+- ![Aspiradora Robot Gadnic V51 Trapeadora Con App Y Control Voz](https://http2.mlstatic.com/D_Q_NP_2X_890901-MLA105883096971_012026-E.webp) — $765.749
+- ![Mini Aspiradora Robot Portátil De Escritorio](https://http2.mlstatic.com/D_Q_NP_2X_921694-CBT119913960209_102026-E.webp) — $30.174
+- China Internacional China Enviado por FULL — $531.349
+- ![Robot Aspirador Cecotec Conga X100 X-treme 4 En 1 Con Ia Negro](https://http2.mlstatic.com/D_Q_NP_2X_688353-MLA116986226981_082026-E.webp) — $1.579.486
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Bounty Quick-Size Paper Towels, White, 8 Family Triple Rolls = 27 Regular Rolls — US$24.98
+- STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Rose Quartz 2.0 | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free — US$22.50
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Lavazza Espresso Whole Bean Coffee, Medium Roast, 100% Arabica, 2.2 lb Bag — US$15.99
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.97
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$6.97
+- Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls, 108 Sheets Per Roll | Absorbent, Deep-Cleaning Ridges, Virtually Lint-Free, Reliable — US$6.84
+- Owala FreeSip Sway Stainless Steel Water Bottle 30 oz Black Cherry | 2-in-1 Sip or Swig Spout | Leakproof | Cup Holder Friendly | Push-Button Lid | Bucket Handle | Triple-Wall Insulated — US$28.00
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$22.86
+- Dixie Paper Plates 8.5 Inch, Medium Disposable Plates, 90 Count | Durable paper plates, microwave-safe, soak-proof, cut-resistant, party plates, dessert plates, picnics, easy cleanup — US$5.89
+- Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls | Strong, absorbent, and durable to tackle any tough mess — US$12.99
+- YETI Rambler 16 oz Travel Bottle - Stainless Steel, Riverhead Green | Double-Wall Vacuum Insulated, LeakProof Commuter Cap, Spill Proof, BPA-Free, Dishwasher Safe, Hot & Cold, Portable Tumbler — US$22.20
+- Dixie Ultra Large Paper Plates 10 Inch, Heavy Duty Disposable Plates, 172ct | Large paper plates: microwave-safe; sturdy disposable dinner plates; durable, soak-proof, cut resistant; 3X stronger\* — US$18.98
+- Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls, White, 108 Sheets Per Roll — US$7.97
+- Twinings English Breakfast Black Tea Individually Wrapped Bags, 100 Count — US$9.90
+
+### Amazon Home & Kitchen bestsellers [amazon] (15 productos)
+
+- STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Rose Quartz 2.0 | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free — US$22.50
+- Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - White | Hotel Luxury Bed Sheets for Women, Men, Kids & Teens, Deep Pockets, Easy-Fit, Extra Soft & Wrinkle Free Sheets, Oeko-Tex — US$17.49
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Shy Marshmallow — US$22.79
+- Amazon Basics Lightweight Super Soft Breathable Wrinkle-Resistant Microfiber 4-Piece Bed Sheet Set with 14-Inch Deep Pockets, Queen, Bright White, Solid — US$12.00
+- Amazon Echo Show 5 — US$54.99
+- Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers for Closet Organization, Black/Silver, 30-Pack — US$12.88
+- Beckham Hotel Collection Bed Pillows Queen Size Set of 2 | Down Alternative Pillow for Back, Stomach or Side Sleepers, Washable, 100% Cotton Washable Cover, Comfy, 20x28, OEKO-TEX — US$37.87
+- Barossa Design Oeko-tex Certified Shower Curtain Liner Standard Size, Clear | Waterproof PEVA, Rustproof Grommets, 3 Bottom Magnets, Cute Lightweight Bathroom Curtain, Fits Standard Tub 72" Length — US$8.49
+- upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas — US$5.94
+- Bedsure GentleSoft White Throw Blanket for Couch - Christmas Thanksgiving Decorations for Home Room Decor, Cozy Fleece Blanket, Christmas Birthday Gifts for Women Mom Her Girls, Off White, 50x60 in — US$12.81
+- Amazon Echo Spot, Great for nightstands, offices and kitchens, Smart alarm clock, Designed for Alexa+, Black — US$44.99
+- Amazon Echo Show 8 — US$99.99
+- Yankee Candle Balsam & Cedar Scented Candle, 22oz Large Jar | Up to 150 Hour Burn Time, Room Filling Fragrance, Long-Lasting Scent, Premium Plant Wax Blend, Consistent Burn, Giftable — US$14.99
+- BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6"-18" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel — US$22.78
+- Bedsure Satin Pillowcases Queen Set of 2, Similar to Silk Pillow Cases Grey | Silky Pillowcase for Hair and Skin, Decorative Covers, Room Decor, Gift for Women Men, Christmas Stocking Stuffers, 20" x 30" — US$5.69
+
 ## 2026-10-13
 
 ### Freidora de aire (ML) [ml] (15 productos)
