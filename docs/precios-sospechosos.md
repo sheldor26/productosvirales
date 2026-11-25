@@ -6,6 +6,72 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-11-25
+
+- **MLA23305108** — Guitarra Eléctrica Fender Squier Stratocaster Sonic HSS: $609.899 → $1.459.959 (+139%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA23305108
+  - Sitio: https://productosvirales.com.ar/producto/MLA23305108
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+- **MLA23486209** — Lámpara Cristal LED Decorativa — Efecto Diamante, Recargable USB-C: $11.191 → $28.512 (+155%)
+  - ML: https://www.mercadolibre.com.ar/lampara-velador-led-recargable-usb-cristal-dimmer-tactil-bar-color-de-la-estructura-transparente/p/MLA23486209
+  - Sitio: https://productosvirales.com.ar/producto/MLA23486209
+- **MLA2729985625** — Proyector Oso Astronauta MTI 730 — Galaxia y Estrellas BT: $48.970 → $22.999 (-53%)
+  - ML: https://www.mercadolibre.com.ar/proyector-astronauta--galaxia-estrellas-bluetooth-parlante/up/MLAU2729985625
+  - Sitio: https://productosvirales.com.ar/producto/MLA2729985625
+- **MLA23318618** — Freidora De Aire Peabody Con Grill 6 Litros 1600 Watts Pe-afg01ix Color Plateado: $599.999 → $183.130 (-69%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-peabody-con-grill-6-litros-1600-watts-pe-afg01ix-color-plateado/p/MLA23318618
+  - Sitio: https://productosvirales.com.ar/producto/MLA23318618
+- **MLA19630911** — Freidora de aire 6,2 Litros Philips Essential HD927091 Negro: $999.999 → $274.499 (-73%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-62-litros-philips-essential-hd927091-negro/p/MLA19630911
+  - Sitio: https://productosvirales.com.ar/producto/MLA19630911
+- **MLA24518712** — Kit Masajeador Facial Jade Rodillo +piedra Guasha-natural Color Verde: $19.990 → $5.299 (-73%)
+  - ML: https://www.mercadolibre.com.ar/kit-masajeador-facial-jade-rodillo-piedra-guasha-natural-color-verde/p/MLA24518712
+  - Sitio: https://productosvirales.com.ar/producto/MLA24518712
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $299.999 → $106.562 (-64%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA47856504** — Plancha De Pelo Revlon 230° Placas 5.08Cm. Recubrimiento Titanio - plateada glitter: $69.999 → $299.999 (+329%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA47856504
+  - Sitio: https://productosvirales.com.ar/producto/MLA47856504
+- **MLA12384031** — Joystick Inalambrico EX600001 Microsoft XBox Negro: $483.998 → $145.000 (-70%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA12384031
+  - Sitio: https://productosvirales.com.ar/producto/MLA12384031
+- **MLA15705813** — Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS: $114.436 → $299.000 (+161%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA15705813
+  - Sitio: https://productosvirales.com.ar/producto/MLA15705813
+- **MLA15244160** — Multiprocesadora Ultracomb 600w Pc-6800 Negro Bold de Vidrio Capacidad 1,2Lts: $299.999 → $59.999 (-80%)
+  - ML: https://www.mercadolibre.com.ar/multiprocesadora-ultracomb-600w-pc-6800-negro-bold-de-vidrio-capacidad-12lts/p/MLA15244160
+  - Sitio: https://productosvirales.com.ar/producto/MLA15244160
+- **MLA14259153** — Horno Eléctrico Smartlife Conveccion Spiedo 50L 6 Funciones: $599.999 → $229.999 (-62%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA14259153
+  - Sitio: https://productosvirales.com.ar/producto/MLA14259153
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $841.756 (+821%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA29597823** — Bombilla Mate El Santo Mate Hexagonal Acero Inoxidable Bronce Filtro Plano: $3.883 → $50.491 (+1200%)
+  - ML: https://www.mercadolibre.com.ar/bombilla-mate-el-santo-mate-hexagonal-acero-inoxidable-bronce-filtro-plano/p/MLA29597823
+  - Sitio: https://productosvirales.com.ar/producto/MLA29597823
+- **MLA2622288430** — Set De 10 Tupers Hermeticos Plasticos 2650cc Linea Clasica: $13.270 → $37.013 (+179%)
+  - ML: https://www.mercadolibre.com.ar/set-de-10-tupers-hermeticos-plasticos-2650cc-linea-clasica/up/MLAU3651895618
+  - Sitio: https://productosvirales.com.ar/producto/MLA2622288430
+- **MLA50578777** — Botas de Presoterapia Gadnic 9 Intensidades Temporizador Automático 15 Min Controlador Plantillas: $348.549 → $150.599 (-57%)
+  - ML: https://www.mercadolibre.com.ar/botas-de-presoterapia-gadnic-9-intensidades-temporizador-automatico-15-min-controlador-plantillas/p/MLA50578777
+  - Sitio: https://productosvirales.com.ar/producto/MLA50578777
+- **MLA41479634** — Freidora de Aire Westinghouse AFR-1802 — 10 Litros, 1,8 kW, 12 Funciones: $377.820 → $153.595 (-59%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA41479634
+  - Sitio: https://productosvirales.com.ar/producto/MLA41479634
+- **MLA53151118** — Hidrolavadora Trent HLT203 — 110 Bar, 1,2 kW, con Depósito de Espuma: $189.999 → $82.000 (-57%)
+  - ML: https://www.mercadolibre.com.ar/hidrolavadora-electrica-alta-presion-trent-hlt203-1600-psi-110-bar-con-accesorios/p/MLA53151118
+  - Sitio: https://productosvirales.com.ar/producto/MLA53151118
+- **MLA54103750** — Sombrilla Playa Mtl Azul Ajustable Protección Uv Aluminio Resistente Viento: $18.989 → $49.990 (+163%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA54103750
+  - Sitio: https://productosvirales.com.ar/producto/MLA54103750
+- **MLA69809119** — Zapateros Mueble Zapatos Organizador Zapatero De Metal Plateado De 8 Pisos: $59.999 → $22.998 (-62%)
+  - ML: https://www.mercadolibre.com.ar/zapateros-mueble-zapatos-organizador-zapatero-de-metal-plateado-de-8-pisos/p/MLA69809119
+  - Sitio: https://productosvirales.com.ar/producto/MLA69809119
+
 ## 2026-11-24
 
 - **MLA23305108** — Guitarra Eléctrica Fender Squier Stratocaster Sonic HSS: $609.899 → $1.646.399 (+170%)
