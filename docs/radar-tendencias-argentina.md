@@ -8,6 +8,34 @@
 > Entradas nuevas arriba.
 
 
+## 2026-11-25
+
+- **pago** — 200 mil+ búsquedas (+1.000%, anteayer)
+- **25 de noviembre** — 100 mil+ búsquedas (+1.000%, 19 h)
+- **psg - roma** — 50 mil+ búsquedas (+1.000%, 3 h)
+- **atlético madrid - viking** — 50 mil+ búsquedas (+1.000%, 3 h)
+- **covid argentina** — 20 mil+ búsquedas (+1.000%, ayer)
+- **boca vs independiente rivadavia** — 20 mil+ búsquedas (+1.000%, 3 d)
+- **policía** — 20 mil+ búsquedas (+1.000%, 19 h)
+- **liga de campeones de la uefa** — 20 mil+ búsquedas (+900%, ayer)
+- **santucho** — 20 mil+ búsquedas (+1.000%, 3 d)
+- **automovilismo** — 20 mil+ búsquedas (+1.000%, ayer)
+- **efecto milei** — 20 mil+ búsquedas (+1.000%, 9 h)
+- **estudiantes vs palmeiras** — 20 mil+ búsquedas (+400%, 4 d)
+- **black friday** — 20 mil+ búsquedas (+100%, anteayer)
+- **sporting lisboa - manchester united** — 10 mil+ búsquedas (+1.000%, 3 h)
+- **losc - bayern** — 10 mil+ búsquedas (+1.000%, 3 h)
+- **posiciones de sabah futbol klubu contra fc barcelona** — 10 mil+ búsquedas (+1.000%, 2 h)
+- **club brujas - liverpool** — 10 mil+ búsquedas (+1.000%, 2 h)
+- **matías alé** — 10 mil+ búsquedas (+1.000%, 22 h)
+- **embajador** — 10 mil+ búsquedas (+1.000%, ayer)
+- **inter - stuttgart** — 5 mil+ búsquedas (+1.000%, 3 h)
+- **herencia** — 5 mil+ búsquedas (+1.000%, 1 h)
+- **psg** — 5 mil+ búsquedas (+1.000%, 2 h)
+- **santiago maratea** — 5 mil+ búsquedas (+1.000%, 9 h)
+- **manchester united** — 5 mil+ búsquedas (+1.000%, 1 h)
+- **grand theft auto** — 2 mil+ búsquedas (+1.000%, 5 h)
+
 ## 2026-10-07
 
 - **argentina - benín** — 2 M+ búsquedas (+1.000%, 21 h)
