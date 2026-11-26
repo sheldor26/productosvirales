@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Mail puntual de Black Friday (27/11/2026) con 6 productos verificados A MANO
+ * Mail puntual de Black Friday (27/11/2026) con 8 productos verificados A MANO
  * (precio y stock confirmados en MercadoLibre el 26/11/2026, no solo el dato del
  * catálogo) en su mínimo histórico real. No es uno de los mails automáticos
  * recurrentes (price-alert / weekly-digest) — es un envío único, a toda la
@@ -12,7 +12,10 @@
  * la verificación manual (MercadoLibre real, 26/11/2026) encontró que 10 de
  * esas 23 tenían el precio del catálogo desactualizado (hasta 41% por debajo
  * del precio real de hoy) — confirmado también contra el link de afiliado real,
- * no solo el permalink genérico. Los 6 de abajo son los que SÍ coincidieron.
+ * no solo el permalink genérico. Los primeros 6 de abajo son los que SÍ
+ * coincidieron de esa tanda. Se sumaron después 2 más (ventilador y freidora,
+ * pedido de Juan para aprovechar el verano), verificados a mano con el mismo
+ * criterio pero fuera del lote original de 23 candidatas automáticas.
  * Ver docs/seo-tracking-optimizaciones.md para el detalle completo.
  *
  * Diseño: tema Black Friday (franja negra + dorado) en vez del rosa de marca
@@ -27,9 +30,10 @@
  * UNSUBSCRIBE_SECRET, (SITE_URL opcional)
  *
  * Uso:
- *   node scripts/notify-blackfriday-email.cjs            # dry-run
- *   node scripts/notify-blackfriday-email.cjs --preview   # HTML de ejemplo local
- *   node scripts/notify-blackfriday-email.cjs --send      # envía
+ *   node scripts/notify-blackfriday-email.cjs                       # dry-run
+ *   node scripts/notify-blackfriday-email.cjs --preview              # HTML de ejemplo local
+ *   node scripts/notify-blackfriday-email.cjs --send --to=vos@x.com  # prueba: 1 solo mail, no toca la base
+ *   node scripts/notify-blackfriday-email.cjs --send                 # envío real a toda la lista
  */
 
 const fs = require("fs");
@@ -40,6 +44,10 @@ const { esc, fmtPrice, truncateWords, productRow, renderPlainText } = require(".
 const SITE_URL = (process.env.SITE_URL || "https://productosvirales.com.ar").replace(/\/$/, "");
 const FROM = process.env.EMAIL_FROM || "ProductosVirales <ofertas@productosvirales.com.ar>";
 const SEND = process.argv.includes("--send");
+const TEST_TO = (() => {
+  const arg = process.argv.find((a) => a.startsWith("--to="));
+  return arg ? arg.slice(5).trim() : null;
+})();
 
 const FONT = "-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif";
 const INK = "#15131A";
@@ -110,6 +118,26 @@ const PRODUCTS = [
     stored: 17999,
     scraped: 12999,
   },
+  {
+    id: "MLA41701462",
+    title: "Ventilador Liliana VP20K 3 en 1 De Pie / Turbo / Pared, 3 Aspas Metálicas",
+    href: "https://meli.la/2WpWhbB",
+    image: "https://http2.mlstatic.com/D_Q_NP_732691-MLA100068608409_122025-F.webp",
+    rating: 4.7,
+    reviewCount: 4758,
+    stored: 151999,
+    scraped: 90581,
+  },
+  {
+    id: "MLA36816568",
+    title: "Freidora de Aire Gadnic Cuk AIRCRISP 17 Litros, Formato Horno",
+    href: "https://meli.la/2uZdzVJ",
+    image: "https://http2.mlstatic.com/D_NQ_NP_809249-MLA99542110648_122025-O.webp",
+    rating: 4.8,
+    reviewCount: 2504,
+    stored: 230999,
+    scraped: 187649,
+  },
 ];
 
 function unsubToken(email) {
@@ -124,7 +152,7 @@ function unsubUrl(email) {
 }
 
 function subject() {
-  return "Black Friday: 6 precios que verificamos a mano, mínimos históricos reales";
+  return "Black Friday: 8 precios que verificamos a mano, mínimos históricos reales";
 }
 
 function dropRowsHtml() {
@@ -151,7 +179,7 @@ const BANNER_ALT = "BLACK FRIDAY — Mínimos históricos verificados a mano. Pr
 
 function emailHtml(email) {
   const top = PRODUCTS[0];
-  const preheader = `Verificamos precio y stock a mano en MercadoLibre el 26/11. ${truncateWords(top.title, 40)} y 5 más en su mínimo histórico real.`;
+  const preheader = `Verificamos precio y stock a mano en MercadoLibre el 26/11. ${truncateWords(top.title, 40)} y 7 más en su mínimo histórico real.`;
   const rowsHtml = dropRowsHtml();
 
   // Reglas de dark mode: mismo patrón que email-brand.cjs (media query +
@@ -209,8 +237,8 @@ function emailHtml(email) {
           <a href="${SITE_URL}" target="_blank" class="text-main" style="font-family:${FONT};font-size:19px;font-weight:800;color:${INK};letter-spacing:-.02em;">productos<span class="chip" style="background-color:#FCE7F0;color:#AD1457;padding:3px 11px;border-radius:9999px;margin-left:2px;font-size:15px;">virales</span></a>
         </td></tr>
         <tr><td align="left" class="px" style="padding:14px 40px 0;">
-          <h1 class="text-main" style="margin:0;font-family:${FONT};font-size:22px;font-weight:700;color:${INK};letter-spacing:-.02em;line-height:1.3;">6 precios que verificamos a mano para el Black Friday</h1>
-          <p class="muted" style="margin:10px 0 0;font-family:${FONT};font-size:15px;color:${MUTED};line-height:1.6;">No confiamos en el feed de ofertas de nadie: antes de mandarte esto, entramos a cada ficha de MercadoLibre el 26/11 y confirmamos precio y stock a mano. Los 6 de abajo están en su precio más bajo registrado.</p>
+          <h1 class="text-main" style="margin:0;font-family:${FONT};font-size:22px;font-weight:700;color:${INK};letter-spacing:-.02em;line-height:1.3;">8 precios que verificamos a mano para el Black Friday</h1>
+          <p class="muted" style="margin:10px 0 0;font-family:${FONT};font-size:15px;color:${MUTED};line-height:1.6;">No confiamos en el feed de ofertas de nadie: antes de mandarte esto, entramos a cada ficha de MercadoLibre el 26/11 y confirmamos precio y stock a mano. Los 8 de abajo están en su precio más bajo registrado.</p>
           <div class="trust-chip" style="display:inline-block;margin-top:14px;background-color:#FCE7F0;color:${GOLD_TEXT};border:1px solid rgba(201,151,43,.35);font-family:${FONT};font-size:12px;font-weight:700;padding:6px 14px;border-radius:9999px;">&#10003;&nbsp;Precio y stock verificados a mano el 26/11</div>
         </td></tr>
 
@@ -233,9 +261,9 @@ function emailHtml(email) {
 
 function emailText(email) {
   return renderPlainText({
-    title: "Black Friday: 6 precios que verificamos a mano",
+    title: "Black Friday: 8 precios que verificamos a mano",
     introText:
-      "No confiamos en el feed de ofertas de nadie: antes de mandarte esto entramos a cada ficha de MercadoLibre el 26/11 y confirmamos precio y stock a mano. Los 6 de abajo están en su precio más bajo registrado. Los precios pueden cambiar, confirmalos antes de pagar.",
+      "No confiamos en el feed de ofertas de nadie: antes de mandarte esto entramos a cada ficha de MercadoLibre el 26/11 y confirmamos precio y stock a mano. Los 8 de abajo están en su precio más bajo registrado. Los precios pueden cambiar, confirmalos antes de pagar.",
     items: PRODUCTS.map((p) => ({
       title: p.title,
       href: p.href,
@@ -283,13 +311,20 @@ async function main() {
 
   if (!process.env.RESEND_API_KEY) return void console.log("[blackfriday] falta RESEND_API_KEY — no se envió.");
   if (!process.env.UNSUBSCRIBE_SECRET) return void console.log("[blackfriday] falta UNSUBSCRIBE_SECRET — no se envió.");
-  const dbUrl = process.env.DATABASE_URL || process.env.POSTGRES_URL;
-  if (!dbUrl) return void console.log("[blackfriday] falta DATABASE_URL — no se envió.");
 
-  const { neon } = require("@neondatabase/serverless");
-  const sql = neon(dbUrl);
-  const emails = await getSubscribers(sql);
-  if (emails.length === 0) return void console.log("[blackfriday] no hay suscriptores — nada que mandar.");
+  let emails;
+  if (TEST_TO) {
+    // Modo prueba: un solo destinatario, no toca la base de suscriptores.
+    emails = [TEST_TO];
+    console.log(`[blackfriday] MODO PRUEBA: enviando solo a ${TEST_TO}, no se consulta la base de suscriptores.`);
+  } else {
+    const dbUrl = process.env.DATABASE_URL || process.env.POSTGRES_URL;
+    if (!dbUrl) return void console.log("[blackfriday] falta DATABASE_URL — no se envió.");
+    const { neon } = require("@neondatabase/serverless");
+    const sql = neon(dbUrl);
+    emails = await getSubscribers(sql);
+    if (emails.length === 0) return void console.log("[blackfriday] no hay suscriptores — nada que mandar.");
+  }
 
   const { Resend } = require("resend");
   const resend = new Resend(process.env.RESEND_API_KEY);
@@ -298,7 +333,11 @@ async function main() {
 
   let sent = 0;
   for (const email of emails) {
-    const idem = "bf26-" + crypto.createHash("sha256").update(email).digest("hex").slice(0, 24);
+    // En modo prueba (--to=) la key suma un timestamp: así cada reenvío de
+    // prueba (contenido distinto) no choca con la idempotencia de Resend.
+    const idem = TEST_TO
+      ? "bf26-test-" + crypto.createHash("sha256").update(email + Date.now()).digest("hex").slice(0, 16)
+      : "bf26-" + crypto.createHash("sha256").update(email).digest("hex").slice(0, 24);
     try {
       const { error } = await resend.emails.send(
         {
