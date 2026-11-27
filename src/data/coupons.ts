@@ -1,34 +1,37 @@
 import type { Coupon } from "@/lib/types";
 
-// Viernes 20/11: tres escalones exclusivos para afiliados, con montos distintos
-// a los de ayer. Vuelve el de $10.000 desde $150.000 (como el 17/11) y se va el
-// de $80.000 (que estuvo el 19/11). Se sacan los cupones vencidos del 19/11.
-// AFILIMELI45 ($45.000 desde $500.000) vino en el mensaje pero a las 11:10 ML respondía
-// "El cupón no está disponible" al ingresarlo y no aparecía en el panel de cupones de la
-// ficha (solo $20.000 y $10.000), así que se sacó para no mostrar un descuento que no se
-// puede usar. Si ML lo habilita más tarde, volver a sumarlo:
-//   { code: "AFILIMELI45", discountAmount: 45000, minPurchase: 500000, validFrom: null,
-//     validUntil: "2026-11-20T23:59:00-03:00", active: true }
-// `getApplicableCoupon` se queda con el que más descuento da para cada precio:
-//   >= $250.000      -> MELIAHORRA20 ($20.000)
-//   $150k a $250k    -> AFILIDESCU10 ($10.000)
-//   menos de $150k   -> sin badge
-// El mensaje no declara vigencia: se asume hasta hoy 23:59 (sin hora de inicio).
+// Viernes 27/11 (Black Friday): tres cupones del mismo monto, $9.000 desde $90.000.
+// El mensaje solo traia codigos y hora de inicio; monto, minima y vigencia salen de
+// las condiciones de cada cupon en la cuenta de ML (campanias 14815150, 14815268 y
+// 14149841).
+// Restricciones que el badge NO puede mostrar: solo productos seleccionados vendidos
+// por Mercado Libre (1P), solo en la app, no se suman con otras promociones, y cada
+// campania corta al llegar a $5.328.000 en descuentos (pueden agotarse antes de las
+// 23:59).
+// Al ser iguales, `getApplicableCoupon` muestra uno solo para todo producto >= $90.000.
 export const activeCoupons: Coupon[] = [
   {
-    code: "AFILIDESCU10",
-    discountAmount: 10000,
-    minPurchase: 150000,
-    validFrom: null,
-    validUntil: "2026-11-20T23:59:00-03:00",
+    code: "CADAVIERNES",
+    discountAmount: 9000,
+    minPurchase: 90000,
+    validFrom: "2026-11-27T09:00:00-03:00",
+    validUntil: "2026-11-27T23:59:00-03:00",
     active: true,
   },
   {
-    code: "MELIAHORRA20",
-    discountAmount: 20000,
-    minPurchase: 250000,
-    validFrom: null,
-    validUntil: "2026-11-20T23:59:00-03:00",
+    code: "BLACKSHOW",
+    discountAmount: 9000,
+    minPurchase: 90000,
+    validFrom: "2026-11-27T09:00:00-03:00",
+    validUntil: "2026-11-27T23:59:00-03:00",
+    active: true,
+  },
+  {
+    code: "APROVECHA",
+    discountAmount: 9000,
+    minPurchase: 90000,
+    validFrom: "2026-11-27T09:30:00-03:00",
+    validUntil: "2026-11-27T23:59:00-03:00",
     active: true,
   },
 ];
