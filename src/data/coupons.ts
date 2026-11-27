@@ -8,7 +8,12 @@ import type { Coupon } from "@/lib/types";
 // por Mercado Libre (1P), solo en la app, no se suman con otras promociones, y cada
 // campania corta al llegar a $5.328.000 en descuentos (pueden agotarse antes de las
 // 23:59).
-// Al ser iguales, `getApplicableCoupon` muestra uno solo para todo producto >= $90.000.
+// A las 10:00 se sumo BLACKNDN, $12.000 desde $120.000 (campania 14149775, mismas
+// restricciones, corte al llegar a $23.348.000 en descuentos).
+// `getApplicableCoupon` se queda con el que mas descuento da para cada precio:
+//   >= $120.000      -> BLACKNDN ($12.000)
+//   $90k a $120k     -> uno de los tres de $9.000
+//   menos de $90k    -> sin badge
 export const activeCoupons: Coupon[] = [
   {
     code: "CADAVIERNES",
@@ -31,6 +36,14 @@ export const activeCoupons: Coupon[] = [
     discountAmount: 9000,
     minPurchase: 90000,
     validFrom: "2026-11-27T09:30:00-03:00",
+    validUntil: "2026-11-27T23:59:00-03:00",
+    active: true,
+  },
+  {
+    code: "BLACKNDN",
+    discountAmount: 12000,
+    minPurchase: 120000,
+    validFrom: "2026-11-27T10:00:00-03:00",
     validUntil: "2026-11-27T23:59:00-03:00",
     active: true,
   },
